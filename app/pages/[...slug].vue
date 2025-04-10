@@ -1,17 +1,27 @@
 <script setup lang="ts">
 const route = useRoute()
 
-const { data: page } = await useAsyncData('page-' + route.path, () => {
-  return queryCollection('content').path(route.path).first()
-})
+const { data: page } = await useAsyncData(`page-${route.path}`, () => queryCollection('content').path(route.path).first())
 
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
+
+const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('content'))
 </script>
 
 <template>
   <main>
+    <header>
+      <nav v-if="navigation.length">
+        <nuxt-link
+          v-for="item in navigation"
+          :key="item.stem"
+          :to="item.path"
+          :text="item.title"
+        />
+      </nav>
+    </header>
     <div>
       <ContentRenderer
         v-if="page"
@@ -85,6 +95,57 @@ if (!page.value) {
 
       :deep(p:not(:last-child)) {
         margin-bottom: 1em;
+      }
+    }
+  }
+
+  header {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+    nav {
+      padding: 1rem;
+
+      > a {
+        display: inline-block;
+        position: relative;
+        padding: 0 .5rem;
+        text-decoration: none;
+        color: #000;
+        font: {
+          family: 'Poppins', sans-serif;
+          weight: 600;
+        }
+
+        transition: color .2s cubic-bezier(.4, 0, .2, 1);
+
+        &:before {
+          content: '';
+
+          position: absolute;
+          bottom: -4px;
+          left: 50%;
+          width: 0;
+          height: 2px;
+          background-color: #E2000D;
+
+          transition: all .2s cubic-bezier(.4, 0, .2, 1);
+        }
+
+        &:hover,
+        &.router-link-active {
+          color: #E2000D;
+        }
+
+        &:hover:before {
+          left: 0;
+          width: 100%;
+        }
+
+        &:not(:last-child) {
+          margin-right: 1rem;
+        }
       }
     }
   }
