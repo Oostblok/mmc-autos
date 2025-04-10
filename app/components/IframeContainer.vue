@@ -1,6 +1,5 @@
 <template>
   <div
-    v-if="src"
     class="iframe-container"
     :style="{ 'padding-top': paddingTop }"
   >
