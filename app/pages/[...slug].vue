@@ -4,10 +4,14 @@ const route = useRoute()
 const { data: page } = await useAsyncData(`page-${route.path}`, () => queryCollection('content').path(route.path).first())
 
 if (!page.value) {
-  throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
+  throw createError({
+    statusCode: 404,
+    statusMessage: 'Pagina niet gevonden',
+    fatal: true
+  })
 }
 
-const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('content'))
+const { data: navigation = [] } = await useAsyncData('navigation', () => queryCollectionNavigation('content'))
 </script>
 
 <template>
@@ -22,7 +26,7 @@ const { data: navigation } = await useAsyncData('navigation', () => queryCollect
         />
       </nav>
     </header>
-    <div>
+    <div class="content">
       <ContentRenderer
         v-if="page"
         :value="page"
@@ -39,7 +43,7 @@ const { data: navigation } = await useAsyncData('navigation', () => queryCollect
         family: 'Poppins', sans-serif;
         weight: 800;
       }
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
     }
   }
 
@@ -88,14 +92,6 @@ const { data: navigation } = await useAsyncData('navigation', () => queryCollect
     > div {
       width: 90vw;
       max-width: 1200px;
-
-      :deep(a.link) {
-        display: inline-block;
-      }
-
-      :deep(p:not(:last-child)) {
-        margin-bottom: 1em;
-      }
     }
   }
 
@@ -147,6 +143,40 @@ const { data: navigation } = await useAsyncData('navigation', () => queryCollect
           margin-right: 1rem;
         }
       }
+    }
+  }
+
+  .content {
+    :deep(a) {
+      display: inline-block;
+      position: relative;
+      text-decoration: none;
+      color: #E2000D;
+
+      &:before {
+        content: '';
+
+        position: absolute;
+        bottom: -3px;
+        left: 50%;
+        width: 0;
+        height: 1px;
+        background-color: #E2000D;
+
+        transition: all .2s cubic-bezier(.4, 0, .2, 1);
+      }
+
+      &:hover,
+      &:focus {
+        &:before {
+          width: 100%;
+          left: 0;
+        }
+      }
+    }
+
+    :deep(p:not(:last-child)) {
+      margin-bottom: 1em;
     }
   }
 </style>
