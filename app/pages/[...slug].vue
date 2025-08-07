@@ -17,13 +17,14 @@ const { data: navigation = [] } = await useAsyncData('navigation', () => queryCo
 <template>
   <main>
     <header>
-      <nav v-if="navigation.length">
+      <nav>
         <nuxt-link
           v-for="item in navigation"
           :key="item.stem"
           :to="item.path"
-          :text="item.title"
-        />
+        >
+          {{ item.title }}
+        </nuxt-link>
       </nav>
     </header>
     <div class="content">
