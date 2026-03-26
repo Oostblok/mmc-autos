@@ -1,0 +1,1 @@
+import{s as r,x as s,j as o,o as t}from"./DOwLIz_s.js";const n={};function a(e,c){return t(),s("tr",null,[o(e.$slots,"default")])}const _=Object.assign(r(n,[["render",a]]),{__name:"ProseTr"});export{_ as default};
