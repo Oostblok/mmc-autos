@@ -1,3 +1,23 @@
+<script setup lang="ts">
+	const { src, aspectRatio } = defineProps({
+	  src: {
+	    type: String,
+	    required: true
+	  },
+	  aspectRatio: {
+	    type: String,
+	    default: '1:2',
+	    validator: v => !!v && /\d+:\d+$/.test(v.toString())
+	  }
+	})
+
+	const paddingTop = computed(() => {
+	  const [width, height] = aspectRatio.split(':').map(value => parseInt(value, 10))
+
+	  return width && height ? `${(height / width) * 100}%` : '100%'
+	})
+</script>
+
 <template>
   <div
     class="iframe-container"
@@ -11,26 +31,6 @@
     />
   </div>
 </template>
-
-<script setup lang="ts">
-const { src, aspectRatio } = defineProps({
-  src: {
-    type: String,
-    required: true
-  },
-  aspectRatio: {
-    type: String,
-    default: '1:2',
-    validator: v => !!v && /\d+:\d+$/.test(v.toString())
-  }
-})
-
-const paddingTop = computed(() => {
-  const [width, height] = aspectRatio.split(':').map(value => parseInt(value, 10))
-
-  return width && height ? `${(height / width) * 100}%` : '100%'
-})
-</script>
 
 <style scoped lang="scss">
   .iframe-container {

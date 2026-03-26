@@ -1,31 +1,33 @@
 <script setup lang="ts">
-import type { NuxtError } from '#app'
+	import type { NuxtError } from '#app'
 
-const props = defineProps({
-  error: Object as () => NuxtError
-})
+	const props = defineProps({
+		error: {
+			type: Object as () => NuxtError,
+			default: () => ({ statusCode: 404, statusMessage: 'Pagina niet gevonden' })
+		}
+	})
 
-const title = computed(() => {
-  return [
-    props.error?.statusCode,
-    props.error?.statusMessage,
-  ]
-    .filter(Boolean)
-    .join(' - ')
-})
+	const title = computed(() => {
+		return [
+			props.error?.statusCode,
+			props.error?.statusMessage,
+		]
+			.filter(Boolean)
+			.join(' - ')
+	})
 
-const handleError = () => clearError({ redirect: '/' })
+	const handleError = () => clearError({ redirect: '/' })
 </script>
 
 <template>
   <main>
     <div>
-      <h6
-        class="logo"
-        @click="handleError"
-      >
-        MMC Auto's
-      </h6>
+	    <v-img
+		    src="/logo.jpg"
+		    alt="MMC Auto's"
+		    @click="handleError"
+	    />
       <h1>{{ title }}</h1>
       <a
         href="/"
@@ -45,25 +47,9 @@ const handleError = () => clearError({ redirect: '/' })
     justify-content: center;
     min-height: 100vh;
 
-    font: {
-      size: 16px;
-      family: 'Poppins', sans-serif;
-      weight: 400;
-    }
-
-    .logo {
-      cursor: pointer;
-      font-size: 4rem;
-      margin-bottom: 4rem;
-
-      @media (min-width: 600px) {
-        font-size: 5rem;
-      }
-    }
-
     h1 {
       font-size: 1.5rem;
-      margin-bottom: 2rem;
+      margin: 2rem 0;
 
       @media (min-width: 600px) {
         font-size: 2.5rem;
@@ -75,17 +61,23 @@ const handleError = () => clearError({ redirect: '/' })
       max-width: 900px;
       text-align: center;
 
+	    > .v-img {
+		    max-width: 300px;
+		    margin: 0 auto;
+		    cursor: pointer;
+	    }
+
       a {
         display: inline-block;
         position: relative;
-        color: #000;
+        color: rgb(var(--v-theme-on-background));
         text-decoration: none;
 
         &:before {
           content: '';
           height: 2px;
           width: 0;
-          background-color: #000;
+          background-color: rgb(var(--v-theme-on-background));
 
           position: absolute;
           bottom: -4px;

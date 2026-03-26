@@ -1,3 +1,5 @@
+import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
+
 const siteName = 'MMC Auto\'s'
 const primaryColor = '#E2000D'
 
@@ -7,12 +9,11 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/google-fonts'
   ],
-  devtools: { enabled: true },
-  future: {
-    compatibilityVersion: 4,
-  },
+	ssr: false,
+  future: { compatibilityVersion: 4 },
   compatibilityDate: '2024-04-03',
   app: {
+	  baseURL: '/mmc-autos/',
     head: {
       title: siteName,
       htmlAttrs: { lang: 'nl', dir: 'ltr' },
@@ -29,15 +30,25 @@ export default defineNuxtConfig({
         // TODO: OG Images
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        {
-          rel: 'stylesheet',
-          type: 'text/css',
-          href: 'https://meyerweb.com/eric/tools/css/reset/reset.css'
-        }
+				{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ]
     }
   },
+	build: {
+		transpile: ['vuetify']
+	},
+	vite: {
+		vue: { template: { transformAssetUrls } },
+		plugins: [
+			...vuetify({
+				autoImport: true,
+				styles: { configFile: 'assets/css/vuetify.scss' }
+			})
+		],
+		optimizeDeps: {
+			include: []
+		}
+	},
   googleFonts: {
     families: {
       Poppins: {
@@ -45,5 +56,6 @@ export default defineNuxtConfig({
         ital: [400]
       }
     }
-  }
+  },
+	css: ['vuetify/styles']
 })

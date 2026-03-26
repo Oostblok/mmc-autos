@@ -1,183 +1,88 @@
 <script setup lang="ts">
-const route = useRoute()
+	import { componentNames } from '#components'
 
-const { data: page } = await useAsyncData(`page-${route.path}`, () => queryCollection('content').path(route.path).first())
+	type MinimarkNode = [string, Record<string, any>, ...(MinimarkContent[])]
+	type MinimarkContent = MinimarkNode | string
 
-if (!page.value) {
-  throw createError({
-    statusCode: 404,
-    statusMessage: 'Pagina niet gevonden',
-    fatal: true
-  })
-}
+	const route = useRoute()
 
-const { data: navigation = [] } = await useAsyncData('navigation', () => queryCollectionNavigation('content'))
+	const { data: page } = await useAsyncData(
+		`page-${route.path}`,
+		() => queryCollection('content').path(route.path).first()
+	)
+
+	if (!page.value) {
+	  throw createError({
+	    statusCode: 404,
+	    statusMessage: 'Pagina niet gevonden',
+	    fatal: true
+	  })
+	}
+
+	const groupedBody = computed(() => {
+		const body = page.value?.body
+
+		if (!body || !Array.isArray(body.value)) {
+			return body
+		}
+
+		const rawNodes = body.value as MinimarkContent[]
+		const nodes: MinimarkContent[] = []
+		let proseBuffer: MinimarkContent[] = []
+
+		const flushBuffer = () => {
+			if (proseBuffer.length > 0) {
+				nodes.push(['v-container', { class: 'md' }, ...proseBuffer])
+				proseBuffer = []
+			}
+		}
+
+		rawNodes.forEach((node) => {
+			if (!Array.isArray(node)) {
+				proseBuffer.push(node)
+				return
+			}
+
+			const tagName = node[0]
+
+			const pascalName = tagName
+				.split('-')
+				.map(part => part.charAt(0).toUpperCase() + part.slice(1))
+				.join('')
+
+			const isCustomComponent = componentNames.includes(pascalName) && !pascalName.startsWith('Prose')
+
+			if (isCustomComponent) {
+				flushBuffer()
+				nodes.push(node)
+			} else {
+				proseBuffer.push(node)
+			}
+		})
+
+		flushBuffer()
+
+		return {
+			...body,
+			value: nodes
+		}
+	})
 </script>
 
 <template>
-  <main>
-    <header>
-      <nav>
-        <nuxt-link
-          v-for="item in navigation"
-          :key="item.stem"
-          :to="item.path"
-        >
-          {{ item.title }}
-        </nuxt-link>
-      </nav>
-    </header>
-    <div class="content">
-      <ContentRenderer
-        v-if="page"
-        :value="page"
-      />
-    </div>
-  </main>
+  <content-renderer
+    v-if="page"
+    :value="{
+			...page,
+			body: groupedBody
+		}"
+  />
 </template>
 
-<style lang="scss">
-  @for $i from 1 to 7 {
-    h#{$i} {
-      color: #E2000D;
-      font: {
-        family: 'Poppins', sans-serif;
-        weight: 800;
-      }
-      margin-bottom: 1.5rem;
-    }
-  }
-
-  h1 {
-    font-size: 4rem;
-  }
-
-  h2 {
-    font-size: 3.5rem;
-  }
-
-  h3 {
-    font-size: 3rem;
-  }
-
-  h4 {
-    font-size: 2.125rem;
-  }
-
-  h5 {
-    font-size: 1.5rem;
-  }
-
-  h6 {
-    font-size: 1.25rem;
-  }
-
-  b, strong {
-    font-weight: 600;
-  }
-</style>
-
-<style scoped lang="scss">
-  main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-
-    font: {
-      size: 16px;
-      family: 'Poppins', sans-serif;
-      weight: 400;
-    }
-
-    > div {
-      width: 90vw;
-      max-width: 1200px;
-    }
-  }
-
-  header {
-    width: 100%;
-    display: flex;
-    justify-content: end;
-
-    nav {
-      padding: 1rem;
-
-      > a {
-        display: inline-block;
-        position: relative;
-        padding: 0 .5rem;
-        text-decoration: none;
-        color: #000;
-        font: {
-          family: 'Poppins', sans-serif;
-          weight: 600;
-        }
-
-        transition: color .2s cubic-bezier(.4, 0, .2, 1);
-
-        &:before {
-          content: '';
-
-          position: absolute;
-          bottom: -4px;
-          left: 50%;
-          width: 0;
-          height: 2px;
-          background-color: #E2000D;
-
-          transition: all .2s cubic-bezier(.4, 0, .2, 1);
-        }
-
-        &:hover,
-        &.router-link-active {
-          color: #E2000D;
-        }
-
-        &:hover:before {
-          left: 0;
-          width: 100%;
-        }
-
-        &:not(:last-child) {
-          margin-right: 1rem;
-        }
-      }
-    }
-  }
-
-  .content {
-    :deep(a) {
-      display: inline-block;
-      position: relative;
-      text-decoration: none;
-      color: #E2000D;
-
-      &:before {
-        content: '';
-
-        position: absolute;
-        bottom: -3px;
-        left: 50%;
-        width: 0;
-        height: 1px;
-        background-color: #E2000D;
-
-        transition: all .2s cubic-bezier(.4, 0, .2, 1);
-      }
-
-      &:hover,
-      &:focus {
-        &:before {
-          width: 100%;
-          left: 0;
-        }
-      }
-    }
-
-    :deep(p:not(:last-child)) {
-      margin-bottom: 1em;
-    }
-  }
+<style lang="scss" scoped>
+	:deep(.v-container.md) {
+		p:not(:last-child) {
+			margin-bottom: 1rem;
+		}
+	}
 </style>
