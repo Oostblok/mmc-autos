@@ -32,9 +32,9 @@ export default defineNuxtPlugin((app) => {
 						primary: '#024AB5',
 						secondary: '#8b8b8b',
 						anchor: '#2196F3',
-						background: '#000',
-						surface: '#000',
-						'on-secondary': '#000',
+						background: '#0B0E13',
+						surface: '#0B0E13',
+						'on-secondary': '#0B0E13',
 						'on-background': '#FFF',
 						'on-surface': '#FFF'
 					}
@@ -47,7 +47,8 @@ export default defineNuxtPlugin((app) => {
 				color: 'primary'
 			},
 			VCard: {
-				variant: 'flat'
+				variant: 'flat',
+				tile: true
 			}
 		}
 	})

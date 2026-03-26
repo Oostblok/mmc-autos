@@ -8,7 +8,8 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "scrape": "tsx scripts/scraper.ts"
   },
   "engines": {
     "node": "24"
@@ -24,7 +25,9 @@
     "@nuxt/image": "^2.0.0",
     "@nuxt/types": "^2.18.1",
     "@nuxtjs/google-fonts": "^3.2.0",
+    "puppeteer": "^24.40.0",
     "sass-embedded": "^1.98.0",
+    "tsx": "^4.21.0",
     "vite-plugin-vuetify": "^2.1.3"
   }
 }
