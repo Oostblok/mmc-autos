@@ -1,1 +1,0 @@
-import{s,x as a,j as o,o as r}from"./DOwLIz_s.js";const t={};function n(e,c){return r(),a("table",null,[o(e.$slots,"default")])}const _=Object.assign(s(t,[["render",n]]),{__name:"ProseTable"});export{_ as default};

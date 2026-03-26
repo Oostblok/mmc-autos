@@ -1,1 +1,0 @@
-import{s,x as o,j as r,o as t}from"./DOwLIz_s.js";const n={};function a(e,c){return t(),o("th",null,[r(e.$slots,"default")])}const _=Object.assign(s(n,[["render",a]]),{__name:"ProseTh"});export{_ as default};
