@@ -73,6 +73,11 @@ const scrape = async () => {
 			}
 		}
 
+		if (!cars.length) {
+			console.error('\x1b[35m%s\x1b[0m', '❌ No cars found, exiting.')
+			process.exit(0)
+		}
+
 		const outputDir = path.join(process.cwd(), 'public');
 		if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 

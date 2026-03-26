@@ -18,25 +18,25 @@ export default defineNuxtPlugin((app) => {
 				light: {
 					colors: {
 						primary: '#024AB5',
-						secondary: '#000',
+						secondary: '#010409',
 						anchor: '#024AB5',
 						background: '#f2f2f2',
-						surface: '#FFF',
-						'on-secondary': '#FFF',
-						'on-background': '#000',
-						'on-surface': '#000'
+						surface: '#f0f6fc',
+						'on-secondary': '#f0f6fc',
+						'on-background': '#010409',
+						'on-surface': '#010409'
 					}
 				},
 				dark: {
 					colors: {
 						primary: '#024AB5',
 						secondary: '#8b8b8b',
-						anchor: '#2196F3',
-						background: '#0B0E13',
-						surface: '#0B0E13',
+						anchor: '#4493F8',
+						background: '#0D1117',
+						surface: '#010409',
 						'on-secondary': '#0B0E13',
-						'on-background': '#FFF',
-						'on-surface': '#FFF'
+						'on-background': '#f0f6fc',
+						'on-surface': '#f0f6fc'
 					}
 				}
 			}

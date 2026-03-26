@@ -1,4 +1,4 @@
-name: Nightly Scraper
+name: Car scraper
 
 on:
   schedule:
