@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   future: { compatibilityVersion: 4 },
   compatibilityDate: '2024-04-03',
   app: {
-	  baseURL: '/mmc-autos/',
+	  baseURL: process.env.NODE_ENV === 'production' ? '/mmc-autos/' : '/',
     head: {
       title: siteName,
       htmlAttrs: { lang: 'nl', dir: 'ltr' },
