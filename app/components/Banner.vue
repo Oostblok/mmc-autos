@@ -47,7 +47,7 @@
 			:src="src"
 			:alt="alt"
 			:aspect-ratio="aspectRatio"
-			cover
+			:cover="!!aspectRatio"
 		/>
 	</v-container>
 </template>
