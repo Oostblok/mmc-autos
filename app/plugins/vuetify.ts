@@ -20,8 +20,8 @@ export default defineNuxtPlugin((app) => {
 						primary: '#024AB5',
 						secondary: '#010409',
 						anchor: '#024AB5',
-						background: '#f2f2f2',
-						surface: '#f0f6fc',
+						background: '#F7FAFB',
+						surface: '#FFF',
 						'on-secondary': '#f0f6fc',
 						'on-background': '#010409',
 						'on-surface': '#010409'
@@ -29,9 +29,9 @@ export default defineNuxtPlugin((app) => {
 				},
 				dark: {
 					colors: {
-						primary: '#024AB5',
+						primary: '#1a76ff',
 						secondary: '#8b8b8b',
-						anchor: '#4493F8',
+						anchor: '#2196f3',
 						background: '#0D1117',
 						surface: '#010409',
 						'on-secondary': '#0B0E13',
