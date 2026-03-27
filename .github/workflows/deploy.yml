@@ -2,14 +2,16 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+  repository_dispatch:
+    types: [scraped]
   workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
+  actions: read
 
 concurrency:
   group: "pages"
@@ -35,16 +37,24 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Download Scraped Data
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: car-data
+          path: public/
+          run-id: ${{ github.event.client_payload.run_id || github.run_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate static site
         run: pnpm generate
         env:
           NODE_ENV: production
 
-      - name: Copy cars
+      - name: Copy cars to output
         run: |
-          if [ -f public/cars.json ]; then
-            cp public/cars.json .output/public/cars.json
-          fi
+          mkdir -p .output/public
+          [ -f public/cars.json ] && cp public/cars.json .output/public/cars.json
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
