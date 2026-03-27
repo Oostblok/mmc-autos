@@ -1,0 +1,1 @@
+import{s as o,x as r,j as s,o as n}from"./BMwMGaep.js";const t={};function a(e,c){return n(),r("strong",null,[s(e.$slots,"default")])}const _=Object.assign(o(t,[["render",a]]),{__name:"ProseStrong"});export{_ as default};
