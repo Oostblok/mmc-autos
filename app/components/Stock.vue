@@ -93,7 +93,26 @@
 							:alt="car.model"
 							:src="car.image"
 							class="mb-4"
-						/>
+						>
+							<div
+								v-if="car.labels?.length"
+								v-for="(label, i) in car.labels"
+								:key="i"
+								:class="['label', { export: label.includes('export') }]"
+							>
+								<template v-if="label.includes('€')">
+									<span
+										v-for="part in label.split('€')"
+										:key="part"
+									>
+										{{ part }}
+									</span>
+								</template>
+								<template v-else>
+									{{ label }}
+								</template>
+							</div>
+						</v-img>
 						<v-card-text>
 							<h4
 								class="my-0 text-truncate"
@@ -129,3 +148,37 @@
 		</v-row>
 	</v-container>
 </template>
+
+<style lang="scss" scoped>
+	:deep(.label) {
+		position: absolute;
+		top: 0;
+		right: 0;
+		background-color: rgba(var(--v-theme-primary), .8);
+		color: rgb(var(--v-theme-on-primary));
+		padding: .25rem .5rem;
+		font-size: .75rem;
+
+		&.export {
+			right: auto;
+			top: auto;
+			left: 0;
+			bottom: 0;
+
+			color: rgb(var(--v-theme-on-surface));
+			background-color: rgba(var(--v-theme-surface), .5);
+
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			> span:last-child {
+				font-weight: bold;
+			}
+		}
+
+		+ .label:not(.export) {
+			top: 2rem;
+		}
+	}
+</style>
