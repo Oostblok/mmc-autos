@@ -40,6 +40,12 @@ jobs:
         env:
           NODE_ENV: production
 
+      - name: Copy cars
+        run: |
+          if [ -f public/cars.json ]; then
+            cp public/cars.json .output/public/cars.json
+          fi
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
