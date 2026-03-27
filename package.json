@@ -28,6 +28,7 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "puppeteer": "^24.40.0",
     "sass-embedded": "^1.98.0",
+    "slugify": "^1.6.8",
     "tsx": "^4.21.0",
     "vite-plugin-vuetify": "^2.1.3"
   }

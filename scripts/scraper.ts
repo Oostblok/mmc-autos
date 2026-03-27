@@ -1,6 +1,15 @@
 import puppeteer from 'puppeteer'
 import fs from 'node:fs'
 import path from 'node:path'
+import slugify from 'slugify'
+
+const setupPage = async (page) => {
+	await page.setRequestInterception(true)
+	page.on('request', (req) => {
+		if (['image', 'stylesheet', 'font'].includes(req.resourceType())) req.abort()
+		else req.continue()
+	})
+}
 
 const scrape = async () => {
 	let browser
@@ -19,15 +28,10 @@ const scrape = async () => {
 		})
 
 		const page = await browser.newPage()
-
-		await page.setRequestInterception(true)
-		page.on('request', (req) => {
-			if (['image', 'stylesheet', 'font'].includes(req.resourceType())) req.abort()
-			else req.continue()
-		})
+		await setupPage(page)
 
 		while (hasNextPage) {
-			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`;
+			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`
 
 			await page.goto(url, {
 				waitUntil: 'networkidle2',
@@ -35,11 +39,14 @@ const scrape = async () => {
 			})
 
 			const data = await page.evaluate(() => {
-				const $cars = Array.from(document.querySelectorAll('.car'));
+				const $cars = Array.from(document.querySelectorAll('.car'))
 
 				return $cars
 					.map($car => {
 						const link = $car.getAttribute('data-href')
+
+						if (!link) return
+
 						const image = $car.querySelector('.car-image > a > img')?.getAttribute('src')
 						const model = $car.querySelector('h2 > a')?.textContent?.trim()
 						const type = $car.querySelector('.model-type')?.textContent?.trim()
@@ -54,7 +61,8 @@ const scrape = async () => {
 						})
 
 						return {
-							link: link?.startsWith('/') ? `https://www.schadeautos.nl${link}` : link,
+							id: link.split('/').pop(),
+							link: new URL(link, location.origin).href,
 							image: image?.startsWith('/') ? `https://www.schadeautos.nl${image}` : image,
 							labels: labels.filter(Boolean),
 							model,
@@ -65,10 +73,11 @@ const scrape = async () => {
 							mileage
 						}
 					})
-					.filter(car => !!car.model)
+					.filter(car => !!(car?.model && car?.link))
 			})
 
 			if (data.length === 0) {
+				console.log(`⚠️ No cars on page ${pageIndex}, stopping`)
 				hasNextPage = false
 			} else {
 				cars.push(...data)
@@ -83,8 +92,82 @@ const scrape = async () => {
 			process.exit(0)
 		}
 
-		const outputDir = path.join(process.cwd(), 'public');
-		if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
+		const P_LIMIT = 3
+
+		const pages = await Promise.all(
+			Array.from({ length: P_LIMIT }, () => browser.newPage())
+		)
+
+		await Promise.all(pages.map(setupPage))
+
+		for (let i = 0; i < cars.length; i++) {
+			const page = pages[i % P_LIMIT]
+			const car = cars[i]
+
+			await page.goto(car.link, { waitUntil: 'networkidle2', timeout: 30000 })
+
+			const details = await page.evaluate((car) => {
+				const images = []
+
+				for (const $img of Array.from(document.querySelectorAll('#thumbs img[onclick]'))) {
+					const onclick = $img.getAttribute('onclick')
+
+					const match = onclick?.match(/showPicture\(\d+,'([^']+)'\)/)
+
+					if (match) {
+						images.push(new URL(match[1], location.origin).href)
+					}
+				}
+
+				const data = {}
+				const rows = document.querySelectorAll('.specifications table tr')
+
+				for (const row of rows) {
+					const cells = row.querySelectorAll('td')
+					if (cells.length < 2) continue
+
+					const key = cells[0].innerText
+						.trim()
+						.toLowerCase()
+						.replace(':', '')
+						.replace(/\s+/g, ' ')
+
+					data[key] = cells[1].innerText.trim()
+				}
+
+				return {
+					images: [...new Set(images)],
+					make: data['merk'] || null,
+					model: data['model'] || null,
+					fuelType: data['brandstof'] || car.fuelType || null,
+					gearbox: data['transmissie'] || null,
+					mileage: data['tellerstand']?.replace(/[^\d]/g, '') || car.mileage || null,
+					price: data['verkoopprijs']?.replace(/[^\d]/g, '') || car.price || null,
+					exportPrice: data['exportprijs netto']?.replace(/[^\d]/g, '') || null,
+					description: [
+						data['schades'],
+						data['bijzonderheden']
+					].filter(Boolean).join('\n\n')
+				}
+			}, car)
+
+			Object.assign(car, details)
+		}
+
+		const slugMap = new Map()
+
+		for (const car of cars) {
+			const baseSlug = slugify(`${car.model || ''}-${car.type || ''}`, { lower: true, strict: true })
+
+			car.slug = slugMap.has(baseSlug)
+				? `${baseSlug}-${car.id}`
+				: baseSlug
+
+			slugMap.set(baseSlug, (slugMap.get(baseSlug) || 0) + 1)
+		}
+
+		const outputDir = path.join(process.cwd(), 'public')
+		if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir)
 
 		fs.writeFileSync(
 			path.join(outputDir, 'cars.json'),
