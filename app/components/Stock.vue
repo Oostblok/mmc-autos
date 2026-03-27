@@ -26,7 +26,39 @@
 
 	const smallGrid = ref(false)
 
-	const cars = computed(() => data.value?.cars ?? [])
+	const formatMileage = (value) => {
+		if (!value) return value
+
+		const number = Number(value)
+
+		if (Number.isNaN(number)) return value
+
+		return new Intl.NumberFormat('nl-NL').format(number)
+	}
+
+	const formatPrice = (value) => {
+		if (!value) return value
+
+		const number = Number(value)
+
+		if (Number.isNaN(number)) return value
+
+		return new Intl.NumberFormat('nl-NL', {
+			style: 'currency',
+			currency: 'EUR',
+			maximumFractionDigits: 0
+		}).format(number)
+	}
+
+	const cars = computed(() => (data.value?.cars ?? []).map(car => ({
+		...car,
+		price: formatPrice(car.price),
+		mileage: formatMileage(car.mileage),
+		link: {
+			href: car.link || undefined,
+			slug: car.slug ? `/autos/${car.slug}` : undefined
+		}
+	})))
 
 	const cols = computed(() => {
 		if (smallGrid.value) {
@@ -62,6 +94,8 @@
 			</v-col>
 			<v-col cols="auto">
 				<v-btn
+					color="on-background"
+					variant="text"
 					:icon="smallGrid ? 'mdi-grid-large' : 'mdi-grid'"
 					@click="smallGrid = !smallGrid"
 				/>
@@ -85,14 +119,15 @@
 					v-bind="cols"
 				>
 					<v-card
-						:href="car.link"
-						target="_blank"
+						:href="car.link.href"
+						:to="car.link.slug"
+						:target="car.link.slug ? '_self' : '_blank'"
 					>
 						<v-img
 							v-if="car.image"
 							:alt="car.model"
+							:lazy-src="car.lazyImage"
 							:src="car.image"
-							class="mb-4"
 						>
 							<div
 								v-if="car.labels?.length"
@@ -114,33 +149,49 @@
 							</div>
 						</v-img>
 						<v-card-text>
-							<h4
-								class="my-0 text-truncate"
-								:title="car.model"
-							>
-								{{ car.model }}
-							</h4>
-							<p
-								v-if="car.type"
-								class="mt-3 text-truncate"
-								:title="car.type"
-							>
-								{{ car.type }}
-							</p>
-							<div
-								v-if="car.year || car.fuelType || car.mileage"
-								class="d-flex justify-space-between mt-3 border-t-thin pt-3"
-							>
-								<div v-if="car.year">
-									{{ car.year }}
+							<div class="d-flex align-start justify-space-between">
+								<div class="pr-2">
+									<div
+										v-if="car.year"
+										class="text-truncate"
+									>
+										<v-icon
+											icon="mdi-calendar"
+											size="small"
+										/>
+										{{ car.year }}
+									</div>
+									<div
+										v-if="car.mileage"
+										class="text-truncate"
+									>
+										<v-icon
+											icon="mdi-speedometer"
+											size="small"
+										/>
+										{{ car.mileage }}
+									</div>
+									<div
+										v-if="car.fuelType"
+										class="text-truncate"
+									>
+										<v-icon
+											icon="mdi-gas-station"
+											size="small"
+										/>
+										{{ car.fuelType }}
+									</div>
 								</div>
-								<div v-if="car.fuelType">
-									{{ car.fuelType }}
-								</div>
-								<div v-if="car.mileage">
-									{{ car.mileage }}
-								</div>
+								<h5 class="my-0">
+									{{ car.price }}
+								</h5>
 							</div>
+							<h4
+								class="mb-0 mt-5 pb-1 text-truncate"
+								:title="car.title || car.model"
+							>
+								{{ car.title || car.model }}
+							</h4>
 						</v-card-text>
 					</v-card>
 				</v-col>

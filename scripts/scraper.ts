@@ -48,7 +48,7 @@ const scrape = async () => {
 						if (!link) return
 
 						const image = $car.querySelector('.car-image > a > img')?.getAttribute('src')
-						const model = $car.querySelector('h2 > a')?.textContent?.trim()
+						const title = $car.querySelector('h2 > a')?.textContent?.trim()
 						const type = $car.querySelector('.model-type')?.textContent?.trim()
 						const price = $car.querySelector('.price')?.textContent?.trim()
 						const year = $car.querySelector('.details > [title="1ste toelating"]')?.textContent?.trim()
@@ -65,7 +65,7 @@ const scrape = async () => {
 							link: new URL(link, location.origin).href,
 							image: image?.startsWith('/') ? `https://www.schadeautos.nl${image}` : image,
 							labels: labels.filter(Boolean),
-							model,
+							title,
 							type,
 							price,
 							year,
@@ -73,11 +73,10 @@ const scrape = async () => {
 							mileage
 						}
 					})
-					.filter(car => !!(car?.model && car?.link))
+					.filter(car => !!car?.link)
 			})
 
 			if (data.length === 0) {
-				console.log(`⚠️ No cars on page ${pageIndex}, stopping`)
 				hasNextPage = false
 			} else {
 				cars.push(...data)
@@ -91,6 +90,8 @@ const scrape = async () => {
 			console.error('\x1b[35m%s\x1b[0m', '❌ No cars found, exiting.')
 			process.exit(0)
 		}
+
+		console.info('\x1b[36m%s\x1b[0m', `Found ${cars.length} cars, start enriching data..`)
 
 		const P_LIMIT = 3
 
@@ -166,6 +167,16 @@ const scrape = async () => {
 			slugMap.set(baseSlug, (slugMap.get(baseSlug) || 0) + 1)
 		}
 
+		const contentDir = path.join(process.cwd(), 'content', 'cars')
+		if (!fs.existsSync(contentDir)) fs.mkdirSync(contentDir, { recursive: true })
+
+		for (const car of cars) {
+			fs.writeFileSync(
+				path.join(contentDir, `${car.slug}.json`),
+				JSON.stringify(car, null, 2)
+			)
+		}
+
 		const outputDir = path.join(process.cwd(), 'public')
 		if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir)
 
@@ -173,11 +184,23 @@ const scrape = async () => {
 			path.join(outputDir, 'cars.json'),
 			JSON.stringify({
 				updated: new Date().toISOString(),
-				cars
+				cars: cars.map(car => {
+					const { images, description, ...rest } = car
+
+					return {
+						...rest,
+						...images?.length
+							? {
+								lazyImage: car.image,
+								image: images[0]
+							}
+							: {}
+					}
+				})
 			}, null, 2)
 		)
 
-		console.log('\x1b[36m%s\x1b[0m', `✅ Success: Scraped ${cars.length} cars.`)
+		console.log('\x1b[32m%s\x1b[0m', `✅ Success: Scraped ${cars.length} cars.`)
 	}catch (err) {
 		console.error('\x1b[31m%s\x1b[0m', '❌ Scraper failed:', err)
 		process.exit(1)

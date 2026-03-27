@@ -19,13 +19,9 @@
 			<v-container class="d-flex align-center fill-height">
 				<nuxt-link
 					to="/"
-					class="fill-height d-inline-block"
+					class="logo"
 				>
-					<img
-						src="/logo.jpg"
-						alt="MMC Auto's"
-						class="fill-height"
-					>
+					<logo />
 				</nuxt-link>
 				<v-spacer />
 				<v-btn
@@ -63,6 +59,16 @@
 </template>
 
 <style scoped lang="scss">
+	.logo {
+		display: inline-block;
+		height: 100%;
+
+		> svg {
+			height: 100%;
+			width: auto;
+		}
+	}
+
 	footer {
 		border-top: 1px solid rgb(var(--v-border-color), .1);
 		background-color: rgb(var(--v-theme-surface));

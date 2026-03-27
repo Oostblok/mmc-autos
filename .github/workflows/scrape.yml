@@ -9,7 +9,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     permissions:
       contents: write
@@ -52,7 +52,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: car-data
-          path: public/cars.json
+          path: | 
+            public/cars.json
+            content/cars/
           retention-days: 2
 
       - name: Signal deploy

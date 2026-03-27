@@ -32,7 +32,7 @@
 
 		const flushBuffer = () => {
 			if (proseBuffer.length > 0) {
-				nodes.push(['v-container', { class: 'md' }, ...proseBuffer])
+				nodes.push(['v-container', { class: 'md mt-8' }, ...proseBuffer])
 				proseBuffer = []
 			}
 		}
@@ -83,6 +83,10 @@
 	:deep(.v-container.md) {
 		p:not(:last-child) {
 			margin-bottom: 1rem;
+		}
+
+		hr {
+			border-color: rgba(var(--v-border-color), var(--v-border-opacity));
 		}
 	}
 </style>

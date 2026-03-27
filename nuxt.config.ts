@@ -1,7 +1,7 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 
 const siteName = 'MMC Auto\'s'
-const primaryColor = '#E2000D'
+const primaryColor = '#024AB5'
 
 export default defineNuxtConfig({
   modules: [

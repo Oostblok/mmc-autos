@@ -23,11 +23,7 @@
 <template>
   <main>
     <div>
-	    <v-img
-		    src="/logo.jpg"
-		    alt="MMC Auto's"
-		    @click="handleError"
-	    />
+	    <logo />
       <h1>{{ title }}</h1>
       <a
         href="/"
@@ -61,10 +57,11 @@
       max-width: 900px;
       text-align: center;
 
-	    > .v-img {
-		    max-width: 300px;
+	    > svg {
+		    width: 300px;
+		    height: auto;
+		    max-width: 100%;
 		    margin: 0 auto;
-		    cursor: pointer;
 	    }
 
       a {
