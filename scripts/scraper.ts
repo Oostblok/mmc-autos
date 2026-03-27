@@ -3,24 +3,29 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const scrape = async () => {
-	const browser = await puppeteer.launch({
-		headless: true,
-		args: ['--no-sandbox', '--disable-setuid-sandbox']
-	})
-
+	let browser
 	const cars = []
 	let pageIndex = 0
 	let hasNextPage = true
 
-	const page = await browser.newPage()
-
-	await page.setRequestInterception(true)
-	page.on('request', (req) => {
-		if (['image', 'stylesheet', 'font'].includes(req.resourceType())) req.abort()
-		else req.continue()
-	})
-
 	try {
+		browser = await puppeteer.launch({
+			headless: true,
+			args: [
+				'--no-sandbox',
+				'--disable-setuid-sandbox',
+        '--disable-dev-shm-usage'
+			]
+		})
+
+		const page = await browser.newPage()
+
+		await page.setRequestInterception(true)
+		page.on('request', (req) => {
+			if (['image', 'stylesheet', 'font'].includes(req.resourceType())) req.abort()
+			else req.continue()
+		})
+
 		while (hasNextPage) {
 			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`;
 
@@ -94,8 +99,11 @@ const scrape = async () => {
 		console.error('\x1b[31m%s\x1b[0m', '❌ Scraper failed:', err)
 		process.exit(1)
 	} finally {
-		await browser.close()
+		if (browser) await browser.close()
 	}
 }
 
-scrape().catch(() => process.exit(1))
+scrape().catch((error) => {
+	console.error(error?.message || error.toString())
+	process.exit(1)
+})
