@@ -1,0 +1,1 @@
+import{_ as s,o,m as r,N as n}from"./Bp1gapVA.js";const t={};function a(e,c){return o(),r("ul",null,[n(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseUl"});export{_ as default};
