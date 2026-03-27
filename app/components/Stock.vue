@@ -105,7 +105,7 @@
 		<v-row>
 			<template v-if="pending || error">
 				<v-col
-					v-for="i in 9"
+					v-for="i in 12"
 					:key="i"
 					v-bind="cols"
 				>

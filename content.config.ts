@@ -16,6 +16,7 @@ export default defineContentConfig({
 			  id: z.string(),
 			  slug: z.string(),
 			  link: z.string().url(),
+			  lazyImage: z.string().nullable(),
 			  image: z.string().nullable(),
 			  labels: z.array(z.string()).default([]),
 			  title: z.string().nullable(),

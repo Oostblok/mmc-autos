@@ -75,7 +75,9 @@
 				sm="8"
 				class="order-2 order-sm-1"
 			>
-				<h1>{{ title }}</h1>
+				<h1 class="mt-0">
+					{{ title }}
+				</h1>
 				<v-carousel
 					v-if="car?.images?.length"
 					crossfade
