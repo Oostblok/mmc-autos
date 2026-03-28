@@ -1,0 +1,1 @@
+const n=r=>{if(!r)return r;const t=Number(r);return Number.isNaN(t)?r:new Intl.NumberFormat("nl-NL").format(t)},e=r=>{if(!r)return r;const t=Number(r);return Number.isNaN(t)?r:new Intl.NumberFormat("nl-NL",{style:"currency",currency:"EUR",maximumFractionDigits:0}).format(t)};export{n as a,e as f};
