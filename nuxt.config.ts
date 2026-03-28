@@ -2,6 +2,7 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 
 const siteName = 'MMC Auto\'s'
 const primaryColor = '#024AB5'
+const baseURL = process.env.NODE_ENV === 'production' ? '/mmc-autos/' : '/'
 
 export default defineNuxtConfig({
   modules: [
@@ -13,7 +14,7 @@ export default defineNuxtConfig({
   future: { compatibilityVersion: 4 },
   compatibilityDate: '2024-04-03',
   app: {
-	  baseURL: process.env.NODE_ENV === 'production' ? '/mmc-autos/' : '/',
+	  baseURL,
     head: {
       title: siteName,
       htmlAttrs: { lang: 'nl', dir: 'ltr' },
@@ -30,7 +31,7 @@ export default defineNuxtConfig({
         // TODO: OG Images
       ],
       link: [
-				{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+				{ rel: 'icon', type: 'image/x-icon', href: `${baseURL}favicon.ico` }
       ]
     }
   },

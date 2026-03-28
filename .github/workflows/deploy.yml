@@ -54,6 +54,8 @@ jobs:
         run: |
           mkdir -p .output/public
           [ -f public/cars.json ] && cp public/cars.json .output/public/cars.json || true
+          mkdir -p .output/public/_content/cars
+          cp -r content/cars/* .output/public/_content/cars/ || true
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
