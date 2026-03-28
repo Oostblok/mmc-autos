@@ -52,10 +52,18 @@ jobs:
 
       - name: Copy cars to output
         run: |
-          mkdir -p .output/public
-          [ -f public/cars.json ] && cp public/cars.json .output/public/cars.json || true
+          echo "Checking downloaded files..."
+          find . -name "cars.json"
+          
           mkdir -p .output/public/_content/cars
-          cp -r content/cars/* .output/public/_content/cars/ || true
+          
+          find . -name "cars.json" -exec cp {} .output/public/cars.json \;
+          
+          if [ -d "content/cars" ]; then
+            cp -r content/cars/* .output/public/_content/cars/
+          else
+            find . -path "*/content/cars/*" -type f -exec cp {} .output/public/_content/cars/ \;
+          fi
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
