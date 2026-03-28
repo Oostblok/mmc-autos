@@ -19,22 +19,26 @@
 	const smallPictures = ref(false)
 	const showFilters = ref(true) // TODO: False in het begin
 
-	const cars = computed(() => {
-		let filtered = [...data.value?.cars || []]
+	const filterCars = (
+		cars: CarsCollectionItem[],
+		filters: Record<string, any>,
+		omit?: keyof typeof filters
+	) => {
+		let filtered = [...cars]
 
-		if (filters.make) {
+		if (filters.make && omit !== 'make') {
 			filtered = filtered.filter(car => car.make === filters.make)
 		}
 
-		if (filters.fuelType) {
+		if (filters.fuelType && omit !== 'fuelType') {
 			filtered = filtered.filter(car => car.fuelType === filters.fuelType)
 		}
 
-		if (filters.gearboxType) {
+		if (filters.gearboxType && omit !== 'gearboxType') {
 			filtered = filtered.filter(car => car.gearbox === filters.gearboxType)
 		}
 
-		if (filters.price && filters.price.length === 2) {
+		if (filters.price && filters.price.length === 2 && omit !== 'price') {
 			const [minPrice, maxPrice] = filters.price
 			filtered = filtered.filter(car => {
 				const price = Number(car.price)
@@ -42,7 +46,7 @@
 			})
 		}
 
-		if (filters.engineSize && filters.engineSize.length === 2) {
+		if (filters.engineSize && filters.engineSize.length === 2 && omit !== 'engineSize') {
 			const [minEngineSize, maxEngineSize] = filters.engineSize
 			filtered = filtered.filter(car => {
 				const engineSize = Number(car.engineSize?.replace(/\D/g, ""))
@@ -50,7 +54,7 @@
 			})
 		}
 
-		if (filters.mileage && filters.mileage.length === 2) {
+		if (filters.mileage && filters.mileage.length === 2 && omit !== 'mileage') {
 			const [minMileage, maxMileage] = filters.mileage
 			filtered = filtered.filter(car => {
 				const mileage = Number(car.mileage)
@@ -59,7 +63,9 @@
 		}
 
 		return filtered
-	})
+	}
+
+	const cars = computed(() => (filterCars(data.value?.cars || [], filters)))
 
 	const formattedCars = computed(() =>
 		cars.value.map(car => ({
@@ -122,12 +128,7 @@
 	)
 
 	const filterOptions = computed(() => {
-		const currentCars = cars.value
 		const allCars = data.value?.cars || []
-
-		const activeFiltersCount = activeFilters.value.length
-
-		const source = activeFiltersCount <= 1 ? allCars : currentCars
 
 		const countValues = (arr: CarsCollectionItem[], key: keyof CarsCollectionItem) =>
 			arr.reduce((acc, item) => {
@@ -142,15 +143,15 @@
 				value
 			}))
 
-		const prices = source.map(c => Number(c.price)).filter(Boolean)
-		const engineSizes = source.map(c => Number(c.engineSize?.replace(/\D/g, ""))).filter(Boolean)
-		const mileages = source.map(c => Number(c.mileage)).filter(Boolean)
-		const years = source.map(c => Number(c.year)).filter(Boolean)
+		const prices = filterCars(allCars, filters, 'price').map(c => Number(c.price)).filter(Boolean)
+		const engineSizes = filterCars(allCars, filters, 'engineSize').map(c => Number(c.engineSize?.replace(/\D/g, ""))).filter(Boolean)
+		const mileages = filterCars(allCars, filters, 'mileage').map(c => Number(c.mileage)).filter(Boolean)
+		const years = filterCars(allCars, filters, 'year').map(c => Number(c.year)).filter(Boolean)
 
 		return {
-			makes: formatCounts(countValues(source, 'make')).sort((a, b) => a.value.localeCompare(b.value)),
-			fuelTypes: formatCounts(countValues(source, 'fuelType')),
-			gearboxTypes: formatCounts(countValues(source, 'gearbox')),
+			makes: formatCounts(countValues(filterCars(allCars, filters, 'make'), 'make')).sort((a, b) => a.value.localeCompare(b.value)),
+			fuelTypes: formatCounts(countValues(filterCars(allCars, filters, 'fuelType'), 'fuelType')),
+			gearboxTypes: formatCounts(countValues(filterCars(allCars, filters, 'gearboxType'), 'gearbox')),
 			price: { min: Math.min(...prices), max: Math.max(...prices) },
 			engineSize: { min: Math.min(...engineSizes), max: Math.max(...engineSizes) },
 			mileage: { min: Math.min(...mileages), max: Math.max(...mileages) },
@@ -234,7 +235,12 @@
 							:items="filterOptions.gearboxTypes"
 							clearable
 						/>
-						<v-label>Prijs</v-label>
+						<v-label class="d-flex justify-space-between">
+							<span>Prijs</span>
+							<small v-if="filters.price?.length === 2">
+								({{ filters.price[0] }} - {{ filters.price[1] }})
+							</small>
+						</v-label>
 						<v-range-slider
 							v-model="filters.price"
 							:min="filterOptions.price.min"
@@ -242,7 +248,12 @@
 							thumb-label="hover"
 							step="1"
 						/>
-						<v-label>Motorinhoud</v-label>
+						<v-label class="d-flex justify-space-between">
+							<span>Motorinhoud</span>
+							<small v-if="filters.price?.length === 2">
+								({{ filters.engineSize[0] }} - {{ filters.engineSize[1] }})
+							</small>
+						</v-label>
 						<v-range-slider
 							v-model="filters.engineSize"
 							:min="filterOptions.engineSize.min"
@@ -251,7 +262,12 @@
 							thumb-label="hover"
 							step="1"
 						/>
-						<v-label>Kilometerstand</v-label>
+						<v-label class="d-flex justify-space-between">
+							<span>Kilometerstand</span>
+							<small v-if="filters.mileage?.length === 2">
+								({{ filters.mileage[0] }} - {{ filters.mileage[1] }})
+							</small>
+						</v-label>
 						<v-range-slider
 							v-model="filters.mileage"
 							:min="filterOptions.mileage.min"
@@ -478,5 +494,9 @@
 		right: 0;
 		top: .5rem;
 		min-width: 300px;
+
+		small {
+			font-size: .65rem;
+		}
 	}
 </style>
