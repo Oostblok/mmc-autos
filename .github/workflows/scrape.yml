@@ -41,6 +41,11 @@ jobs:
 
       - run: pnpm install
 
+      - name: Clear old scraped data
+        run: |
+          mkdir -p content/cars
+          rm -rf content/cars/*
+
       - name: Install Chrome Binary
         if: steps.puppeteer-cache.outputs.cache-hit != 'true'
         run: pnpm exec puppeteer browsers install chrome
