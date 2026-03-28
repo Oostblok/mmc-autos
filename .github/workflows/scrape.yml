@@ -53,6 +53,14 @@ jobs:
       - name: Scrape data
         run: pnpm scrape
 
+      - name: Upload Error Screenshot
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-error-debug
+          path: error-screenshot.png
+          retention-days: 1
+
       - name: Upload Scraped Data
         uses: actions/upload-artifact@v4
         with:

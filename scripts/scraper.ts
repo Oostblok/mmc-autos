@@ -205,6 +205,10 @@ const scrape = async () => {
 
 		console.log('\x1b[32m%s\x1b[0m', `✅ Success: Scraped ${cars.length} cars.`)
 	}catch (err) {
+		if (page) {
+			await page.screenshot({ path: 'error-screenshot.png', fullPage: true });
+			console.log('Saved error screenshot to error-screenshot.png');
+		}
 		console.error('\x1b[31m%s\x1b[0m', '❌ Scraper failed:', err)
 		process.exit(1)
 	} finally {
