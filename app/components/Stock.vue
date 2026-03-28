@@ -17,7 +17,9 @@
 	const { data, pending, error } = useFetch<CarsResponse>('/cars.json')
 
 	const smallPictures = ref(false)
-	const showFilters = ref(true) // TODO: False in het begin
+	const showFilters = ref(false)
+	const isWideScreen = ref(window.innerWidth >= 1920)
+	const filtersAreVisible = computed(() => isWideScreen.value || showFilters.value)
 
 	const filterCars = (
 		cars: CarsCollectionItem[],
@@ -187,6 +189,18 @@
 		filters.engineSize = [...filterDefaults.engineSize]
 		filters.mileage = [...filterDefaults.mileage]
 	}, { immediate: true })
+
+	const updateScreenSize = () => {
+		isWideScreen.value = window.innerWidth >= 1920
+	}
+
+	onMounted(() => {
+		window.addEventListener('resize', updateScreenSize)
+	})
+
+	onUnmounted(() => {
+		window.removeEventListener('resize', updateScreenSize)
+	})
 </script>
 
 <template>
@@ -197,8 +211,8 @@
 		>
 			<v-slide-x-reverse-transition>
 				<v-card
-					v-show="showFilters"
-					class="filters"
+					v-show="filtersAreVisible"
+					:class="['filters', { widescreen: isWideScreen }]"
 				>
 					<v-card-title class="d-flex align-center">
 						<v-icon
@@ -209,6 +223,7 @@
 						<span>Filters</span>
 						<v-spacer />
 						<v-btn
+							v-if="!isWideScreen"
 							icon="mdi-close"
 							density="compact"
 							variant="text"
@@ -312,6 +327,7 @@
 					@click="smallPictures = !smallPictures"
 				/>
 				<v-btn
+					v-if="!isWideScreen"
 					v-tooltip="showFilters ? 'Verberg filters' : 'Toon filters'"
 					color="on-background"
 					variant="text"
@@ -494,6 +510,15 @@
 		right: 0;
 		top: .5rem;
 		min-width: 300px;
+
+		&.widescreen {
+			transform: translateX(100%);
+			right: -#{vuetify.$grid-gutter};
+
+			@container scroll-state(stuck: top) {
+				top: vuetify.$grid-gutter;
+			}
+		}
 
 		small {
 			font-size: .65rem;
