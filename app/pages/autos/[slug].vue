@@ -213,7 +213,7 @@
 		> div {
 			@media (map.get(vuetify.$display-breakpoints, 'sm-and-up')) {
 				position: sticky;
-				top: 84px;
+				top: calc(var(--v-layout-top) + #{vuetify.$grid-gutter});
 			}
 		}
 
