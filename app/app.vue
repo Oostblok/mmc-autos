@@ -29,6 +29,11 @@
 			letter-spacing: map.get(settings.$typography, 'h#{$i}', 'letter-spacing');
 			text-transform: map.get(settings.$typography, 'h#{$i}', 'text-transform');
 			color: rgb(var(--v-theme-primary));
+
+
+			@media (map.get(settings.$display-breakpoints, 'sm-and-down')) {
+				font-size: map.get(settings.$typography, 'h#{$i}', 'size') * .75;
+			}
 		}
 	}
 

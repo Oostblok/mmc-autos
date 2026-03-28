@@ -35,6 +35,7 @@
 					variant="flat"
 					text="Contact"
 					to="/contact"
+					:density="smAndDown ? 'comfortable' : 'default'"
 				/>
 			</v-container>
 		</v-app-bar>

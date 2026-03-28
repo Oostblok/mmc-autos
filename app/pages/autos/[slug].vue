@@ -1,5 +1,8 @@
 <script setup lang="ts">
+	import { useDisplay } from 'vuetify'
+
 	const route = useRoute()
+	const { xs } = useDisplay()
 
 	const { data: car } = await useAsyncData(`car-${route.params.slug}`, () =>
 		queryCollection('cars')
@@ -16,6 +19,7 @@
 	}
 
 	const carData = car.value!
+	const carouselIndex = ref(0)
 
 	const title = computed(() => {
 		if (carData.title) return carData.title
@@ -62,7 +66,7 @@
 							+316-34439649
 						</a>
 						<a
-							href="maitlo:info@mmcautos.com"
+							href="mailto:info@mmcautos.com"
 							target="_blank"
 						>
 							info@mmcautos.com
@@ -78,20 +82,39 @@
 				<h1 class="mt-0">
 					{{ title }}
 				</h1>
-				<v-carousel
-					v-if="car?.images?.length"
-					crossfade
-					hide-delimiters
-					height="auto"
-					class="my-8"
-				>
-					<v-carousel-item
-						v-for="(src, i) in car.images"
-						:key="i"
-						:src="src"
-						:aspect-ratio="4/3"
-					/>
-				</v-carousel>
+
+				<template v-if="car?.images?.length">
+					<v-carousel
+						v-model="carouselIndex"
+						crossfade
+						hide-delimiters
+						show-arrows="hover"
+						height="auto"
+						class="mt-8"
+					>
+						<v-carousel-item
+							v-for="(src, i) in car.images"
+							:key="i"
+							:src="src"
+							:aspect-ratio="4/3"
+						/>
+					</v-carousel>
+					<div
+						v-if="!xs"
+						class="carousel-thumbnails"
+					>
+						<div
+							v-for="(image, i) in car.images"
+							:key="i"
+						>
+							<v-img
+								:src="image"
+								:aspect-ratio="4/3"
+								@click="carouselIndex = i"
+							/>
+						</div>
+					</div>
+				</template>
 
 				<p
 					v-if="carData.description"
@@ -138,15 +161,23 @@
 
 	.v-carousel {
 		background-color: rgb(var(--v-theme-surface));
+	}
 
-		:deep(.v-window__controls) {
-			opacity: 0;
-			transition: opacity .2s vuetify.$standard-easing;
-		}
+	.carousel-thumbnails {
+		margin: .25rem -.25rem -.25rem -.25rem;
 
-		&:hover {
-			:deep(.v-window__controls) {
-				opacity: 1;
+		> div {
+			width: calc(100% / 6);
+			padding: .25rem;
+			display: inline-block;
+
+			@media (map.get(vuetify.$display-breakpoints, 'lg-and-up')) {
+				width: calc(100% / 8);
+			}
+
+			> .v-img {
+				cursor: pointer;
+				width: 100%;
 			}
 		}
 	}
