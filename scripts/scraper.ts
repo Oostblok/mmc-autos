@@ -138,17 +138,19 @@ const scrape = async () => {
 
 				return {
 					images: [...new Set(images)],
-					make: data['merk'] || null,
-					model: data['model'] || null,
-					fuelType: data['brandstof'] || car.fuelType || null,
-					gearbox: data['transmissie'] || null,
-					mileage: data['tellerstand']?.replace(/[^\d]/g, '') || car.mileage || null,
-					price: data['verkoopprijs']?.replace(/[^\d]/g, '') || car.price || null,
-					exportPrice: data['exportprijs netto']?.replace(/[^\d]/g, '') || null,
-					description: [
-						data['schades'],
-						data['bijzonderheden']
-					].filter(Boolean).join('\n\n')
+					make: data['merk'],
+					model: data['model'],
+					fuelType: data['brandstof'] || car.fuelType,
+					gearbox: data['transmissie'],
+					mileage: data['tellerstand']?.replace(/[^\d]/g, '') || car.mileage,
+					price: data['verkoopprijs']?.replace(/[^\d]/g, '') || car.price,
+					exportPrice: data['exportprijs netto']?.replace(/[^\d]/g, ''),
+					engineSize: data['motorinhoud'],
+					power: data['vermogen'],
+					color: data['kleur'],
+					bodyType: data['carrosserie'],
+					damage: data['schade'] || data['schades'],
+					description: data['bijzonderheden']
 				}
 			}, car)
 

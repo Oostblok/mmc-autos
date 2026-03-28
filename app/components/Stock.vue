@@ -1,18 +1,10 @@
 <script lang="ts" setup>
-	interface Car {
-		link: string
-		image: string
-		labels: string[]
-		model: string
-		type: string
-		year: string
-		fuelType: string
-		mileage: string
-	}
+	import type { CarsCollectionItem } from '@nuxt/content'
+	import { formatMileage, formatPrice } from '~/assets/js/format'
 
 	interface CarsResponse {
 		updatedAt: string
-		cars: Car[]
+		cars: CarsCollectionItem[]
 	}
 
 	defineProps({
@@ -25,30 +17,6 @@
 	const { data, pending, error } = useFetch<CarsResponse>('/cars.json')
 
 	const smallGrid = ref(false)
-
-	const formatMileage = (value) => {
-		if (!value) return value
-
-		const number = Number(value)
-
-		if (Number.isNaN(number)) return value
-
-		return new Intl.NumberFormat('nl-NL').format(number)
-	}
-
-	const formatPrice = (value) => {
-		if (!value) return value
-
-		const number = Number(value)
-
-		if (Number.isNaN(number)) return value
-
-		return new Intl.NumberFormat('nl-NL', {
-			style: 'currency',
-			currency: 'EUR',
-			maximumFractionDigits: 0
-		}).format(number)
-	}
 
 	const cars = computed(() => (data.value?.cars ?? []).map(car => ({
 		...car,

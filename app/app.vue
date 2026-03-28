@@ -31,8 +31,10 @@
 			color: rgb(var(--v-theme-primary));
 
 
-			@media (map.get(settings.$display-breakpoints, 'sm-and-down')) {
-				font-size: map.get(settings.$typography, 'h#{$i}', 'size') * .75;
+			@if $i < 4 {
+				@media (map.get(settings.$display-breakpoints, 'sm-and-down')) {
+					font-size: map.get(settings.$typography, 'h#{$i}', 'size') * .75;
+				}
 			}
 		}
 	}
