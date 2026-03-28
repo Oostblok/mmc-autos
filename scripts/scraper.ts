@@ -4,9 +4,11 @@ import path from 'node:path'
 import slugify from 'slugify'
 
 const setupPage = async (page) => {
+	await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36')
+	await page.setExtraHTTPHeaders({ 'accept-language': 'nl-NL,nl;q=0.9,en;q=0.8' })
 	await page.setRequestInterception(true)
 	page.on('request', (req) => {
-		if (['image', 'stylesheet', 'font'].includes(req.resourceType())) req.abort()
+		if (['image', 'font'].includes(req.resourceType())) req.abort()
 		else req.continue()
 	})
 }
@@ -23,8 +25,7 @@ const scrape = async () => {
 			args: [
 				'--no-sandbox',
 				'--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-				'--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        '--disable-dev-shm-usage'
 			]
 		})
 
@@ -34,10 +35,16 @@ const scrape = async () => {
 		while (hasNextPage) {
 			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`
 
-			await page.goto(url, {
-				waitUntil: 'networkidle2',
-				timeout: 60000
-			})
+			await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 })
+			const hasCars = await page
+				.waitForSelector('.car', { timeout: 10000 })
+				.then(() => true)
+				.catch(() => false)
+
+			if (!hasCars) {
+				hasNextPage = false
+				break
+			}
 
 			const data = await page.evaluate(() => {
 				const $cars = Array.from(document.querySelectorAll('.car'))
@@ -77,14 +84,10 @@ const scrape = async () => {
 					.filter(car => !!car?.link)
 			})
 
-			if (data.length === 0) {
-				hasNextPage = false
-			} else {
-				cars.push(...data)
-				pageIndex++
+			cars.push(...data)
+			pageIndex++
 
-				await new Promise(r => setTimeout(r, 1000))
-			}
+			await new Promise(r => setTimeout(r, 1000))
 		}
 
 		if (!cars.length) {
@@ -106,7 +109,8 @@ const scrape = async () => {
 			const page = pages[i % P_LIMIT]
 			const car = cars[i]
 
-			await page.goto(car.link, { waitUntil: 'networkidle2', timeout: 30000 })
+			await page.goto(car.link, { waitUntil: 'domcontentloaded', timeout: 30000 })
+			await page.waitForSelector('.specifications', { timeout: 10000 }).catch(() => null)
 
 			const details = await page.evaluate((car) => {
 				const images = []
