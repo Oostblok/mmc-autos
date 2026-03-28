@@ -1,0 +1,1 @@
+import{_ as t,o as s,b as o,e,g as r,N as c,ac as n,a7 as l}from"./cgsxNyEM.js";const _={};function f(a,d){return s(),o(l,null,{default:e(()=>[r(n,null,{default:e(()=>[c(a.$slots,"default")]),_:3})]),_:3})}const p=t(_,[["render",f]]);export{p as default};
