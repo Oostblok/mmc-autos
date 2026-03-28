@@ -43,6 +43,7 @@ jobs:
         with:
           name: car-data
           path: .
+          run-id: ${{ github.event.client_payload.run_id || github.run_id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate static site
@@ -52,18 +53,8 @@ jobs:
 
       - name: Copy cars to output
         run: |
-          echo "Checking downloaded files..."
-          find . -name "cars.json"
-          
-          mkdir -p .output/public/_content/cars
-          
-          find . -name "cars.json" -exec cp {} .output/public/cars.json \;
-          
-          if [ -d "content/cars" ]; then
-            cp -r content/cars/* .output/public/_content/cars/
-          else
-            find . -path "*/content/cars/*" -type f -exec cp {} .output/public/_content/cars/ \;
-          fi
+          mkdir -p .output/public
+          [ -f public/cars.json ] && cp public/cars.json .output/public/cars.json || true
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
