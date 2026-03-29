@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T12:52:41.544Z",
+  "updated": "2026-03-29T04:39:47.579Z",
   "cars": [
     {
       "id": "1758717",
@@ -75,9 +75,7 @@
       "id": "1757971",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-automaat-2-0-tsi-sport-style-4motion/o/1757971",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757971/d04c0d1914810110cad4fb795880e28d~v174468311.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Tiguan",
       "type": "automaat 2.0 TSI Sport&Style 4Motion",
       "price": "3950",
@@ -99,7 +97,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-8-limited-schadevrij/o/1757970",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757970/3ca486defcfec9db609473be45f40f3e~v174467740.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.850"
       ],
       "title": "Ford Focus",
@@ -124,9 +121,7 @@
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Caddy",
       "type": "1.6 TDI Maxi BMT",
       "price": "4850",
@@ -755,7 +750,7 @@
     {
       "id": "1749274",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-35-2-0-tdi-l2h3/o/1749274",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1749274/bf8d4153a366fdefe534f9eb922b7c27~v172034019.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1749274/15f6e1f7f8a9003b26a5ba6c7bddb3db~v172034019.jpg",
       "labels": [],
       "title": "Volkswagen Crafter",
       "type": "35 2.0 TDI L2H3",
@@ -823,7 +818,7 @@
     {
       "id": "1748394",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1748394/5be86a164f073cf80077705b7502e065~v171863002.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1748394/d88d0a7ad0face79d43641911c70a9ba~v171863002.jpg",
       "labels": [
         "exportprijs€ 2.350"
       ],
@@ -918,7 +913,7 @@
     {
       "id": "1659179",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-grand-c-max-1-0-titanium-7persoons/o/1659179",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1659179/33e42072fcfed2c008d4744b85609776~v144727378.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1659179/ca6573f6770dc0d6b179c4c2cb64c319~v144727378.jpg",
       "labels": [
         "exportprijs€ 2.300"
       ],
@@ -1226,7 +1221,7 @@
     {
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1737576/cfebeabb71f6764bec1c4bc2fc6e3105~v168896389.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1737576/707c07a059bd5b67e3a52309923cdc2e~v168896389.jpg",
       "labels": [],
       "title": "Audi A7",
       "type": "Sportback 3.0 TFSI quattro Pro Line plus Automaat",
@@ -1247,7 +1242,7 @@
     {
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1719043/f85727a1364a52a2f505e926148ae516~v162784423.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
@@ -1288,28 +1283,6 @@
       "damage": "bumper\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "i-30-cw-16i-i-motion-cw-16i-i-motion",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1647058/d86b7abf9d4b21c304d4707d44c6632d~v170298981.jpg"
-    },
-    {
-      "id": "1742556",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-cdi-edition-navigatie-4u3/o/1742556",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1742556/3fc317772126ecef2857c4e33c33d52e~v170225761.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes A‑klasse",
-      "type": "180 CDI Edition Navigatie 4U3",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "236829",
-      "make": "Mercedes",
-      "model": "A-klasse 180 CDI Edition Navigatie 4U3",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1461 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "motorkap\nvoorruit\nvoorscherm\nbrandschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nlinker achterraam kapot",
-      "slug": "a-klasse-180-cdi-edition-navigatie-4u3-180-cdi-edition-navigatie-4u3",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742556/7ec187bde0ad49f918be4acc5590407b~v170225761.jpg"
     },
     {
       "id": "1742553",
@@ -1453,7 +1426,7 @@
     {
       "id": "1698872",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-3-0-v6-premium-luxury-automaat/o/1698872",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1698872/365a996c0bb18f4d4458c3cf6a9dd46b~v156987824.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1698872/e5c900081974c27922ba2956d1fdbc6c~v156987824.jpg",
       "labels": [
         "exportprijs€ 3.550"
       ],
@@ -1752,7 +1725,7 @@
     {
       "id": "1706950",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1706950/d2597b8fd5d400c7513bb711ed32f01e~v159501820.jpg",
       "labels": [],
       "title": "Porsche Cayenne",
       "type": "4.5 S automaat",
@@ -1908,7 +1881,7 @@
     {
       "id": "1718506",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-cdti-innovation/o/1718506",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1718506/54c72d94fd90d1261580599c7301b13f~v162516685.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1718506/3e10f2a6d35acc7e9f42b72d91c4427b~v162516685.jpg",
       "labels": [
         "exportprijs€ 4.107"
       ],
@@ -1928,28 +1901,6 @@
       "damage": "voorscherm\nwielophanging rechts\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-16-cdti-innovation-sports-tourer-16-cdti-innovation",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1718506/4795722249cc4d8f288925c012957937~v162516685.jpg"
-    },
-    {
-      "id": "1638613",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-one-1-6-one-d-chill/o/1638613",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1638613/8746665251d4fb7b0393a169bd4a8e81~v138852251.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mini One",
-      "type": "1.6 One D Chill",
-      "year": "2014",
-      "fuelType": "diesel",
-      "mileage": "233473",
-      "make": "Mini",
-      "model": "One 1.6 One D Chill",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nbumper\nairbags voor stuk\ndakairbag stuk\npassagierairbag stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nmotorkap kleine deuk erin zie foto",
-      "slug": "one-16-one-d-chill-16-one-d-chill",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1638613/17cb1ce6637e3d48dbf7f7e5f6521df6~v138852251.jpg"
     },
     {
       "id": "1699124",
@@ -2071,7 +2022,7 @@
     {
       "id": "1372469",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1372469/56d23ba6d3e1360a1858cf82d27c641d~v49751784.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1372469/795247af896ee2f6f2f84a07ffb898a9~v49751784.jpg",
       "labels": [],
       "title": "Jaguar Xkr",
       "type": "4.0 V8  COUPE",
