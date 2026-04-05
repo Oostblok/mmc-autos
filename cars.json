@@ -1,16 +1,15 @@
 {
-  "updated": "2026-04-04T04:21:29.252Z",
+  "updated": "2026-04-05T04:40:01.474Z",
   "cars": [
     {
       "id": "1760976",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/mercedes-vito-116-cdi-lang-automaat/o/1760976",
       "image": "https://www.schadeautos.nl/cache/picture/15/1760976/2314d3828e2f214c800f6741941b2bcc~v175226069.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Mercedes Vito",
       "type": "116 CDI Lang Automaat",
-      "price": "6750",
       "year": "2015",
       "fuelType": "diesel",
       "mileage": "187491",
@@ -138,7 +137,7 @@
     {
       "id": "1751741",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-316i-touring/o/1751741",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1751741/cba6474e6b3a8aa35d61b35f494d21b7~v172640470.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1751741/aed3e5601773b3368a6198f19f85f7c1~v172640470.jpg",
       "labels": [],
       "title": "BMW 3‑serie",
       "type": "316i Touring",
@@ -181,7 +180,7 @@
     {
       "id": "1732075",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-grand-sport-automaat1-5-turbo-business-executive/o/1732075",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732075/3505eaaaea57d7f3396bdc30688e53e7~v166573472.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1732075/781ad396541737ed3e2c707c7ac8d898~v166573472.jpg",
       "labels": [
         "exportprijs€ 6.750"
       ],
@@ -433,7 +432,7 @@
     {
       "id": "1750636",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-2-0-d2-kinetic-automaat/o/1750636",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750636/e615d9c11e28ee788981ff5d6d210cb3~v172467736.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1750636/19772f01447ff0d4b89be2229a6c281d~v172467736.jpg",
       "labels": [
         "exportprijs€ 3.850"
       ],
@@ -545,7 +544,7 @@
     {
       "id": "1751748",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1751748/efb466f393e5aee9b2c3f50315cd16d9~v172641080.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1751748/ffa88fce03047262746c9566fbf95664~v172641080.jpg",
       "labels": [
         "exportprijs€ 7.950"
       ],
@@ -590,7 +589,7 @@
     {
       "id": "1750126",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750126/af45412b5976cc3d32e77e8e33050877~v172206451.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1750126/7e7a013ce0ccc410a39a18f191aca29d~v172206451.jpg",
       "labels": [],
       "title": "Hyundai I‑40",
       "type": "1.6 GDI Blue Business Edition",
@@ -611,7 +610,7 @@
     {
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750107/83d75aeab9e411789301418a177334bd~v172206086.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1750107/8f0bce65dd8ce9a0778caa4f80e0a3ea~v172206086.jpg",
       "labels": [],
       "title": "Seat Ibiza",
       "type": "1.0 TGI Style",
@@ -679,10 +678,11 @@
       "id": "1749266",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-500-elegance-automaat/o/1749266",
       "image": "https://www.schadeautos.nl/cache/picture/15/1749266/dc53edce7e15ab29d0a96e8dd3a35e05~v172033417.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Mercedes E‑klasse",
       "type": "500 Elegance Automaat",
-      "price": "6850",
       "year": "2011",
       "fuelType": "benzine",
       "mileage": "68023",
@@ -749,7 +749,7 @@
     {
       "id": "1700990",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1700990/8582fc0a25c8d3fac52187bda5bd055d~v157619453.jpg",
       "labels": [
         "exportprijs€ 3.700"
       ],
@@ -867,7 +867,7 @@
     {
       "id": "1721158",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1721158",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1721158/d7e58e9ab2fbb27a1b42a54fefd584f7~v163392676.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1721158/c00cd7578ea1cb72b7e06220f8f933f7~v163392676.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
@@ -974,7 +974,7 @@
     {
       "id": "1563909",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost/o/1563909",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1563909/64e5b3d6f16140411dca30abe58cbd90~v115192891.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1563909/40d3a83028e02b3a76449eb51e62fe72~v115192891.jpg",
       "labels": [],
       "title": "Ford Focus",
       "type": "1.0 ECOBOOST",
@@ -1083,7 +1083,7 @@
     {
       "id": "1691064",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ka-1-2-trend-ultimate/o/1691064",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1691064/c5ea1cda4f1ef6b5404247d5e19e875a~v154571075.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1691064/f59a6f8a20a58141ae6523b7e7257fd7~v154571075.jpg",
       "labels": [
         "exportprijs€ 3.300"
       ],
@@ -1264,7 +1264,7 @@
     {
       "id": "1671262",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-design-edition-sportwagon/o/1671262",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1671262/258bc97e41fd980bb68591723ee6f586~v148434606.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1671262/3d8add2469f89d63a816cfb3f3386c2d~v148434606.jpg",
       "labels": [
         "exportprijs€ 3.800"
       ],
@@ -1379,7 +1379,7 @@
     {
       "id": "1660758",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-grand-c4-picasso-automaat-7pers/o/1660758",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1660758/58c21e85f525a875832bb1f5d8cb4686~v145335844.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1660758/91aef882383dbb6ef28a2135c0ec8e6f~v145335844.jpg",
       "labels": [
         "exportprijs€ 5.350"
       ],
@@ -1403,7 +1403,7 @@
     {
       "id": "1738934",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-comfort/o/1738934",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1738934/b60a7f146ae3a8a9c8156d2accf77114~v169171195.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1738934/f0718ac72bf686712c4a74b6a2823825~v169171195.jpg",
       "labels": [
         "exportprijs€ 4.950"
       ],
@@ -1721,7 +1721,7 @@
     {
       "id": "1516158",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-zen/o/1516158",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1516158/e6dec36ac891edeb6c6b7c5b21eafbfb~v100065942.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1516158/fb8dc5a3053cf8e26f6d75d8b4a78e92~v100065942.jpg",
       "labels": [
         "exportprijs€ 2.700"
       ],
@@ -1742,7 +1742,7 @@
     {
       "id": "1721625",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-collection/o/1721625",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1721625/7e627ac89cc94ea641e8d3b9a50041fc~v163482439.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1721625/e7eaf31fdfe5e04c43e6a5378187904d~v163482439.jpg",
       "labels": [
         "exportprijs€ 2.550"
       ],
@@ -1789,7 +1789,7 @@
     {
       "id": "1699124",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-2-tsi-reference/o/1699124",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1699124/99fced07c8c178e42b417c1b781a8d10~v157064241.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1699124/86af0d296e807e0f4f954aa1587cef65~v157064241.jpg",
       "labels": [],
       "title": "Seat Leon",
       "type": "1.2 TSI Reference",
@@ -1834,7 +1834,7 @@
     {
       "id": "1711911",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-galaxy-2-0-tdci-lease-platinum-7-zitplaatsen/o/1711911",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1711911/e4aace293dafc71098d583a5baf951b0~v160627131.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1711911/9b45cf2a31c14e020736e3481190b8d9~v160627131.jpg",
       "labels": [
         "exportprijs€ 3.265"
       ],
@@ -1882,7 +1882,7 @@
     {
       "id": "1672051",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-automaat-coupe-220-cdi/o/1672051",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1672051/1c2308c6d95d59186f5afd988746a394~v157066537.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1672051/51849e8289dd88206560b011ff6638d6~v157066537.jpg",
       "labels": [
         "exportprijs€ 4.050"
       ],
