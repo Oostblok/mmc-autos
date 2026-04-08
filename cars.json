@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T04:35:54.082Z",
+  "updated": "2026-04-08T04:39:51.322Z",
   "cars": [
     {
       "id": "1760976",
@@ -91,35 +91,14 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757969/8eec727fb7fb90ed96e8ff017c9437e5~v174467294.jpg"
     },
     {
-      "id": "1754225",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-0-tsi-trendline/o/1754225",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1754225/cbb7adf66cbcf6582a96844859dc8dd9~v173328607.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "1.0 TSI Trendline",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "189994",
-      "make": "Volkswagen",
-      "model": "Golf 1.0 TSI Trendline",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "golf-10-tsi-trendline-10-tsi-trendline",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1754225/aa39879e6dcef0d0fce791413c51a83d~v173328607.jpg"
-    },
-    {
       "id": "1751741",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-316i-touring/o/1751741",
       "image": "https://www.schadeautos.nl/cache/picture/15/1751741/cba6474e6b3a8aa35d61b35f494d21b7~v172640470.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "BMW 3‑serie",
       "type": "316i Touring",
-      "price": "4450",
       "year": "2013",
       "fuelType": "benzine",
       "mileage": "206958",
