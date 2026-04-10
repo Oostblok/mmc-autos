@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T04:36:40.876Z",
+  "updated": "2026-04-10T04:50:30.372Z",
   "cars": [
     {
       "id": "1761839",
@@ -168,35 +168,14 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1761761/cda19da95557eac0efe80411e5fb3298~v175641715.jpg"
     },
     {
-      "id": "1760976",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/mercedes-vito-116-cdi-lang-automaat/o/1760976",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1760976/2314d3828e2f214c800f6741941b2bcc~v175226069.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes Vito",
-      "type": "116 CDI Lang Automaat",
-      "year": "2015",
-      "fuelType": "diesel",
-      "mileage": "187491",
-      "make": "Mercedes",
-      "model": "Vito 116 CDI Lang Automaat",
-      "gearbox": "automaat",
-      "engineSize": "2143 CC",
-      "power": "120 kW",
-      "color": "paars",
-      "damage": "motorschade\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "vito-116-cdi-lang-automaat-116-cdi-lang-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1760976/6852f1d6f1183bb2771e7029b1014014~v175226069.jpg"
-    },
-    {
       "id": "1758717",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-3-vvt-i-aspiration/o/1758717",
       "image": "https://www.schadeautos.nl/cache/picture/15/1758717/b431cd78816867b2b9cc363a352b48e1~v174630765.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Toyota Yaris",
       "type": "1.3 VVT-i Aspiration",
-      "price": "4200",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "179987",
@@ -796,29 +775,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nchassis oké\nrecht op de wielen",
       "slug": "crafter-35-20-tdi-l2h3-35-20-tdi-l2h3",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1749274/05872aecad39da912fa39c6c7392dfd7~v172034019.jpg"
-    },
-    {
-      "id": "1749266",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-500-elegance-automaat/o/1749266",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1749266/dc53edce7e15ab29d0a96e8dd3a35e05~v172033417.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes E‑klasse",
-      "type": "500 Elegance Automaat",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "68023",
-      "make": "Mercedes",
-      "model": "E-klasse 500 Elegance Automaat",
-      "gearbox": "automaat",
-      "engineSize": "4663 CC",
-      "power": "408 pk",
-      "color": "wit",
-      "bodyType": "cabriolet",
-      "damage": "bumper\nkoplamp links\nachterscherm\ndeur voor\ndorpel\nlinkerschade\nvoorraam\nvoorscherm\nachterscherm\nrechterschade\nachterlichten links\npassagierairbag stuk\nportierairbag links stuk\nstoelairbag links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "e-klasse-500-elegance-automaat-500-elegance-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1749266/b4f172281488a08fb22cbe804ddaeb4d~v172033417.jpg"
     },
     {
       "id": "1732775",
