@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T04:24:28.037Z",
+  "updated": "2026-04-12T04:49:09.796Z",
   "cars": [
     {
       "id": "1762721",
@@ -31,19 +31,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-0-vvt-i-style/o/1762702",
       "image": "https://www.schadeautos.nl/cache/picture/15/1762702/bf7172d6fa956f1efae90c5537f5dce2~v175831325.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 2.850"
+        "verkocht"
       ],
       "title": "Toyota Yaris",
       "type": "1.0 VVT-i Style",
-      "price": "2950",
       "year": "2015",
       "fuelType": "benzine",
       "mileage": "165251",
       "make": "Toyota",
       "model": "Yaris 1.0 VVT-i Style",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2850",
       "engineSize": "998 CC",
       "color": "wit",
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
@@ -54,9 +51,7 @@
       "id": "1761839",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116d-automaat/o/1761839",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761839/75db6b181bebfc3f396b4de17d9980a1~v175648001.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "BMW 1‑serie",
       "type": "116D Automaat",
       "price": "4250",
@@ -78,9 +73,7 @@
       "id": "1761819",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-1-2-tce-limited-start-stop/o/1761819",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761819/a6e289914e43915a0683fe7fac7ebb66~v175646855.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Kangoo",
       "type": "1.2 TCe Limited Start&Stop",
       "price": "3350",
@@ -102,7 +95,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-cactus-1-2-puretech-business/o/1761814",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761814/e6305a1283c40c08992e9d55a1494a27~v175646423.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.700"
       ],
       "title": "Citroën C4 cactus",
@@ -127,7 +119,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.325"
       ],
       "title": "Toyota Verso S",
@@ -152,7 +143,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-bi-fuel-stepway-ambiance/o/1761797",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761797/bd24e05e2a35ba734c940767473e7851~v175643782.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.150"
       ],
       "title": "Dacia Sandero",
@@ -176,9 +166,7 @@
       "id": "1761776",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-280-2-0-tdci-l1h1-limited/o/1761776",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761776/03dfc45c67f990c386e63d1b0e2cce41~v175642269.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "280 2.0 TDCI L1H1 Limited",
       "price": "4650",
@@ -536,7 +524,7 @@
     {
       "id": "1352628",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1352628/97e543150ada2d0b06cb08c98353aba1~v42433457.jpg",
       "labels": [
         "exportprijs€ 3.558"
       ],
@@ -626,7 +614,7 @@
     {
       "id": "1752882",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-sx4-s-cross-1-0-boosterjet-comfort/o/1752882",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1752882/086c158d4287d932f222d0a87cf28031~v173056347.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1752882/5935cf5e1c0c058f01dd00ab071383ab~v173056347.jpg",
       "labels": [
         "exportprijs€ 6.800"
       ],
@@ -650,7 +638,7 @@
     {
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1752879/fdbbd9b42c019a1a671ded857e89f8d2~v173055772.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1752879/5eca6583843520f49025f5c11164ba82~v173055772.jpg",
       "labels": [],
       "title": "Fiat Doblo",
       "type": "1.3 MJ L1H1 Actual",
@@ -1117,7 +1105,7 @@
     {
       "id": "1732301",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/d556acee875034a12ad660b75c4e73fd~v166855589.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1732301/4df2a05140a0b01b019f5a70c7073268~v166855589.jpg",
       "labels": [
         "exportprijs€ 1.400"
       ],
@@ -1295,7 +1283,7 @@
     {
       "id": "1647058",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-cw-1-6i-i-motion/o/1647058",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1647058/4713690860e8f7ceba7672135871cc92~v170298981.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1647058/d8cdf04651677bf98bcfcbe224aba71d~v170298981.jpg",
       "labels": [
         "exportprijs€ 1.675"
       ],
@@ -1437,7 +1425,7 @@
     {
       "id": "1729069",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-astra-1-2-turbo-81kw/o/1729069",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1729069/8529445bd19b24ee2c867cf5b2884fbf~v169793948.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1729069/c4134522b995f0d969f3973d810d3181~v169793948.jpg",
       "labels": [
         "exportprijs€ 3.750"
       ],
@@ -1666,7 +1654,7 @@
     {
       "id": "1732298",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732298/855868d7b8d8033fa517357a8a356fb3~v166854033.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1732298/36f7e66ca91ee31baa9e93d5ef4c9759~v166854033.jpg",
       "labels": [],
       "title": "Ford Fiesta",
       "type": "1.0 EcoBoost Titanium",
@@ -1687,7 +1675,7 @@
     {
       "id": "1672358",
       "link": "https://www.schadeautos.nl/nl/occasion/motorfietsen/yamaha-xv-750-chopper-xv-750-se/o/1672358",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1672358/946de7507bcc1ebe1447092f7b8588a9~v148954050.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1672358/5c98eccf43a4378cd8e2585795c67e7c~v148954050.jpg",
       "labels": [
         "exportprijs€ 1.900"
       ],
