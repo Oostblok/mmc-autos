@@ -1,12 +1,11 @@
 {
-  "updated": "2026-04-13T05:16:25.434Z",
+  "updated": "2026-04-14T04:47:55.095Z",
   "cars": [
     {
       "id": "1762721",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
       "image": "https://www.schadeautos.nl/cache/picture/15/1762721/cf773847c76d57e2fa70d469a44c12e0~v175831980.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.990"
       ],
       "title": "Renault Clio",
@@ -77,7 +76,7 @@
       "title": "Renault Kangoo",
       "type": "1.2 TCe Limited Start&Stop",
       "price": "3350",
-      "year": "2019",
+      "year": "2016",
       "fuelType": "benzine",
       "mileage": "165471",
       "make": "Renault",
@@ -182,27 +181,6 @@
       "damage": "bumper\nmotorkap\nradiateur kapot\nachterklep\nairbags voor stuk\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "transit-custom-280-20-tdci-l1h1-limited-280-20-tdci-l1h1-limited",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1761776/68b9f287ff436a8364b85d96c0a85161~v175642269.jpg"
-    },
-    {
-      "id": "1761761",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6-gdi-hybrid-dynamicline/o/1761761",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1761761/12a2d369663d366a8eedf5995e0cbd7c~v175641715.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Kia Niro",
-      "type": "1.6 GDi Hybrid DynamicLine",
-      "year": "2018",
-      "fuelType": "hybride benzine",
-      "mileage": "106232",
-      "make": "Kia",
-      "model": "Niro 1.6 GDi Hybrid DynamicLine",
-      "gearbox": "automaat",
-      "engineSize": "1580 CC",
-      "color": "blauw",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorscherm\nairbags voor stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "niro-16-gdi-hybrid-dynamicline-16-gdi-hybrid-dynamicline",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1761761/cda19da95557eac0efe80411e5fb3298~v175641715.jpg"
     },
     {
       "id": "1758717",
@@ -593,18 +571,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-sx4-s-cross-1-0-boosterjet-comfort/o/1752882",
       "image": "https://www.schadeautos.nl/cache/picture/15/1752882/086c158d4287d932f222d0a87cf28031~v173056347.jpg",
       "labels": [
-        "exportprijs€ 6.800"
+        "verkocht"
       ],
       "title": "Suzuki SX4",
       "type": "S-Cross 1.0 Boosterjet Comfort",
-      "price": "6900",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "123659",
       "make": "Suzuki",
       "model": "SX4 S-Cross 1.0 Boosterjet Comfort",
       "gearbox": "handgeschakeld",
-      "exportPrice": "6800",
       "engineSize": "998 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -980,18 +956,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1746979",
       "image": "https://www.schadeautos.nl/cache/picture/15/1746979/079068cd2d04dad6e30766982a8627e9~v171431282.jpg",
       "labels": [
-        "exportprijs€ 4.350"
+        "verkocht"
       ],
       "title": "Ford Fiesta",
       "type": "1.0 EcoBoost Titanium",
-      "price": "4700",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "64833",
       "make": "Ford",
       "model": "Fiesta 1.0 EcoBoost Titanium",
       "gearbox": "handgeschakeld",
-      "exportPrice": "4350",
       "engineSize": "998 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -1282,28 +1256,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1647058/d86b7abf9d4b21c304d4707d44c6632d~v170298981.jpg"
     },
     {
-      "id": "1742553",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x-fun/o/1742553",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1742553/d2ccded3879716965b6a9b62338ad6f9~v170224579.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Aygo",
-      "type": "1.0 VVT-i x-fun",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "96740",
-      "make": "Toyota",
-      "model": "Aygo 1.0 VVT-i x-fun",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nachterklep\nachterlichten links\nachterruit\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "aygo-10-vvt-i-x-fun-10-vvt-i-x-fun",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742553/c019b64dd5683e32821eac7292c408d8~v170224579.jpg"
-    },
-    {
       "id": "1742547",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1742547",
       "image": "https://www.schadeautos.nl/cache/picture/15/1742547/25585add8b94c00ba05d4e71d6bf84bd~v170224514.jpg",
@@ -1357,18 +1309,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-design-edition-sportwagon/o/1671262",
       "image": "https://www.schadeautos.nl/cache/picture/15/1671262/258bc97e41fd980bb68591723ee6f586~v148434606.jpg",
       "labels": [
-        "exportprijs€ 3.800"
+        "verkocht"
       ],
       "title": "Kia Ceed",
       "type": "1.0 T-GDi Design Edition Sportwagon",
-      "price": "5100",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "176373",
       "make": "Kia",
       "model": "Ceed 1.0 T-GDi Design Edition Sportwagon",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3800",
       "engineSize": "998 CC",
       "color": "grijs",
       "bodyType": "stationwagon",
