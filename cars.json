@@ -1,6 +1,108 @@
 {
-  "updated": "2026-04-14T04:47:55.095Z",
+  "updated": "2026-04-15T04:48:16.770Z",
   "cars": [
+    {
+      "id": "1763738",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1763738",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1763738/c9ddb48b90db1c1c8639ae31cc9e5910~v176201483.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Renault Clio",
+      "type": "0.9 TCe Limited",
+      "price": "3350",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "188198",
+      "make": "Renault",
+      "model": "Clio 0.9 TCe Limited",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "898 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nmotorkap\nradiateur kapot\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "clio-09-tce-limited-09-tce-limited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763738/6e748e427fde7b01ac48b387d5a3a608~v176201483.jpg"
+    },
+    {
+      "id": "1763737",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-108-1-0-e-vti-active/o/1763737",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1763737/039a2c0f77f3125b42c5febd48edbfeb~v176201109.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.150"
+      ],
+      "title": "Peugeot 108",
+      "type": "1.0 e-VTi Active",
+      "price": "3450",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "178739",
+      "make": "Peugeot",
+      "model": "108 1.0 e-VTi Active",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3150",
+      "engineSize": "998 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\ndeur achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "108-10-e-vti-active-10-e-vti-active",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763737/f081d49ca4795bb2c9df160a2e16418f~v176201109.jpg"
+    },
+    {
+      "id": "1763736",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige-automaat/o/1763736",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1763736/f91519d7a36660cd08486dd34e8a2fdd~v176200659.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 7.850"
+      ],
+      "title": "Mercedes A‑klasse",
+      "type": "180 Prestige Automaat",
+      "price": "8950",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "143362",
+      "make": "Mercedes",
+      "model": "A-klasse 180 Prestige Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "7850",
+      "engineSize": "1595 CC",
+      "power": "90 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nachteruit camera werkt niet goed",
+      "slug": "a-klasse-180-prestige-automaat-180-prestige-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763736/eccc5276de0a1388d0aae2b320bc896f~v176200659.jpg"
+    },
+    {
+      "id": "1763735",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-6-tdci-lease-titanium/o/1763735",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1763735/ffeada4851c9949c50c7f283b9d95b3f~v176199993.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.100"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.6 TDCi Lease Titanium",
+      "price": "3200",
+      "year": "2013",
+      "fuelType": "diesel",
+      "mileage": "243054",
+      "make": "Ford",
+      "model": "Fiesta 1.6 TDCi Lease Titanium",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3100",
+      "engineSize": "1560 CC",
+      "power": "70 kW",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "deur achter\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiesta-16-tdci-lease-titanium-16-tdci-lease-titanium",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763735/9c8a937e098d23e0ad06e8af7ef078f8~v176199993.jpg"
+    },
     {
       "id": "1762721",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
@@ -22,7 +124,7 @@
       "color": "rood",
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nvoorscherm\nairbags voor stuk\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited",
+      "slug": "clio-09-tce-limited-09-tce-limited-1762721",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1762721/2e202dec8401cd6880681f3464a60e0e~v175831980.jpg"
     },
     {
