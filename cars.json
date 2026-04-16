@@ -1,6 +1,150 @@
 {
-  "updated": "2026-04-15T04:48:16.770Z",
+  "updated": "2026-04-16T04:54:04.465Z",
   "cars": [
+    {
+      "id": "1756452",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-transporter-automaat-2-0-tdi-dc-highline-l2h1/o/1756452",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1756452/a9a361d5584a2f7484ef3937aee0d0b2~v174012362.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Transporter",
+      "type": "Automaat 2.0 TDI DC Highline L2H1",
+      "price": "12900",
+      "year": "2017",
+      "fuelType": "diesel",
+      "mileage": "189135",
+      "make": "Volkswagen",
+      "model": "Transporter Automaat 2.0 TDI DC Highline L2H1",
+      "gearbox": "automaat",
+      "engineSize": "1968 CC",
+      "power": "110 kW",
+      "color": "zwart",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nbrandschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transporter-automaat-20-tdi-dc-highline-l2h1-automaat-20-tdi-dc-highline-l2h1",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1756452/232ab44e7f7919b0f52817710233382a~v174012362.jpg"
+    },
+    {
+      "id": "1757970",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-8-limited-schadevrij/o/1757970",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1757970/3ca486defcfec9db609473be45f40f3e~v174467740.jpg",
+      "labels": [
+        "exportprijs€ 1.750"
+      ],
+      "title": "Ford Focus",
+      "type": "1.8 Limited schadevrij",
+      "price": "1850",
+      "year": "2009",
+      "fuelType": "benzine",
+      "mileage": "258643",
+      "make": "Ford",
+      "model": "Focus 1.8 Limited schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1750",
+      "engineSize": "1798 CC",
+      "power": "92 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "focus-18-limited-schadevrij-18-limited-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757970/946a8ed9936ced658b8f4daba50518fe~v174467740.jpg"
+    },
+    {
+      "id": "1732301",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/d556acee875034a12ad660b75c4e73fd~v166855589.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.350"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.25 S-Edition",
+      "price": "1450",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "250665",
+      "make": "Ford",
+      "model": "Fiesta 1.25 S-Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1350",
+      "engineSize": "1242 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiesta-125-s-edition-125-s-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg"
+    },
+    {
+      "id": "1732298",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732298/855868d7b8d8033fa517357a8a356fb3~v166854033.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.0 EcoBoost Titanium",
+      "price": "2950",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "124753",
+      "make": "Ford",
+      "model": "Fiesta 1.0 EcoBoost Titanium",
+      "gearbox": "handgeschakeld",
+      "engineSize": "998 CC",
+      "color": "bruin",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732298/f80ed0e71c56d7bf5d66160112c0f55f~v166854033.jpg"
+    },
+    {
+      "id": "1716876",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1716876/bec2bbf6849fa324b394ab51db7cc200~v162170351.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 7.200"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.5 EcoBoost ST-3",
+      "price": "8200",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "99367",
+      "make": "Ford",
+      "model": "Fiesta 1.5 EcoBoost ST-3",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "7200",
+      "engineSize": "1496 CC",
+      "power": "200 pk",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp links\nmotorkap\ndakairbag stuk\npassagierairbag stuk\nstoelairbag links stuk\nstuurairbag stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nalleen linkse dakairbag is afgegaan",
+      "slug": "fiesta-15-ecoboost-st-3-15-ecoboost-st-3",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg"
+    },
+    {
+      "id": "1763918",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-0-9-tce-expression/o/1763918",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1763918/645e07a1eb0d869e0df72e84a960493d~v176249267.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Captur",
+      "type": "0.9 TCe Expression",
+      "price": "3850",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "129587",
+      "make": "Renault",
+      "model": "Captur 0.9 TCe Expression",
+      "gearbox": "handgeschakeld",
+      "engineSize": "898 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nradiateur kapot\nvoorschade\nachterklep\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "captur-09-tce-expression-09-tce-expression",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763918/59ebca753664e1123e380fb0c4b8e3a9~v176249267.jpg"
+    },
     {
       "id": "1763738",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1763738",
@@ -31,19 +175,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-108-1-0-e-vti-active/o/1763737",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763737/039a2c0f77f3125b42c5febd48edbfeb~v176201109.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.150"
+        "verkocht"
       ],
       "title": "Peugeot 108",
       "type": "1.0 e-VTi Active",
-      "price": "3450",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "178739",
       "make": "Peugeot",
       "model": "108 1.0 e-VTi Active",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3150",
       "engineSize": "998 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -306,31 +447,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1758717/9123d35422459c936f24e807ff2d204c~v174630765.jpg"
     },
     {
-      "id": "1757970",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-8-limited-schadevrij/o/1757970",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1757970/3ca486defcfec9db609473be45f40f3e~v174467740.jpg",
-      "labels": [
-        "exportprijs€ 1.850"
-      ],
-      "title": "Ford Focus",
-      "type": "1.8 Limited schadevrij",
-      "price": "1950",
-      "year": "2009",
-      "fuelType": "benzine",
-      "mileage": "258643",
-      "make": "Ford",
-      "model": "Focus 1.8 Limited schadevrij",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "1850",
-      "engineSize": "1798 CC",
-      "power": "92 kW",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-18-limited-schadevrij-18-limited-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757970/946a8ed9936ced658b8f4daba50518fe~v174467740.jpg"
-    },
-    {
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
@@ -395,27 +511,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\npassagierairbag stuk\nstuurairbag stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "insignia-grand-sport-automaat15-turbo-business-executive-grand-sport-automaat15-turbo-business-executive",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732075/a5fa33d3ccd797efdc1baa4a4100eed6~v166573472.jpg"
-    },
-    {
-      "id": "1756452",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-transporter-automaat-2-0-tdi-dc-highline-l2h1/o/1756452",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1756452/a9a361d5584a2f7484ef3937aee0d0b2~v174012362.jpg",
-      "labels": [],
-      "title": "Volkswagen Transporter",
-      "type": "Automaat 2.0 TDI DC Highline L2H1",
-      "price": "13850",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "189135",
-      "make": "Volkswagen",
-      "model": "Transporter Automaat 2.0 TDI DC Highline L2H1",
-      "gearbox": "automaat",
-      "engineSize": "1968 CC",
-      "power": "110 kW",
-      "color": "zwart",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nbrandschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transporter-automaat-20-tdi-dc-highline-l2h1-automaat-20-tdi-dc-highline-l2h1",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1756452/232ab44e7f7919b0f52817710233382a~v174012362.jpg"
     },
     {
       "id": "1756441",
@@ -600,27 +695,6 @@
       "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
       "slug": "s-60-20-d2-polar-dynamic-20-d2-polar-dynamic",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg"
-    },
-    {
-      "id": "1727727",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-1-4-tfsi-s-edition/o/1727727",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1727727/f339fae81476b41a014f513b0e61a033~v165293655.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A1",
-      "type": "1.4 TFSI S edition",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "181650",
-      "make": "Audi",
-      "model": "A1 1.4 TFSI S edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1390 CC",
-      "color": "rood",
-      "damage": "bumper\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nStuurbekrachtiging werkt niet",
-      "slug": "a1-14-tfsi-s-edition-14-tfsi-s-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1727727/4aaff7c1256119b706f1561512d4bc10~v165293655.jpg"
     },
     {
       "id": "1750636",
@@ -1072,7 +1146,7 @@
       "color": "grijs",
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nkoplamp rechts\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium",
+      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium-1746979",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1746979/f439bad4494e7c6dfcb56d991e9f43fb~v171431282.jpg"
     },
     {
@@ -1154,30 +1228,6 @@
       "damage": "rechterschade\nalle airbags oké\nauto kan rijdend mee\nrecht op de wielen",
       "slug": "focus-10-ecoboost-10-ecoboost",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1563909/2365a82cda63690b7b7c7a3f345c3f89~v115192891.jpg"
-    },
-    {
-      "id": "1732301",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/d556acee875034a12ad660b75c4e73fd~v166855589.jpg",
-      "labels": [
-        "exportprijs€ 1.400"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.25 S-Edition",
-      "price": "1500",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "250665",
-      "make": "Ford",
-      "model": "Fiesta 1.25 S-Edition",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "1400",
-      "engineSize": "1242 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-125-s-edition-125-s-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg"
     },
     {
       "id": "1728559",
@@ -1290,6 +1340,31 @@
       "damage": "bumper\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\ndakairbag stuk\nknieairbag links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "yaris-15-hybrid-trend-15-hybrid-trend",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1725228/c619357227b12d2b44831306cd97f3ff~v164608095.jpg"
+    },
+    {
+      "id": "1731108",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-lease-edition-automaat/o/1731108",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1731108/bce1d56dd0acf49dd3578db93867d69a~v176248525.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.600"
+      ],
+      "title": "Audi A4 Avant",
+      "type": "2.0 TDI Lease Edition Automaat",
+      "price": "6600",
+      "year": "2017",
+      "fuelType": "diesel",
+      "mileage": "233110",
+      "make": "Audi",
+      "model": "A4 Avant 2.0 TDI Lease Edition Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "5600",
+      "engineSize": "1968 CC",
+      "color": "bruin",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a4-avant-20-tdi-lease-edition-automaat-20-tdi-lease-edition-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1731108/8d50d4bddd857cdee4d9a180a667cdb8~v176248525.jpg"
     },
     {
       "id": "1737576",
@@ -1681,27 +1756,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1534436/52bc90c6f5bed2315e3eec370f728a22~v106547570.jpg"
     },
     {
-      "id": "1732298",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732298/855868d7b8d8033fa517357a8a356fb3~v166854033.jpg",
-      "labels": [],
-      "title": "Ford Fiesta",
-      "type": "1.0 EcoBoost Titanium",
-      "price": "3000",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "124753",
-      "make": "Ford",
-      "model": "Fiesta 1.0 EcoBoost Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "bruin",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium-1732298",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732298/f80ed0e71c56d7bf5d66160112c0f55f~v166854033.jpg"
-    },
-    {
       "id": "1672358",
       "link": "https://www.schadeautos.nl/nl/occasion/motorfietsen/yamaha-xv-750-chopper-xv-750-se/o/1672358",
       "image": "https://www.schadeautos.nl/cache/picture/15/1672358/946de7507bcc1ebe1447092f7b8588a9~v148954050.jpg",
@@ -1812,30 +1866,6 @@
       "damage": "bumper\nkoplamp links\nradiateur kapot\nvoorschade\nbumper\nstuurairbag stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
       "slug": "berlingo-16-vti-120-multispace-16-vti-120-multispace",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706896/f1ec43eb8fa5a6d5e566e734e7a6445c~v159498155.jpg"
-    },
-    {
-      "id": "1716876",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1716876/bec2bbf6849fa324b394ab51db7cc200~v162170351.jpg",
-      "labels": [
-        "exportprijs€ 7.400"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.5 EcoBoost ST-3",
-      "price": "8400",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "99367",
-      "make": "Ford",
-      "model": "Fiesta 1.5 EcoBoost ST-3",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "7400",
-      "engineSize": "1496 CC",
-      "power": "200 pk",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp links\nmotorkap\ndakairbag stuk\npassagierairbag stuk\nstoelairbag links stuk\nstuurairbag stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nalleen linkse dakairbag is afgegaan",
-      "slug": "fiesta-15-ecoboost-st-3-15-ecoboost-st-3",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg"
     },
     {
       "id": "1695009",
