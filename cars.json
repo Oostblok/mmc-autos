@@ -1,6 +1,30 @@
 {
-  "updated": "2026-04-17T04:51:42.360Z",
+  "updated": "2026-04-18T04:34:54.332Z",
   "cars": [
+    {
+      "id": "1751748",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1751748/efb466f393e5aee9b2c3f50315cd16d9~v172641080.jpg",
+      "labels": [
+        "exportprijs€ 7.650"
+      ],
+      "title": "Ford",
+      "type": "Focus Wagon1.5 EcoBlue ST Line Business",
+      "price": "8900",
+      "year": "2019",
+      "fuelType": "diesel",
+      "mileage": "132094",
+      "make": "Ford",
+      "model": "Focus Wagon1.5 EcoBlue ST Line Business",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "7650",
+      "engineSize": "1499 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "focus-wagon15-ecoblue-st-line-business-focus-wagon15-ecoblue-st-line-business",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1751748/095a7426760a50a96e73eb33f81467be~v172641080.jpg"
+    },
     {
       "id": "1756452",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-transporter-automaat-2-0-tdi-dc-highline-l2h1/o/1756452",
@@ -127,11 +151,10 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-0-9-tce-expression/o/1763918",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763918/645e07a1eb0d869e0df72e84a960493d~v176249267.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Renault Captur",
       "type": "0.9 TCe Expression",
-      "price": "3850",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "129587",
@@ -150,19 +173,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1763738",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763738/c9ddb48b90db1c1c8639ae31cc9e5910~v176201483.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 2.950"
+        "verkocht"
       ],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
-      "price": "3350",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "188198",
       "make": "Renault",
       "model": "Clio 0.9 TCe Limited",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2950",
       "engineSize": "898 CC",
       "color": "grijs",
       "bodyType": "stationwagon",
@@ -197,7 +217,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige-automaat/o/1763736",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763736/f91519d7a36660cd08486dd34e8a2fdd~v176200659.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.850"
       ],
       "title": "Mercedes A‑klasse",
@@ -223,7 +242,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-6-tdci-lease-titanium/o/1763735",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763735/ffeada4851c9949c50c7f283b9d95b3f~v176199993.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.100"
       ],
       "title": "Ford Fiesta",
@@ -784,30 +802,6 @@
       "damage": "bumper\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-10-ecoboost-lease-trend-10-ecoboost-lease-trend",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg"
-    },
-    {
-      "id": "1751748",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1751748/efb466f393e5aee9b2c3f50315cd16d9~v172641080.jpg",
-      "labels": [
-        "exportprijs€ 7.950"
-      ],
-      "title": "Ford",
-      "type": "Focus Wagon1.5 EcoBlue ST Line Business",
-      "price": "9250",
-      "year": "2019",
-      "fuelType": "diesel",
-      "mileage": "132094",
-      "make": "Ford",
-      "model": "Focus Wagon1.5 EcoBlue ST Line Business",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "7950",
-      "engineSize": "1499 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-wagon15-ecoblue-st-line-business-focus-wagon15-ecoblue-st-line-business",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1751748/095a7426760a50a96e73eb33f81467be~v172641080.jpg"
     },
     {
       "id": "1750605",
