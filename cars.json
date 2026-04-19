@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T04:34:54.332Z",
+  "updated": "2026-04-19T04:53:15.602Z",
   "cars": [
     {
       "id": "1751748",
@@ -29,9 +29,7 @@
       "id": "1756452",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-transporter-automaat-2-0-tdi-dc-highline-l2h1/o/1756452",
       "image": "https://www.schadeautos.nl/cache/picture/15/1756452/a9a361d5584a2f7484ef3937aee0d0b2~v174012362.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Transporter",
       "type": "Automaat 2.0 TDI DC Highline L2H1",
       "price": "12900",
@@ -78,7 +76,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732301/d556acee875034a12ad660b75c4e73fd~v166855589.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.350"
       ],
       "title": "Ford Fiesta",
@@ -102,9 +99,7 @@
       "id": "1732298",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732298/855868d7b8d8033fa517357a8a356fb3~v166854033.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Fiesta",
       "type": "1.0 EcoBoost Titanium",
       "price": "2950",
@@ -126,7 +121,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
       "image": "https://www.schadeautos.nl/cache/picture/15/1716876/bec2bbf6849fa324b394ab51db7cc200~v162170351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.200"
       ],
       "title": "Ford Fiesta",
@@ -242,18 +236,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-6-tdci-lease-titanium/o/1763735",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763735/ffeada4851c9949c50c7f283b9d95b3f~v176199993.jpg",
       "labels": [
-        "exportprijs€ 3.100"
+        "verkocht"
       ],
       "title": "Ford Fiesta",
       "type": "1.6 TDCi Lease Titanium",
-      "price": "3200",
       "year": "2013",
       "fuelType": "diesel",
       "mileage": "243054",
       "make": "Ford",
       "model": "Fiesta 1.6 TDCi Lease Titanium",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3100",
       "engineSize": "1560 CC",
       "power": "70 kW",
       "color": "zwart",
@@ -536,7 +528,7 @@
     {
       "id": "1755080",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1755080/6f97cf65705824fa71166b8461cfba58~v173672804.jpg",
       "labels": [
         "exportprijs€ 2.600"
       ],
@@ -691,7 +683,7 @@
       "color": "grijs",
       "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
       "slug": "s-60-20-d2-polar-dynamic-20-d2-polar-dynamic",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg"
+      "lazyImage": "https://www.schadeautos.nl/picture/15/m/1352628/97e543150ada2d0b06cb08c98353aba1~v42433457.jpeg"
     },
     {
       "id": "1750636",
@@ -740,28 +732,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1741113/2cf2ef79b7616f7b9ca5a0615209443d~v169793429.jpg"
     },
     {
-      "id": "1752882",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-sx4-s-cross-1-0-boosterjet-comfort/o/1752882",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1752882/086c158d4287d932f222d0a87cf28031~v173056347.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Suzuki SX4",
-      "type": "S-Cross 1.0 Boosterjet Comfort",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "123659",
-      "make": "Suzuki",
-      "model": "SX4 S-Cross 1.0 Boosterjet Comfort",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "sx4-s-cross-10-boosterjet-comfort-s-cross-10-boosterjet-comfort",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1752882/70e75228491b0f9c2371a98e5a1365da~v173056347.jpg"
-    },
-    {
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
       "image": "https://www.schadeautos.nl/cache/picture/15/1752879/fdbbd9b42c019a1a671ded857e89f8d2~v173055772.jpg",
@@ -785,7 +755,7 @@
     {
       "id": "1743833",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1743833/9022513e2a23983ccc4dca5dc2ec1f08~v170652024.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1743833/88680b5bd296905f53dbffc32ecaaeb8~v170652024.jpg",
       "labels": [],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Lease Trend",
@@ -871,18 +841,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-gti-performance-business-automaat/o/1741105",
       "image": "https://www.schadeautos.nl/cache/picture/15/1741105/afc36487c8ab19a747da122f3c2b911d~v172038383.jpg",
       "labels": [
-        "exportprijs€ 11.500"
+        "verkocht"
       ],
       "title": "Volkswagen Golf",
       "type": "2.0 TSI GTI Performance Business Automaat",
-      "price": "12200",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "167414",
       "make": "Volkswagen",
       "model": "Golf 2.0 TSI GTI Performance Business Automaat",
       "gearbox": "automaat",
-      "exportPrice": "11500",
       "engineSize": "1984 CC",
       "power": "245 pk",
       "color": "wit",
@@ -915,7 +883,7 @@
     {
       "id": "1732775",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/95726e252fa36225102ec113a21e4732~v167354408.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1732775/2db8409fd43eb3ea081596b8054fb8e3~v167354408.jpg",
       "labels": [
         "exportprijs€ 13.850"
       ],
@@ -1101,28 +1069,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1721158/44d6c02fbaff659e26546c80d0aef173~v163392676.jpg"
     },
     {
-      "id": "1746979",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1746979",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1746979/079068cd2d04dad6e30766982a8627e9~v171431282.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.0 EcoBoost Titanium",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "64833",
-      "make": "Ford",
-      "model": "Fiesta 1.0 EcoBoost Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nkoplamp rechts\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium-1746979",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1746979/f439bad4494e7c6dfcb56d991e9f43fb~v171431282.jpg"
-    },
-    {
       "id": "1746495",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-cvvt-economyline/o/1746495",
       "image": "https://www.schadeautos.nl/cache/picture/15/1746495/8288ea285e187d7217180e0299e94474~v171343805.jpg",
@@ -1167,7 +1113,7 @@
     {
       "id": "1726044",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vectra-gts-1-8-16v-executive-automaat/o/1726044",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1726044/97e50e41deaded3d1d24207e7d19cc2f~v164777950.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1726044/4161cde1121984df288706b0d5b006ae~v164777950.jpg",
       "labels": [],
       "title": "Opel Vectra",
       "type": "GTS 1.8-16V Executive Automaat",
@@ -1319,7 +1265,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-lease-edition-automaat/o/1731108",
       "image": "https://www.schadeautos.nl/cache/picture/15/1731108/bce1d56dd0acf49dd3578db93867d69a~v176248525.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.600"
       ],
       "title": "Audi A4 Avant",
@@ -1453,28 +1398,6 @@
       "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742532/2ffb95b27c187be007d7ec9abedd1b72~v170222334.jpg"
-    },
-    {
-      "id": "1671262",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-design-edition-sportwagon/o/1671262",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1671262/258bc97e41fd980bb68591723ee6f586~v148434606.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Kia Ceed",
-      "type": "1.0 T-GDi Design Edition Sportwagon",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "176373",
-      "make": "Kia",
-      "model": "Ceed 1.0 T-GDi Design Edition Sportwagon",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nmotorkap\nvoorschade\nachterscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ceed-10-t-gdi-design-edition-sportwagon-10-t-gdi-design-edition-sportwagon",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1671262/4377b333ecaa8abeaafdc377ebf4b337~v148434606.jpg"
     },
     {
       "id": "1675931",
@@ -1956,7 +1879,7 @@
     {
       "id": "1684677",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-sports-tourer-2-0-diesel/o/1684677",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1684677/32e1f199cea89ed1b50b974e0b1dfcbf~v152236644.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1684677/58ec45f0499ad65f598d5a075bee86a2~v152236644.jpg",
       "labels": [
         "exportprijs€ 900"
       ],
