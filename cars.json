@@ -1,6 +1,77 @@
 {
-  "updated": "2026-04-21T04:50:48.753Z",
+  "updated": "2026-04-22T04:49:06.135Z",
   "cars": [
+    {
+      "id": "1765468",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765468/00e35f893e2f619079fb0943900ccb2c~v176758716.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mazda CX‑9",
+      "type": "3.7 V6 automaat 4x4 7 persoons",
+      "price": "2950",
+      "year": "2007",
+      "fuelType": "benzine",
+      "make": "Mazda",
+      "model": "CX-9 3.7 V6 automaat 4x4 7 persoons",
+      "gearbox": "automaat",
+      "engineSize": "3726 CC",
+      "power": "274 pk",
+      "color": "zwart",
+      "bodyType": "suv / terreinwagen",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg"
+    },
+    {
+      "id": "1765459",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active/o/1765459",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765459/1ccd63326971ae2f137ed36f5111b67d~v176758006.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.350"
+      ],
+      "title": "Peugeot 2008",
+      "type": "1.2 PureTech Active",
+      "price": "3750",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "125718",
+      "make": "Peugeot",
+      "model": "2008 1.2 PureTech Active",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3350",
+      "engineSize": "1199 CC",
+      "power": "81 kW",
+      "color": "wit",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "2008-12-puretech-active-12-puretech-active",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1765459/89e70687228b74afd63861c7a5d7462b~v176758006.jpg"
+    },
+    {
+      "id": "1765445",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-2-0-16v-tech-line/o/1765445",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765445/357270c5b6efbf2e345a3c6f4f238124~v176757284.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Grand‑scenic",
+      "type": "2.0-16V Tech Line",
+      "price": "990",
+      "year": "2008",
+      "fuelType": "benzine",
+      "mileage": "193876",
+      "make": "Renault",
+      "model": "Grand-scenic 2.0-16V Tech Line",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1998 CC",
+      "power": "135 pk",
+      "color": "grijs",
+      "damage": "achterscherm\ngebruikssporen\nparkeerschade voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "grand-scenic-20-16v-tech-line-20-16v-tech-line",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1765445/f07e8b8167392dc8ab6d4c4f1a9cd870~v176757284.jpg"
+    },
     {
       "id": "1765339",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1765339",
@@ -422,10 +493,11 @@
       "id": "1758717",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-3-vvt-i-aspiration/o/1758717",
       "image": "https://www.schadeautos.nl/cache/picture/15/1758717/b431cd78816867b2b9cc363a352b48e1~v174630765.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Toyota Yaris",
       "type": "1.3 VVT-i Aspiration",
-      "price": "4200",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "179987",
