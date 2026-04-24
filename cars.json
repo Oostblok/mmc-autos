@@ -1,6 +1,175 @@
 {
-  "updated": "2026-04-23T04:53:18.134Z",
+  "updated": "2026-04-24T04:57:21.518Z",
   "cars": [
+    {
+      "id": "1732775",
+      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/95726e252fa36225102ec113a21e4732~v167354408.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 12.850"
+      ],
+      "title": "Mercedes E‑klasse",
+      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "price": "13500",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "170128",
+      "make": "Mercedes",
+      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "gearbox": "automaat",
+      "exportPrice": "12850",
+      "engineSize": "2143 CC",
+      "power": "125 kW",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg"
+    },
+    {
+      "id": "1738934",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-comfort/o/1738934",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1738934/b60a7f146ae3a8a9c8156d2accf77114~v169171195.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.750"
+      ],
+      "title": "Hyundai I‑20",
+      "type": "1.0 T-GDI Comfort",
+      "price": "5050",
+      "year": "2021",
+      "fuelType": "benzine",
+      "mileage": "45065",
+      "make": "Hyundai",
+      "model": "I-20 1.0 T-GDI Comfort",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4750",
+      "engineSize": "998 CC",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "i-20-10-t-gdi-comfort-10-t-gdi-comfort",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1738934/1d6695f7f8ae459d29b673679dd4d201~v169171195.jpg"
+    },
+    {
+      "id": "1766695",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d6-awd-plug-in-hybrid-summum/o/1766695",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766695/a4b1426bf1e8ac8093e89fe7e2988361~v176969512.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volvo V‑60",
+      "type": "2.4 D6 AWD Plug-In Hybrid Summum",
+      "price": "3950",
+      "year": "2014",
+      "fuelType": "hybride diesel",
+      "mileage": "336688",
+      "make": "Volvo",
+      "model": "V-60 2.4 D6 AWD Plug-In Hybrid Summum",
+      "gearbox": "automaat",
+      "color": "zwart",
+      "bodyType": "stationwagon",
+      "damage": "bumper\ndeur voor\ndorpel\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "v-60-24-d6-awd-plug-in-hybrid-summum-24-d6-awd-plug-in-hybrid-summum",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766695/b7bee5f3f1ed60bc19b9a4a241fb65c2~v176969512.jpg"
+    },
+    {
+      "id": "1766667",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-114i-business/o/1766667",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766667/0f5452d7f1084d23fb6e83db20bbe3ea~v176966768.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "BMW 1‑serie",
+      "type": "114i Business+",
+      "price": "3900",
+      "year": "2013",
+      "fuelType": "benzine",
+      "mileage": "295212",
+      "make": "BMW",
+      "model": "1-serie 114i Business+",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1598 CC",
+      "power": "102 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "motorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "1-serie-114i-business-114i-business",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766667/d8911d6be6fb83560a48adce2a62b3fd~v176966768.jpg"
+    },
+    {
+      "id": "1766661",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-e-golf/o/1766661",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766661/15937d93610ffa87d0e991c69afb7cd2~v176959384.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen e‑Golf",
+      "type": "",
+      "price": "7450",
+      "year": "2018",
+      "fuelType": "elektrisch",
+      "mileage": "93000",
+      "make": "Volkswagen",
+      "model": "e-Golf",
+      "gearbox": "automaat",
+      "power": "100 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "diefstalschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "e-golf",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766661/df9693b7f90013abb890aef1a7f5bbcf~v176959384.jpg"
+    },
+    {
+      "id": "1766655",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-1-4-e-tron-phev-ambition-pro-line-plus/o/1766655",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766655/b329d3a27d65e7fb41443ecc222e79a4~v176958684.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Audi A3",
+      "type": "SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
+      "price": "7950",
+      "year": "2015",
+      "fuelType": "hybride benzine",
+      "mileage": "148980",
+      "make": "Audi",
+      "model": "A3 SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
+      "gearbox": "automaat",
+      "engineSize": "1395 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a3-sportback-14-e-tron-phev-ambition-pro-line-plus-sportback-14-e-tron-phev-ambition-pro-line-plus",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766655/d801f8d19b7c77be8ff13740da2ead74~v176958684.jpg"
+    },
+    {
+      "id": "1766649",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-6-cdti-business/o/1766649",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766649/3cb75dc7f8549dc536c995c36dc8d370~v176958119.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.900"
+      ],
+      "title": "Opel Astra",
+      "type": "1.6 CDTI Business+",
+      "price": "4150",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "193112",
+      "make": "Opel",
+      "model": "Astra 1.6 CDTI Business+",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3900",
+      "engineSize": "1598 CC",
+      "power": "110 pk",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "astra-16-cdti-business-16-cdti-business",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766649/5202ad1924fa1e1e5ab4a76936e549f3~v176958119.jpg"
+    },
     {
       "id": "1755080",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
@@ -146,19 +315,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-cactus-1-2-puretech-business/o/1761814",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761814/e6305a1283c40c08992e9d55a1494a27~v175646423.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.060"
+        "verkocht"
       ],
       "title": "Citroën C4 cactus",
       "type": "1.2 PureTech Business",
-      "price": "3950",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "133877",
       "make": "Citroën",
       "model": "C4 cactus 1.2 PureTech Business",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3060",
       "engineSize": "1199 CC",
       "color": "paars",
       "bodyType": "hatchback",
@@ -397,18 +563,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-8-limited-schadevrij/o/1757970",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757970/3ca486defcfec9db609473be45f40f3e~v174467740.jpg",
       "labels": [
-        "exportprijs€ 1.750"
+        "verkocht"
       ],
       "title": "Ford Focus",
       "type": "1.8 Limited schadevrij",
-      "price": "1850",
       "year": "2009",
       "fuelType": "benzine",
       "mileage": "258643",
       "make": "Ford",
       "model": "Focus 1.8 Limited schadevrij",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1750",
       "engineSize": "1798 CC",
       "power": "92 kW",
       "color": "grijs",
@@ -491,18 +655,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige-automaat/o/1763736",
       "image": "https://www.schadeautos.nl/cache/picture/15/1763736/f91519d7a36660cd08486dd34e8a2fdd~v176200659.jpg",
       "labels": [
-        "exportprijs€ 7.850"
+        "verkocht"
       ],
       "title": "Mercedes A‑klasse",
       "type": "180 Prestige Automaat",
-      "price": "8950",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "143362",
       "make": "Mercedes",
       "model": "A-klasse 180 Prestige Automaat",
       "gearbox": "automaat",
-      "exportPrice": "7850",
       "engineSize": "1595 CC",
       "power": "90 kW",
       "color": "grijs",
@@ -510,29 +672,6 @@
       "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nachteruit camera werkt niet goed",
       "slug": "a-klasse-180-prestige-automaat-180-prestige-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763736/eccc5276de0a1388d0aae2b320bc896f~v176200659.jpg"
-    },
-    {
-      "id": "1763735",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-6-tdci-lease-titanium/o/1763735",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1763735/ffeada4851c9949c50c7f283b9d95b3f~v176199993.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.6 TDCi Lease Titanium",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "243054",
-      "make": "Ford",
-      "model": "Fiesta 1.6 TDCi Lease Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1560 CC",
-      "power": "70 kW",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "deur achter\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-16-tdci-lease-titanium-16-tdci-lease-titanium",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1763735/9c8a937e098d23e0ad06e8af7ef078f8~v176199993.jpg"
     },
     {
       "id": "1762721",
@@ -1026,29 +1165,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg"
     },
     {
-      "id": "1741105",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-gti-performance-business-automaat/o/1741105",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1741105/afc36487c8ab19a747da122f3c2b911d~v172038383.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "2.0 TSI GTI Performance Business Automaat",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "167414",
-      "make": "Volkswagen",
-      "model": "Golf 2.0 TSI GTI Performance Business Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1984 CC",
-      "power": "245 pk",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nradiateur kapot\nvoorschade\ndeur voor\nairbags voor stuk\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "golf-20-tsi-gti-performance-business-automaat-20-tsi-gti-performance-business-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1741105/66ecece1f1729aa7b2256b92ab9ed330~v172038383.jpg"
-    },
-    {
       "id": "1749274",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-35-2-0-tdi-l2h3/o/1749274",
       "image": "https://www.schadeautos.nl/cache/picture/15/1749274/bf8d4153a366fdefe534f9eb922b7c27~v172034019.jpg",
@@ -1068,31 +1184,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nchassis oké\nrecht op de wielen",
       "slug": "crafter-35-20-tdi-l2h3-35-20-tdi-l2h3",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1749274/05872aecad39da912fa39c6c7392dfd7~v172034019.jpg"
-    },
-    {
-      "id": "1732775",
-      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/95726e252fa36225102ec113a21e4732~v167354408.jpg",
-      "labels": [
-        "exportprijs€ 13.850"
-      ],
-      "title": "Mercedes E‑klasse",
-      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "price": "14500",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "170128",
-      "make": "Mercedes",
-      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "gearbox": "automaat",
-      "exportPrice": "13850",
-      "engineSize": "2143 CC",
-      "power": "125 kW",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg"
     },
     {
       "id": "1748394",
@@ -1655,30 +1746,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "c4-grand-c4-picasso-automaat-7pers-grand-c4-picasso-automaat-7pers",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1660758/bc79ae6096ccd1b2d32129b4c7359ddf~v145335844.jpg"
-    },
-    {
-      "id": "1738934",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-comfort/o/1738934",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1738934/b60a7f146ae3a8a9c8156d2accf77114~v169171195.jpg",
-      "labels": [
-        "exportprijs€ 4.950"
-      ],
-      "title": "Hyundai I‑20",
-      "type": "1.0 T-GDI Comfort",
-      "price": "5250",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "45065",
-      "make": "Hyundai",
-      "model": "I-20 1.0 T-GDI Comfort",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "4950",
-      "engineSize": "998 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-20-10-t-gdi-comfort-10-t-gdi-comfort",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1738934/1d6695f7f8ae459d29b673679dd4d201~v169171195.jpg"
     },
     {
       "id": "1737708",
