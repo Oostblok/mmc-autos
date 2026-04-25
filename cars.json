@@ -1,6 +1,57 @@
 {
-  "updated": "2026-04-24T04:57:21.518Z",
+  "updated": "2026-04-25T04:39:14.853Z",
   "cars": [
+    {
+      "id": "1742532",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1742532/dc8c05b77b3f2b97f54fde3c749b98c6~v170222334.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.750"
+      ],
+      "title": "Alfa Romeo Giulietta",
+      "type": "1.4 T Sprint Automaat",
+      "price": "4250",
+      "year": "2015",
+      "fuelType": "benzine",
+      "mileage": "201155",
+      "make": "Alfa Romeo",
+      "model": "Giulietta 1.4 T Sprint Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "3750",
+      "engineSize": "1368 CC",
+      "power": "170 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742532/2ffb95b27c187be007d7ec9abedd1b72~v170222334.jpg"
+    },
+    {
+      "id": "1732075",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-grand-sport-automaat1-5-turbo-business-executive/o/1732075",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732075/3505eaaaea57d7f3396bdc30688e53e7~v166573472.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.450"
+      ],
+      "title": "Opel Insignia",
+      "type": "GRAND SPORT Automaat1.5 Turbo Business Executive",
+      "price": "8350",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "141099",
+      "make": "Opel",
+      "model": "Insignia GRAND SPORT Automaat1.5 Turbo Business Executive",
+      "gearbox": "automaat",
+      "exportPrice": "6450",
+      "engineSize": "1490 CC",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\npassagierairbag stuk\nstuurairbag stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "insignia-grand-sport-automaat15-turbo-business-executive-grand-sport-automaat15-turbo-business-executive",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732075/a5fa33d3ccd797efdc1baa4a4100eed6~v166573472.jpg"
+    },
     {
       "id": "1732775",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
@@ -402,11 +453,10 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-350-e-lease-edition/o/1765953",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765953/ed84ee068b2f5ac51cb385e2b45c16b9~v176846240.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Mercedes E‑klasse",
       "type": "350 e Lease Edition",
-      "price": "7750",
       "year": "2016",
       "fuelType": "hybride benzine",
       "mileage": "321245",
@@ -446,9 +496,7 @@
       "id": "1765468",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765468/00e35f893e2f619079fb0943900ccb2c~v176758716.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mazda CX‑9",
       "type": "3.7 V6 automaat 4x4 7 persoons",
       "price": "2950",
@@ -470,7 +518,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active/o/1765459",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765459/1ccd63326971ae2f137ed36f5111b67d~v176758006.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.350"
       ],
       "title": "Peugeot 2008",
@@ -851,30 +898,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "lupo-14-cabrio-dak-14-cabrio-dak",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg"
-    },
-    {
-      "id": "1732075",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-grand-sport-automaat1-5-turbo-business-executive/o/1732075",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732075/3505eaaaea57d7f3396bdc30688e53e7~v166573472.jpg",
-      "labels": [
-        "exportprijs€ 6.750"
-      ],
-      "title": "Opel Insignia",
-      "type": "GRAND SPORT Automaat1.5 Turbo Business Executive",
-      "price": "8650",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "141099",
-      "make": "Opel",
-      "model": "Insignia GRAND SPORT Automaat1.5 Turbo Business Executive",
-      "gearbox": "automaat",
-      "exportPrice": "6750",
-      "engineSize": "1490 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\npassagierairbag stuk\nstuurairbag stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "insignia-grand-sport-automaat15-turbo-business-executive-grand-sport-automaat15-turbo-business-executive",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1732075/a5fa33d3ccd797efdc1baa4a4100eed6~v166573472.jpg"
     },
     {
       "id": "1756441",
@@ -1606,31 +1629,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "i-10-10-comfort-10-comfort-1742547",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742547/8ff144fb8b15f28ab8efb0933a1c5970~v170224514.jpg"
-    },
-    {
-      "id": "1742532",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1742532/dc8c05b77b3f2b97f54fde3c749b98c6~v170222334.jpg",
-      "labels": [
-        "exportprijs€ 3.950"
-      ],
-      "title": "Alfa Romeo Giulietta",
-      "type": "1.4 T Sprint Automaat",
-      "price": "4450",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "201155",
-      "make": "Alfa Romeo",
-      "model": "Giulietta 1.4 T Sprint Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "3950",
-      "engineSize": "1368 CC",
-      "power": "170 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742532/2ffb95b27c187be007d7ec9abedd1b72~v170222334.jpg"
     },
     {
       "id": "1675931",
