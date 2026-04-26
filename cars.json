@@ -1,6 +1,55 @@
 {
-  "updated": "2026-04-25T04:39:14.853Z",
+  "updated": "2026-04-26T05:14:27.899Z",
   "cars": [
+    {
+      "id": "1735146",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.200"
+      ],
+      "title": "Renault Scenic",
+      "type": "1.3 TCe Initiale Paris Automaat",
+      "price": "6700",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "194684",
+      "make": "Renault",
+      "model": "Scenic 1.3 TCe Initiale Paris Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "5200",
+      "engineSize": "1332 CC",
+      "power": "159 pk",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nbumper\nairbags voor stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "scenic-13-tce-initiale-paris-automaat-13-tce-initiale-paris-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735146/0a4b748f55e0fa5e7c2132125a99bee0~v168250157.jpg"
+    },
+    {
+      "id": "1728559",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.700"
+      ],
+      "title": "Opel Zafira",
+      "type": "TOURER 1.4 Turbo Business Executive Automaat",
+      "price": "8300",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "99225",
+      "make": "Opel",
+      "model": "Zafira TOURER 1.4 Turbo Business Executive Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "6700",
+      "engineSize": "1364 CC",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp links\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "zafira-tourer-14-turbo-business-executive-automaat-tourer-14-turbo-business-executive-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1728559/afdabfa29fa3527686caa9e379d6158e~v165460227.jpg"
+    },
     {
       "id": "1742532",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
@@ -226,7 +275,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
       "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.300"
       ],
       "title": "Renault Grand‑scenic",
@@ -271,9 +319,7 @@
       "id": "1725228",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-trend/o/1725228",
       "image": "https://www.schadeautos.nl/cache/picture/15/1725228/c07f1a928d83b99f53963e31c8dfa315~v164608095.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Toyota Yaris",
       "type": "1.5 Hybrid Trend",
       "price": "4950",
@@ -295,7 +341,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-4-tsi-comfortline-business-r-line/o/1746540",
       "image": "https://www.schadeautos.nl/cache/picture/15/1746540/310350f53bfcb5c7fb4c3a780c6d6d6c~v171349395.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.800"
       ],
       "title": "Volkswagen Tiguan",
@@ -318,7 +363,7 @@
     {
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1757969/0c4c2c3233ca5670c5cd330aeade2d39~v174467294.jpg",
       "labels": [],
       "title": "Volkswagen Caddy",
       "type": "1.6 TDI Maxi BMT",
@@ -341,7 +386,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-6-tdi-fr-business-intense-schadevrij/o/1755063",
       "image": "https://www.schadeautos.nl/cache/picture/15/1755063/f0c8c9461d7f74f68d80a520e4897556~v173671561.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.700"
       ],
       "title": "Seat Ibiza",
@@ -387,9 +431,7 @@
       "id": "1765998",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-maxi-2-0-tdi-automaat-l2h1-bmt-maxi-trendline/o/1765998",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765998/04b4d4c8e78823530d55a357ea0bc200~v176850858.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Caddy maxi",
       "type": "2.0 TDI Automaat L2H1 BMT Maxi Trendline",
       "price": "6550",
@@ -474,9 +516,7 @@
       "id": "1765931",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-punto-evo-0-9-twinair-lounge/o/1765931",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765931/bcae7698ff0161eef8845c96fc6f75dd~v176844860.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fiat Punto Evo",
       "type": "0.9 TwinAir Lounge",
       "price": "2200",
@@ -584,31 +624,9 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1751748/095a7426760a50a96e73eb33f81467be~v172641080.jpg"
     },
     {
-      "id": "1756452",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-transporter-automaat-2-0-tdi-dc-highline-l2h1/o/1756452",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1756452/a9a361d5584a2f7484ef3937aee0d0b2~v174012362.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Transporter",
-      "type": "Automaat 2.0 TDI DC Highline L2H1",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "189135",
-      "make": "Volkswagen",
-      "model": "Transporter Automaat 2.0 TDI DC Highline L2H1",
-      "gearbox": "automaat",
-      "engineSize": "1968 CC",
-      "power": "110 kW",
-      "color": "zwart",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nbrandschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transporter-automaat-20-tdi-dc-highline-l2h1-automaat-20-tdi-dc-highline-l2h1",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1756452/232ab44e7f7919b0f52817710233382a~v174012362.jpg"
-    },
-    {
       "id": "1757970",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-8-limited-schadevrij/o/1757970",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1757970/3ca486defcfec9db609473be45f40f3e~v174467740.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1757970/a1db327ac84e4b7660c2ad724418f4fd~v174467740.jpg",
       "labels": [
         "verkocht"
       ],
@@ -946,30 +964,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
       "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg"
-    },
-    {
-      "id": "1735146",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
-      "labels": [
-        "exportprijs€ 5.400"
-      ],
-      "title": "Renault Scenic",
-      "type": "1.3 TCe Initiale Paris Automaat",
-      "price": "6900",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "194684",
-      "make": "Renault",
-      "model": "Scenic 1.3 TCe Initiale Paris Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "5400",
-      "engineSize": "1332 CC",
-      "power": "159 pk",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nbumper\nairbags voor stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "scenic-13-tce-initiale-paris-automaat-13-tce-initiale-paris-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735146/0a4b748f55e0fa5e7c2132125a99bee0~v168250157.jpg"
     },
     {
       "id": "1615495",
@@ -1350,7 +1344,7 @@
     {
       "id": "1746495",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-cvvt-economyline/o/1746495",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1746495/8288ea285e187d7217180e0299e94474~v171343805.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1746495/85f151cd5313ab70cb4d8831f5b9809b~v171343805.jpg",
       "labels": [
         "exportprijs€ 3.200"
       ],
@@ -1374,7 +1368,7 @@
     {
       "id": "1560393",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-ds3-1-2-vti-chic/o/1560393",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1560393/be58359247884e5d0c58cc310b73186a~v114059699.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1560393/08daaedde12d9dd419f880954959b99a~v114059699.jpg",
       "labels": [],
       "title": "Citroën DS3",
       "type": "1.2 VTI CHIC",
@@ -1428,29 +1422,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1563909/2365a82cda63690b7b7c7a3f345c3f89~v115192891.jpg"
     },
     {
-      "id": "1728559",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
-      "labels": [
-        "exportprijs€ 6.900"
-      ],
-      "title": "Opel Zafira",
-      "type": "TOURER 1.4 Turbo Business Executive Automaat",
-      "price": "8500",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "99225",
-      "make": "Opel",
-      "model": "Zafira TOURER 1.4 Turbo Business Executive Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "6900",
-      "engineSize": "1364 CC",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp links\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "zafira-tourer-14-turbo-business-executive-automaat-tourer-14-turbo-business-executive-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1728559/afdabfa29fa3527686caa9e379d6158e~v165460227.jpg"
-    },
-    {
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
       "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
@@ -1475,7 +1446,7 @@
     {
       "id": "1627062",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-2-2-d-schadevrij/o/1627062",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1627062/efbf25806cd3ac8441905ed6dabac9a7~v135053954.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1627062/d1570f4982cb29063def1dc2c4fe0095~v135053954.jpg",
       "labels": [
         "exportprijs€ 5.371"
       ],
@@ -1633,7 +1604,7 @@
     {
       "id": "1675931",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-1-2-puretech-selection/o/1675931",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1675931/22851b0f81a76c8406442a2eac38a3c2~v150088323.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1675931/5fff6cfafc00bc9aa6b131a335fc13b3~v150088323.jpg",
       "labels": [
         "exportprijs€ 3.750"
       ],
@@ -1798,7 +1769,7 @@
     {
       "id": "1735149",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1735149/a7676b803640073618d926251592b205~v168257361.jpg",
       "labels": [
         "exportprijs€ 4.150"
       ],
@@ -1885,7 +1856,7 @@
     {
       "id": "1728589",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-1-6-cosmo-7-persoons/o/1728589",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1728589/08fbbb72f64f1e87a545acd2a3811de2~v165462962.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1728589/1583749da184e320d148586ff5d2e4cf~v165462962.jpg",
       "labels": [
         "exportprijs€ 2.390"
       ],
@@ -1931,7 +1902,7 @@
     {
       "id": "1656899",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-0-puretech-collection/o/1656899",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1656899/343dd1491ac18edfa0ec37691d41396b~v144106342.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1656899/39c917ba5bfca02dc505bdc3985ae70e~v144106342.jpg",
       "labels": [],
       "title": "Citroën C3",
       "type": "1.0 PureTech Collection",
