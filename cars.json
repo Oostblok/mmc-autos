@@ -1,6 +1,98 @@
 {
-  "updated": "2026-04-30T05:33:09.894Z",
+  "updated": "2026-05-01T05:44:07.951Z",
   "cars": [
+    {
+      "id": "1768463",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-outlander-2-0-comfort-schadevrij/o/1768463",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768463/aa69566fb5f12db845ae71ac4f9691b3~v177561660.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.200"
+      ],
+      "title": "Mitsubishi Outlander",
+      "type": "2.0 Comfort schadevrij",
+      "price": "1452",
+      "year": "2003",
+      "fuelType": "benzine",
+      "mileage": "248190",
+      "make": "Mitsubishi",
+      "model": "Outlander 2.0 Comfort schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1200",
+      "engineSize": "1997 CC",
+      "color": "blauw",
+      "bodyType": "suv / terreinwagen",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "outlander-20-comfort-schadevrij-20-comfort-schadevrij"
+    },
+    {
+      "id": "1768449",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1768449",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768449/3ad9097460b4c98acdfe34afdd404710~v177561158.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.300"
+      ],
+      "title": "Peugeot 2008",
+      "type": "1.2 PureTech Blue Lion",
+      "price": "3950",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "96876",
+      "make": "Peugeot",
+      "model": "2008 1.2 PureTech Blue Lion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3300",
+      "engineSize": "1199 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
+    },
+    {
+      "id": "1768446",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-soul-automaat-1-6-rhythm/o/1768446",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768446/bd80d8c7d3f75d64801ff6352a993f41~v177560560.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Kia Soul",
+      "type": "Automaat 1.6 Rhythm",
+      "price": "2950",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "168117",
+      "make": "Kia",
+      "model": "Soul Automaat 1.6 Rhythm",
+      "gearbox": "automaat",
+      "engineSize": "1591 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "achterscherm\nachterklep\nachterlichten links\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "soul-automaat-16-rhythm-automaat-16-rhythm"
+    },
+    {
+      "id": "1768439",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-ambition/o/1768439",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768439/ddc57c5b25c66f418bf0bb8f5c5d514a~v177560200.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mercedes A‑klasse",
+      "type": "180 Ambition",
+      "price": "6500",
+      "year": "2015",
+      "fuelType": "benzine",
+      "mileage": "177632",
+      "make": "Mercedes",
+      "model": "A-klasse 180 Ambition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1595 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a-klasse-180-ambition-180-ambition"
+    },
     {
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
@@ -293,7 +385,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-3-0-tdi-quattro-pro-line-automaat/o/1695009",
       "image": "https://www.schadeautos.nl/cache/picture/15/1695009/161e975cf087742ceffdfc527481252d~v155885011.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.900"
       ],
       "title": "Audi Q7",
@@ -722,18 +813,19 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active/o/1765459",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765459/89e70687228b74afd63861c7a5d7462b~v176758006.jpg",
       "labels": [
-        "exportprijs€ 3.350"
+        "nieuw",
+        "exportprijs€ 3.150"
       ],
       "title": "Peugeot 2008",
       "type": "1.2 PureTech Active",
-      "price": "3750",
+      "price": "3550",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "125718",
       "make": "Peugeot",
       "model": "2008 1.2 PureTech Active",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3350",
+      "exportPrice": "3150",
       "engineSize": "1199 CC",
       "power": "81 kW",
       "color": "wit",
