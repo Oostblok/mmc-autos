@@ -1,6 +1,52 @@
 {
-  "updated": "2026-05-01T05:44:07.951Z",
+  "updated": "2026-05-02T05:13:34.422Z",
   "cars": [
+    {
+      "id": "1768845",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768845/15a5c944a83d421ff8bfb67440af40d3~v177647596.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Connect",
+      "type": "Automaat 1.5 EcoBlue L2 Trend",
+      "price": "5850",
+      "year": "2020",
+      "fuelType": "diesel",
+      "mileage": "176823",
+      "make": "Ford",
+      "model": "Transit Connect Automaat 1.5 EcoBlue L2 Trend",
+      "gearbox": "automaat",
+      "engineSize": "1499 CC",
+      "color": "zilver",
+      "bodyType": "bestelauto",
+      "damage": "gebruikssporen\nversnellingsbak defect\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-connect-automaat-15-ecoblue-l2-trend-automaat-15-ecoblue-l2-trend"
+    },
+    {
+      "id": "1732301",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.250"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.25 S-Edition",
+      "price": "1350",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "250665",
+      "make": "Ford",
+      "model": "Fiesta 1.25 S-Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1250",
+      "engineSize": "1242 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiesta-125-s-edition-125-s-edition"
+    },
     {
       "id": "1768463",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-outlander-2-0-comfort-schadevrij/o/1768463",
@@ -315,9 +361,7 @@
       "id": "1767683",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-automaat-1-2-tce-dynamique/o/1767683",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767683/7d743bde66491ed0c8f2b4874788ed2a~v177391755.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Captur",
       "type": "Automaat 1.2 TCe Dynamique",
       "price": "4250",
@@ -338,7 +382,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-cee-d-1-6-gdi-comfortline/o/1767681",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767681/a6607fad327326c3acf8fbd8981df3ac~v177391317.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.950"
       ],
       "title": "Kia Cee d",
@@ -539,26 +582,6 @@
       "slug": "i-20-10-t-gdi-comfort-10-t-gdi-comfort"
     },
     {
-      "id": "1766695",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d6-awd-plug-in-hybrid-summum/o/1766695",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1766695/b7bee5f3f1ed60bc19b9a4a241fb65c2~v176969512.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo V‑60",
-      "type": "2.4 D6 AWD Plug-In Hybrid Summum",
-      "year": "2014",
-      "fuelType": "hybride diesel",
-      "mileage": "336688",
-      "make": "Volvo",
-      "model": "V-60 2.4 D6 AWD Plug-In Hybrid Summum",
-      "gearbox": "automaat",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "bumper\ndeur voor\ndorpel\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-60-24-d6-awd-plug-in-hybrid-summum-24-d6-awd-plug-in-hybrid-summum"
-    },
-    {
       "id": "1766667",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-114i-business/o/1766667",
       "image": "https://www.schadeautos.nl/cache/picture/15/1766667/d8911d6be6fb83560a48adce2a62b3fd~v176966768.jpg",
@@ -664,27 +687,6 @@
       "color": "bruin",
       "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema"
-    },
-    {
-      "id": "1725228",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-trend/o/1725228",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1725228/c619357227b12d2b44831306cd97f3ff~v164608095.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Yaris",
-      "type": "1.5 Hybrid Trend",
-      "year": "2016",
-      "fuelType": "hybride benzine",
-      "mileage": "95179",
-      "make": "Toyota",
-      "model": "Yaris 1.5 Hybrid Trend",
-      "gearbox": "automaat",
-      "engineSize": "1497 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\ndakairbag stuk\nknieairbag links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "yaris-15-hybrid-trend-15-hybrid-trend"
     },
     {
       "id": "1746540",
@@ -854,29 +856,6 @@
       "bodyType": "stationwagon",
       "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-wagon15-ecoblue-st-line-business-focus-wagon15-ecoblue-st-line-business"
-    },
-    {
-      "id": "1732301",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg",
-      "labels": [
-        "exportprijs€ 1.350"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.25 S-Edition",
-      "price": "1450",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "250665",
-      "make": "Ford",
-      "model": "Fiesta 1.25 S-Edition",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "1350",
-      "engineSize": "1242 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-125-s-edition-125-s-edition"
     },
     {
       "id": "1732298",
@@ -1097,10 +1076,11 @@
       "id": "1670594",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-cross-country-2-0-t3-nordic/o/1670594",
       "image": "https://www.schadeautos.nl/cache/picture/15/1670594/97f34f85a14ec1b815faa1dc453ca307~v148271468.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volvo V‑40",
       "type": "Cross Country 2.0 T3 Nordic+",
-      "price": "4600",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "91853",
