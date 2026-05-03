@@ -1,6 +1,75 @@
 {
-  "updated": "2026-05-02T05:13:34.422Z",
+  "updated": "2026-05-03T05:33:57.084Z",
   "cars": [
+    {
+      "id": "1752879",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1752879/1a408e08654ae407b72b5c763ba49e3b~v173055772.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Fiat Doblo",
+      "type": "1.3 MJ L1H1 Actual",
+      "price": "3350",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "185620",
+      "make": "Fiat",
+      "model": "Doblo 1.3 MJ L1H1 Actual",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1248 CC",
+      "power": "80 pk",
+      "color": "zwart",
+      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "doblo-13-mj-l1h1-actual-13-mj-l1h1-actual"
+    },
+    {
+      "id": "1743833",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Focus",
+      "type": "1.0 EcoBoost Lease Trend",
+      "price": "1500",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "259695",
+      "make": "Ford",
+      "model": "Focus 1.0 EcoBoost Lease Trend",
+      "gearbox": "handgeschakeld",
+      "engineSize": "998 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "focus-10-ecoboost-lease-trend-10-ecoboost-lease-trend"
+    },
+    {
+      "id": "1732775",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 12.850"
+      ],
+      "title": "Mercedes E‑klasse",
+      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "price": "13500",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "170128",
+      "make": "Mercedes",
+      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "gearbox": "automaat",
+      "exportPrice": "12850",
+      "engineSize": "2143 CC",
+      "power": "125 kW",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket"
+    },
     {
       "id": "1768845",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
@@ -143,9 +212,7 @@
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
       "image": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi A7",
       "type": "Sportback 3.0 TFSI quattro Pro Line plus Automaat",
       "price": "6750",
@@ -166,7 +233,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
       "image": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.900"
       ],
       "title": "Ford Fiesta",
@@ -190,7 +256,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-elegance/o/1756441",
       "image": "https://www.schadeautos.nl/cache/picture/15/1756441/23fff0c5406c630d8d68e822968fa13c~v174011640.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.725"
       ],
       "title": "Honda Jazz",
@@ -213,9 +278,7 @@
       "id": "1563909",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost/o/1563909",
       "image": "https://www.schadeautos.nl/cache/picture/15/1563909/2365a82cda63690b7b7c7a3f345c3f89~v115192891.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "1.0 ECOBOOST",
       "price": "1700",
@@ -256,7 +319,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-astra-1-2-turbo-81kw/o/1729069",
       "image": "https://www.schadeautos.nl/cache/picture/15/1729069/bff013dd82ffb8242f892303cdc638f5~v169793948.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.450"
       ],
       "title": "Opel Astra",
@@ -277,9 +339,7 @@
       "id": "1767988",
       "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fendt",
       "type": "SAPHIR 465",
       "price": "10750",
@@ -295,7 +355,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767858/6fcd20cb6ec5172bdc0755bc7aefd8bb~v177456926.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 12.500"
       ],
       "title": "Audi A6 avant",
@@ -319,9 +378,7 @@
       "id": "1767852",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-zoe-q210-zen-quickcharge-22-kwh-incl-accu/o/1767852",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767852/34507b8fb4797d00cf434a782ca5fdae~v177456255.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Zoé",
       "type": "Q210 Zen Quickcharge 22 kWh incl. accu",
       "price": "2900",
@@ -514,72 +571,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat"
-    },
-    {
-      "id": "1732075",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-grand-sport-automaat1-5-turbo-business-executive/o/1732075",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732075/a5fa33d3ccd797efdc1baa4a4100eed6~v166573472.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Insignia",
-      "type": "GRAND SPORT Automaat1.5 Turbo Business Executive",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "141099",
-      "make": "Opel",
-      "model": "Insignia GRAND SPORT Automaat1.5 Turbo Business Executive",
-      "gearbox": "automaat",
-      "engineSize": "1490 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\npassagierairbag stuk\nstuurairbag stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "insignia-grand-sport-automaat15-turbo-business-executive-grand-sport-automaat15-turbo-business-executive"
-    },
-    {
-      "id": "1732775",
-      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
-      "labels": [
-        "exportprijs€ 12.850"
-      ],
-      "title": "Mercedes E‑klasse",
-      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "price": "13500",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "170128",
-      "make": "Mercedes",
-      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "gearbox": "automaat",
-      "exportPrice": "12850",
-      "engineSize": "2143 CC",
-      "power": "125 kW",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket"
-    },
-    {
-      "id": "1738934",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-comfort/o/1738934",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1738934/1d6695f7f8ae459d29b673679dd4d201~v169171195.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑20",
-      "type": "1.0 T-GDI Comfort",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "45065",
-      "make": "Hyundai",
-      "model": "I-20 1.0 T-GDI Comfort",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-20-10-t-gdi-comfort-10-t-gdi-comfort"
     },
     {
       "id": "1766667",
@@ -1159,46 +1150,6 @@
       "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
     },
     {
-      "id": "1752879",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1752879/1a408e08654ae407b72b5c763ba49e3b~v173055772.jpg",
-      "labels": [],
-      "title": "Fiat Doblo",
-      "type": "1.3 MJ L1H1 Actual",
-      "price": "3650",
-      "year": "2018",
-      "fuelType": "diesel",
-      "mileage": "185620",
-      "make": "Fiat",
-      "model": "Doblo 1.3 MJ L1H1 Actual",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1248 CC",
-      "power": "80 pk",
-      "color": "zwart",
-      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "doblo-13-mj-l1h1-actual-13-mj-l1h1-actual"
-    },
-    {
-      "id": "1743833",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg",
-      "labels": [],
-      "title": "Ford Focus",
-      "type": "1.0 EcoBoost Lease Trend",
-      "price": "1700",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "259695",
-      "make": "Ford",
-      "model": "Focus 1.0 EcoBoost Lease Trend",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-10-ecoboost-lease-trend-10-ecoboost-lease-trend"
-    },
-    {
       "id": "1750605",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-fluence-z-e-dynamique-inclusief-koop-accu/o/1750605",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750605/e39d83f84b65c53877679947add66618~v172466072.jpg",
@@ -1670,7 +1621,7 @@
     {
       "id": "1737708",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/m/1737708/d1bce4759346035c9bec683fee18cbc1~v168908973.jpeg",
       "labels": [
         "exportprijs€ 3.200"
       ],
