@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T05:33:57.084Z",
+  "updated": "2026-05-04T05:37:18.359Z",
   "cars": [
     {
       "id": "1752879",
@@ -121,7 +121,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-outlander-2-0-comfort-schadevrij/o/1768463",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768463/aa69566fb5f12db845ae71ac4f9691b3~v177561660.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.200"
       ],
       "title": "Mitsubishi Outlander",
@@ -145,7 +144,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1768449",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768449/3ad9097460b4c98acdfe34afdd404710~v177561158.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.300"
       ],
       "title": "Peugeot 2008",
@@ -168,9 +166,7 @@
       "id": "1768446",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-soul-automaat-1-6-rhythm/o/1768446",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768446/bd80d8c7d3f75d64801ff6352a993f41~v177560560.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Kia Soul",
       "type": "Automaat 1.6 Rhythm",
       "price": "2950",
@@ -190,9 +186,7 @@
       "id": "1768439",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-ambition/o/1768439",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768439/ddc57c5b25c66f418bf0bb8f5c5d514a~v177560200.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes A‑klasse",
       "type": "180 Ambition",
       "price": "6500",
@@ -806,7 +800,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active/o/1765459",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765459/89e70687228b74afd63861c7a5d7462b~v176758006.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.150"
       ],
       "title": "Peugeot 2008",
@@ -977,27 +970,6 @@
       "bodyType": "hatchback",
       "damage": "achterscherm\ndeur voor\ndorpel\nvoorscherm\nachterlichten rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "sandero-09-tce-bi-fuel-stepway-ambiance-09-tce-bi-fuel-stepway-ambiance"
-    },
-    {
-      "id": "1761776",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-280-2-0-tdci-l1h1-limited/o/1761776",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1761776/68b9f287ff436a8364b85d96c0a85161~v175642269.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Transit Custom",
-      "type": "280 2.0 TDCI L1H1 Limited",
-      "year": "2019",
-      "fuelType": "diesel",
-      "mileage": "179349",
-      "make": "Ford",
-      "model": "Transit Custom 280 2.0 TDCI L1H1 Limited",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1997 CC",
-      "power": "131 pk",
-      "color": "grijs",
-      "damage": "bumper\nmotorkap\nradiateur kapot\nachterklep\nairbags voor stuk\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transit-custom-280-20-tdci-l1h1-limited-280-20-tdci-l1h1-limited"
     },
     {
       "id": "1757206",
@@ -1621,7 +1593,7 @@
     {
       "id": "1737708",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
-      "image": "https://www.schadeautos.nl/picture/15/m/1737708/d1bce4759346035c9bec683fee18cbc1~v168908973.jpeg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg",
       "labels": [
         "exportprijs€ 3.200"
       ],
