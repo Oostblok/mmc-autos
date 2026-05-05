@@ -1,6 +1,77 @@
 {
-  "updated": "2026-05-04T05:37:18.359Z",
+  "updated": "2026-05-05T05:17:05.626Z",
   "cars": [
+    {
+      "id": "1769358",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-baleno-1-2-exclusive/o/1769358",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1769358/08c72a9e4d7b25d30dd2ae79f0954203~v177913379.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.630"
+      ],
+      "title": "Suzuki Baleno",
+      "type": "1.2 Exclusive",
+      "price": "4750",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "68082",
+      "make": "Suzuki",
+      "model": "Baleno 1.2 Exclusive",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3630",
+      "engineSize": "1242 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nradiateur kapot\nachterscherm\ndeur voor\nbumper\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "baleno-12-exclusive-12-exclusive"
+    },
+    {
+      "id": "1769355",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-3-tce-r-s-line-automaat/o/1769355",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1769355/46621cac8f2f251c8304599beba9d57b~v177912547.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.537"
+      ],
+      "title": "Renault Clio",
+      "type": "1.3 TCe R.S. Line Automaat",
+      "price": "6400",
+      "year": "2020",
+      "fuelType": "benzine",
+      "mileage": "166582",
+      "make": "Renault",
+      "model": "Clio 1.3 TCe R.S. Line Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "5537",
+      "engineSize": "1332 CC",
+      "power": "131 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\ndorpel\nairbags voor stuk\nrecht op de wielen",
+      "slug": "clio-13-tce-rs-line-automaat-13-tce-rs-line-automaat"
+    },
+    {
+      "id": "1769350",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/mercedes-vito-automaat-114-cdi-lang-business-ambition/o/1769350",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1769350/9c8ae7df6fa1e7dee98f2f1832ad3745~v177911898.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mercedes Vito",
+      "type": "Automaat 114 CDI Lang Business Ambition",
+      "price": "6650",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "202245",
+      "make": "Mercedes",
+      "model": "Vito Automaat 114 CDI Lang Business Ambition",
+      "gearbox": "automaat",
+      "engineSize": "2143 CC",
+      "power": "100 kW",
+      "color": "zwart",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nalle airbags oké\nrecht op de wielen\nad-blue tank is lek",
+      "slug": "vito-automaat-114-cdi-lang-business-ambition-automaat-114-cdi-lang-business-ambition"
+    },
     {
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
@@ -74,9 +145,7 @@
       "id": "1768845",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768845/15a5c944a83d421ff8bfb67440af40d3~v177647596.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Connect",
       "type": "Automaat 1.5 EcoBlue L2 Trend",
       "price": "5850",
@@ -97,7 +166,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.250"
       ],
       "title": "Ford Fiesta",
@@ -388,27 +456,6 @@
       "slug": "zoe-q210-zen-quickcharge-22-kwh-incl-accu-q210-zen-quickcharge-22-kwh-incl-accu"
     },
     {
-      "id": "1767795",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-1-6-gdi-go/o/1767795",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767795/6c0ab196715860e579d72053527287ad~v177450882.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑30",
-      "type": "1.6 GDI Go!",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "166230",
-      "make": "Hyundai",
-      "model": "I-30 1.6 GDI Go!",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1591 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-30-16-gdi-go-16-gdi-go"
-    },
-    {
       "id": "1767683",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-automaat-1-2-tce-dynamique/o/1767683",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767683/7d743bde66491ed0c8f2b4874788ed2a~v177391755.jpg",
@@ -451,28 +498,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "cee-d-16-gdi-comfortline-16-gdi-comfortline"
-    },
-    {
-      "id": "1767677",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-520i-automaat-upgrade-edition/o/1767677",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767677/430bdc914d89f1d820e7efb08123bd83~v177390915.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "BMW 5‑serie",
-      "type": "520i automaat Upgrade Edition",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "215598",
-      "make": "BMW",
-      "model": "5-serie 520i automaat Upgrade Edition",
-      "gearbox": "automaat",
-      "engineSize": "1997 CC",
-      "power": "184 pk",
-      "color": "bruin",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nradiateur wel beschadigd maar niet lek",
-      "slug": "5-serie-520i-automaat-upgrade-edition-520i-automaat-upgrade-edition"
     },
     {
       "id": "1695009",
@@ -672,27 +697,6 @@
       "color": "bruin",
       "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema"
-    },
-    {
-      "id": "1746540",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-4-tsi-comfortline-business-r-line/o/1746540",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1746540/2392968a282a87129c791288a588ca30~v171349395.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Tiguan",
-      "type": "1.4 TSI Comfortline Business R-line",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "73234",
-      "make": "Volkswagen",
-      "model": "Tiguan 1.4 TSI Comfortline Business R-line",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1395 CC",
-      "power": "125 pk",
-      "color": "zwart",
-      "damage": "motorkap\nradiateur kapot\nachterscherm\ndeur achter\ndeur voor\nlinkerschade\nvoorscherm\ndeur achter\ndeur voor\nramen\nrechterschade\nvoorscherm\nwielophanging rechts\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\npanorama dak",
-      "slug": "tiguan-14-tsi-comfortline-business-r-line-14-tsi-comfortline-business-r-line"
     },
     {
       "id": "1757969",
