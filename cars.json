@@ -1,24 +1,65 @@
 {
-  "updated": "2026-05-05T05:17:05.626Z",
+  "updated": "2026-05-06T05:32:03.975Z",
   "cars": [
+    {
+      "id": "1750605",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-fluence-z-e-dynamique-inclusief-koop-accu/o/1750605",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1750605/e39d83f84b65c53877679947add66618~v172466072.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Fluence",
+      "type": "Z.E. Dynamique inclusief koop Accu",
+      "price": "1950",
+      "year": "2012",
+      "fuelType": "elektrisch",
+      "mileage": "76191",
+      "make": "Renault",
+      "model": "Fluence Z.E. Dynamique inclusief koop Accu",
+      "gearbox": "automaat",
+      "power": "50 kW",
+      "color": "blauw",
+      "bodyType": "sedan",
+      "damage": "parkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fluence-ze-dynamique-inclusief-koop-accu-ze-dynamique-inclusief-koop-accu"
+    },
+    {
+      "id": "1750107",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Seat Ibiza",
+      "type": "1.0 TGI Style",
+      "price": "5900",
+      "year": "2018",
+      "fuelType": "benzine - GNC",
+      "mileage": "86207",
+      "make": "Seat",
+      "model": "Ibiza 1.0 TGI Style",
+      "gearbox": "handgeschakeld",
+      "engineSize": "999 CC",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "deur achter\ndeur voor\ndorpel\nlinkerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ibiza-10-tgi-style-10-tgi-style"
+    },
     {
       "id": "1769358",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-baleno-1-2-exclusive/o/1769358",
       "image": "https://www.schadeautos.nl/cache/picture/15/1769358/08c72a9e4d7b25d30dd2ae79f0954203~v177913379.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.630"
+        "verkocht"
       ],
       "title": "Suzuki Baleno",
       "type": "1.2 Exclusive",
-      "price": "4750",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "68082",
       "make": "Suzuki",
       "model": "Baleno 1.2 Exclusive",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3630",
       "engineSize": "1242 CC",
       "color": "wit",
       "bodyType": "hatchback",
@@ -55,11 +96,10 @@
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/mercedes-vito-automaat-114-cdi-lang-business-ambition/o/1769350",
       "image": "https://www.schadeautos.nl/cache/picture/15/1769350/9c8ae7df6fa1e7dee98f2f1832ad3745~v177911898.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Mercedes Vito",
       "type": "Automaat 114 CDI Lang Business Ambition",
-      "price": "6650",
       "year": "2018",
       "fuelType": "diesel",
       "mileage": "202245",
@@ -76,9 +116,7 @@
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
       "image": "https://www.schadeautos.nl/cache/picture/15/1752879/1a408e08654ae407b72b5c763ba49e3b~v173055772.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fiat Doblo",
       "type": "1.3 MJ L1H1 Actual",
       "price": "3350",
@@ -98,9 +136,7 @@
       "id": "1743833",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
       "image": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Lease Trend",
       "price": "1500",
@@ -121,7 +157,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 12.850"
       ],
       "title": "Mercedes E‑klasse",
@@ -892,10 +927,11 @@
       "id": "1761839",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116d-automaat/o/1761839",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761839/32b01921b13d65135bcc9515230aa494~v175648001.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "BMW 1‑serie",
       "type": "116D Automaat",
-      "price": "4250",
       "year": "2015",
       "fuelType": "diesel",
       "mileage": "195692",
@@ -1126,26 +1162,6 @@
       "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
     },
     {
-      "id": "1750605",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-fluence-z-e-dynamique-inclusief-koop-accu/o/1750605",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750605/e39d83f84b65c53877679947add66618~v172466072.jpg",
-      "labels": [],
-      "title": "Renault Fluence",
-      "type": "Z.E. Dynamique inclusief koop Accu",
-      "price": "2700",
-      "year": "2012",
-      "fuelType": "elektrisch",
-      "mileage": "76191",
-      "make": "Renault",
-      "model": "Fluence Z.E. Dynamique inclusief koop Accu",
-      "gearbox": "automaat",
-      "power": "50 kW",
-      "color": "blauw",
-      "bodyType": "sedan",
-      "damage": "parkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fluence-ze-dynamique-inclusief-koop-accu-ze-dynamique-inclusief-koop-accu"
-    },
-    {
       "id": "1750126",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
@@ -1164,26 +1180,6 @@
       "bodyType": "stationwagon",
       "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "i-40-16-gdi-blue-business-edition-16-gdi-blue-business-edition"
-    },
-    {
-      "id": "1750107",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
-      "labels": [],
-      "title": "Seat Ibiza",
-      "type": "1.0 TGI Style",
-      "price": "6500",
-      "year": "2018",
-      "fuelType": "benzine - GNC",
-      "mileage": "86207",
-      "make": "Seat",
-      "model": "Ibiza 1.0 TGI Style",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "deur achter\ndeur voor\ndorpel\nlinkerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ibiza-10-tgi-style-10-tgi-style"
     },
     {
       "id": "1749274",
