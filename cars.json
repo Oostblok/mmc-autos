@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T05:32:03.975Z",
+  "updated": "2026-05-07T05:34:41.410Z",
   "cars": [
     {
       "id": "1750605",
@@ -630,10 +630,11 @@
       "id": "1766667",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-114i-business/o/1766667",
       "image": "https://www.schadeautos.nl/cache/picture/15/1766667/d8911d6be6fb83560a48adce2a62b3fd~v176966768.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "BMW 1‑serie",
       "type": "114i Business+",
-      "price": "3900",
       "year": "2013",
       "fuelType": "benzine",
       "mileage": "295212",
@@ -794,25 +795,6 @@
       "color": "zwart",
       "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
-    },
-    {
-      "id": "1765931",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-punto-evo-0-9-twinair-lounge/o/1765931",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765931/c8fe1080f534465901646adf94f89f07~v176844860.jpg",
-      "labels": [],
-      "title": "Fiat Punto Evo",
-      "type": "0.9 TwinAir Lounge",
-      "price": "2200",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "221173",
-      "make": "Fiat",
-      "model": "Punto Evo 0.9 TwinAir Lounge",
-      "gearbox": "handgeschakeld",
-      "power": "101 pk",
-      "color": "grijs",
-      "damage": "deur achter\ndeur voor\ndorpel\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "punto-evo-09-twinair-lounge-09-twinair-lounge"
     },
     {
       "id": "1765468",
@@ -1074,26 +1056,6 @@
       "power": "180 kW",
       "damage": "rechterschade\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "v-60-cross-country-20-t5-nordic-cross-country-20-t5-nordic"
-    },
-    {
-      "id": "1670594",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-cross-country-2-0-t3-nordic/o/1670594",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1670594/97f34f85a14ec1b815faa1dc453ca307~v148271468.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo V‑40",
-      "type": "Cross Country 2.0 T3 Nordic+",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "91853",
-      "make": "Volvo",
-      "model": "V-40 Cross Country 2.0 T3 Nordic+",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1969 CC",
-      "color": "zwart",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nachterscherm\nvoorscherm\nairbags voor stuk\nknieairbag links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt",
-      "slug": "v-40-cross-country-20-t3-nordic-cross-country-20-t3-nordic"
     },
     {
       "id": "1352628",
@@ -1566,29 +1528,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorkap\nachterklep\nachterlichten links\nachterruit\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-15-titanium-15-titanium"
-    },
-    {
-      "id": "1660758",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-grand-c4-picasso-automaat-7pers/o/1660758",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1660758/bc79ae6096ccd1b2d32129b4c7359ddf~v145335844.jpg",
-      "labels": [
-        "exportprijs€ 5.350"
-      ],
-      "title": "Citroën C4",
-      "type": "GRAND C4 PICASSO Automaat 7pers.",
-      "price": "6450",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "176459",
-      "make": "Citroën",
-      "model": "C4 GRAND C4 PICASSO Automaat 7pers.",
-      "gearbox": "automaat",
-      "exportPrice": "5350",
-      "engineSize": "1199 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "c4-grand-c4-picasso-automaat-7pers-grand-c4-picasso-automaat-7pers"
     },
     {
       "id": "1737708",
