@@ -1,13 +1,11 @@
 {
-  "updated": "2026-05-08T04:56:03.499Z",
+  "updated": "2026-05-09T05:24:02.029Z",
   "cars": [
     {
       "id": "1750605",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-fluence-z-e-dynamique-inclusief-koop-accu/o/1750605",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750605/e39d83f84b65c53877679947add66618~v172466072.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Fluence",
       "type": "Z.E. Dynamique inclusief koop Accu",
       "price": "1950",
@@ -27,9 +25,7 @@
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Seat Ibiza",
       "type": "1.0 TGI Style",
       "price": "5900",
