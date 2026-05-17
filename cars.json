@@ -1,12 +1,278 @@
 {
-  "updated": "2026-05-16T05:29:45.492Z",
+  "updated": "2026-05-17T05:51:25.197Z",
   "cars": [
+    {
+      "id": "1748394",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1748394/076f0d64953cd1c5cf9af8d28087087d~v171863002.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.150"
+      ],
+      "title": "Mitsubishi Space‑star",
+      "type": "1.0 Cool+",
+      "price": "2550",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "85783",
+      "make": "Mitsubishi",
+      "model": "Space-star 1.0 Cool+",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2150",
+      "engineSize": "999 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\ndeur voor\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "space-star-10-cool-10-cool"
+    },
+    {
+      "id": "1762721",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1762721/2e202dec8401cd6880681f3464a60e0e~v175831980.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.685"
+      ],
+      "title": "Renault Clio",
+      "type": "0.9 TCe Limited",
+      "price": "2950",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "136430",
+      "make": "Renault",
+      "model": "Clio 0.9 TCe Limited",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2685",
+      "engineSize": "898 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nvoorscherm\nairbags voor stuk\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "clio-09-tce-limited-09-tce-limited"
+    },
+    {
+      "id": "1737708",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Opel Corsa",
+      "type": "1.2 Elegance",
+      "price": "3900",
+      "year": "2022",
+      "fuelType": "benzine",
+      "mileage": "120943",
+      "make": "Opel",
+      "model": "Corsa 1.2 Elegance",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "1199 CC",
+      "power": "102 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "corsa-12-elegance-12-elegance"
+    },
+    {
+      "id": "1719071",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-180-business-solution-amg/o/1719071",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1719071/6d48d6cc8ac862a3b78e4094f4ab424c~v162787009.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mercedes Cla‑klasse",
+      "type": "180 Business Solution AMG",
+      "price": "4900",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "63343",
+      "make": "Mercedes",
+      "model": "Cla-klasse 180 Business Solution AMG",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1595 CC",
+      "power": "122 pk",
+      "color": "zwart",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nwielophanging links\nknieairbag links stuk\nstuurairbag stuk\nchassis oké\ncoolers oké",
+      "slug": "cla-klasse-180-business-solution-amg-180-business-solution-amg"
+    },
+    {
+      "id": "1534436",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-5-2-0-executive-7-persoons-met-gebruikte-onderdelen-erbij/o/1534436",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1534436/52bc90c6f5bed2315e3eec370f728a22~v106547570.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mazda 5",
+      "type": "2.0 EXECUTIVE 7 PERSOONS Met Gebruikte onderdelen erbij",
+      "price": "1050",
+      "year": "2007",
+      "fuelType": "benzine",
+      "mileage": "227315",
+      "make": "Mazda",
+      "model": "5 2.0 EXECUTIVE 7 PERSOONS Met Gebruikte onderdelen erbij",
+      "gearbox": "handgeschakeld",
+      "power": "107 kW",
+      "damage": "achterraam\nlinkerschade\nalle airbags oké\nauto kan rijdend mee\nchassis oké\nrecht op de wielen",
+      "slug": "5-20-executive-7-persoons-met-gebruikte-onderdelen-erbij-20-executive-7-persoons-met-gebruikte-onderdelen-erbij"
+    },
+    {
+      "id": "1765998",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-maxi-2-0-tdi-automaat-l2h1-bmt-maxi-trendline/o/1765998",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765998/66c7140b7ee8ebbc6c5aa15d11e61066~v176850858.jpg",
+      "labels": [],
+      "title": "Volkswagen Caddy maxi",
+      "type": "2.0 TDI Automaat L2H1 BMT Maxi Trendline",
+      "price": "6350",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "190609",
+      "make": "Volkswagen",
+      "model": "Caddy maxi 2.0 TDI Automaat L2H1 BMT Maxi Trendline",
+      "gearbox": "automaat",
+      "engineSize": "1968 CC",
+      "color": "zwart",
+      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
+    },
+    {
+      "id": "1757206",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Lupo",
+      "type": "1.4 cabrio dak",
+      "price": "550",
+      "year": "2001",
+      "fuelType": "benzine",
+      "mileage": "203892",
+      "make": "Volkswagen",
+      "model": "Lupo 1.4 cabrio dak",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1390 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "lupo-14-cabrio-dak-14-cabrio-dak"
+    },
+    {
+      "id": "1615495",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-cross-country-2-0-t5-nordic/o/1615495",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1615495/8499fe31a83156735e5481b0f3bb5fb3~v131597073.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.800"
+      ],
+      "title": "Volvo V‑60",
+      "type": "CROSS COUNTRY 2.0 T5 NORDIC+",
+      "price": "8700",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "217789",
+      "make": "Volvo",
+      "model": "V-60 CROSS COUNTRY 2.0 T5 NORDIC+",
+      "gearbox": "automaat",
+      "exportPrice": "6800",
+      "power": "180 kW",
+      "damage": "rechterschade\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "v-60-cross-country-20-t5-nordic-cross-country-20-t5-nordic"
+    },
+    {
+      "id": "1719043",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Clio",
+      "type": "1.0 TCe Zen",
+      "price": "4500",
+      "year": "2021",
+      "fuelType": "benzine",
+      "mileage": "67009",
+      "make": "Renault",
+      "model": "Clio 1.0 TCe Zen",
+      "gearbox": "handgeschakeld",
+      "engineSize": "999 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
+      "slug": "clio-10-tce-zen-10-tce-zen"
+    },
+    {
+      "id": "1684677",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-sports-tourer-2-0-diesel/o/1684677",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1684677/ffe74a2e4166e9afb6fff1e873a966dc~v152236644.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Insignia",
+      "type": "Sports tourer 2.0 Diesel",
+      "price": "775",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "267854",
+      "make": "Opel",
+      "model": "Insignia Sports tourer 2.0 Diesel",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1956 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplamp links\nvoorscherm\nwielophanging links\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt",
+      "slug": "insignia-sports-tourer-20-diesel-sports-tourer-20-diesel"
+    },
+    {
+      "id": "1702078",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Astra",
+      "type": "SPORTS TOURER 1.4 Online Edition",
+      "price": "2750",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "134981",
+      "make": "Opel",
+      "model": "Astra SPORTS TOURER 1.4 Online Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1399 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition"
+    },
+    {
+      "id": "1750126",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Hyundai I‑40",
+      "type": "1.6 GDI Blue Business Edition",
+      "price": "3900",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "147984",
+      "make": "Hyundai",
+      "model": "I-40 1.6 GDI Blue Business Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1591 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "i-40-16-gdi-blue-business-edition-16-gdi-blue-business-edition"
+    },
     {
       "id": "1772342",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-0-tgdi-design-edition/o/1772342",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772342/f15dbd9579778779f0b73e285acec1b4~v178672726.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.100"
       ],
       "title": "Kia Rio",
@@ -29,9 +295,7 @@
       "id": "1772258",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-style-ultimate/o/1772258",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772258/c2b3d7534bb4aa272c2d70c73e7e09d3~v178670823.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Fiesta",
       "type": "1.0 Style Ultimate",
       "price": "3250",
@@ -52,7 +316,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1772251",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772251/10ccc0a17f5a5a1104cf644453e0f9c4~v178665088.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.250"
       ],
       "title": "Renault Clio",
@@ -69,14 +332,13 @@
       "color": "zwart",
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited"
+      "slug": "clio-09-tce-limited-09-tce-limited-1772251"
     },
     {
       "id": "1772243",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-pro-line-s/o/1772243",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772243/bcbfdf9ef913ca990d9318df2e7511d0~v178664507.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.750"
       ],
       "title": "Audi A1",
@@ -690,27 +952,6 @@
       "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat"
     },
     {
-      "id": "1766661",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-e-golf/o/1766661",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1766661/df9693b7f90013abb890aef1a7f5bbcf~v176959384.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen e‑Golf",
-      "type": "",
-      "year": "2018",
-      "fuelType": "elektrisch",
-      "mileage": "93000",
-      "make": "Volkswagen",
-      "model": "e-Golf",
-      "gearbox": "automaat",
-      "power": "100 kW",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "diefstalschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "e-golf"
-    },
-    {
       "id": "1766655",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-1-4-e-tron-phev-ambition-pro-line-plus/o/1766655",
       "image": "https://www.schadeautos.nl/cache/picture/15/1766655/d801f8d19b7c77be8ff13740da2ead74~v176958684.jpg",
@@ -820,25 +1061,6 @@
       "slug": "ibiza-16-tdi-fr-business-intense-schadevrij-16-tdi-fr-business-intense-schadevrij"
     },
     {
-      "id": "1765998",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-maxi-2-0-tdi-automaat-l2h1-bmt-maxi-trendline/o/1765998",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765998/66c7140b7ee8ebbc6c5aa15d11e61066~v176850858.jpg",
-      "labels": [],
-      "title": "Volkswagen Caddy maxi",
-      "type": "2.0 TDI Automaat L2H1 BMT Maxi Trendline",
-      "price": "6550",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "190609",
-      "make": "Volkswagen",
-      "model": "Caddy maxi 2.0 TDI Automaat L2H1 BMT Maxi Trendline",
-      "gearbox": "automaat",
-      "engineSize": "1968 CC",
-      "color": "zwart",
-      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
-    },
-    {
       "id": "1765468",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg",
@@ -923,29 +1145,6 @@
       "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium"
     },
     {
-      "id": "1762721",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1762721/2e202dec8401cd6880681f3464a60e0e~v175831980.jpg",
-      "labels": [
-        "exportprijs€ 2.990"
-      ],
-      "title": "Renault Clio",
-      "type": "0.9 TCe Limited",
-      "price": "3200",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "136430",
-      "make": "Renault",
-      "model": "Clio 0.9 TCe Limited",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2990",
-      "engineSize": "898 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nvoorscherm\nairbags voor stuk\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited-1762721"
-    },
-    {
       "id": "1761819",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-1-2-tce-limited-start-stop/o/1761819",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761819/c5aadb317848737321fc277b6184f141~v175646855.jpg",
@@ -1012,26 +1211,6 @@
       "slug": "sandero-09-tce-bi-fuel-stepway-ambiance-09-tce-bi-fuel-stepway-ambiance"
     },
     {
-      "id": "1757206",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg",
-      "labels": [],
-      "title": "Volkswagen Lupo",
-      "type": "1.4 cabrio dak",
-      "price": "750",
-      "year": "2001",
-      "fuelType": "benzine",
-      "mileage": "203892",
-      "make": "Volkswagen",
-      "model": "Lupo 1.4 cabrio dak",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1390 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "lupo-14-cabrio-dak-14-cabrio-dak"
-    },
-    {
       "id": "1717370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg",
@@ -1053,27 +1232,6 @@
       "bodyType": "sedan",
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
       "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine"
-    },
-    {
-      "id": "1615495",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-cross-country-2-0-t5-nordic/o/1615495",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1615495/8499fe31a83156735e5481b0f3bb5fb3~v131597073.jpg",
-      "labels": [
-        "exportprijs€ 7.400"
-      ],
-      "title": "Volvo V‑60",
-      "type": "CROSS COUNTRY 2.0 T5 NORDIC+",
-      "price": "9400",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "217789",
-      "make": "Volvo",
-      "model": "V-60 CROSS COUNTRY 2.0 T5 NORDIC+",
-      "gearbox": "automaat",
-      "exportPrice": "7400",
-      "power": "180 kW",
-      "damage": "rechterschade\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-60-cross-country-20-t5-nordic-cross-country-20-t5-nordic"
     },
     {
       "id": "1352628",
@@ -1142,26 +1300,6 @@
       "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
     },
     {
-      "id": "1750126",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
-      "labels": [],
-      "title": "Hyundai I‑40",
-      "type": "1.6 GDI Blue Business Edition",
-      "price": "4200",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "147984",
-      "make": "Hyundai",
-      "model": "I-40 1.6 GDI Blue Business Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1591 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-40-16-gdi-blue-business-edition-16-gdi-blue-business-edition"
-    },
-    {
       "id": "1749274",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-35-2-0-tdi-l2h3/o/1749274",
       "image": "https://www.schadeautos.nl/cache/picture/15/1749274/05872aecad39da912fa39c6c7392dfd7~v172034019.jpg",
@@ -1180,29 +1318,6 @@
       "color": "wit",
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nchassis oké\nrecht op de wielen",
       "slug": "crafter-35-20-tdi-l2h3-35-20-tdi-l2h3"
-    },
-    {
-      "id": "1748394",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1748394/076f0d64953cd1c5cf9af8d28087087d~v171863002.jpg",
-      "labels": [
-        "exportprijs€ 2.350"
-      ],
-      "title": "Mitsubishi Space‑star",
-      "type": "1.0 Cool+",
-      "price": "2750",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "85783",
-      "make": "Mitsubishi",
-      "model": "Space-star 1.0 Cool+",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2350",
-      "engineSize": "999 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\ndeur voor\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "space-star-10-cool-10-cool"
     },
     {
       "id": "1700990",
@@ -1227,27 +1342,6 @@
       "bodyType": "sedan",
       "damage": "achterscherm\ndeur achter\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "a4-32-fsi-pro-line-32-fsi-pro-line"
-    },
-    {
-      "id": "1719071",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-180-business-solution-amg/o/1719071",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719071/6d48d6cc8ac862a3b78e4094f4ab424c~v162787009.jpg",
-      "labels": [],
-      "title": "Mercedes Cla‑klasse",
-      "type": "180 Business Solution AMG",
-      "price": "5250",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "63343",
-      "make": "Mercedes",
-      "model": "Cla-klasse 180 Business Solution AMG",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1595 CC",
-      "power": "122 pk",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nwielophanging links\nknieairbag links stuk\nstuurairbag stuk\nchassis oké\ncoolers oké",
-      "slug": "cla-klasse-180-business-solution-amg-180-business-solution-amg"
     },
     {
       "id": "1659179",
@@ -1439,26 +1533,6 @@
       "slug": "a4-avant-20-tdi-lease-edition-automaat-20-tdi-lease-edition-automaat"
     },
     {
-      "id": "1719043",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg",
-      "labels": [],
-      "title": "Renault Clio",
-      "type": "1.0 TCe Zen",
-      "price": "4750",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "67009",
-      "make": "Renault",
-      "model": "Clio 1.0 TCe Zen",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
-      "slug": "clio-10-tce-zen-10-tce-zen"
-    },
-    {
       "id": "1647058",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-cw-1-6i-i-motion/o/1647058",
       "image": "https://www.schadeautos.nl/cache/picture/15/1647058/d86b7abf9d4b21c304d4707d44c6632d~v170298981.jpg",
@@ -1548,30 +1622,6 @@
       "slug": "focus-15-titanium-15-titanium"
     },
     {
-      "id": "1737708",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg",
-      "labels": [
-        "exportprijs€ 3.200"
-      ],
-      "title": "Opel Corsa",
-      "type": "1.2 Elegance",
-      "price": "4250",
-      "year": "2022",
-      "fuelType": "benzine",
-      "mileage": "120943",
-      "make": "Opel",
-      "model": "Corsa 1.2 Elegance",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3200",
-      "engineSize": "1199 CC",
-      "power": "102 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "corsa-12-elegance-12-elegance"
-    },
-    {
       "id": "1735150",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-you/o/1735150",
       "image": "https://www.schadeautos.nl/cache/picture/15/1735150/6107a81bbf0f5802e6ee3d9044dbc576~v168257883.jpg",
@@ -1616,44 +1666,6 @@
       "color": "rood",
       "damage": "bumper\nbumper\nonderschade\nparkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "tourneo-courier-10-titanium-10-titanium"
-    },
-    {
-      "id": "1702078",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg",
-      "labels": [],
-      "title": "Opel Astra",
-      "type": "SPORTS TOURER 1.4 Online Edition",
-      "price": "2999",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "134981",
-      "make": "Opel",
-      "model": "Astra SPORTS TOURER 1.4 Online Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1399 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition"
-    },
-    {
-      "id": "1534436",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-5-2-0-executive-7-persoons-met-gebruikte-onderdelen-erbij/o/1534436",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1534436/52bc90c6f5bed2315e3eec370f728a22~v106547570.jpg",
-      "labels": [],
-      "title": "Mazda 5",
-      "type": "2.0 EXECUTIVE 7 PERSOONS Met Gebruikte onderdelen erbij",
-      "price": "1400",
-      "year": "2007",
-      "fuelType": "benzine",
-      "mileage": "227315",
-      "make": "Mazda",
-      "model": "5 2.0 EXECUTIVE 7 PERSOONS Met Gebruikte onderdelen erbij",
-      "gearbox": "handgeschakeld",
-      "power": "107 kW",
-      "damage": "achterraam\nlinkerschade\nalle airbags oké\nauto kan rijdend mee\nchassis oké\nrecht op de wielen",
-      "slug": "5-20-executive-7-persoons-met-gebruikte-onderdelen-erbij-20-executive-7-persoons-met-gebruikte-onderdelen-erbij"
     },
     {
       "id": "1672358",
@@ -1846,29 +1858,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorschade\nachterklep\nachterlichten rechts\nachterruit\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "leon-12-tsi-reference-12-tsi-reference"
-    },
-    {
-      "id": "1684677",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-sports-tourer-2-0-diesel/o/1684677",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1684677/ffe74a2e4166e9afb6fff1e873a966dc~v152236644.jpg",
-      "labels": [
-        "exportprijs€ 900"
-      ],
-      "title": "Opel Insignia",
-      "type": "Sports tourer 2.0 Diesel",
-      "price": "900",
-      "year": "2011",
-      "fuelType": "diesel",
-      "mileage": "267854",
-      "make": "Opel",
-      "model": "Insignia Sports tourer 2.0 Diesel",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "900",
-      "engineSize": "1956 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nvoorscherm\nwielophanging links\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt",
-      "slug": "insignia-sports-tourer-20-diesel-sports-tourer-20-diesel"
     },
     {
       "id": "1711911",
