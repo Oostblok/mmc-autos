@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T05:51:25.197Z",
+  "updated": "2026-05-18T06:17:09.428Z",
   "cars": [
     {
       "id": "1748394",
@@ -377,27 +377,6 @@
       "slug": "combo-13-cdti-l1h1-ecoflex-13-cdti-l1h1-ecoflex"
     },
     {
-      "id": "1750605",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-fluence-z-e-dynamique-inclusief-koop-accu/o/1750605",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750605/e39d83f84b65c53877679947add66618~v172466072.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Fluence",
-      "type": "Z.E. Dynamique inclusief koop Accu",
-      "year": "2012",
-      "fuelType": "elektrisch",
-      "mileage": "76191",
-      "make": "Renault",
-      "model": "Fluence Z.E. Dynamique inclusief koop Accu",
-      "gearbox": "automaat",
-      "power": "50 kW",
-      "color": "blauw",
-      "bodyType": "sedan",
-      "damage": "parkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fluence-ze-dynamique-inclusief-koop-accu-ze-dynamique-inclusief-koop-accu"
-    },
-    {
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
@@ -547,48 +526,6 @@
       "bodyType": "hatchback",
       "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "fiesta-125-s-edition-125-s-edition"
-    },
-    {
-      "id": "1768463",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-outlander-2-0-comfort-schadevrij/o/1768463",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1768463/aa69566fb5f12db845ae71ac4f9691b3~v177561660.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mitsubishi Outlander",
-      "type": "2.0 Comfort schadevrij",
-      "year": "2003",
-      "fuelType": "benzine",
-      "mileage": "248190",
-      "make": "Mitsubishi",
-      "model": "Outlander 2.0 Comfort schadevrij",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1997 CC",
-      "color": "blauw",
-      "bodyType": "suv / terreinwagen",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "outlander-20-comfort-schadevrij-20-comfort-schadevrij"
-    },
-    {
-      "id": "1768449",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1768449",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1768449/3ad9097460b4c98acdfe34afdd404710~v177561158.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 2008",
-      "type": "1.2 PureTech Blue Lion",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "96876",
-      "make": "Peugeot",
-      "model": "2008 1.2 PureTech Blue Lion",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
     },
     {
       "id": "1768446",
