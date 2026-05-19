@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T06:17:09.428Z",
+  "updated": "2026-05-19T06:10:36.121Z",
   "cars": [
     {
       "id": "1748394",
@@ -207,11 +207,10 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-sports-tourer-2-0-diesel/o/1684677",
       "image": "https://www.schadeautos.nl/cache/picture/15/1684677/ffe74a2e4166e9afb6fff1e873a966dc~v152236644.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Opel Insignia",
       "type": "Sports tourer 2.0 Diesel",
-      "price": "775",
       "year": "2011",
       "fuelType": "diesel",
       "mileage": "267854",
