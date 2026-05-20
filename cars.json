@@ -1,12 +1,127 @@
 {
-  "updated": "2026-05-19T06:10:36.121Z",
+  "updated": "2026-05-20T06:10:10.001Z",
   "cars": [
+    {
+      "id": "1773310",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-rx-450h-4wd-f-sport-president-line/o/1773310",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773310/2232790e1ac9d67a0ee91ffd6fc5daab~v179184324.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Lexus RX",
+      "type": "450h 4WD F-Sport President Line",
+      "year": "2017",
+      "fuelType": "hybride benzine",
+      "mileage": "243160",
+      "make": "Lexus",
+      "model": "RX 450h 4WD F-Sport President Line",
+      "gearbox": "automaat",
+      "engineSize": "3456 CC",
+      "power": "193 kW",
+      "color": "zwart",
+      "bodyType": "mpv",
+      "damage": "bumper\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nwielophanging links\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
+      "slug": "rx-450h-4wd-f-sport-president-line-450h-4wd-f-sport-president-line"
+    },
+    {
+      "id": "1773293",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-automaat-180-business-solution-amg/o/1773293",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773293/2002d6c1bdb5d71ab8bff6536fc6ca49~v179178132.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.300"
+      ],
+      "title": "Mercedes A‑klasse",
+      "type": "Automaat 180 Business Solution AMG",
+      "price": "6500",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "229292",
+      "make": "Mercedes",
+      "model": "A-klasse Automaat 180 Business Solution AMG",
+      "gearbox": "automaat",
+      "exportPrice": "5300",
+      "engineSize": "1595 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a-klasse-automaat-180-business-solution-amg-automaat-180-business-solution-amg"
+    },
+    {
+      "id": "1773286",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/8bcec28f12097228efd774c3ae7be6c8~v179177288.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Crossland",
+      "type": "X 1.2 Turbo Innovation",
+      "price": "4500",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "57707",
+      "make": "Opel",
+      "model": "Crossland X 1.2 Turbo Innovation",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
+      "slug": "crossland-x-12-turbo-innovation-x-12-turbo-innovation"
+    },
+    {
+      "id": "1773281",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-1-4-tfsi-attraction-pro-line-business/o/1773281",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773281/9bf0c19cc67ee16acf8e4d9afe39719e~v179176848.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.450"
+      ],
+      "title": "Audi A3",
+      "type": "1.4 TFSI Attraction Pro Line Business",
+      "price": "2750",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "207798",
+      "make": "Audi",
+      "model": "A3 1.4 TFSI Attraction Pro Line Business",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2450",
+      "engineSize": "1390 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "a3-14-tfsi-attraction-pro-line-business-14-tfsi-attraction-pro-line-business"
+    },
+    {
+      "id": "1773278",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-admired/o/1773278",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773278/5e94d25d711e69ea1baa6b925e7bb60e~v179176429.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.250"
+      ],
+      "title": "Audi A1",
+      "type": "SPORTBACK 1.2 TFSI Admired",
+      "price": "3600",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "223853",
+      "make": "Audi",
+      "model": "A1 SPORTBACK 1.2 TFSI Admired",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3250",
+      "engineSize": "1197 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a1-sportback-12-tfsi-admired-sportback-12-tfsi-admired"
+    },
     {
       "id": "1748394",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
       "image": "https://www.schadeautos.nl/cache/picture/15/1748394/076f0d64953cd1c5cf9af8d28087087d~v171863002.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.150"
       ],
       "title": "Mitsubishi Space‑star",
@@ -30,7 +145,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
       "image": "https://www.schadeautos.nl/cache/picture/15/1762721/2e202dec8401cd6880681f3464a60e0e~v175831980.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.685"
       ],
       "title": "Renault Clio",
@@ -54,7 +168,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
       "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.950"
       ],
       "title": "Opel Corsa",
@@ -78,9 +191,7 @@
       "id": "1719071",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-180-business-solution-amg/o/1719071",
       "image": "https://www.schadeautos.nl/cache/picture/15/1719071/6d48d6cc8ac862a3b78e4094f4ab424c~v162787009.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes Cla‑klasse",
       "type": "180 Business Solution AMG",
       "price": "4900",
@@ -101,9 +212,7 @@
       "id": "1534436",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-5-2-0-executive-7-persoons-met-gebruikte-onderdelen-erbij/o/1534436",
       "image": "https://www.schadeautos.nl/cache/picture/15/1534436/52bc90c6f5bed2315e3eec370f728a22~v106547570.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mazda 5",
       "type": "2.0 EXECUTIVE 7 PERSOONS Met Gebruikte onderdelen erbij",
       "price": "1050",
@@ -140,9 +249,7 @@
       "id": "1757206",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Lupo",
       "type": "1.4 cabrio dak",
       "price": "550",
@@ -163,7 +270,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-cross-country-2-0-t5-nordic/o/1615495",
       "image": "https://www.schadeautos.nl/cache/picture/15/1615495/8499fe31a83156735e5481b0f3bb5fb3~v131597073.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.800"
       ],
       "title": "Volvo V‑60",
@@ -184,9 +290,7 @@
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
       "image": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
       "price": "4500",
@@ -227,9 +331,7 @@
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
       "image": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.4 Online Edition",
       "price": "2750",
@@ -249,9 +351,7 @@
       "id": "1750126",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Hyundai I‑40",
       "type": "1.6 GDI Blue Business Edition",
       "price": "3900",
