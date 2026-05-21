@@ -1,6 +1,31 @@
 {
-  "updated": "2026-05-20T06:10:10.001Z",
+  "updated": "2026-05-21T06:12:43.704Z",
   "cars": [
+    {
+      "id": "1767858",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1767858/6fcd20cb6ec5172bdc0755bc7aefd8bb~v177456926.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 12.400"
+      ],
+      "title": "Audi A6 avant",
+      "type": "2.0 TFSI quattro Advance Sport",
+      "price": "13400",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "70329",
+      "make": "Audi",
+      "model": "A6 avant 2.0 TFSI quattro Advance Sport",
+      "gearbox": "automaat",
+      "exportPrice": "12400",
+      "engineSize": "1984 CC",
+      "power": "252 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "deur achter\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\ndorpel\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a6-avant-20-tfsi-quattro-advance-sport-20-tfsi-quattro-advance-sport"
+    },
     {
       "id": "1773310",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-rx-450h-4wd-f-sport-president-line/o/1773310",
@@ -456,26 +481,6 @@
       "slug": "a1-sportback-12-tfsi-pro-line-s-sportback-12-tfsi-pro-line-s"
     },
     {
-      "id": "1716538",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-3-cdti-l1h1-ecoflex/o/1716538",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1716538/2ef19bd59ccd9a15ee49ff0d4d95a6f2~v178505746.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Combo",
-      "type": "1.3 CDTi L1H1 ecoFLEX",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "192637",
-      "make": "Opel",
-      "model": "Combo 1.3 CDTi L1H1 ecoFLEX",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1248 CC",
-      "color": "wit",
-      "damage": "motorschade\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nZit een rattel in maar is rijbaar",
-      "slug": "combo-13-cdti-l1h1-ecoflex-13-cdti-l1h1-ecoflex"
-    },
-    {
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
@@ -809,30 +814,6 @@
       "slug": "saphir-465-saphir-465"
     },
     {
-      "id": "1767858",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767858/6fcd20cb6ec5172bdc0755bc7aefd8bb~v177456926.jpg",
-      "labels": [
-        "exportprijs€ 12.500"
-      ],
-      "title": "Audi A6 avant",
-      "type": "2.0 TFSI quattro Advance Sport",
-      "price": "13500",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "70329",
-      "make": "Audi",
-      "model": "A6 avant 2.0 TFSI quattro Advance Sport",
-      "gearbox": "automaat",
-      "exportPrice": "12500",
-      "engineSize": "1984 CC",
-      "power": "252 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "deur achter\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\ndorpel\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a6-avant-20-tfsi-quattro-advance-sport-20-tfsi-quattro-advance-sport"
-    },
-    {
       "id": "1767852",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-zoe-q210-zen-quickcharge-22-kwh-incl-accu/o/1767852",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767852/34507b8fb4797d00cf434a782ca5fdae~v177456255.jpg",
@@ -1115,27 +1096,6 @@
       "bodyType": "suv / terreinwagen",
       "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons"
-    },
-    {
-      "id": "1765459",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active/o/1765459",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765459/89e70687228b74afd63861c7a5d7462b~v176758006.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 2008",
-      "type": "1.2 PureTech Active",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "125718",
-      "make": "Peugeot",
-      "model": "2008 1.2 PureTech Active",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "81 kW",
-      "color": "wit",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2008-12-puretech-active-12-puretech-active"
     },
     {
       "id": "1751748",
