@@ -1,6 +1,142 @@
 {
-  "updated": "2026-05-21T06:12:43.704Z",
+  "updated": "2026-05-22T06:10:03.302Z",
   "cars": [
+    {
+      "id": "1774418",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-2-0/o/1774418",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774418/5606fe9189796e5662f7592b121aba8e~v179393814.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Peugeot Boxer",
+      "type": "2.0",
+      "price": "7500",
+      "year": "2017",
+      "fuelType": "diesel",
+      "mileage": "151063",
+      "make": "Peugeot",
+      "model": "Boxer 2.0",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1997 CC",
+      "power": "120 kW",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "boxer-20-20"
+    },
+    {
+      "id": "1774417",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-2i-i-motion/o/1774417",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774417/e18999631e920f2fc977b35780cf112a~v179393433.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.980"
+      ],
+      "title": "Hyundai I‑20",
+      "type": "1.2i i-Motion",
+      "price": "2100",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "198414",
+      "make": "Hyundai",
+      "model": "I-20 1.2i i-Motion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1980",
+      "engineSize": "1248 CC",
+      "color": "blauw",
+      "bodyType": "mpv",
+      "damage": "bumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "i-20-12i-i-motion-12i-i-motion"
+    },
+    {
+      "id": "1774416",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1774416",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774416/f32907b3e0d44c5655dedb4317d36602~v179393040.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.980"
+      ],
+      "title": "Peugeot 2008",
+      "type": "1.2 PureTech Blue Lion",
+      "price": "4500",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "95900",
+      "make": "Peugeot",
+      "model": "2008 1.2 PureTech Blue Lion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3980",
+      "engineSize": "1199 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "voorruit\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
+    },
+    {
+      "id": "1774414",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-business-27-kwh/o/1774414",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774414/bdde3b8716950277c549c2ffaa270fd2~v179392638.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Dacia Spring",
+      "type": "Business 27 kWh",
+      "price": "4750",
+      "year": "2021",
+      "fuelType": "elektrisch",
+      "mileage": "47467",
+      "make": "Dacia",
+      "model": "Spring Business 27 kWh",
+      "gearbox": "automaat",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "spring-business-27-kwh-business-27-kwh"
+    },
+    {
+      "id": "1774412",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-lt/o/1774412",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774412/124b70490673c3603e54562ca04def17~v179392266.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Chevrolet Spark",
+      "type": "1.2 16V LT",
+      "price": "1850",
+      "year": "2010",
+      "fuelType": "benzine",
+      "mileage": "148231",
+      "make": "Chevrolet",
+      "model": "Spark 1.2 16V LT",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1206 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "spark-12-16v-lt-12-16v-lt"
+    },
+    {
+      "id": "1774409",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-5-dci-expression/o/1774409",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774409/2673534a191aa493998c6410679541bc~v179391895.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Captur",
+      "type": "1.5 dCi Expression",
+      "price": "3650",
+      "year": "2014",
+      "fuelType": "diesel",
+      "mileage": "274353",
+      "make": "Renault",
+      "model": "Captur 1.5 dCi Expression",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1461 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "captur-15-dci-expression-15-dci-expression"
+    },
     {
       "id": "1767858",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
@@ -1299,10 +1435,11 @@
       "id": "1749274",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-35-2-0-tdi-l2h3/o/1749274",
       "image": "https://www.schadeautos.nl/cache/picture/15/1749274/05872aecad39da912fa39c6c7392dfd7~v172034019.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volkswagen Crafter",
       "type": "35 2.0 TDI L2H3",
-      "price": "5450",
       "year": "2012",
       "fuelType": "diesel",
       "mileage": "62675",
