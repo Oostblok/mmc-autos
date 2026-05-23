@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-22T06:10:03.302Z",
+  "updated": "2026-05-23T05:41:38.144Z",
   "cars": [
+    {
+      "id": "1774688",
+      "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/volkswagen-caddy-1-6-tdi/o/1774688",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774688/7423228466a0c50fb4de83f78b9fe09b~v179462450.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Caddy",
+      "type": "1.6 tdi",
+      "price": "2750",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "242377",
+      "make": "Volkswagen",
+      "model": "Caddy 1.6 tdi",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1598 CC",
+      "color": "blauw",
+      "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "caddy-16-tdi-16-tdi"
+    },
     {
       "id": "1774418",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-2-0/o/1774418",
@@ -189,7 +210,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-automaat-180-business-solution-amg/o/1773293",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773293/2002d6c1bdb5d71ab8bff6536fc6ca49~v179178132.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.300"
       ],
       "title": "Mercedes A‑klasse",
@@ -212,9 +232,7 @@
       "id": "1773286",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773286/8bcec28f12097228efd774c3ae7be6c8~v179177288.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Crossland",
       "type": "X 1.2 Turbo Innovation",
       "price": "4500",
@@ -235,7 +253,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-1-4-tfsi-attraction-pro-line-business/o/1773281",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773281/9bf0c19cc67ee16acf8e4d9afe39719e~v179176848.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.450"
       ],
       "title": "Audi A3",
@@ -259,7 +276,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-admired/o/1773278",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773278/5e94d25d711e69ea1baa6b925e7bb60e~v179176429.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.250"
       ],
       "title": "Audi A1",
@@ -1562,10 +1578,11 @@
       "id": "1726044",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vectra-gts-1-8-16v-executive-automaat/o/1726044",
       "image": "https://www.schadeautos.nl/cache/picture/15/1726044/abd6928e0d8cdec9389dd5dd4cb7ac7b~v164777950.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Opel Vectra",
       "type": "GTS 1.8-16V Executive Automaat",
-      "price": "800",
       "year": "2008",
       "fuelType": "benzine",
       "mileage": "222447",
