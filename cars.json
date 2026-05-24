@@ -1,16 +1,38 @@
 {
-  "updated": "2026-05-23T05:41:38.144Z",
+  "updated": "2026-05-24T06:04:10.785Z",
   "cars": [
+    {
+      "id": "1774761",
+      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/volkswagen-golf-2-0-tsi-gti-performance-dsg/o/1774761",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1774761/c858efe59451c88c7d398b32eafc7507~v179526034.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Golf",
+      "type": "2.0 TSI GTI Performance DSG",
+      "price": "14950",
+      "year": "2015",
+      "fuelType": "benzine",
+      "mileage": "121577",
+      "make": "Volkswagen",
+      "model": "Golf 2.0 TSI GTI Performance DSG",
+      "gearbox": "automaat",
+      "engineSize": "1984 CC",
+      "power": "230 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "golf-20-tsi-gti-performance-dsg-20-tsi-gti-performance-dsg"
+    },
     {
       "id": "1774688",
       "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/volkswagen-caddy-1-6-tdi/o/1774688",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774688/7423228466a0c50fb4de83f78b9fe09b~v179462450.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Volkswagen Caddy",
       "type": "1.6 tdi",
-      "price": "2750",
       "year": "2011",
       "fuelType": "diesel",
       "mileage": "242377",
@@ -163,7 +185,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767858/6fcd20cb6ec5172bdc0755bc7aefd8bb~v177456926.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 12.400"
       ],
       "title": "Audi A6 avant",
@@ -482,27 +503,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
       "slug": "clio-10-tce-zen-10-tce-zen"
-    },
-    {
-      "id": "1684677",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-sports-tourer-2-0-diesel/o/1684677",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1684677/ffe74a2e4166e9afb6fff1e873a966dc~v152236644.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Insignia",
-      "type": "Sports tourer 2.0 Diesel",
-      "year": "2011",
-      "fuelType": "diesel",
-      "mileage": "267854",
-      "make": "Opel",
-      "model": "Insignia Sports tourer 2.0 Diesel",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1956 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nvoorscherm\nwielophanging links\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt",
-      "slug": "insignia-sports-tourer-20-diesel-sports-tourer-20-diesel"
     },
     {
       "id": "1702078",
@@ -1577,7 +1577,7 @@
     {
       "id": "1726044",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vectra-gts-1-8-16v-executive-automaat/o/1726044",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1726044/abd6928e0d8cdec9389dd5dd4cb7ac7b~v164777950.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/m/1726044/4161cde1121984df288706b0d5b006ae~v164777950.jpeg",
       "labels": [
         "verkocht"
       ],
