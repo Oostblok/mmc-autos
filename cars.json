@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T06:04:10.785Z",
+  "updated": "2026-05-25T06:30:37.329Z",
   "cars": [
     {
       "id": "1774761",
@@ -48,9 +48,7 @@
       "id": "1774418",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-2-0/o/1774418",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774418/5606fe9189796e5662f7592b121aba8e~v179393814.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot Boxer",
       "type": "2.0",
       "price": "7500",
@@ -72,7 +70,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-2i-i-motion/o/1774417",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774417/e18999631e920f2fc977b35780cf112a~v179393433.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.980"
       ],
       "title": "Hyundai I‑20",
@@ -96,7 +93,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1774416",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774416/f32907b3e0d44c5655dedb4317d36602~v179393040.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.980"
       ],
       "title": "Peugeot 2008",
@@ -119,9 +115,7 @@
       "id": "1774414",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-business-27-kwh/o/1774414",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774414/bdde3b8716950277c549c2ffaa270fd2~v179392638.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Dacia Spring",
       "type": "Business 27 kWh",
       "price": "4750",
@@ -140,9 +134,7 @@
       "id": "1774412",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-lt/o/1774412",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774412/124b70490673c3603e54562ca04def17~v179392266.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Chevrolet Spark",
       "type": "1.2 16V LT",
       "price": "1850",
@@ -162,9 +154,7 @@
       "id": "1774409",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-5-dci-expression/o/1774409",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774409/2673534a191aa493998c6410679541bc~v179391895.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Captur",
       "type": "1.5 dCi Expression",
       "price": "3650",
@@ -203,28 +193,6 @@
       "bodyType": "stationwagon",
       "damage": "deur achter\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\ndorpel\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "a6-avant-20-tfsi-quattro-advance-sport-20-tfsi-quattro-advance-sport"
-    },
-    {
-      "id": "1773310",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-rx-450h-4wd-f-sport-president-line/o/1773310",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1773310/2232790e1ac9d67a0ee91ffd6fc5daab~v179184324.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Lexus RX",
-      "type": "450h 4WD F-Sport President Line",
-      "year": "2017",
-      "fuelType": "hybride benzine",
-      "mileage": "243160",
-      "make": "Lexus",
-      "model": "RX 450h 4WD F-Sport President Line",
-      "gearbox": "automaat",
-      "engineSize": "3456 CC",
-      "power": "193 kW",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "bumper\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nwielophanging links\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
-      "slug": "rx-450h-4wd-f-sport-president-line-450h-4wd-f-sport-president-line"
     },
     {
       "id": "1773293",
@@ -1577,7 +1545,7 @@
     {
       "id": "1726044",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vectra-gts-1-8-16v-executive-automaat/o/1726044",
-      "image": "https://www.schadeautos.nl/picture/15/m/1726044/4161cde1121984df288706b0d5b006ae~v164777950.jpeg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1726044/abd6928e0d8cdec9389dd5dd4cb7ac7b~v164777950.jpg",
       "labels": [
         "verkocht"
       ],
