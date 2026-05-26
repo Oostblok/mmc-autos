@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T06:30:37.329Z",
+  "updated": "2026-05-26T06:09:46.290Z",
   "cars": [
     {
       "id": "1774761",
@@ -48,10 +48,11 @@
       "id": "1774418",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-2-0/o/1774418",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774418/5606fe9189796e5662f7592b121aba8e~v179393814.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Peugeot Boxer",
       "type": "2.0",
-      "price": "7500",
       "year": "2017",
       "fuelType": "diesel",
       "mileage": "151063",
