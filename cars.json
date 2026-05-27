@@ -1,16 +1,49 @@
 {
-  "updated": "2026-05-26T06:09:46.290Z",
+  "updated": "2026-05-27T06:23:22.831Z",
   "cars": [
+    {
+      "id": "1767988",
+      "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
+      "labels": [],
+      "title": "Fendt",
+      "type": "SAPHIR 465",
+      "price": "10500",
+      "year": "2019",
+      "make": "Fendt",
+      "model": "SAPHIR 465",
+      "color": "wit",
+      "damage": "achterschade\nbumper\ncaravan is verrijdbaar\ncaravan kan rijdend mee\nchassis oké\nrecht op de wielen",
+      "slug": "saphir-465-saphir-465"
+    },
+    {
+      "id": "1765998",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-maxi-2-0-tdi-automaat-l2h1-bmt-maxi-trendline/o/1765998",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765998/66c7140b7ee8ebbc6c5aa15d11e61066~v176850858.jpg",
+      "labels": [],
+      "title": "Volkswagen Caddy maxi",
+      "type": "2.0 TDI Automaat L2H1 BMT Maxi Trendline",
+      "price": "6150",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "190609",
+      "make": "Volkswagen",
+      "model": "Caddy maxi 2.0 TDI Automaat L2H1 BMT Maxi Trendline",
+      "gearbox": "automaat",
+      "engineSize": "1968 CC",
+      "color": "zwart",
+      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
+    },
     {
       "id": "1774761",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/volkswagen-golf-2-0-tsi-gti-performance-dsg/o/1774761",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774761/c858efe59451c88c7d398b32eafc7507~v179526034.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Volkswagen Golf",
       "type": "2.0 TSI GTI Performance DSG",
-      "price": "14950",
       "year": "2015",
       "fuelType": "benzine",
       "mileage": "121577",
@@ -394,25 +427,6 @@
       "slug": "5-20-executive-7-persoons-met-gebruikte-onderdelen-erbij-20-executive-7-persoons-met-gebruikte-onderdelen-erbij"
     },
     {
-      "id": "1765998",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-maxi-2-0-tdi-automaat-l2h1-bmt-maxi-trendline/o/1765998",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765998/66c7140b7ee8ebbc6c5aa15d11e61066~v176850858.jpg",
-      "labels": [],
-      "title": "Volkswagen Caddy maxi",
-      "type": "2.0 TDI Automaat L2H1 BMT Maxi Trendline",
-      "price": "6350",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "190609",
-      "make": "Volkswagen",
-      "model": "Caddy maxi 2.0 TDI Automaat L2H1 BMT Maxi Trendline",
-      "gearbox": "automaat",
-      "engineSize": "1968 CC",
-      "color": "zwart",
-      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
-    },
-    {
       "id": "1757206",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg",
@@ -437,18 +451,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-cross-country-2-0-t5-nordic/o/1615495",
       "image": "https://www.schadeautos.nl/cache/picture/15/1615495/8499fe31a83156735e5481b0f3bb5fb3~v131597073.jpg",
       "labels": [
-        "exportprijs€ 6.800"
+        "verkocht"
       ],
       "title": "Volvo V‑60",
       "type": "CROSS COUNTRY 2.0 T5 NORDIC+",
-      "price": "8700",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "217789",
       "make": "Volvo",
       "model": "V-60 CROSS COUNTRY 2.0 T5 NORDIC+",
       "gearbox": "automaat",
-      "exportPrice": "6800",
       "power": "180 kW",
       "damage": "rechterschade\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "v-60-cross-country-20-t5-nordic-cross-country-20-t5-nordic"
@@ -918,21 +930,6 @@
       "color": "zilver",
       "damage": "motorschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nheeft motorschade maar start nog wel",
       "slug": "astra-astra-12-turbo-81kw-astra-12-turbo-81kw"
-    },
-    {
-      "id": "1767988",
-      "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
-      "labels": [],
-      "title": "Fendt",
-      "type": "SAPHIR 465",
-      "price": "10750",
-      "year": "2019",
-      "make": "Fendt",
-      "model": "SAPHIR 465",
-      "color": "wit",
-      "damage": "achterschade\nbumper\ncaravan is verrijdbaar\ncaravan kan rijdend mee\nchassis oké\nrecht op de wielen",
-      "slug": "saphir-465-saphir-465"
     },
     {
       "id": "1767852",
@@ -1415,27 +1412,6 @@
       "bodyType": "stationwagon",
       "damage": "achterscherm\ndeur achter\nvoorscherm\nachterlichten rechts\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
-    },
-    {
-      "id": "1749274",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-35-2-0-tdi-l2h3/o/1749274",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1749274/05872aecad39da912fa39c6c7392dfd7~v172034019.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Crafter",
-      "type": "35 2.0 TDI L2H3",
-      "year": "2012",
-      "fuelType": "diesel",
-      "mileage": "62675",
-      "make": "Volkswagen",
-      "model": "Crafter 35 2.0 TDI L2H3",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1968 CC",
-      "power": "163 pk",
-      "color": "wit",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nchassis oké\nrecht op de wielen",
-      "slug": "crafter-35-20-tdi-l2h3-35-20-tdi-l2h3"
     },
     {
       "id": "1700990",
