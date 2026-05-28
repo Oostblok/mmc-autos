@@ -1,6 +1,54 @@
 {
-  "updated": "2026-05-27T06:23:22.831Z",
+  "updated": "2026-05-28T06:14:43.224Z",
   "cars": [
+    {
+      "id": "1775523",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-rapid-1-2-tsi-greentech-elegance-businessline/o/1775523",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1775523/95206a431613582fc2a0b2c79da2b7e1~v179890486.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.150"
+      ],
+      "title": "Skoda Rapid",
+      "type": "1.2 TSI Greentech Elegance Businessline",
+      "price": "3650",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "107391",
+      "make": "Skoda",
+      "model": "Rapid 1.2 TSI Greentech Elegance Businessline",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3150",
+      "engineSize": "1197 CC",
+      "color": "grijs",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "rapid-12-tsi-greentech-elegance-businessline-12-tsi-greentech-elegance-businessline"
+    },
+    {
+      "id": "1775516",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-sl-stepway/o/1775516",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1775516/1636dad47f5f6ef01a7b268fa3dc0262~v179889966.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.450"
+      ],
+      "title": "Dacia Sandero",
+      "type": "0.9 TCe SL Stepway",
+      "price": "5650",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "77091",
+      "make": "Dacia",
+      "model": "Sandero 0.9 TCe SL Stepway",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4450",
+      "engineSize": "898 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "sandero-09-tce-sl-stepway-09-tce-sl-stepway"
+    },
     {
       "id": "1767988",
       "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
@@ -276,18 +324,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-1-4-tfsi-attraction-pro-line-business/o/1773281",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773281/9bf0c19cc67ee16acf8e4d9afe39719e~v179176848.jpg",
       "labels": [
-        "exportprijs€ 2.450"
+        "verkocht"
       ],
       "title": "Audi A3",
       "type": "1.4 TFSI Attraction Pro Line Business",
-      "price": "2750",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "207798",
       "make": "Audi",
       "model": "A3 1.4 TFSI Attraction Pro Line Business",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2450",
       "engineSize": "1390 CC",
       "color": "zwart",
       "bodyType": "hatchback",
@@ -509,10 +555,11 @@
       "id": "1750126",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Hyundai I‑40",
       "type": "1.6 GDI Blue Business Edition",
-      "price": "3900",
       "year": "2011",
       "fuelType": "benzine",
       "mileage": "147984",
@@ -1242,10 +1289,11 @@
       "id": "1732298",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732298/f80ed0e71c56d7bf5d66160112c0f55f~v166854033.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Fiesta",
       "type": "1.0 EcoBoost Titanium",
-      "price": "2950",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "124753",
@@ -1518,26 +1566,6 @@
       "gearbox": "handgeschakeld",
       "damage": "bumper\nvoorschade\nalle airbags oké\nauto kan rijdend mee\ncoolers oké\nrecht op de wielen",
       "slug": "ds3-12-vti-chic-12-vti-chic"
-    },
-    {
-      "id": "1726044",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vectra-gts-1-8-16v-executive-automaat/o/1726044",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1726044/abd6928e0d8cdec9389dd5dd4cb7ac7b~v164777950.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Vectra",
-      "type": "GTS 1.8-16V Executive Automaat",
-      "year": "2008",
-      "fuelType": "benzine",
-      "mileage": "222447",
-      "make": "Opel",
-      "model": "Vectra GTS 1.8-16V Executive Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1796 CC",
-      "color": "grijs",
-      "damage": "versnellingsbak defect\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "vectra-gts-18-16v-executive-automaat-gts-18-16v-executive-automaat"
     },
     {
       "id": "1696861",
