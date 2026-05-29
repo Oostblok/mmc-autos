@@ -1,24 +1,113 @@
 {
-  "updated": "2026-05-28T06:14:43.224Z",
+  "updated": "2026-05-29T06:16:35.662Z",
   "cars": [
+    {
+      "id": "1776037",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-plus-automaat-1-4-tsi-highline/o/1776037",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1776037/ee9792627077a5b12ff8f6c693d94aa2~v179982074.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.750"
+      ],
+      "title": "Volkswagen Golf plus",
+      "type": "Automaat 1.4 TSI Highline",
+      "price": "1950",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "205463",
+      "make": "Volkswagen",
+      "model": "Golf plus Automaat 1.4 TSI Highline",
+      "gearbox": "automaat",
+      "exportPrice": "1750",
+      "engineSize": "1390 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen\nbak steun enkel afgebroken",
+      "slug": "golf-plus-automaat-14-tsi-highline-automaat-14-tsi-highline"
+    },
+    {
+      "id": "1775981",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-note-1-2-connect-edition/o/1775981",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1775981/480354c11df8b3852f7240ca0504986d~v179978564.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.750"
+      ],
+      "title": "Nissan Note",
+      "type": "1.2 Connect Edition",
+      "price": "3950",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "71511",
+      "make": "Nissan",
+      "model": "Note 1.2 Connect Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3750",
+      "engineSize": "1198 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplamp links\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "note-12-connect-edition-12-connect-edition"
+    },
+    {
+      "id": "1775970",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-ecotsi-style-connect/o/1775970",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1775970/c1fe6f8f22329cd93425ee8ac559c329~v179976597.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.250"
+      ],
+      "title": "Seat Ibiza",
+      "type": "1.0 EcoTSI Style Connect",
+      "price": "4500",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "106940",
+      "make": "Seat",
+      "model": "Ibiza 1.0 EcoTSI Style Connect",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4250",
+      "engineSize": "999 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ibiza-10-ecotsi-style-connect-10-ecotsi-style-connect"
+    },
+    {
+      "id": "1775956",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline/o/1775956",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1775956/9cc8218539ba1dc8b61065f0d80d602e~v179974995.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Kia Picanto",
+      "type": "1.0 DPi ComfortLine",
+      "year": "2023",
+      "fuelType": "benzine",
+      "mileage": "136360",
+      "make": "Kia",
+      "model": "Picanto 1.0 DPi ComfortLine",
+      "gearbox": "handgeschakeld",
+      "engineSize": "998 CC",
+      "color": "wit",
+      "damage": "bumper\ndeur achter\ndeur voor\ndorpel\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "picanto-10-dpi-comfortline-10-dpi-comfortline"
+    },
     {
       "id": "1775523",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-rapid-1-2-tsi-greentech-elegance-businessline/o/1775523",
       "image": "https://www.schadeautos.nl/cache/picture/15/1775523/95206a431613582fc2a0b2c79da2b7e1~v179890486.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.150"
+        "verkocht"
       ],
       "title": "Skoda Rapid",
       "type": "1.2 TSI Greentech Elegance Businessline",
-      "price": "3650",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "107391",
       "make": "Skoda",
       "model": "Rapid 1.2 TSI Greentech Elegance Businessline",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3150",
       "engineSize": "1197 CC",
       "color": "grijs",
       "bodyType": "sedan",
@@ -104,26 +193,6 @@
       "bodyType": "hatchback",
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "golf-20-tsi-gti-performance-dsg-20-tsi-gti-performance-dsg"
-    },
-    {
-      "id": "1774688",
-      "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/volkswagen-caddy-1-6-tdi/o/1774688",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774688/7423228466a0c50fb4de83f78b9fe09b~v179462450.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Caddy",
-      "type": "1.6 tdi",
-      "year": "2011",
-      "fuelType": "diesel",
-      "mileage": "242377",
-      "make": "Volkswagen",
-      "model": "Caddy 1.6 tdi",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "color": "blauw",
-      "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "caddy-16-tdi-16-tdi"
     },
     {
       "id": "1774418",
