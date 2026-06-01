@@ -1,12 +1,11 @@
 {
-  "updated": "2026-05-31T06:21:37.254Z",
+  "updated": "2026-06-01T06:58:53.430Z",
   "cars": [
     {
       "id": "1776037",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-plus-automaat-1-4-tsi-highline/o/1776037",
       "image": "https://www.schadeautos.nl/cache/picture/15/1776037/ee9792627077a5b12ff8f6c693d94aa2~v179982074.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.750"
       ],
       "title": "Volkswagen Golf plus",
@@ -30,7 +29,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-note-1-2-connect-edition/o/1775981",
       "image": "https://www.schadeautos.nl/cache/picture/15/1775981/480354c11df8b3852f7240ca0504986d~v179978564.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.750"
       ],
       "title": "Nissan Note",
@@ -167,28 +165,6 @@
       "color": "zwart",
       "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
-    },
-    {
-      "id": "1774761",
-      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/volkswagen-golf-2-0-tsi-gti-performance-dsg/o/1774761",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774761/c858efe59451c88c7d398b32eafc7507~v179526034.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "2.0 TSI GTI Performance DSG",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "121577",
-      "make": "Volkswagen",
-      "model": "Golf 2.0 TSI GTI Performance DSG",
-      "gearbox": "automaat",
-      "engineSize": "1984 CC",
-      "power": "230 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "golf-20-tsi-gti-performance-dsg-20-tsi-gti-performance-dsg"
     },
     {
       "id": "1774417",
@@ -534,25 +510,6 @@
       "bodyType": "hatchback",
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "lupo-14-cabrio-dak-14-cabrio-dak"
-    },
-    {
-      "id": "1615495",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-cross-country-2-0-t5-nordic/o/1615495",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1615495/8499fe31a83156735e5481b0f3bb5fb3~v131597073.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo V‑60",
-      "type": "CROSS COUNTRY 2.0 T5 NORDIC+",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "217789",
-      "make": "Volvo",
-      "model": "V-60 CROSS COUNTRY 2.0 T5 NORDIC+",
-      "gearbox": "automaat",
-      "power": "180 kW",
-      "damage": "rechterschade\ndakairbag stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-60-cross-country-20-t5-nordic-cross-country-20-t5-nordic"
     },
     {
       "id": "1719043",
