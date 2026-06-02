@@ -1,6 +1,253 @@
 {
-  "updated": "2026-06-01T06:58:53.430Z",
+  "updated": "2026-06-02T06:44:18.986Z",
   "cars": [
+    {
+      "id": "1777027",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1777027/33c775f73260893a28347f0d629d684a~v180328670.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "BMW 5‑serie",
+      "type": "530i High Executive Edition Automaat",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "89899",
+      "make": "BMW",
+      "model": "5-serie 530i High Executive Edition Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1998 CC",
+      "power": "252 pk",
+      "color": "paars",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "5-serie-530i-high-executive-edition-automaat-530i-high-executive-edition-automaat"
+    },
+    {
+      "id": "1766655",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-1-4-e-tron-phev-ambition-pro-line-plus/o/1766655",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1766655/d801f8d19b7c77be8ff13740da2ead74~v176958684.jpg",
+      "labels": [],
+      "title": "Audi A3",
+      "type": "SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
+      "price": "7750",
+      "year": "2015",
+      "fuelType": "hybride benzine",
+      "mileage": "148980",
+      "make": "Audi",
+      "model": "A3 SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
+      "gearbox": "automaat",
+      "engineSize": "1395 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a3-sportback-14-e-tron-phev-ambition-pro-line-plus-sportback-14-e-tron-phev-ambition-pro-line-plus"
+    },
+    {
+      "id": "1717370",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.900"
+      ],
+      "title": "Audi A4",
+      "type": "1.8 TFSI Pro Line limousine",
+      "price": "2300",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "248188",
+      "make": "Audi",
+      "model": "A4 1.8 TFSI Pro Line limousine",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1900",
+      "engineSize": "1798 CC",
+      "color": "zwart",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
+      "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine"
+    },
+    {
+      "id": "1755080",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1755080/341e65e6933e458d6b966c3eb902dce2~v173672804.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.950"
+      ],
+      "title": "Renault Grand‑scenic",
+      "type": "1.2 TCe R-Cinéma",
+      "price": "2850",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "126205",
+      "make": "Renault",
+      "model": "Grand-scenic 1.2 TCe R-Cinéma",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1950",
+      "engineSize": "1197 CC",
+      "color": "bruin",
+      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema"
+    },
+    {
+      "id": "1755063",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-6-tdi-fr-business-intense-schadevrij/o/1755063",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1755063/f719190809c43d2a2f8f45255efdb395~v173671561.jpg",
+      "labels": [
+        "exportprijs€ 7.600"
+      ],
+      "title": "Seat Ibiza",
+      "type": "1.6 TDI FR Business Intense Schadevrij",
+      "price": "8600",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "229882",
+      "make": "Seat",
+      "model": "Ibiza 1.6 TDI FR Business Intense Schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "7600",
+      "engineSize": "1598 CC",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\n1 plekje op motorkap zie foto",
+      "slug": "ibiza-16-tdi-fr-business-intense-schadevrij-16-tdi-fr-business-intense-schadevrij"
+    },
+    {
+      "id": "1765468",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mazda CX‑9",
+      "type": "3.7 V6 automaat 4x4 7 persoons",
+      "price": "2750",
+      "year": "2007",
+      "fuelType": "benzine",
+      "make": "Mazda",
+      "model": "CX-9 3.7 V6 automaat 4x4 7 persoons",
+      "gearbox": "automaat",
+      "engineSize": "3726 CC",
+      "power": "274 pk",
+      "color": "zwart",
+      "bodyType": "suv / terreinwagen",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons"
+    },
+    {
+      "id": "1746495",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-cvvt-economyline/o/1746495",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1746495/56ed75b5cd1d98938342be5755caf5fe~v171343805.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Kia Picanto",
+      "type": "1.0 CVVT EconomyLine",
+      "price": "3200",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "163876",
+      "make": "Kia",
+      "model": "Picanto 1.0 CVVT EconomyLine",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "998 CC",
+      "color": "wit",
+      "bodyType": "mpv",
+      "damage": "bumper",
+      "slug": "picanto-10-cvvt-economyline-10-cvvt-economyline"
+    },
+    {
+      "id": "1732301",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.150"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.25 S-Edition",
+      "price": "1250",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "250665",
+      "make": "Ford",
+      "model": "Fiesta 1.25 S-Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1150",
+      "engineSize": "1242 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiesta-125-s-edition-125-s-edition"
+    },
+    {
+      "id": "1560393",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-ds3-1-2-vti-chic/o/1560393",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1560393/86e2bd1fbc85caec967ae5662fd7cbd0~v114059699.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Citroën DS3",
+      "type": "1.2 VTI CHIC",
+      "year": "2013",
+      "fuelType": "benzine",
+      "mileage": "137051",
+      "make": "Citroën",
+      "model": "DS3 1.2 VTI CHIC",
+      "gearbox": "handgeschakeld",
+      "damage": "bumper\nvoorschade\nalle airbags oké\nauto kan rijdend mee\ncoolers oké\nrecht op de wielen",
+      "slug": "ds3-12-vti-chic-12-vti-chic"
+    },
+    {
+      "id": "1741113",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-automaat/o/1741113",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1741113/2cf2ef79b7616f7b9ca5a0615209443d~v169793429.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "BMW 5‑serie",
+      "type": "530i High Executive Automaat",
+      "price": "9900",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "154064",
+      "make": "BMW",
+      "model": "5-serie 530i High Executive Automaat",
+      "gearbox": "automaat",
+      "engineSize": "2996 CC",
+      "power": "272 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "achterscherm\ndeur achter\nvoorscherm\nachterlichten rechts\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
+    },
+    {
+      "id": "1691064",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ka-1-2-trend-ultimate/o/1691064",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1691064/b9f16a99b976fa85b70a3d48012310f1~v154571075.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Ford Ka+",
+      "type": "1.2 Trend Ultimate",
+      "price": "3600",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "45683",
+      "make": "Ford",
+      "model": "Ka+ 1.2 Trend Ultimate",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "1198 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nkoplamp rechts\nmotorkap\ndeur voor\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ka-12-trend-ultimate-12-trend-ultimate"
+    },
     {
       "id": "1776037",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-plus-automaat-1-4-tsi-highline/o/1776037",
@@ -29,18 +276,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-note-1-2-connect-edition/o/1775981",
       "image": "https://www.schadeautos.nl/cache/picture/15/1775981/480354c11df8b3852f7240ca0504986d~v179978564.jpg",
       "labels": [
-        "exportprijs€ 3.750"
+        "verkocht"
       ],
       "title": "Nissan Note",
       "type": "1.2 Connect Edition",
-      "price": "3950",
       "year": "2014",
       "fuelType": "benzine",
       "mileage": "71511",
       "make": "Nissan",
       "model": "Note 1.2 Connect Edition",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3750",
       "engineSize": "1198 CC",
       "color": "grijs",
       "bodyType": "mpv",
@@ -216,10 +461,11 @@
       "id": "1774414",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-business-27-kwh/o/1774414",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774414/bdde3b8716950277c549c2ffaa270fd2~v179392638.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Dacia Spring",
       "type": "Business 27 kWh",
-      "price": "4750",
       "year": "2021",
       "fuelType": "elektrisch",
       "mileage": "47467",
@@ -337,27 +583,6 @@
       "bodyType": "mpv",
       "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
       "slug": "crossland-x-12-turbo-innovation-x-12-turbo-innovation"
-    },
-    {
-      "id": "1773281",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-1-4-tfsi-attraction-pro-line-business/o/1773281",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1773281/9bf0c19cc67ee16acf8e4d9afe39719e~v179176848.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A3",
-      "type": "1.4 TFSI Attraction Pro Line Business",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "207798",
-      "make": "Audi",
-      "model": "A3 1.4 TFSI Attraction Pro Line Business",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1390 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "a3-14-tfsi-attraction-pro-line-business-14-tfsi-attraction-pro-line-business"
     },
     {
       "id": "1773278",
@@ -550,27 +775,6 @@
       "bodyType": "stationwagon",
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition"
-    },
-    {
-      "id": "1750126",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-1-6-gdi-blue-business-edition/o/1750126",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750126/d04133ab48aa39bb5089cd32ff367cb9~v172206451.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑40",
-      "type": "1.6 GDI Blue Business Edition",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "147984",
-      "make": "Hyundai",
-      "model": "I-40 1.6 GDI Blue Business Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1591 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-40-16-gdi-blue-business-edition-16-gdi-blue-business-edition"
     },
     {
       "id": "1772342",
@@ -789,29 +993,6 @@
       "slug": "transit-connect-automaat-15-ecoblue-l2-trend-automaat-15-ecoblue-l2-trend"
     },
     {
-      "id": "1732301",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732301/6935ccaf727280cecdb2f9251614b67e~v166855589.jpg",
-      "labels": [
-        "exportprijs€ 1.250"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.25 S-Edition",
-      "price": "1350",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "250665",
-      "make": "Ford",
-      "model": "Fiesta 1.25 S-Edition",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "1250",
-      "engineSize": "1242 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-125-s-edition-125-s-edition"
-    },
-    {
       "id": "1768446",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-soul-automaat-1-6-rhythm/o/1768446",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768446/bd80d8c7d3f75d64801ff6352a993f41~v177560560.jpg",
@@ -933,29 +1114,6 @@
       "gearbox": "handgeschakeld",
       "damage": "rechterschade\nalle airbags oké\nauto kan rijdend mee\nrecht op de wielen",
       "slug": "focus-10-ecoboost-10-ecoboost"
-    },
-    {
-      "id": "1746495",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-cvvt-economyline/o/1746495",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1746495/56ed75b5cd1d98938342be5755caf5fe~v171343805.jpg",
-      "labels": [
-        "exportprijs€ 3.100"
-      ],
-      "title": "Kia Picanto",
-      "type": "1.0 CVVT EconomyLine",
-      "price": "3350",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "163876",
-      "make": "Kia",
-      "model": "Picanto 1.0 CVVT EconomyLine",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3100",
-      "engineSize": "998 CC",
-      "color": "wit",
-      "bodyType": "mpv",
-      "damage": "bumper",
-      "slug": "picanto-10-cvvt-economyline-10-cvvt-economyline"
     },
     {
       "id": "1729069",
@@ -1134,26 +1292,6 @@
       "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat"
     },
     {
-      "id": "1766655",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-1-4-e-tron-phev-ambition-pro-line-plus/o/1766655",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1766655/d801f8d19b7c77be8ff13740da2ead74~v176958684.jpg",
-      "labels": [],
-      "title": "Audi A3",
-      "type": "SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
-      "price": "7950",
-      "year": "2015",
-      "fuelType": "hybride benzine",
-      "mileage": "148980",
-      "make": "Audi",
-      "model": "A3 SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
-      "gearbox": "automaat",
-      "engineSize": "1395 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a3-sportback-14-e-tron-phev-ambition-pro-line-plus-sportback-14-e-tron-phev-ambition-pro-line-plus"
-    },
-    {
       "id": "1766649",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-6-cdti-business/o/1766649",
       "image": "https://www.schadeautos.nl/cache/picture/15/1766649/5202ad1924fa1e1e5ab4a76936e549f3~v176958119.jpg",
@@ -1178,28 +1316,6 @@
       "slug": "astra-16-cdti-business-16-cdti-business"
     },
     {
-      "id": "1755080",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1755080/341e65e6933e458d6b966c3eb902dce2~v173672804.jpg",
-      "labels": [
-        "exportprijs€ 2.300"
-      ],
-      "title": "Renault Grand‑scenic",
-      "type": "1.2 TCe R-Cinéma",
-      "price": "3200",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "126205",
-      "make": "Renault",
-      "model": "Grand-scenic 1.2 TCe R-Cinéma",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2300",
-      "engineSize": "1197 CC",
-      "color": "bruin",
-      "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema"
-    },
-    {
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757969/8eec727fb7fb90ed96e8ff017c9437e5~v174467294.jpg",
@@ -1218,49 +1334,6 @@
       "bodyType": "bestelauto",
       "damage": "achterklep\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "caddy-16-tdi-maxi-bmt-16-tdi-maxi-bmt"
-    },
-    {
-      "id": "1755063",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-6-tdi-fr-business-intense-schadevrij/o/1755063",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1755063/f719190809c43d2a2f8f45255efdb395~v173671561.jpg",
-      "labels": [
-        "exportprijs€ 7.700"
-      ],
-      "title": "Seat Ibiza",
-      "type": "1.6 TDI FR Business Intense Schadevrij",
-      "price": "8700",
-      "year": "2018",
-      "fuelType": "diesel",
-      "mileage": "229882",
-      "make": "Seat",
-      "model": "Ibiza 1.6 TDI FR Business Intense Schadevrij",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "7700",
-      "engineSize": "1598 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\n1 plekje op motorkap zie foto",
-      "slug": "ibiza-16-tdi-fr-business-intense-schadevrij-16-tdi-fr-business-intense-schadevrij"
-    },
-    {
-      "id": "1765468",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg",
-      "labels": [],
-      "title": "Mazda CX‑9",
-      "type": "3.7 V6 automaat 4x4 7 persoons",
-      "price": "2950",
-      "year": "2007",
-      "fuelType": "benzine",
-      "make": "Mazda",
-      "model": "CX-9 3.7 V6 automaat 4x4 7 persoons",
-      "gearbox": "automaat",
-      "engineSize": "3726 CC",
-      "power": "274 pk",
-      "color": "zwart",
-      "bodyType": "suv / terreinwagen",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons"
     },
     {
       "id": "1751748",
@@ -1284,27 +1357,6 @@
       "bodyType": "stationwagon",
       "damage": "achterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-wagon15-ecoblue-st-line-business-focus-wagon15-ecoblue-st-line-business"
-    },
-    {
-      "id": "1732298",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-titanium/o/1732298",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732298/f80ed0e71c56d7bf5d66160112c0f55f~v166854033.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.0 EcoBoost Titanium",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "124753",
-      "make": "Ford",
-      "model": "Fiesta 1.0 EcoBoost Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "bruin",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nradiateur kapot\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-10-ecoboost-titanium-10-ecoboost-titanium"
     },
     {
       "id": "1761819",
@@ -1373,29 +1425,6 @@
       "slug": "sandero-09-tce-bi-fuel-stepway-ambiance-09-tce-bi-fuel-stepway-ambiance"
     },
     {
-      "id": "1717370",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg",
-      "labels": [
-        "exportprijs€ 2.200"
-      ],
-      "title": "Audi A4",
-      "type": "1.8 TFSI Pro Line limousine",
-      "price": "2600",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "248188",
-      "make": "Audi",
-      "model": "A4 1.8 TFSI Pro Line limousine",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2200",
-      "engineSize": "1798 CC",
-      "color": "zwart",
-      "bodyType": "sedan",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
-      "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine"
-    },
-    {
       "id": "1352628",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
       "image": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg",
@@ -1439,27 +1468,6 @@
       "bodyType": "mpv",
       "damage": "bumper\nkoplamp links\nachterscherm\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "v-40-20-d2-kinetic-automaat-20-d2-kinetic-automaat"
-    },
-    {
-      "id": "1741113",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-automaat/o/1741113",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1741113/2cf2ef79b7616f7b9ca5a0615209443d~v169793429.jpg",
-      "labels": [],
-      "title": "BMW 5‑serie",
-      "type": "530i High Executive Automaat",
-      "price": "10875",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "154064",
-      "make": "BMW",
-      "model": "5-serie 530i High Executive Automaat",
-      "gearbox": "automaat",
-      "engineSize": "2996 CC",
-      "power": "272 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\ndeur achter\nvoorscherm\nachterlichten rechts\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "5-serie-530i-high-executive-automaat-530i-high-executive-automaat"
     },
     {
       "id": "1700990",
@@ -1551,23 +1559,6 @@
       "slug": "clio-09-tce-limited-09-tce-limited-1721158"
     },
     {
-      "id": "1560393",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-ds3-1-2-vti-chic/o/1560393",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1560393/86e2bd1fbc85caec967ae5662fd7cbd0~v114059699.jpg",
-      "labels": [],
-      "title": "Citroën DS3",
-      "type": "1.2 VTI CHIC",
-      "price": "2200",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "137051",
-      "make": "Citroën",
-      "model": "DS3 1.2 VTI CHIC",
-      "gearbox": "handgeschakeld",
-      "damage": "bumper\nvoorschade\nalle airbags oké\nauto kan rijdend mee\ncoolers oké\nrecht op de wielen",
-      "slug": "ds3-12-vti-chic-12-vti-chic"
-    },
-    {
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
       "image": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg",
@@ -1608,29 +1599,6 @@
       "power": "140 kW",
       "color": "blauw",
       "slug": "xf-22-d-schadevrij-22-d-schadevrij"
-    },
-    {
-      "id": "1691064",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ka-1-2-trend-ultimate/o/1691064",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1691064/b9f16a99b976fa85b70a3d48012310f1~v154571075.jpg",
-      "labels": [
-        "exportprijs€ 3.300"
-      ],
-      "title": "Ford Ka+",
-      "type": "1.2 Trend Ultimate",
-      "price": "3950",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "45683",
-      "make": "Ford",
-      "model": "Ka+ 1.2 Trend Ultimate",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3300",
-      "engineSize": "1198 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nkoplamp rechts\nmotorkap\ndeur voor\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ka-12-trend-ultimate-12-trend-ultimate"
     },
     {
       "id": "1731108",
