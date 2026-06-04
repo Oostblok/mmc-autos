@@ -1,27 +1,119 @@
 {
-  "updated": "2026-06-03T06:55:06.555Z",
+  "updated": "2026-06-04T06:45:21.168Z",
   "cars": [
     {
       "id": "1777027",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
       "image": "https://www.schadeautos.nl/cache/picture/15/1777027/33c775f73260893a28347f0d629d684a~v180328670.jpg",
       "labels": [
-        "nieuw"
+        "nieuw",
+        "exportprijs€ 21.500"
       ],
       "title": "BMW 5‑serie",
       "type": "530i High Executive Edition Automaat",
+      "price": "21850",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "89899",
       "make": "BMW",
       "model": "5-serie 530i High Executive Edition Automaat",
       "gearbox": "automaat",
+      "exportPrice": "21500",
       "engineSize": "1998 CC",
       "power": "252 pk",
       "color": "paars",
       "bodyType": "sedan",
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "5-serie-530i-high-executive-edition-automaat-530i-high-executive-edition-automaat"
+    },
+    {
+      "id": "1728589",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-1-6-cosmo-7-persoons/o/1728589",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1728589/7705b834415464e37b5b4c937589ca64~v165462962.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.900"
+      ],
+      "title": "Opel Zafira",
+      "type": "1.6 Cosmo 7 Persoons",
+      "price": "1960",
+      "year": "2013",
+      "fuelType": "benzine",
+      "mileage": "203806",
+      "make": "Opel",
+      "model": "Zafira 1.6 Cosmo 7 Persoons",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1900",
+      "engineSize": "1598 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "zafira-16-cosmo-7-persoons-16-cosmo-7-persoons"
+    },
+    {
+      "id": "1761797",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-bi-fuel-stepway-ambiance/o/1761797",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1761797/acc8e935ea9d173dffb6a0454879faa5~v175643782.jpg",
+      "labels": [
+        "exportprijs€ 3.950"
+      ],
+      "title": "Dacia Sandero",
+      "type": "0.9 TCe Bi-Fuel Stepway Ambiance",
+      "price": "4550",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "160289",
+      "make": "Dacia",
+      "model": "Sandero 0.9 TCe Bi-Fuel Stepway Ambiance",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3950",
+      "engineSize": "898 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\ndeur voor\ndorpel\nvoorscherm\nachterlichten rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "sandero-09-tce-bi-fuel-stepway-ambiance-09-tce-bi-fuel-stepway-ambiance"
+    },
+    {
+      "id": "1732775",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 11.850"
+      ],
+      "title": "Mercedes E‑klasse",
+      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "price": "12500",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "170128",
+      "make": "Mercedes",
+      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
+      "gearbox": "automaat",
+      "exportPrice": "11850",
+      "engineSize": "2143 CC",
+      "power": "125 kW",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket"
+    },
+    {
+      "id": "1767988",
+      "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Fendt",
+      "type": "SAPHIR 465",
+      "price": "9800",
+      "year": "2019",
+      "make": "Fendt",
+      "model": "SAPHIR 465",
+      "color": "wit",
+      "damage": "achterschade\nbumper\ncaravan is verrijdbaar\ncaravan kan rijdend mee\nchassis oké\nrecht op de wielen",
+      "slug": "saphir-465-saphir-465"
     },
     {
       "id": "1766655",
@@ -230,18 +322,18 @@
       "image": "https://www.schadeautos.nl/cache/picture/15/1691064/b9f16a99b976fa85b70a3d48012310f1~v154571075.jpg",
       "labels": [
         "nieuw",
-        "exportprijs€ 2.950"
+        "exportprijs€ 2.750"
       ],
       "title": "Ford Ka+",
       "type": "1.2 Trend Ultimate",
-      "price": "3600",
+      "price": "3400",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "45683",
       "make": "Ford",
       "model": "Ka+ 1.2 Trend Ultimate",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2950",
+      "exportPrice": "2750",
       "engineSize": "1198 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -293,27 +385,6 @@
       "slug": "note-12-connect-edition-12-connect-edition"
     },
     {
-      "id": "1775970",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-ecotsi-style-connect/o/1775970",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1775970/c1fe6f8f22329cd93425ee8ac559c329~v179976597.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Seat Ibiza",
-      "type": "1.0 EcoTSI Style Connect",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "106940",
-      "make": "Seat",
-      "model": "Ibiza 1.0 EcoTSI Style Connect",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ibiza-10-ecotsi-style-connect-10-ecotsi-style-connect"
-    },
-    {
       "id": "1775516",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-sl-stepway/o/1775516",
       "image": "https://www.schadeautos.nl/cache/picture/15/1775516/1636dad47f5f6ef01a7b268fa3dc0262~v179889966.jpg",
@@ -335,21 +406,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "sandero-09-tce-sl-stepway-09-tce-sl-stepway"
-    },
-    {
-      "id": "1767988",
-      "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
-      "labels": [],
-      "title": "Fendt",
-      "type": "SAPHIR 465",
-      "price": "10500",
-      "year": "2019",
-      "make": "Fendt",
-      "model": "SAPHIR 465",
-      "color": "wit",
-      "damage": "achterschade\nbumper\ncaravan is verrijdbaar\ncaravan kan rijdend mee\nchassis oké\nrecht op de wielen",
-      "slug": "saphir-465-saphir-465"
     },
     {
       "id": "1765998",
@@ -375,18 +431,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-2i-i-motion/o/1774417",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774417/e18999631e920f2fc977b35780cf112a~v179393433.jpg",
       "labels": [
-        "exportprijs€ 1.980"
+        "verkocht"
       ],
       "title": "Hyundai I‑20",
       "type": "1.2i i-Motion",
-      "price": "2100",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "198414",
       "make": "Hyundai",
       "model": "I-20 1.2i i-Motion",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1980",
       "engineSize": "1248 CC",
       "color": "blauw",
       "bodyType": "mpv",
@@ -440,10 +494,11 @@
       "id": "1774412",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-lt/o/1774412",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774412/124b70490673c3603e54562ca04def17~v179392266.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Chevrolet Spark",
       "type": "1.2 16V LT",
-      "price": "1850",
       "year": "2010",
       "fuelType": "benzine",
       "mileage": "148231",
@@ -889,10 +944,11 @@
       "id": "1743833",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
       "image": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Lease Trend",
-      "price": "1500",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "259695",
@@ -904,30 +960,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-10-ecoboost-lease-trend-10-ecoboost-lease-trend"
-    },
-    {
-      "id": "1732775",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
-      "labels": [
-        "exportprijs€ 12.850"
-      ],
-      "title": "Mercedes E‑klasse",
-      "type": "220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "price": "13500",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "170128",
-      "make": "Mercedes",
-      "model": "E-klasse 220 BlueTEC Ambition Avantgarde Automaat- Amg pakket",
-      "gearbox": "automaat",
-      "exportPrice": "12850",
-      "engineSize": "2143 CC",
-      "power": "125 kW",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\ndeur achter\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket-220-bluetec-ambition-avantgarde-automaat-amg-pakket"
     },
     {
       "id": "1768845",
@@ -1059,10 +1091,11 @@
       "id": "1563909",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost/o/1563909",
       "image": "https://www.schadeautos.nl/cache/picture/15/1563909/2365a82cda63690b7b7c7a3f345c3f89~v115192891.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Focus",
       "type": "1.0 ECOBOOST",
-      "price": "1700",
       "year": "2013",
       "fuelType": "benzine",
       "mileage": "175547",
@@ -1357,29 +1390,6 @@
       "bodyType": "mpv",
       "damage": "achterklep\nachterruit\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "verso-s-automaat-13-vvt-i-dynamic-automaat-13-vvt-i-dynamic"
-    },
-    {
-      "id": "1761797",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-bi-fuel-stepway-ambiance/o/1761797",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1761797/acc8e935ea9d173dffb6a0454879faa5~v175643782.jpg",
-      "labels": [
-        "exportprijs€ 4.150"
-      ],
-      "title": "Dacia Sandero",
-      "type": "0.9 TCe Bi-Fuel Stepway Ambiance",
-      "price": "4750",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "160289",
-      "make": "Dacia",
-      "model": "Sandero 0.9 TCe Bi-Fuel Stepway Ambiance",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "4150",
-      "engineSize": "898 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\ndeur voor\ndorpel\nvoorscherm\nachterlichten rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "sandero-09-tce-bi-fuel-stepway-ambiance-09-tce-bi-fuel-stepway-ambiance"
     },
     {
       "id": "1352628",
@@ -1737,29 +1747,6 @@
       "color": "zwart",
       "damage": "op de tank zit een schaafplekje zie foto",
       "slug": "xv-750-chopper-xv-750-se-chopper-xv-750-se"
-    },
-    {
-      "id": "1728589",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-1-6-cosmo-7-persoons/o/1728589",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1728589/7705b834415464e37b5b4c937589ca64~v165462962.jpg",
-      "labels": [
-        "exportprijs€ 2.390"
-      ],
-      "title": "Opel Zafira",
-      "type": "1.6 Cosmo 7 Persoons",
-      "price": "2450",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "203806",
-      "make": "Opel",
-      "model": "Zafira 1.6 Cosmo 7 Persoons",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2390",
-      "engineSize": "1598 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "zafira-16-cosmo-7-persoons-16-cosmo-7-persoons"
     },
     {
       "id": "1706950",
