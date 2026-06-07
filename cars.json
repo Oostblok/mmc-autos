@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T05:56:19.882Z",
+  "updated": "2026-06-07T06:27:03.333Z",
   "cars": [
     {
       "id": "1778370",
@@ -489,7 +489,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-1-6-cosmo-7-persoons/o/1728589",
       "image": "https://www.schadeautos.nl/cache/picture/15/1728589/7705b834415464e37b5b4c937589ca64~v165462962.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.900"
       ],
       "title": "Opel Zafira",
@@ -536,7 +535,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732775/7ec02792a32476e92a3dd28283ec34bf~v167354408.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 11.850"
       ],
       "title": "Mercedes E‑klasse",
@@ -560,9 +558,7 @@
       "id": "1767988",
       "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fendt",
       "type": "SAPHIR 465",
       "price": "9800",
@@ -728,24 +724,6 @@
       "slug": "fiesta-125-s-edition-125-s-edition"
     },
     {
-      "id": "1560393",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-ds3-1-2-vti-chic/o/1560393",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1560393/86e2bd1fbc85caec967ae5662fd7cbd0~v114059699.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Citroën DS3",
-      "type": "1.2 VTI CHIC",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "137051",
-      "make": "Citroën",
-      "model": "DS3 1.2 VTI CHIC",
-      "gearbox": "handgeschakeld",
-      "damage": "bumper\nvoorschade\nalle airbags oké\nauto kan rijdend mee\ncoolers oké\nrecht op de wielen",
-      "slug": "ds3-12-vti-chic-12-vti-chic"
-    },
-    {
       "id": "1741113",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-automaat/o/1741113",
       "image": "https://www.schadeautos.nl/cache/picture/15/1741113/2cf2ef79b7616f7b9ca5a0615209443d~v169793429.jpg",
@@ -771,7 +749,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ka-1-2-trend-ultimate/o/1691064",
       "image": "https://www.schadeautos.nl/cache/picture/15/1691064/b9f16a99b976fa85b70a3d48012310f1~v154571075.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.750"
       ],
       "title": "Ford Ka+",
@@ -812,27 +789,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen\nbak steun enkel afgebroken",
       "slug": "golf-plus-automaat-14-tsi-highline-automaat-14-tsi-highline"
-    },
-    {
-      "id": "1775981",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-note-1-2-connect-edition/o/1775981",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1775981/480354c11df8b3852f7240ca0504986d~v179978564.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Nissan Note",
-      "type": "1.2 Connect Edition",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "71511",
-      "make": "Nissan",
-      "model": "Note 1.2 Connect Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1198 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp links\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "note-12-connect-edition-12-connect-edition"
     },
     {
       "id": "1775516",
@@ -919,26 +875,6 @@
       "bodyType": "hatchback",
       "damage": "voorruit\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
-    },
-    {
-      "id": "1774414",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-business-27-kwh/o/1774414",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774414/bdde3b8716950277c549c2ffaa270fd2~v179392638.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Dacia Spring",
-      "type": "Business 27 kWh",
-      "year": "2021",
-      "fuelType": "elektrisch",
-      "mileage": "47467",
-      "make": "Dacia",
-      "model": "Spring Business 27 kWh",
-      "gearbox": "automaat",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "spring-business-27-kwh-business-27-kwh"
     },
     {
       "id": "1774412",
