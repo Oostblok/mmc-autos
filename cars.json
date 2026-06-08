@@ -1,12 +1,11 @@
 {
-  "updated": "2026-06-07T06:27:03.333Z",
+  "updated": "2026-06-08T06:45:50.578Z",
   "cars": [
     {
       "id": "1778370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-titanium/o/1778370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1778370/f82bfc9077855dd63376f3c7ee40dbfd~v180586021.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.450"
       ],
       "title": "Ford Focus",
@@ -29,9 +28,7 @@
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
       "image": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi A7",
       "type": "Sportback 3.0 TFSI quattro Pro Line plus Automaat",
       "price": "6500",
@@ -51,9 +48,7 @@
       "id": "1656899",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-0-puretech-collection/o/1656899",
       "image": "https://www.schadeautos.nl/cache/picture/15/1656899/e4a0b7120cf2934d4754f91457d66d87~v144106342.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Citroën C3",
       "type": "1.0 PureTech Collection",
       "price": "1750",
@@ -74,7 +69,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
       "image": "https://www.schadeautos.nl/cache/picture/15/1751748/095a7426760a50a96e73eb33f81467be~v172641080.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.500"
       ],
       "title": "Ford",
@@ -98,7 +92,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-2-0-d2-kinetic-automaat/o/1750636",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750636/41388373719c3b6cca398b0ebe2a81ea~v172467736.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.750"
       ],
       "title": "Volvo V‑40",
@@ -121,9 +114,7 @@
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Seat Ibiza",
       "type": "1.0 TGI Style",
       "price": "5500",
@@ -143,9 +134,7 @@
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
       "image": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
       "price": "4250",
@@ -165,9 +154,7 @@
       "id": "1719071",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-180-business-solution-amg/o/1719071",
       "image": "https://www.schadeautos.nl/cache/picture/15/1719071/6d48d6cc8ac862a3b78e4094f4ab424c~v162787009.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes Cla‑klasse",
       "type": "180 Business Solution AMG",
       "price": "4700",
@@ -209,7 +196,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-elegance/o/1756441",
       "image": "https://www.schadeautos.nl/cache/picture/15/1756441/23fff0c5406c630d8d68e822968fa13c~v174011640.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.500"
       ],
       "title": "Honda Jazz",
@@ -232,9 +218,7 @@
       "id": "1678586",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-5-titanium/o/1678586",
       "image": "https://www.schadeautos.nl/cache/picture/15/1678586/5875287632e9e33543f32dbe8b180831~v150684576.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "1.5 Titanium",
       "price": "3400",
@@ -255,7 +239,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-1-2-puretech-selection/o/1675931",
       "image": "https://www.schadeautos.nl/cache/picture/15/1675931/656a8bb1d5a4e7c965db17cb82ba582d~v150088323.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.450"
       ],
       "title": "Citroën C4",
@@ -301,7 +284,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-galaxy-2-0-tdci-lease-platinum-7-zitplaatsen/o/1711911",
       "image": "https://www.schadeautos.nl/cache/picture/15/1711911/51d85d5eb26e286351a59487c1218b5b~v160627131.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.890"
       ],
       "title": "Ford Galaxy",
@@ -325,7 +307,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-cw-1-6i-i-motion/o/1647058",
       "image": "https://www.schadeautos.nl/cache/picture/15/1647058/d86b7abf9d4b21c304d4707d44c6632d~v170298981.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.475"
       ],
       "title": "Hyundai I‑30",
@@ -349,7 +330,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-3-0-v6-premium-luxury-automaat/o/1698872",
       "image": "https://www.schadeautos.nl/cache/picture/15/1698872/6a859b67447f982d2891468a0c1d7e59~v156987824.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.350"
       ],
       "title": "Jaguar XF",
@@ -373,9 +353,7 @@
       "id": "1761819",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-1-2-tce-limited-start-stop/o/1761819",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761819/c5aadb317848737321fc277b6184f141~v175646855.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Kangoo",
       "type": "1.2 TCe Limited Start&Stop",
       "price": "2950",
@@ -395,9 +373,7 @@
       "id": "1372469",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
       "image": "https://www.schadeautos.nl/cache/picture/15/1372469/28b3cfca4a25ff6baf63eeaf57cf9205~v49751784.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Jaguar Xkr",
       "type": "4.0 V8  COUPE",
       "price": "5450",
@@ -417,7 +393,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-3-0-tdi-quattro-pro-line-automaat/o/1695009",
       "image": "https://www.schadeautos.nl/cache/picture/15/1695009/161e975cf087742ceffdfc527481252d~v155885011.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.700"
       ],
       "title": "Audi Q7",
@@ -441,7 +416,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
       "image": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.500"
       ],
       "title": "Ford Fiesta",
@@ -916,28 +890,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorkap\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "captur-15-dci-expression-15-dci-expression"
-    },
-    {
-      "id": "1767858",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-quattro-advance-sport/o/1767858",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1767858/6fcd20cb6ec5172bdc0755bc7aefd8bb~v177456926.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A6 avant",
-      "type": "2.0 TFSI quattro Advance Sport",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "70329",
-      "make": "Audi",
-      "model": "A6 avant 2.0 TFSI quattro Advance Sport",
-      "gearbox": "automaat",
-      "engineSize": "1984 CC",
-      "power": "252 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "deur achter\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\ndorpel\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a6-avant-20-tfsi-quattro-advance-sport-20-tfsi-quattro-advance-sport"
     },
     {
       "id": "1773293",
