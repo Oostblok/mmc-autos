@@ -1,23 +1,21 @@
 {
-  "updated": "2026-06-08T06:45:50.578Z",
+  "updated": "2026-06-09T06:12:09.361Z",
   "cars": [
     {
       "id": "1778370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-titanium/o/1778370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1778370/f82bfc9077855dd63376f3c7ee40dbfd~v180586021.jpg",
       "labels": [
-        "exportprijs€ 2.450"
+        "verkocht"
       ],
       "title": "Ford Focus",
       "type": "1.0 Titanium",
-      "price": "2950",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "89539",
       "make": "Ford",
       "model": "Focus 1.0 Titanium",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2450",
       "engineSize": "999 CC",
       "color": "grijs",
       "bodyType": "stationwagon",
@@ -69,18 +67,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
       "image": "https://www.schadeautos.nl/cache/picture/15/1751748/095a7426760a50a96e73eb33f81467be~v172641080.jpg",
       "labels": [
-        "exportprijs€ 7.500"
+        "verkocht"
       ],
       "title": "Ford",
       "type": "Focus Wagon1.5 EcoBlue ST Line Business",
-      "price": "8750",
       "year": "2019",
       "fuelType": "diesel",
       "mileage": "132094",
       "make": "Ford",
       "model": "Focus Wagon1.5 EcoBlue ST Line Business",
       "gearbox": "handgeschakeld",
-      "exportPrice": "7500",
       "engineSize": "1499 CC",
       "color": "grijs",
       "bodyType": "stationwagon",
@@ -807,69 +803,25 @@
       "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
     },
     {
-      "id": "1774417",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-2i-i-motion/o/1774417",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774417/e18999631e920f2fc977b35780cf112a~v179393433.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑20",
-      "type": "1.2i i-Motion",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "198414",
-      "make": "Hyundai",
-      "model": "I-20 1.2i i-Motion",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1248 CC",
-      "color": "blauw",
-      "bodyType": "mpv",
-      "damage": "bumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-20-12i-i-motion-12i-i-motion"
-    },
-    {
       "id": "1774416",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1774416",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774416/f32907b3e0d44c5655dedb4317d36602~v179393040.jpg",
       "labels": [
-        "exportprijs€ 3.980"
+        "verkocht"
       ],
       "title": "Peugeot 2008",
       "type": "1.2 PureTech Blue Lion",
-      "price": "4500",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "95900",
       "make": "Peugeot",
       "model": "2008 1.2 PureTech Blue Lion",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3980",
       "engineSize": "1199 CC",
       "color": "grijs",
       "bodyType": "hatchback",
       "damage": "voorruit\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
-    },
-    {
-      "id": "1774412",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-lt/o/1774412",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774412/124b70490673c3603e54562ca04def17~v179392266.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Chevrolet Spark",
-      "type": "1.2 16V LT",
-      "year": "2010",
-      "fuelType": "benzine",
-      "mileage": "148231",
-      "make": "Chevrolet",
-      "model": "Spark 1.2 16V LT",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1206 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "spark-12-16v-lt-12-16v-lt"
     },
     {
       "id": "1774409",
@@ -1090,18 +1042,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-0-tgdi-design-edition/o/1772342",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772342/f15dbd9579778779f0b73e285acec1b4~v178672726.jpg",
       "labels": [
-        "exportprijs€ 3.100"
+        "verkocht"
       ],
       "title": "Kia Rio",
       "type": "1.0 TGDI Design Edition",
-      "price": "3500",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "127026",
       "make": "Kia",
       "model": "Rio 1.0 TGDI Design Edition",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3100",
       "engineSize": "998 CC",
       "color": "zwart",
       "bodyType": "hatchback",
@@ -1218,27 +1168,6 @@
       "slug": "doblo-13-mj-l1h1-actual-13-mj-l1h1-actual"
     },
     {
-      "id": "1743833",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-lease-trend/o/1743833",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1743833/20fd7cdce7bb77ae9e6beb669a6948f0~v170652024.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Focus",
-      "type": "1.0 EcoBoost Lease Trend",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "259695",
-      "make": "Ford",
-      "model": "Focus 1.0 EcoBoost Lease Trend",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-10-ecoboost-lease-trend-10-ecoboost-lease-trend"
-    },
-    {
       "id": "1768845",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768845/15a5c944a83d421ff8bfb67440af40d3~v177647596.jpg",
@@ -1277,24 +1206,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "a-klasse-180-ambition-180-ambition"
-    },
-    {
-      "id": "1563909",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost/o/1563909",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1563909/2365a82cda63690b7b7c7a3f345c3f89~v115192891.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Focus",
-      "type": "1.0 ECOBOOST",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "175547",
-      "make": "Ford",
-      "model": "Focus 1.0 ECOBOOST",
-      "gearbox": "handgeschakeld",
-      "damage": "rechterschade\nalle airbags oké\nauto kan rijdend mee\nrecht op de wielen",
-      "slug": "focus-10-ecoboost-10-ecoboost"
     },
     {
       "id": "1729069",
