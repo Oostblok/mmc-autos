@@ -1,6 +1,118 @@
 {
-  "updated": "2026-06-10T06:27:04.053Z",
+  "updated": "2026-06-11T06:51:41.264Z",
   "cars": [
+    {
+      "id": "1780002",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2-business-edition/o/1780002",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1780002/0a583a49e3abd60e5ce333213bd083e7~v181088101.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.950"
+      ],
+      "title": "Opel Astra",
+      "type": "1.2 Business Edition",
+      "price": "7950",
+      "year": "2021",
+      "fuelType": "benzine",
+      "mileage": "47606",
+      "make": "Opel",
+      "model": "Astra 1.2 Business Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "6950",
+      "engineSize": "1199 CC",
+      "power": "110 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "astra-12-business-edition-12-business-edition"
+    },
+    {
+      "id": "1779999",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-300-2-0-tdci-l2-ambiente/o/1779999",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1779999/1dba6f8344326b087b27b2b8a2bb9381~v181087715.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Ford Transit",
+      "type": "300 2.0 TDCI L2 Ambiente",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "172830",
+      "make": "Ford",
+      "model": "Transit 300 2.0 TDCI L2 Ambiente",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1997 CC",
+      "power": "131 pk",
+      "color": "wit",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\ngordelspanner links stuk\nstuurairbag stuk\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-300-20-tdci-l2-ambiente-300-20-tdci-l2-ambiente"
+    },
+    {
+      "id": "1779993",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-cactus-1-2-puretech-w/o/1779993",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1779993/a54736c0e2484e18f2ddcc3693e02b15~v181087149.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Citroën C4 cactus",
+      "type": "1.2 PureTech W",
+      "price": "4950",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "108701",
+      "make": "Citroën",
+      "model": "C4 cactus 1.2 PureTech W",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "c4-cactus-12-puretech-w-12-puretech-w"
+    },
+    {
+      "id": "1779977",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kadjar-1-2-tce-bose/o/1779977",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1779977/c8dc38266ac0f76392938ef065a4cc9e~v181086670.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Renault Kadjar",
+      "type": "1.2 TCe Bose",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "122926",
+      "make": "Renault",
+      "model": "Kadjar 1.2 TCe Bose",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1197 CC",
+      "color": "blauw",
+      "damage": "deur achter\ndeur voor\ndorpel\nlinkerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "kadjar-12-tce-bose-12-tce-bose"
+    },
+    {
+      "id": "1779965",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1779965",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1779965/3573e08b57d6434a16f9b9913c74d862~v181086185.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.400"
+      ],
+      "title": "Renault Twingo",
+      "type": "1.0 SCe Collection",
+      "price": "4500",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "63081",
+      "make": "Renault",
+      "model": "Twingo 1.0 SCe Collection",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4400",
+      "engineSize": "999 CC",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "achterlichten links\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\neinddemper\nbumperbalk achter",
+      "slug": "twingo-10-sce-collection-10-sce-collection"
+    },
     {
       "id": "1778370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-titanium/o/1778370",
@@ -193,18 +305,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-elegance/o/1756441",
       "image": "https://www.schadeautos.nl/cache/picture/15/1756441/23fff0c5406c630d8d68e822968fa13c~v174011640.jpg",
       "labels": [
-        "exportprijs€ 4.500"
+        "verkocht"
       ],
       "title": "Honda Jazz",
       "type": "1.4 HYBRID Elegance",
-      "price": "4750",
       "year": "2014",
       "fuelType": "hybride benzine",
       "mileage": "79699",
       "make": "Honda",
       "model": "Jazz 1.4 HYBRID Elegance",
       "gearbox": "automaat",
-      "exportPrice": "4500",
       "engineSize": "1339 CC",
       "color": "wit",
       "bodyType": "hatchback",
