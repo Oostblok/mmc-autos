@@ -1,6 +1,158 @@
 {
-  "updated": "2026-06-13T06:19:26.581Z",
+  "updated": "2026-06-14T06:43:52.710Z",
   "cars": [
+    {
+      "id": "1781155",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-traverse-3-6-v6-automaat-awd/o/1781155",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781155/a90be0ccf984f564660c090d41f3b56a~v181355374.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Chevrolet Traverse",
+      "type": "3.6 V6 Automaat AWD",
+      "price": "12990",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "153678",
+      "make": "Chevrolet",
+      "model": "Traverse 3.6 V6 Automaat AWD",
+      "gearbox": "automaat",
+      "power": "310 pk",
+      "color": "grijs",
+      "bodyType": "suv / terreinwagen",
+      "damage": "koplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "traverse-36-v6-automaat-awd-36-v6-automaat-awd"
+    },
+    {
+      "id": "1781152",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-ecotsi-fr-connect/o/1781152",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781152/596cdb298f7cacdafc5a8d227a74461f~v181354736.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Seat Ibiza",
+      "type": "1.0 EcoTSI FR Connect",
+      "price": "4750",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "105008",
+      "make": "Seat",
+      "model": "Ibiza 1.0 EcoTSI FR Connect",
+      "gearbox": "handgeschakeld",
+      "engineSize": "999 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplamp rechts\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ibiza-10-ecotsi-fr-connect-10-ecotsi-fr-connect"
+    },
+    {
+      "id": "1781150",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-expert-231s-2-0-automaat-bluehdi-180-premium-pack-dubbel-cabine/o/1781150",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781150/931f07fbd0133b0f16beafdb7de769d5~v181354027.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Peugeot Expert",
+      "type": "231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
+      "price": "7500",
+      "year": "2019",
+      "fuelType": "diesel",
+      "mileage": "237472",
+      "make": "Peugeot",
+      "model": "Expert 231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
+      "gearbox": "automaat",
+      "engineSize": "1997 CC",
+      "power": "177 pk",
+      "color": "grijs",
+      "damage": "bumper\nvoorruit\ndeur voor\nvoorscherm\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "expert-231s-20-automaat-bluehdi-180-premium-pack-dubbel-cabine-231s-20-automaat-bluehdi-180-premium-pack-dubbel-cabine"
+    },
+    {
+      "id": "1781148",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-523i-high-executive/o/1781148",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781148/8f3aa49097b13e54a1228c51683d7e73~v181353285.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.700"
+      ],
+      "title": "BMW 5‑serie",
+      "type": "523i High Executive",
+      "price": "4350",
+      "year": "2010",
+      "fuelType": "benzine",
+      "mileage": "214350",
+      "make": "BMW",
+      "model": "5-serie 523i High Executive",
+      "gearbox": "automaat",
+      "exportPrice": "3700",
+      "engineSize": "2996 CC",
+      "power": "204 pk",
+      "color": "bruin",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "5-serie-523i-high-executive-523i-high-executive"
+    },
+    {
+      "id": "1781147",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-3-vvti-terra-schadevrij/o/1781147",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781147/1e585602f7ff4655e76813d47a8eef7d~v181352587.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Toyota Yaris",
+      "type": "1.3 VVTi Terra schadevrij",
+      "year": "2008",
+      "fuelType": "benzine",
+      "mileage": "119828",
+      "make": "Toyota",
+      "model": "Yaris 1.3 VVTi Terra schadevrij",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1298 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "yaris-13-vvti-terra-schadevrij-13-vvti-terra-schadevrij"
+    },
+    {
+      "id": "1781145",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-prius-1-8-comfort/o/1781145",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781145/f58066f5caf5ddaf5627c7c9a2f70354~v181352342.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Toyota Prius",
+      "type": "1.8 Comfort",
+      "year": "2009",
+      "fuelType": "hybride benzine",
+      "mileage": "310836",
+      "make": "Toyota",
+      "model": "Prius 1.8 Comfort",
+      "gearbox": "automaat",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "prius-18-comfort-18-comfort"
+    },
+    {
+      "id": "1781142",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-combo-1-7-diesel/o/1781142",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781142/9839e36d0102f3efef8f645869c72cfe~v181351703.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Combo",
+      "type": "1.7 Diesel",
+      "price": "400",
+      "year": "1997",
+      "fuelType": "diesel",
+      "mileage": "286323",
+      "make": "Opel",
+      "model": "Combo 1.7 Diesel",
+      "gearbox": "handgeschakeld",
+      "color": "wit",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "combo-17-diesel-17-diesel"
+    },
     {
       "id": "1751748",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
@@ -236,7 +388,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2-business-edition/o/1780002",
       "image": "https://www.schadeautos.nl/cache/picture/15/1780002/0a583a49e3abd60e5ce333213bd083e7~v181088101.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.950"
       ],
       "title": "Opel Astra",
@@ -281,9 +432,7 @@
       "id": "1779993",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-cactus-1-2-puretech-w/o/1779993",
       "image": "https://www.schadeautos.nl/cache/picture/15/1779993/a54736c0e2484e18f2ddcc3693e02b15~v181087149.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Citroën C4 cactus",
       "type": "1.2 PureTech W",
       "price": "4950",
@@ -339,27 +488,6 @@
       "bodyType": "hatchback",
       "damage": "achterlichten links\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\neinddemper\nbumperbalk achter",
       "slug": "twingo-10-sce-collection-10-sce-collection"
-    },
-    {
-      "id": "1778370",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-titanium/o/1778370",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1778370/f82bfc9077855dd63376f3c7ee40dbfd~v180586021.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Focus",
-      "type": "1.0 Titanium",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "89539",
-      "make": "Ford",
-      "model": "Focus 1.0 Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\ndeur achter\nhagelschade\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-10-titanium-10-titanium"
     },
     {
       "id": "1737576",
@@ -1096,27 +1224,6 @@
       "slug": "caddy-maxi-20-tdi-automaat-l2h1-bmt-maxi-trendline-20-tdi-automaat-l2h1-bmt-maxi-trendline"
     },
     {
-      "id": "1774416",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1774416",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1774416/f32907b3e0d44c5655dedb4317d36602~v179393040.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 2008",
-      "type": "1.2 PureTech Blue Lion",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "95900",
-      "make": "Peugeot",
-      "model": "2008 1.2 PureTech Blue Lion",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "voorruit\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion"
-    },
-    {
       "id": "1774409",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-5-dci-expression/o/1774409",
       "image": "https://www.schadeautos.nl/cache/picture/15/1774409/2673534a191aa493998c6410679541bc~v179391895.jpg",
@@ -1286,27 +1393,6 @@
       "bodyType": "stationwagon",
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition"
-    },
-    {
-      "id": "1772342",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-0-tgdi-design-edition/o/1772342",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1772342/f15dbd9579778779f0b73e285acec1b4~v178672726.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Kia Rio",
-      "type": "1.0 TGDI Design Edition",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "127026",
-      "make": "Kia",
-      "model": "Rio 1.0 TGDI Design Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "rio-10-tgdi-design-edition-10-tgdi-design-edition"
     },
     {
       "id": "1772243",
