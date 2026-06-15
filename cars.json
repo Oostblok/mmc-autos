@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T06:43:52.710Z",
+  "updated": "2026-06-15T07:24:07.025Z",
   "cars": [
     {
       "id": "1781155",
@@ -591,28 +591,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
       "slug": "clio-10-tce-zen-10-tce-zen"
-    },
-    {
-      "id": "1719071",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-180-business-solution-amg/o/1719071",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719071/6d48d6cc8ac862a3b78e4094f4ab424c~v162787009.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes Cla‑klasse",
-      "type": "180 Business Solution AMG",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "63343",
-      "make": "Mercedes",
-      "model": "Cla-klasse 180 Business Solution AMG",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1595 CC",
-      "power": "122 pk",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nwielophanging links\nknieairbag links stuk\nstuurairbag stuk\nchassis oké\ncoolers oké",
-      "slug": "cla-klasse-180-business-solution-amg-180-business-solution-amg"
     },
     {
       "id": "1768446",
