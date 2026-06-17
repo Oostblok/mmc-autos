@@ -1,6 +1,53 @@
 {
-  "updated": "2026-06-16T07:29:24.199Z",
+  "updated": "2026-06-17T07:12:54.787Z",
   "cars": [
+    {
+      "id": "1696861",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mini Cooper S",
+      "type": "1.6 Chili",
+      "price": "2350",
+      "year": "2006",
+      "fuelType": "benzine",
+      "mileage": "182044",
+      "make": "Mini",
+      "model": "Cooper S 1.6 Chili",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1598 CC",
+      "power": "163 pk",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "alle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nHydraulische Koppeling functioneert niet",
+      "slug": "cooper-s-16-chili-16-chili"
+    },
+    {
+      "id": "1716876",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.350"
+      ],
+      "title": "Ford Fiesta",
+      "type": "1.5 EcoBoost ST-3",
+      "price": "7350",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "99367",
+      "make": "Ford",
+      "model": "Fiesta 1.5 EcoBoost ST-3",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "6350",
+      "engineSize": "1496 CC",
+      "power": "200 pk",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp links\nmotorkap\ndakairbag stuk\npassagierairbag stuk\nstoelairbag links stuk\nstuurairbag stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nalleen linkse dakairbag is afgegaan",
+      "slug": "fiesta-15-ecoboost-st-3-15-ecoboost-st-3"
+    },
     {
       "id": "1742532",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
@@ -125,9 +172,7 @@
       "id": "1781155",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-traverse-3-6-v6-automaat-awd/o/1781155",
       "image": "https://www.schadeautos.nl/cache/picture/15/1781155/a90be0ccf984f564660c090d41f3b56a~v181355374.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Chevrolet Traverse",
       "type": "3.6 V6 Automaat AWD",
       "price": "12990",
@@ -168,9 +213,7 @@
       "id": "1781150",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-expert-231s-2-0-automaat-bluehdi-180-premium-pack-dubbel-cabine/o/1781150",
       "image": "https://www.schadeautos.nl/cache/picture/15/1781150/931f07fbd0133b0f16beafdb7de769d5~v181354027.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot Expert",
       "type": "231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
       "price": "7500",
@@ -191,19 +234,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-523i-high-executive/o/1781148",
       "image": "https://www.schadeautos.nl/cache/picture/15/1781148/8f3aa49097b13e54a1228c51683d7e73~v181353285.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.700"
+        "verkocht"
       ],
       "title": "BMW 5‑serie",
       "type": "523i High Executive",
-      "price": "4350",
       "year": "2010",
       "fuelType": "benzine",
       "mileage": "214350",
       "make": "BMW",
       "model": "5-serie 523i High Executive",
       "gearbox": "automaat",
-      "exportPrice": "3700",
       "engineSize": "2996 CC",
       "power": "204 pk",
       "color": "bruin",
@@ -660,27 +700,6 @@
       "slug": "clio-10-tce-zen-10-tce-zen"
     },
     {
-      "id": "1768446",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-soul-automaat-1-6-rhythm/o/1768446",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1768446/bd80d8c7d3f75d64801ff6352a993f41~v177560560.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Kia Soul",
-      "type": "Automaat 1.6 Rhythm",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "168117",
-      "make": "Kia",
-      "model": "Soul Automaat 1.6 Rhythm",
-      "gearbox": "automaat",
-      "engineSize": "1591 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "achterscherm\nachterklep\nachterlichten links\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "soul-automaat-16-rhythm-automaat-16-rhythm"
-    },
-    {
       "id": "1678586",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-5-titanium/o/1678586",
       "image": "https://www.schadeautos.nl/cache/picture/15/1678586/5875287632e9e33543f32dbe8b180831~v150684576.jpg",
@@ -876,29 +895,6 @@
       "color": "blauw",
       "damage": "bumper\nkoplamp links\ndeur voor\nvoorscherm\nwielophanging links\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt",
       "slug": "q7-30-tdi-quattro-pro-line-automaat-30-tdi-quattro-pro-line-automaat"
-    },
-    {
-      "id": "1716876",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg",
-      "labels": [
-        "exportprijs€ 6.500"
-      ],
-      "title": "Ford Fiesta",
-      "type": "1.5 EcoBoost ST-3",
-      "price": "7500",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "99367",
-      "make": "Ford",
-      "model": "Fiesta 1.5 EcoBoost ST-3",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "6500",
-      "engineSize": "1496 CC",
-      "power": "200 pk",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp links\nmotorkap\ndakairbag stuk\npassagierairbag stuk\nstoelairbag links stuk\nstuurairbag stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nalleen linkse dakairbag is afgegaan",
-      "slug": "fiesta-15-ecoboost-st-3-15-ecoboost-st-3"
     },
     {
       "id": "1728589",
@@ -1159,27 +1155,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nkoplamp rechts\nmotorkap\ndeur voor\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "ka-12-trend-ultimate-12-trend-ultimate"
-    },
-    {
-      "id": "1776037",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-plus-automaat-1-4-tsi-highline/o/1776037",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1776037/ee9792627077a5b12ff8f6c693d94aa2~v179982074.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf plus",
-      "type": "Automaat 1.4 TSI Highline",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "205463",
-      "make": "Volkswagen",
-      "model": "Golf plus Automaat 1.4 TSI Highline",
-      "gearbox": "automaat",
-      "engineSize": "1390 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\ndeur voor\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen\nbak steun enkel afgebroken",
-      "slug": "golf-plus-automaat-14-tsi-highline-automaat-14-tsi-highline"
     },
     {
       "id": "1775516",
@@ -1782,27 +1757,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\ngordelspanner rechts stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "clio-09-tce-limited-09-tce-limited-1721158"
-    },
-    {
-      "id": "1696861",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg",
-      "labels": [],
-      "title": "Mini Cooper S",
-      "type": "1.6 Chili",
-      "price": "2500",
-      "year": "2006",
-      "fuelType": "benzine",
-      "mileage": "182044",
-      "make": "Mini",
-      "model": "Cooper S 1.6 Chili",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "power": "163 pk",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "alle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nHydraulische Koppeling functioneert niet",
-      "slug": "cooper-s-16-chili-16-chili"
     },
     {
       "id": "1627062",
