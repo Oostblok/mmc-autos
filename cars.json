@@ -1,16 +1,15 @@
 {
-  "updated": "2026-06-19T07:08:43.279Z",
+  "updated": "2026-06-20T06:23:56.303Z",
   "cars": [
     {
       "id": "1782800",
       "link": "https://www.schadeautos.nl/nl/schade/campers/fiat-camper-ducato-3-0-automaat/o/1782800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1782800/aa793d88bd260db7990e7d62b84b94a5~v181789173.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Fiat Camper",
       "type": "Ducato 3.0 Automaat",
-      "price": "14700",
       "year": "2012",
       "fuelType": "diesel",
       "mileage": "279453",
@@ -48,9 +47,7 @@
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
       "image": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mini Cooper S",
       "type": "1.6 Chili",
       "price": "2350",
@@ -72,7 +69,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-ecoboost-st-3/o/1716876",
       "image": "https://www.schadeautos.nl/cache/picture/15/1716876/42ef25b8800913e5dddd079aa36f05a8~v162170351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.350"
       ],
       "title": "Ford Fiesta",
@@ -945,10 +941,11 @@
       "id": "1767988",
       "link": "https://www.schadeautos.nl/nl/schade/caravans/fendt-saphir-465/o/1767988",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767988/4c0e6b2e0dd284770aa81e7a160fad01~v177468543.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Fendt",
       "type": "SAPHIR 465",
-      "price": "9800",
       "year": "2019",
       "make": "Fendt",
       "model": "SAPHIR 465",
