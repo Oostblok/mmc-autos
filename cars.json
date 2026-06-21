@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T06:23:56.303Z",
+  "updated": "2026-06-21T06:53:58.437Z",
   "cars": [
     {
       "id": "1782800",
@@ -181,27 +181,6 @@
       "slug": "i-20-10-t-gdi-premium-hybrid-10-t-gdi-premium-hybrid"
     },
     {
-      "id": "1781323",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-comfort-smart-4wd/o/1781323",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781323/64d00acc8df3be904a09b8a08a50f552~v181512901.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai Tucson",
-      "type": "1.6 T-GDI PHEV Comfort Smart 4WD",
-      "year": "2021",
-      "fuelType": "hybride benzine",
-      "mileage": "97123",
-      "make": "Hyundai",
-      "model": "Tucson 1.6 T-GDI PHEV Comfort Smart 4WD",
-      "gearbox": "automaat",
-      "engineSize": "1598 CC",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "tucson-16-t-gdi-phev-comfort-smart-4wd-16-t-gdi-phev-comfort-smart-4wd"
-    },
-    {
       "id": "1781155",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-traverse-3-6-v6-automaat-awd/o/1781155",
       "image": "https://www.schadeautos.nl/cache/picture/15/1781155/a90be0ccf984f564660c090d41f3b56a~v181355374.jpg",
@@ -222,34 +201,14 @@
       "slug": "traverse-36-v6-automaat-awd-36-v6-automaat-awd"
     },
     {
-      "id": "1781152",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-ecotsi-fr-connect/o/1781152",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781152/596cdb298f7cacdafc5a8d227a74461f~v181354736.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Seat Ibiza",
-      "type": "1.0 EcoTSI FR Connect",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "105008",
-      "make": "Seat",
-      "model": "Ibiza 1.0 EcoTSI FR Connect",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp rechts\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ibiza-10-ecotsi-fr-connect-10-ecotsi-fr-connect"
-    },
-    {
       "id": "1781150",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-expert-231s-2-0-automaat-bluehdi-180-premium-pack-dubbel-cabine/o/1781150",
       "image": "https://www.schadeautos.nl/cache/picture/15/1781150/931f07fbd0133b0f16beafdb7de769d5~v181354027.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Peugeot Expert",
       "type": "231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
-      "price": "7500",
       "year": "2019",
       "fuelType": "diesel",
       "mileage": "237472",
@@ -283,25 +242,6 @@
       "bodyType": "sedan",
       "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "5-serie-523i-high-executive-523i-high-executive"
-    },
-    {
-      "id": "1781142",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-combo-1-7-diesel/o/1781142",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781142/9839e36d0102f3efef8f645869c72cfe~v181351703.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Combo",
-      "type": "1.7 Diesel",
-      "year": "1997",
-      "fuelType": "diesel",
-      "mileage": "286323",
-      "make": "Opel",
-      "model": "Combo 1.7 Diesel",
-      "gearbox": "handgeschakeld",
-      "color": "wit",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "combo-17-diesel-17-diesel"
     },
     {
       "id": "1751748",
