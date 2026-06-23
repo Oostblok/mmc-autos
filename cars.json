@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T07:26:44.786Z",
+  "updated": "2026-06-23T06:09:41.507Z",
   "cars": [
     {
       "id": "1782800",
@@ -110,28 +110,6 @@
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat"
-    },
-    {
-      "id": "1781542",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-ehybrid-life-edition/o/1781542",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781542/304b3bf70d393c87a28ab799e1924fab~v181536029.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "1.5 eHybrid Life Edition",
-      "year": "2025",
-      "fuelType": "hybride benzine",
-      "mileage": "5834",
-      "make": "Volkswagen",
-      "model": "Golf 1.5 eHybrid Life Edition",
-      "gearbox": "automaat",
-      "engineSize": "1498 CC",
-      "power": "110 kW",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\ndeur achter\ndeur voor\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "golf-15-ehybrid-life-edition-15-ehybrid-life-edition"
     },
     {
       "id": "1777027",
@@ -870,27 +848,6 @@
       "color": "wit",
       "damage": "achterschade\nbumper\ncaravan is verrijdbaar\ncaravan kan rijdend mee\nchassis oké\nrecht op de wielen",
       "slug": "saphir-465-saphir-465"
-    },
-    {
-      "id": "1766655",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-1-4-e-tron-phev-ambition-pro-line-plus/o/1766655",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1766655/d801f8d19b7c77be8ff13740da2ead74~v176958684.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A3",
-      "type": "SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
-      "year": "2015",
-      "fuelType": "hybride benzine",
-      "mileage": "148980",
-      "make": "Audi",
-      "model": "A3 SPORTBACK 1.4 e-tron PHEV Ambition Pro Line plus",
-      "gearbox": "automaat",
-      "engineSize": "1395 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a3-sportback-14-e-tron-phev-ambition-pro-line-plus-sportback-14-e-tron-phev-ambition-pro-line-plus"
     },
     {
       "id": "1717370",
