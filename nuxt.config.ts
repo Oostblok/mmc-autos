@@ -25,7 +25,7 @@ export default defineNuxtConfig({
         { property: 'og:type', content: 'website' },
         { property: 'og:site_name', content: siteName },
         { property: 'og:title', content: siteName },
-        { name: 'description', content: siteName },
+        { name: 'description', content: "MMC Auto's B.v. is de nieuwe naam van Marius vd Eijnden Auto's B.v." },
         { name: 'theme-color', content: primaryColor },
         { name: 'msapplication-navbutton-color', content: primaryColor },
         { name: 'apple-mobile-web-app-status-bar-style', content: primaryColor },
