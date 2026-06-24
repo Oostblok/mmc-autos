@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T06:09:41.507Z",
+  "updated": "2026-06-24T06:09:07.137Z",
   "cars": [
     {
       "id": "1782800",
@@ -20,28 +20,6 @@
       "color": "zwart",
       "damage": "achterscherm\ndeur achter\ndorpel\nrechterschade\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "camper-ducato-30-automaat-ducato-30-automaat"
-    },
-    {
-      "id": "1782738",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-edge-2-0-tdci-trend/o/1782738",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1782738/6348e663ba29378d6e4884885a61af6d~v181787212.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Edge",
-      "type": "2.0 TDCI Trend",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "96106",
-      "make": "Ford",
-      "model": "Edge 2.0 TDCI Trend",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1997 CC",
-      "power": "179 pk",
-      "color": "grijs",
-      "bodyType": "suv / terreinwagen",
-      "damage": "achterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "edge-20-tdci-trend-20-tdci-trend"
     },
     {
       "id": "1696861",
