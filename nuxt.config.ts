@@ -1,6 +1,6 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 
-const siteName = 'MMC Auto\'s'
+const siteName = "MMC Auto's"
 const primaryColor = '#024AB5'
 const baseURL = process.env.SITE_PREFIX || '/'
 
@@ -24,6 +24,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1, viewport-fit=cover, minimum-scale=1, user-scalable=no' },
         { property: 'og:type', content: 'website' },
         { property: 'og:site_name', content: siteName },
+        { property: 'og:title', content: siteName },
         { name: 'description', content: siteName },
         { name: 'theme-color', content: primaryColor },
         { name: 'msapplication-navbutton-color', content: primaryColor },
