@@ -50,6 +50,7 @@ jobs:
         run: pnpm generate
         env:
           NODE_ENV: production
+          SITE_URL: https://mmc-autos.com
 
       - name: Copy cars to output
         run: |

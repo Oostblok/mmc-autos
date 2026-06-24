@@ -28,11 +28,11 @@ export default defineNuxtConfig({
         { name: 'theme-color', content: primaryColor },
         { name: 'msapplication-navbutton-color', content: primaryColor },
         { name: 'apple-mobile-web-app-status-bar-style', content: primaryColor },
-	      { property: 'og:image', content: `${baseURL}og-1200x628.jpg` },
+	      { property: 'og:image', content: `${process.env.SITE_URL}/og-1200x628.jpg` },
 	      { property: 'og:width', content: '1200' },
 	      { property: 'og:height', content: '628' },
 	      { property: 'og:image:type', content: 'image/jpeg' },
-	      { property: 'og:image', content: `${baseURL}og-1080x1920.jpg` },
+	      { property: 'og:image', content: `${process.env.SITE_URL}/og-1080x1920.jpg` },
 	      { property: 'og:width', content: '1080' },
 	      { property: 'og:height', content: '1920' },
 	      { property: 'og:image:type', content: 'image/jpeg' }
