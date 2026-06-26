@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T06:09:17.358Z",
+  "updated": "2026-06-26T06:13:24.622Z",
   "cars": [
     {
       "id": "1372469",
@@ -273,27 +273,6 @@
       "bodyType": "suv / terreinwagen",
       "damage": "koplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "traverse-36-v6-automaat-awd-36-v6-automaat-awd"
-    },
-    {
-      "id": "1781150",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-expert-231s-2-0-automaat-bluehdi-180-premium-pack-dubbel-cabine/o/1781150",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781150/931f07fbd0133b0f16beafdb7de769d5~v181354027.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot Expert",
-      "type": "231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
-      "year": "2019",
-      "fuelType": "diesel",
-      "mileage": "237472",
-      "make": "Peugeot",
-      "model": "Expert 231S 2.0 AUTOMAAT BlueHDI 180 Premium Pack dubbel cabine",
-      "gearbox": "automaat",
-      "engineSize": "1997 CC",
-      "power": "177 pk",
-      "color": "grijs",
-      "damage": "bumper\nvoorruit\ndeur voor\nvoorscherm\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "expert-231s-20-automaat-bluehdi-180-premium-pack-dubbel-cabine-231s-20-automaat-bluehdi-180-premium-pack-dubbel-cabine"
     },
     {
       "id": "1751748",
