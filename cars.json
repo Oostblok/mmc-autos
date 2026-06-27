@@ -1,6 +1,31 @@
 {
-  "updated": "2026-06-26T06:13:24.622Z",
+  "updated": "2026-06-27T05:55:32.902Z",
   "cars": [
+    {
+      "id": "1784998",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-250-prestige-automaat/o/1784998",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1784998/3b4e0f3210491f29dee6cc48856d1148~v182466864.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 8.100"
+      ],
+      "title": "Mercedes C‑klasse",
+      "type": "250 Prestige Automaat",
+      "price": "8950",
+      "year": "2015",
+      "fuelType": "benzine",
+      "mileage": "154758",
+      "make": "Mercedes",
+      "model": "C-klasse 250 Prestige Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "8100",
+      "engineSize": "1991 CC",
+      "power": "211 pk",
+      "color": "zwart",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\ndakairbag stuk\ngordelspanner links stuk\nstuurairbag stuk\nrecht op de wielen",
+      "slug": "c-klasse-250-prestige-automaat-250-prestige-automaat"
+    },
     {
       "id": "1372469",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
