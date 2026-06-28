@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T05:55:32.902Z",
+  "updated": "2026-06-28T06:20:29.696Z",
   "cars": [
     {
       "id": "1784998",
@@ -30,9 +30,7 @@
       "id": "1372469",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
       "image": "https://www.schadeautos.nl/cache/picture/15/1372469/28b3cfca4a25ff6baf63eeaf57cf9205~v49751784.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Jaguar Xkr",
       "type": "4.0 V8  COUPE",
       "price": "5250",
@@ -52,7 +50,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
       "image": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.392"
       ],
       "title": "Volvo S‑60",
@@ -74,9 +71,7 @@
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
       "image": "https://www.schadeautos.nl/cache/picture/15/1752879/1a408e08654ae407b72b5c763ba49e3b~v173055772.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fiat Doblo",
       "type": "1.3 MJ L1H1 Actual",
       "price": "2950",
@@ -97,7 +92,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-pro-line-s/o/1772243",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772243/bcbfdf9ef913ca990d9318df2e7511d0~v178664507.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.550"
       ],
       "title": "Audi A1",
@@ -120,7 +114,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulia-2-0t-awd-veloce-automaat/o/1784169",
       "image": "https://www.schadeautos.nl/cache/picture/15/1784169/f28c7646b5e57ae9fc94e03b0377b666~v182296780.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 14.500"
       ],
       "title": "Alfa Romeo Giulia",
@@ -145,7 +138,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-blue-lease-premium/o/1784134",
       "image": "https://www.schadeautos.nl/cache/picture/15/1784134/fa9a570420b94c2c8b200bdd8ebe750b~v182295523.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.950"
       ],
       "title": "Peugeot 308",
