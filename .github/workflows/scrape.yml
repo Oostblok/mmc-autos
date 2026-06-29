@@ -24,33 +24,50 @@ jobs:
       - name: Install Browser Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2t64 || sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2
+          sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2t64 || sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2
+
+      - name: Cache Puppeteer
+        id: puppeteer-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.PUPPETEER_CACHE_DIR }}
+          key: ${{ runner.os }}-puppeteer-${{ hashFiles('**/pnpm-lock.yaml') }}
 
       - uses: pnpm/action-setup@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: pnpm
 
-      - name: Cache Puppeteer Binary
-        id: puppeteer-cache
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.PUPPETEER_CACHE_DIR }}
-          key: ${{ runner.os }}-puppeteer-v1-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-puppeteer-v1-
-
       - run: pnpm install
-
-      - name: Ensure Chrome is installed
-        run: pnpm exec puppeteer browsers install chrome
 
       - name: Clear old scraped data
         run: |
           mkdir -p content/cars
           rm -rf content/cars/*
+
+      - name: Debug Puppeteer cache
+        run: |
+          echo "Node:"
+          node -v
+      
+          echo "Puppeteer:"
+          pnpm exec puppeteer --version
+      
+          echo "Cache dir:"
+          echo "$PUPPETEER_CACHE_DIR"
+      
+          rm -rf "$PUPPETEER_CACHE_DIR"
+      
+          mkdir -p "$PUPPETEER_CACHE_DIR"
+      
+          ls -la "$PUPPETEER_CACHE_DIR"
+
+      - name: Install Chrome
+        run: |
+          pnpm exec puppeteer browsers install chrome
+          echo "==== Installed files ===="
+          find "$PUPPETEER_CACHE_DIR" -maxdepth 4
 
       - name: Scrape data
         run: pnpm scrape

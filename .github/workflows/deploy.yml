@@ -38,6 +38,7 @@ jobs:
         run: pnpm install
 
       - name: Download Scraped Data
+        if: github.event_name == 'repository_dispatch'
         uses: actions/download-artifact@v4
         continue-on-error: true
         with:
