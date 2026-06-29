@@ -45,8 +45,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-puppeteer-
 
+      - name: Clean Puppeteer cache
+        run: rm -rf ~/.cache/puppeteer
+
       - name: Install Chrome (Puppeteer)
-        run: pnpm exec puppeteer browsers install chrome
+        run: pnpm exec puppeteer install chrome
 
       - name: Clear old scraped data
         run: |
