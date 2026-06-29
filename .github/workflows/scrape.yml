@@ -8,17 +8,32 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     timeout-minutes: 15
 
     permissions:
       contents: write
       actions: write
 
+    env:
+      PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.cache/puppeteer
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: pnpm/action-setup@v4
+      - name: Install Browser Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2t64 || sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2
 
+      - name: Cache Puppeteer
+        id: puppeteer-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.PUPPETEER_CACHE_DIR }}
+          key: ${{ runner.os }}-puppeteer-${{ hashFiles('**/node_modules/puppeteer/package.json') }}
+
+      - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 24
@@ -26,16 +41,11 @@ jobs:
 
       - run: pnpm install
 
-      - name: Install browser dependencies
+      - name: Install Chrome Binary
+        if: steps.puppeteer-cache.outputs.cache-hit != 'true'
         run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 \
-            libcups2 libdrm2 libxkbcommon0 libxcomposite1 \
-            libxdamage1 libxext6 libxfixes3 libxrandr2 \
-            libgbm1 libpango-1.0-0 libcairo2 \
-            libasound2t64 || sudo apt-get install -y \
-            libasound2
+          rm -rf ${{ env.PUPPETEER_CACHE_DIR }}
+          pnpm exec puppeteer browsers install chrome
 
       - name: Clear old scraped data
         run: |
@@ -49,7 +59,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: car-data
-          path: |
+          path: | 
             public/cars.json
             content/cars/
           retention-days: 2
