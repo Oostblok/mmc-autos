@@ -47,7 +47,10 @@ jobs:
           rm -rf content/cars/*
 
       - name: Install Chrome Binary
-        run: pnpm exec puppeteer browsers install chrome
+        if: steps.puppeteer-cache.outputs.cache-hit != 'true'
+        run: |
+          rm -rf ${{ env.PUPPETEER_CACHE_DIR }}
+          pnpm exec puppeteer browsers install chrome
 
       - name: Scrape data
         run: pnpm scrape
