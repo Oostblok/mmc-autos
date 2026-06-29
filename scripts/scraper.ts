@@ -118,7 +118,7 @@ const scrape = async () => {
 				for (const $img of Array.from(document.querySelectorAll('#thumbs img[onclick]'))) {
 					const onclick = $img.getAttribute('onclick')
 
-					const match = onclick?.match(/showPicture\(\d+,'([^']+)'\)/)
+					const match = onclick?.match(/showPicture\([^)]*?'([^']*?picture[^']*?)'/)
 
 					if (match) {
 						images.push(new URL(match[1], location.origin).href)
