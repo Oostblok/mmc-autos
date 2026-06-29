@@ -22,7 +22,6 @@ const scrape = async () => {
 	try {
 		browser = await puppeteer.launch({
 			headless: true,
-			browser: 'chrome',
 			args: [
 				'--no-sandbox',
 				'--disable-setuid-sandbox',
