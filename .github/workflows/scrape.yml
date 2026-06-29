@@ -57,12 +57,6 @@ jobs:
           mkdir -p content/cars
           rm -rf content/cars/*
 
-      - name: Debug environment
-        run: |
-          echo "PUPPETEER_EXECUTABLE_PATH: $PUPPETEER_EXECUTABLE_PATH"
-          echo "PUPPETEER_CACHE_DIR: $PUPPETEER_CACHE_DIR"
-          ls -la $PUPPETEER_CACHE_DIR || echo "Cache dir does not exist"
-
       - name: Scrape data
         run: pnpm scrape
 
