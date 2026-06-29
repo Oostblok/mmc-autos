@@ -34,6 +34,7 @@
     "vite-plugin-vuetify": "^2.1.3"
   },
   "allowScripts": {
-    "puppeteer": true
+    "puppeteer": true,
+    "@puppeteer/browsers": true
   }
 }

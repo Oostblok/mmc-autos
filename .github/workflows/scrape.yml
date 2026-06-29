@@ -45,7 +45,7 @@ jobs:
         if: steps.puppeteer-cache.outputs.cache-hit != 'true'
         run: |
           rm -rf ${{ env.PUPPETEER_CACHE_DIR }}
-          pnpm exec puppeteer browsers install chrome
+          pnpm exec puppeteer install chrome
 
       - name: Clear old scraped data
         run: |
