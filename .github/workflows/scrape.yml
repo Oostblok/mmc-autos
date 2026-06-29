@@ -37,20 +37,6 @@ jobs:
             libasound2t64 || sudo apt-get install -y \
             libasound2
 
-      - name: Cache Puppeteer browser
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/puppeteer
-          key: ${{ runner.os }}-puppeteer-${{ hashFiles('pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-puppeteer-
-
-      - name: Clean Puppeteer cache
-        run: rm -rf ~/.cache/puppeteer
-
-      - name: Install Chrome (Puppeteer)
-        run: pnpm exec puppeteer install chrome
-
       - name: Clear old scraped data
         run: |
           mkdir -p content/cars
