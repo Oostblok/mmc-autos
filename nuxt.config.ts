@@ -6,11 +6,12 @@ const baseURL = process.env.SITE_PREFIX || '/'
 
 export default defineNuxtConfig({
   modules: [
-    '@nuxt/content',
-    '@nuxt/image',
-    '@nuxtjs/google-fonts'
+		'@nuxt/content',
+	  '@nuxt/image',
+	  '@nuxtjs/google-fonts',
+	  'nuxt-gtag'
   ],
-	ssr: false,
+  ssr: false,
   future: { compatibilityVersion: 4 },
   compatibilityDate: '2024-04-03',
   app: {
@@ -66,6 +67,10 @@ export default defineNuxtConfig({
       }
     }
   },
+	gtag: {
+		id: process.env.GOOGLE_ANALYTICS_ID || '',
+		enabled: !!process.env.GOOGLE_ANALYTICS_ID
+	},
 	css: [
 		'vuetify/styles',
 		'@mdi/font/css/materialdesignicons.css'
