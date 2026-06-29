@@ -31,7 +31,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ${{ env.PUPPETEER_CACHE_DIR }}
-          key: ${{ runner.os }}-puppeteer-${{ hashFiles('**/node_modules/puppeteer/package.json') }}
+          key: ${{ runner.os }}-puppeteer-${{ hashFiles('**/package.json') }}
 
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
