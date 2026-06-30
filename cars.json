@@ -1,6 +1,102 @@
 {
-  "updated": "2026-06-29T10:06:14.654Z",
+  "updated": "2026-06-30T06:14:44.902Z",
   "cars": [
+    {
+      "id": "1785581",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-2-0-tdi-l1h1-bmt-trendline/o/1785581",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1785581/b570b8a125b1f862bb6bec38d37a9e94~v182761269.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Caddy",
+      "type": "2.0 TDI L1H1 BMT Trendline",
+      "price": "3850",
+      "year": "2020",
+      "fuelType": "diesel",
+      "mileage": "210318",
+      "make": "Volkswagen",
+      "model": "Caddy 2.0 TDI L1H1 BMT Trendline",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1968 CC",
+      "power": "75 pk",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "caddy-20-tdi-l1h1-bmt-trendline-20-tdi-l1h1-bmt-trendline",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785581/321dc6f0808e0b185c5492a1c57a6944~v182761269.jpg"
+    },
+    {
+      "id": "1785580",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-courier-van-1-0-trend-ecoboost-s-s-benzine/o/1785580",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1785580/650d1da97b48eb5ac66ea30d18b168a8~v182760457.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Courier Van",
+      "type": "1.0 Trend EcoBoost S&S Benzine",
+      "price": "6450",
+      "year": "2022",
+      "fuelType": "benzine",
+      "mileage": "22572",
+      "make": "Ford",
+      "model": "Transit Courier Van 1.0 Trend EcoBoost S&S Benzine",
+      "gearbox": "handgeschakeld",
+      "engineSize": "998 CC",
+      "power": "101 pk",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\ngordelspanner links stuk\nstuurairbag stuk\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-courier-van-10-trend-ecoboost-sands-benzine-10-trend-ecoboost-sands-benzine",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785580/5ce6da09adc4ac8b78dc2304d1e4198c~v182760457.jpg"
+    },
+    {
+      "id": "1785577",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-golf-e/o/1785577",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1785577/45095468d75a7ecef285edaf553147cf~v182759158.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Golf",
+      "type": "GOLF - E",
+      "price": "4950",
+      "year": "2016",
+      "fuelType": "elektrisch",
+      "mileage": "137325",
+      "make": "Volkswagen",
+      "model": "Golf GOLF - E",
+      "gearbox": "automaat",
+      "power": "85 kW",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "achterklep\nachterruit\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "golf-golf-e-golf-e",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785577/ff76d0cc76baaba247f3d1edb9056536~v182759158.jpg"
+    },
+    {
+      "id": "1785575",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.950"
+      ],
+      "title": "Opel Adam",
+      "type": "1.0 Turbo Unlimited",
+      "price": "2500",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "143076",
+      "make": "Opel",
+      "model": "Adam 1.0 Turbo Unlimited",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1950",
+      "engineSize": "999 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nairbags voor stuk\nchassis oké\nrecht op de wielen",
+      "slug": "adam-10-turbo-unlimited-10-turbo-unlimited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785575/d3c36ca5b68e4376fa8a5137d310719e~v182758589.jpg"
+    },
     {
       "id": "1784998",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-250-prestige-automaat/o/1784998",
@@ -532,29 +628,6 @@
       "damage": "voorscherm\nwielophanging rechts\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-16-cdti-innovation-sports-tourer-16-cdti-innovation",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1718506/4795722249cc4d8f288925c012957937~v162516685.jpg"
-    },
-    {
-      "id": "1780002",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2-business-edition/o/1780002",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1780002/6b3d7d47387127c769b96878e2127c69~v181088101.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Astra",
-      "type": "1.2 Business Edition",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "47606",
-      "make": "Opel",
-      "model": "Astra 1.2 Business Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "110 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "astra-12-business-edition-12-business-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1780002/0a583a49e3abd60e5ce333213bd083e7~v181088101.jpg"
     },
     {
       "id": "1779993",
