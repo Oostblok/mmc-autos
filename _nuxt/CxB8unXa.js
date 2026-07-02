@@ -1,0 +1,1 @@
+import{_ as r,o as s,p as o,S as t}from"./CYi86HoV.js";const n={};function a(e,c){return s(),o("tr",null,[t(e.$slots,"default")])}const l=Object.assign(r(n,[["render",a]]),{__name:"ProseTr"});export{l as default};

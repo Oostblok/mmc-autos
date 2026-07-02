@@ -1,6 +1,76 @@
 {
-  "updated": "2026-07-01T06:29:17.550Z",
+  "updated": "2026-07-02T06:01:52.684Z",
   "cars": [
+    {
+      "id": "1786426",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-blue-lion/o/1786426",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1786426/59829646179dbf969aa5ada872770c87~v182922586.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.750"
+      ],
+      "title": "Peugeot 208",
+      "type": "1.2 PureTech Blue Lion",
+      "price": "3300",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "105175",
+      "make": "Peugeot",
+      "model": "208 1.2 PureTech Blue Lion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3750",
+      "engineSize": "1199 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorschade\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "208-12-puretech-blue-lion-12-puretech-blue-lion",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786426/70c4c6c34e1bd605745df096d91808b3~v182922586.jpg"
+    },
+    {
+      "id": "1786401",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/subaru-legacy-touring-wagon-2-0i/o/1786401",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1786401/c12d9e6103347d1d671837e8532a010f~v182920444.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Subaru Legacy",
+      "type": "Touring Wagon 2.0i",
+      "price": "1500",
+      "year": "2004",
+      "fuelType": "benzine",
+      "mileage": "358009",
+      "make": "Subaru",
+      "model": "Legacy Touring Wagon 2.0i",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1994 CC",
+      "color": "groen",
+      "bodyType": "stationwagon",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "legacy-touring-wagon-20i-touring-wagon-20i",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786401/08bd1165bc779aa0a2a9372da2a99b5a~v182920444.jpg"
+    },
+    {
+      "id": "1786399",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-0-vvti/o/1786399",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1786399/3875b01851ae0a1aeb4b5e48f39f8fc3~v182918827.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Toyota Yaris",
+      "type": "1.0 VVTi",
+      "price": "1500",
+      "year": "2007",
+      "fuelType": "benzine",
+      "mileage": "202292",
+      "make": "Toyota",
+      "model": "Yaris 1.0 VVTi",
+      "gearbox": "handgeschakeld",
+      "engineSize": "998 CC",
+      "color": "blauw",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "yaris-10-vvti-10-vvti",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786399/c06bb7fa4ee4704439dc64011d815fc7~v182918827.jpg"
+    },
     {
       "id": "1785581",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-2-0-tdi-l1h1-bmt-trendline/o/1785581",
