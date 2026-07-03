@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T06:01:52.684Z",
+  "updated": "2026-07-03T05:56:00.325Z",
   "cars": [
     {
       "id": "1786426",
@@ -75,9 +75,7 @@
       "id": "1785581",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-2-0-tdi-l1h1-bmt-trendline/o/1785581",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785581/b570b8a125b1f862bb6bec38d37a9e94~v182761269.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Caddy",
       "type": "2.0 TDI L1H1 BMT Trendline",
       "price": "3850",
@@ -99,9 +97,7 @@
       "id": "1785580",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-courier-van-1-0-trend-ecoboost-s-s-benzine/o/1785580",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785580/650d1da97b48eb5ac66ea30d18b168a8~v182760457.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Courier Van",
       "type": "1.0 Trend EcoBoost S&S Benzine",
       "price": "6450",
@@ -123,9 +119,7 @@
       "id": "1785577",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-golf-e/o/1785577",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785577/45095468d75a7ecef285edaf553147cf~v182759158.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Golf",
       "type": "GOLF - E",
       "price": "4950",
@@ -147,7 +141,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.950"
       ],
       "title": "Opel Adam",
