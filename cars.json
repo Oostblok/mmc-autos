@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-06T06:38:26.204Z",
+  "updated": "2026-07-07T06:11:41.659Z",
   "cars": [
+    {
+      "id": "1787567",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-comfortline/o/1787567",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1787567/887799e6d08a711c581b8efce84cea27~v183339132.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Volkswagen Polo",
+      "type": "1.0 TSI Comfortline",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "125624",
+      "make": "Volkswagen",
+      "model": "Polo 1.0 TSI Comfortline",
+      "gearbox": "handgeschakeld",
+      "engineSize": "999 CC",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "polo-10-tsi-comfortline-10-tsi-comfortline",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787567/cb1a53206b86544c2f4994e7038e6e20~v183339132.jpg"
+    },
     {
       "id": "1787273",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.350"
       ],
       "title": "Renault Clio",
@@ -31,9 +52,7 @@
       "id": "1787269",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-535i-executive/o/1787269",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787269/31f7be522e415bcfadf8ed6f1e234ea5~v183110176.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "BMW 5‑serie",
       "type": "535i Executive",
       "price": "8750",
@@ -55,9 +74,7 @@
       "id": "1787268",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-tdci/o/1787268",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787268/27e8a7009fe4aaa2c5d7643868ce0e6d~v183109269.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Fiesta",
       "type": "1.5 TDCi",
       "price": "2450",
@@ -79,7 +96,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-cdti-innovation/o/1787267",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787267/44d1689cd56cb349313bb858f05e58b3~v183108813.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.650"
       ],
       "title": "Opel Astra",
@@ -213,10 +229,11 @@
       "id": "1785577",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-golf-e/o/1785577",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785577/45095468d75a7ecef285edaf553147cf~v182759158.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volkswagen Golf",
       "type": "GOLF - E",
-      "price": "4950",
       "year": "2016",
       "fuelType": "elektrisch",
       "mileage": "137325",
@@ -371,18 +388,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulia-2-0t-awd-veloce-automaat/o/1784169",
       "image": "https://www.schadeautos.nl/cache/picture/15/1784169/5bdd47328e4fc64641e331b789db876d~v182296780.jpg",
       "labels": [
-        "exportprijs€ 14.500"
+        "verkocht"
       ],
       "title": "Alfa Romeo Giulia",
       "type": "2.0T AWD Veloce Automaat",
-      "price": "14750",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "122107",
       "make": "Alfa Romeo",
       "model": "Giulia 2.0T AWD Veloce Automaat",
       "gearbox": "automaat",
-      "exportPrice": "14500",
       "engineSize": "1995 CC",
       "power": "280 pk",
       "color": "grijs",
