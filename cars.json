@@ -1,6 +1,79 @@
 {
-  "updated": "2026-07-07T06:11:41.659Z",
+  "updated": "2026-07-08T05:23:36.659Z",
   "cars": [
+    {
+      "id": "1788042",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Peugeot 208",
+      "type": "1.2i",
+      "price": "6750",
+      "year": "2020",
+      "fuelType": "benzine",
+      "mileage": "49177",
+      "make": "Peugeot",
+      "model": "208 1.2i",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "power": "74 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nvoorschade\nachterklep\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "208-12i-12i",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
+    },
+    {
+      "id": "1788026",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-2-dynamic-automaat/o/1788026",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788026/a4b4c7262c977abf675cb2ce419556f3~v183425095.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Mitsubishi Space‑star",
+      "type": "1.2 Dynamic Automaat",
+      "year": "2024",
+      "fuelType": "benzine",
+      "mileage": "5244",
+      "make": "Mitsubishi",
+      "model": "Space-star 1.2 Dynamic Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1193 CC",
+      "power": "52 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "space-star-12-dynamic-automaat-12-dynamic-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788026/7ea2521f73f68d75921dc57c83eea361~v183425095.jpg"
+    },
+    {
+      "id": "1788015",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-tourer-116-bluetec-pro-extra-lang-automaat/o/1788015",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788015/3b9ad3ce38f2589aa571045771ff7a39~v183424263.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 10.500"
+      ],
+      "title": "Mercedes Vito",
+      "type": "Tourer 116 BlueTEC Pro Extra Lang Automaat",
+      "price": "12705",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "358954",
+      "make": "Mercedes",
+      "model": "Vito Tourer 116 BlueTEC Pro Extra Lang Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "10500",
+      "engineSize": "2143 CC",
+      "power": "120 kW",
+      "color": "zwart",
+      "bodyType": "mpv",
+      "damage": "achterklep\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "vito-tourer-116-bluetec-pro-extra-lang-automaat-tourer-116-bluetec-pro-extra-lang-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788015/0be885a462bb378dc37be0cc8cb95318~v183424263.jpg"
+    },
     {
       "id": "1787567",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-comfortline/o/1787567",
@@ -1076,18 +1149,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-1-6-cosmo-7-persoons/o/1728589",
       "image": "https://www.schadeautos.nl/cache/picture/15/1728589/08fbbb72f64f1e87a545acd2a3811de2~v165462962.jpg",
       "labels": [
-        "exportprijs€ 1.900"
+        "verkocht"
       ],
       "title": "Opel Zafira",
       "type": "1.6 Cosmo 7 Persoons",
-      "price": "1960",
       "year": "2013",
       "fuelType": "benzine",
       "mileage": "203806",
       "make": "Opel",
       "model": "Zafira 1.6 Cosmo 7 Persoons",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1900",
       "engineSize": "1598 CC",
       "color": "grijs",
       "bodyType": "mpv",
