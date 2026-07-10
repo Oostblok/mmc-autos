@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T06:07:26.010Z",
+  "updated": "2026-07-10T06:07:13.639Z",
   "cars": [
     {
       "id": "1732775",
@@ -262,27 +262,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787269/da7d9a860bc04dfbb5dfa64ef01a6f96~v183110176.jpg"
     },
     {
-      "id": "1787268",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-tdci/o/1787268",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1787268/27e8a7009fe4aaa2c5d7643868ce0e6d~v183109269.jpg",
-      "labels": [],
-      "title": "Ford Fiesta",
-      "type": "1.5 TDCi",
-      "price": "2450",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "203697",
-      "make": "Ford",
-      "model": "Fiesta 1.5 TDCi",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1499 CC",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiesta-15-tdci-15-tdci",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787268/3fc01967c4aef7cc530f6e78527a88c1~v183109269.jpg"
-    },
-    {
       "id": "1787267",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-cdti-innovation/o/1787267",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787267/44d1689cd56cb349313bb858f05e58b3~v183108813.jpg",
@@ -467,18 +446,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-250-prestige-automaat/o/1784998",
       "image": "https://www.schadeautos.nl/cache/picture/15/1784998/bbb294e38057cd97740ba3a43a889e5d~v182466864.jpg",
       "labels": [
-        "exportprijs€ 8.100"
+        "verkocht"
       ],
       "title": "Mercedes C‑klasse",
       "type": "250 Prestige Automaat",
-      "price": "8950",
       "year": "2015",
       "fuelType": "benzine",
       "mileage": "154758",
       "make": "Mercedes",
       "model": "C-klasse 250 Prestige Automaat",
       "gearbox": "automaat",
-      "exportPrice": "8100",
       "engineSize": "1991 CC",
       "power": "211 pk",
       "color": "zwart",
@@ -1312,18 +1289,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-25-s-edition/o/1732301",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732301/d556acee875034a12ad660b75c4e73fd~v166855589.jpg",
       "labels": [
-        "exportprijs€ 1.150"
+        "verkocht"
       ],
       "title": "Ford Fiesta",
       "type": "1.25 S-Edition",
-      "price": "1250",
       "year": "2011",
       "fuelType": "benzine",
       "mileage": "250665",
       "make": "Ford",
       "model": "Fiesta 1.25 S-Edition",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1150",
       "engineSize": "1242 CC",
       "color": "zwart",
       "bodyType": "hatchback",
