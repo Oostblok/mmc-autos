@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-17T05:17:03.594Z",
+  "updated": "2026-07-18T04:51:21.107Z",
   "cars": [
+    {
+      "id": "1672051",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-automaat-coupe-220-cdi/o/1672051",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1672051/1c2308c6d95d59186f5afd988746a394~v157066537.jpg",
+      "labels": [
+        "exportprijs€ 3.900"
+      ],
+      "title": "Mercedes C‑klasse",
+      "type": "Automaat COUPE 220 CDI",
+      "price": "4800",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "342033",
+      "make": "Mercedes",
+      "model": "C-klasse Automaat COUPE 220 CDI",
+      "gearbox": "automaat",
+      "exportPrice": "3900",
+      "engineSize": "2143 CC",
+      "color": "grijs",
+      "bodyType": "coupe",
+      "damage": "bumper\nachterklep\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nMotorkap airbag is afgegaan",
+      "slug": "c-klasse-automaat-coupe-220-cdi-automaat-coupe-220-cdi",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1672051/f20130bfa51b5922000950a0cd6636cc~v157066537.jpg"
+    },
     {
       "id": "1788042",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
@@ -693,7 +717,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
       "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v184023137.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.950"
       ],
       "title": "Ford Mondeo",
@@ -719,11 +742,10 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-comfort-plus-27-kwh/o/1790013",
       "image": "https://www.schadeautos.nl/cache/picture/15/1790013/3906e1f2f929650106b8e970cb7dea3e~v184022105.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Dacia Spring",
       "type": "Comfort Plus 27 kWh",
-      "price": "4900",
       "year": "2022",
       "fuelType": "elektrisch",
       "mileage": "65646",
@@ -740,9 +762,7 @@
       "id": "1789996",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-70-2-5t-summum-automaat/o/1789996",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789996/0dc07fb69a47958a7f4abe472095f885~v184021197.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volvo V‑70",
       "type": "2.5T Summum Automaat",
       "price": "1500",
@@ -764,7 +784,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-celerio-1-0-comfort/o/1789990",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789990/b4b3700efd4244306c53ea812273d016~v184020805.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.100"
       ],
       "title": "Suzuki Celerio",
@@ -788,9 +807,7 @@
       "id": "1789986",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-0-16v-ls-bi-fuel/o/1789986",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789986/6e24fcc78850308d78d21c795d25bded~v184020308.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Chevrolet Spark",
       "type": "1.0 16V LS Bi-Fuel",
       "price": "900",
@@ -811,7 +828,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-2-cvvt-comfortline/o/1789979",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789979/931d8603f386376bc66da63f89b21d2c~v184019927.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.900"
       ],
       "title": "Kia Rio",
@@ -880,7 +896,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
       "image": "https://www.schadeautos.nl/cache/picture/15/1742532/dc8c05b77b3f2b97f54fde3c749b98c6~v170222334.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.450"
       ],
       "title": "Alfa Romeo Giulietta",
@@ -2160,30 +2175,6 @@
       "damage": "bumper\nkoplampen\nmotorkap\nvoorscherm\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen\nMotorsteun afgebroken\nstuurbekrachtiging werkt niet",
       "slug": "swift-12-style-smart-hybrid-12-style-smart-hybrid",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1691082/17914e160da6ffcb314e9abb8c2fd43d~v154574089.jpg"
-    },
-    {
-      "id": "1672051",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-automaat-coupe-220-cdi/o/1672051",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1672051/1c2308c6d95d59186f5afd988746a394~v157066537.jpg",
-      "labels": [
-        "exportprijs€ 3.900"
-      ],
-      "title": "Mercedes C‑klasse",
-      "type": "Automaat COUPE 220 CDI",
-      "price": "4800",
-      "year": "2011",
-      "fuelType": "diesel",
-      "mileage": "342033",
-      "make": "Mercedes",
-      "model": "C-klasse Automaat COUPE 220 CDI",
-      "gearbox": "automaat",
-      "exportPrice": "3900",
-      "engineSize": "2143 CC",
-      "color": "grijs",
-      "bodyType": "coupe",
-      "damage": "bumper\nachterklep\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nMotorkap airbag is afgegaan",
-      "slug": "c-klasse-automaat-coupe-220-cdi-automaat-coupe-220-cdi",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1672051/f20130bfa51b5922000950a0cd6636cc~v157066537.jpg"
     }
   ]
 }
