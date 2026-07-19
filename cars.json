@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T04:51:21.107Z",
+  "updated": "2026-07-19T05:25:15.758Z",
   "cars": [
     {
       "id": "1672051",
@@ -645,7 +645,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-grand-c-max-1-0-titanium-7persoons/o/1659179",
       "image": "https://www.schadeautos.nl/cache/picture/15/1659179/33e42072fcfed2c008d4744b85609776~v144727378.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.950"
       ],
       "title": "Ford Grand C‑Max",
@@ -669,7 +668,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon1-5-ecoblue-st-line-business/o/1751748",
       "image": "https://www.schadeautos.nl/cache/picture/15/1751748/efb466f393e5aee9b2c3f50315cd16d9~v172641080.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.200"
       ],
       "title": "Ford Focus",
@@ -693,9 +691,7 @@
       "id": "1678586",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-5-titanium/o/1678586",
       "image": "https://www.schadeautos.nl/cache/picture/15/1678586/f9ee7b110aea2fcaa0c58120fc59515f~v150684576.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "1.5 Titanium",
       "price": "3200",
@@ -1308,7 +1304,7 @@
     {
       "id": "1781333",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-premium-hybrid/o/1781333",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781333/39c2bd8659a22d2269e515e8e132535f~v181514121.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1781333/a1601f403b7624695f291a77bd37c321~v181514121.jpg",
       "labels": [
         "exportprijs€ 6.889"
       ],
@@ -1375,7 +1371,7 @@
     {
       "id": "1772251",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1772251",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1772251/53398ea9e83632730aec62cedc9c6d4d~v178665088.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1772251/da15bb9895d3ac0a5b136bc8dd045221~v178665088.jpg",
       "labels": [
         "exportprijs€ 3.900"
       ],
@@ -1424,7 +1420,7 @@
     {
       "id": "1699124",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-2-tsi-reference/o/1699124",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1699124/99fced07c8c178e42b417c1b781a8d10~v157064241.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1699124/86af0d296e807e0f4f954aa1587cef65~v157064241.jpg",
       "labels": [],
       "title": "Seat Leon",
       "type": "1.2 TSI Reference",
@@ -1490,7 +1486,7 @@
     {
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750107/83d75aeab9e411789301418a177334bd~v172206086.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1750107/8f0bce65dd8ce9a0778caa4f80e0a3ea~v172206086.jpg",
       "labels": [],
       "title": "Seat Ibiza",
       "type": "1.0 TGI Style",
@@ -1948,7 +1944,7 @@
     {
       "id": "1700990",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1700990/8582fc0a25c8d3fac52187bda5bd055d~v157619453.jpg",
       "labels": [
         "exportprijs€ 3.700"
       ],
@@ -1997,7 +1993,7 @@
     {
       "id": "1721158",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1721158",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1721158/d7e58e9ab2fbb27a1b42a54fefd584f7~v163392676.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1721158/c00cd7578ea1cb72b7e06220f8f933f7~v163392676.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
@@ -2132,7 +2128,7 @@
     {
       "id": "1721625",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-collection/o/1721625",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1721625/7e627ac89cc94ea641e8d3b9a50041fc~v163482439.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1721625/e7eaf31fdfe5e04c43e6a5378187904d~v163482439.jpg",
       "labels": [
         "exportprijs€ 2.550"
       ],
