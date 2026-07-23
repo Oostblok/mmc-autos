@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T05:22:23.246Z",
+  "updated": "2026-07-23T05:28:38.068Z",
   "cars": [
     {
       "id": "1737708",
@@ -126,19 +126,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-talisman-1-5-dci-zen/o/1791703",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791703/6e8097bf11eb510b65077c3d42779f02~v184577337.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 5.750"
+        "verkocht"
       ],
       "title": "Renault Talisman",
       "type": "1.5 dCi Zen",
-      "price": "6750",
       "year": "2018",
       "fuelType": "diesel",
       "mileage": "168338",
       "make": "Renault",
       "model": "Talisman 1.5 dCi Zen",
       "gearbox": "handgeschakeld",
-      "exportPrice": "5750",
       "engineSize": "1461 CC",
       "power": "81 kW",
       "color": "grijs",
@@ -1063,27 +1060,6 @@
       "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "mondeo-20-tdci-titanium-automaat-20-tdci-titanium-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790021/c2d9bb67fe9eab44ea79b757a444d36b~v184023137.jpg"
-    },
-    {
-      "id": "1790013",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-comfort-plus-27-kwh/o/1790013",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1790013/3906e1f2f929650106b8e970cb7dea3e~v184022105.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Dacia Spring",
-      "type": "Comfort Plus 27 kWh",
-      "year": "2022",
-      "fuelType": "elektrisch",
-      "mileage": "65646",
-      "make": "Dacia",
-      "model": "Spring Comfort Plus 27 kWh",
-      "gearbox": "automaat",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\nachterklep\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "spring-comfort-plus-27-kwh-comfort-plus-27-kwh",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790013/e06980fe64fa310ef0f87a1467f15657~v184022105.jpg"
     },
     {
       "id": "1789996",
