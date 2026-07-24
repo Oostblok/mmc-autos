@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T05:28:38.068Z",
+  "updated": "2026-07-24T05:23:13.113Z",
   "cars": [
     {
       "id": "1737708",
@@ -55,9 +55,7 @@
       "id": "1791706",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-1-5-tdci-l2-trend-hp-automaat/o/1791706",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791706/2bcb65eb662550f9326be11dd92932f9~v184583241.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Connect",
       "type": "1.5 TDCI L2 Trend HP Automaat",
       "price": "4950",
@@ -101,9 +99,7 @@
       "id": "1791704",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-35-tfsi-s-edition-automaat-sportback/o/1791704",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791704/7ca6eb2710a2f3e7722294b8b2bbab45~v184577728.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi A3",
       "type": "35 TFSI S edition Automaat Sportback",
       "price": "8250",
@@ -170,7 +166,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-karl-1-0-ecoflex-120-jaar-edition/o/1791701",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791701/60e4692538dc15dd4a8668ce63ec176f~v184574321.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.750"
       ],
       "title": "Opel Karl",
@@ -195,7 +190,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-ltz/o/1791697",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791697/440a012070c98e513de6622b9da83641~v184573033.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 890"
       ],
       "title": "Chevrolet Spark",
@@ -243,9 +237,7 @@
       "id": "1750107",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750107/83d75aeab9e411789301418a177334bd~v172206086.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Seat Ibiza",
       "type": "1.0 TGI Style",
       "price": "5400",
@@ -267,7 +259,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.975"
       ],
       "title": "Toyota Verso S",
@@ -291,9 +282,7 @@
       "id": "1786401",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/subaru-legacy-touring-wagon-2-0i/o/1786401",
       "image": "https://www.schadeautos.nl/cache/picture/15/1786401/c12d9e6103347d1d671837e8532a010f~v182920444.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Subaru Legacy",
       "type": "Touring Wagon 2.0i",
       "price": "1150",
@@ -337,9 +326,7 @@
       "id": "1757206",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757206/3e6826d1543b049e71b25302c38b9760~v174334680.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Lupo",
       "type": "1.4 cabrio dak",
       "price": "525",
@@ -361,19 +348,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-2-0-d2-kinetic-automaat/o/1750636",
       "image": "https://www.schadeautos.nl/cache/picture/15/1750636/e615d9c11e28ee788981ff5d6d210cb3~v172467736.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.550"
+        "verkocht"
       ],
       "title": "Volvo V‑40",
       "type": "2.0 D2 Kinetic Automaat",
-      "price": "4350",
       "year": "2016",
       "fuelType": "diesel",
       "mileage": "275215",
       "make": "Volvo",
       "model": "V-40 2.0 D2 Kinetic Automaat",
       "gearbox": "automaat",
-      "exportPrice": "3550",
       "engineSize": "1969 CC",
       "color": "blauw",
       "bodyType": "mpv",
@@ -386,19 +370,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-6-cdti-business/o/1766649",
       "image": "https://www.schadeautos.nl/cache/picture/15/1766649/3cb75dc7f8549dc536c995c36dc8d370~v176958119.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 3.600"
+        "verkocht"
       ],
       "title": "Opel Astra",
       "type": "1.6 CDTI Business+",
-      "price": "3750",
       "year": "2016",
       "fuelType": "diesel",
       "mileage": "193112",
       "make": "Opel",
       "model": "Astra 1.6 CDTI Business+",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3600",
       "engineSize": "1598 CC",
       "power": "110 pk",
       "color": "rood",
@@ -907,9 +888,7 @@
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Caddy",
       "type": "1.6 TDI Maxi BMT",
       "price": "4250",
