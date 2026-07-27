@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T05:35:16.552Z",
+  "updated": "2026-07-27T05:54:00.814Z",
   "cars": [
     {
       "id": "1789986",
@@ -189,16 +189,19 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-bose/o/1792708",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792708/843b103c983cf6880c9451d975c2d509~v184900229.jpg",
       "labels": [
-        "verkocht"
+        "nieuw",
+        "exportprijs€ 5.600"
       ],
       "title": "Renault Mégane",
       "type": "1.2 TCe Bose",
+      "price": "5750",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "121201",
       "make": "Renault",
       "model": "Mégane 1.2 TCe Bose",
       "gearbox": "handgeschakeld",
+      "exportPrice": "5600",
       "engineSize": "1197 CC",
       "color": "wit",
       "bodyType": "hatchback",
@@ -302,29 +305,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791706/2d267f677008cc6d2b3883082f210deb~v184583241.jpg"
     },
     {
-      "id": "1791705",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid-launch-edition/o/1791705",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1791705/b82d2d33165b71aca900a7a3bc3b08ad~v184582142.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Fiat 500",
-      "type": "1.0 Hybrid Launch Edition",
-      "year": "2020",
-      "fuelType": "hybride benzine",
-      "mileage": "89269",
-      "make": "Fiat",
-      "model": "500 1.0 Hybrid Launch Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "power": "51 kW",
-      "color": "roze",
-      "bodyType": "hatchback",
-      "damage": "bumper\nvoorschade\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nmistlamp",
-      "slug": "500-10-hybrid-launch-edition-10-hybrid-launch-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791705/5bff6ec3eecd4b468a2f554e3315b405~v184582142.jpg"
-    },
-    {
       "id": "1791704",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-35-tfsi-s-edition-automaat-sportback/o/1791704",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791704/7ca6eb2710a2f3e7722294b8b2bbab45~v184577728.jpg",
@@ -368,27 +348,6 @@
       "damage": "bumper\nkoplamp rechts\nachterscherm\ndeur achter\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\noude schade op achterklep midden onder",
       "slug": "talisman-15-dci-zen-15-dci-zen",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791703/d8c298b74e66a252f7670ac40ab5f04d~v184577337.jpg"
-    },
-    {
-      "id": "1791702",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-2-connect-edition/o/1791702",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1791702/510f0d9e97543d601ea569a5bc6ebe22~v184576605.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Nissan Qashqai",
-      "type": "1.2 Connect Edition",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "170770",
-      "make": "Nissan",
-      "model": "Qashqai 1.2 Connect Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1197 CC",
-      "color": "grijs",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nPanorama glas\ndeuk in a stijl",
-      "slug": "qashqai-12-connect-edition-12-connect-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791702/d5e215c0a862f683785215f2e426baf7~v184576605.jpg"
     },
     {
       "id": "1791701",
@@ -529,29 +488,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "legacy-touring-wagon-20i-touring-wagon-20i",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786401/08bd1165bc779aa0a2a9372da2a99b5a~v182920444.jpg"
-    },
-    {
-      "id": "1785581",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-2-0-tdi-l1h1-bmt-trendline/o/1785581",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1785581/b570b8a125b1f862bb6bec38d37a9e94~v182761269.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Caddy",
-      "type": "2.0 TDI L1H1 BMT Trendline",
-      "year": "2020",
-      "fuelType": "diesel",
-      "mileage": "210318",
-      "make": "Volkswagen",
-      "model": "Caddy 2.0 TDI L1H1 BMT Trendline",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1968 CC",
-      "power": "75 pk",
-      "color": "wit",
-      "bodyType": "bestelauto",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nvoorscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "caddy-20-tdi-l1h1-bmt-trendline-20-tdi-l1h1-bmt-trendline",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785581/321dc6f0808e0b185c5492a1c57a6944~v182761269.jpg"
     },
     {
       "id": "1757206",
@@ -738,7 +674,7 @@
     {
       "id": "1731108",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-lease-edition-automaat/o/1731108",
-      "image": "https://www.schadeautos.nl/picture/15/o/1731108/db4009915da46747e51459a01e84bcd8~v176248525.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1731108/bce1d56dd0acf49dd3578db93867d69a~v176248525.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1025,28 +961,6 @@
       "color": "blauw",
       "slug": "xf-22-d-schadevrij-22-d-schadevrij",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1627062/4632d98e23b71ee4f77b87aea1397da6~v135053954.jpg"
-    },
-    {
-      "id": "1647058",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-cw-1-6i-i-motion/o/1647058",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1647058/4713690860e8f7ceba7672135871cc92~v170298981.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑30",
-      "type": "CW 1.6i i-Motion",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "238628",
-      "make": "Hyundai",
-      "model": "I-30 CW 1.6i i-Motion",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1591 CC",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "bumper\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-30-cw-16i-i-motion-cw-16i-i-motion",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1647058/d86b7abf9d4b21c304d4707d44c6632d~v170298981.jpg"
     },
     {
       "id": "1768845",
@@ -1463,7 +1377,7 @@
     {
       "id": "1352628",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
-      "image": "https://www.schadeautos.nl/picture/15/o/1352628/97e543150ada2d0b06cb08c98353aba1~v42433457.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
       "labels": [
         "exportprijs€ 3.392"
       ],
@@ -1486,7 +1400,7 @@
     {
       "id": "1752879",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/fiat-doblo-1-3-mj-l1h1-actual/o/1752879",
-      "image": "https://www.schadeautos.nl/picture/15/o/1752879/5eca6583843520f49025f5c11164ba82~v173055772.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1752879/fdbbd9b42c019a1a671ded857e89f8d2~v173055772.jpg",
       "labels": [],
       "title": "Fiat Doblo",
       "type": "1.3 MJ L1H1 Actual",
@@ -1624,7 +1538,7 @@
     {
       "id": "1773286",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
-      "image": "https://www.schadeautos.nl/picture/15/o/1773286/072c61f3258eb8e81af19c8c41cc90cd~v179177288.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
       "labels": [],
       "title": "Opel Crossland",
       "type": "X 1.2 Turbo Innovation",
