@@ -1,24 +1,71 @@
 {
-  "updated": "2026-07-28T05:17:29.014Z",
+  "updated": "2026-07-29T05:24:20.389Z",
   "cars": [
+    {
+      "id": "1787269",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-535i-executive/o/1787269",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1787269/31f7be522e415bcfadf8ed6f1e234ea5~v183110176.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "BMW 5‑serie",
+      "type": "535i Executive",
+      "price": "8500",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "211090",
+      "make": "BMW",
+      "model": "5-serie 535i Executive",
+      "gearbox": "automaat",
+      "engineSize": "2979 CC",
+      "power": "306 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "achterscherm\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\neinddemper",
+      "slug": "5-serie-535i-executive-535i-executive",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787269/da7d9a860bc04dfbb5dfa64ef01a6f96~v183110176.jpg"
+    },
+    {
+      "id": "1777027",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1777027/203b222b819b6d59340b0e4fd783044a~v180328670.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 19.500"
+      ],
+      "title": "BMW 5‑serie",
+      "type": "530i High Executive Edition Automaat",
+      "price": "19950",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "89899",
+      "make": "BMW",
+      "model": "5-serie 530i High Executive Edition Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "19500",
+      "engineSize": "1998 CC",
+      "power": "252 pk",
+      "color": "paars",
+      "bodyType": "sedan",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "5-serie-530i-high-executive-edition-automaat-530i-high-executive-edition-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1777027/33c775f73260893a28347f0d629d684a~v180328670.jpg"
+    },
     {
       "id": "1793206",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-ml-350-cdi-limited-edition-prestige-schadevrij/o/1793206",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793206/2d4221dc1b06ebfdf61e8342de413b85~v185171169.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 6.300"
+        "verkocht"
       ],
       "title": "Mercedes ML",
       "type": "350 CDI Limited Edition Prestige Schadevrij",
-      "price": "7500",
       "year": "2010",
       "fuelType": "diesel",
       "mileage": "318876",
       "make": "Mercedes",
       "model": "ML 350 CDI Limited Edition Prestige Schadevrij",
       "gearbox": "automaat",
-      "exportPrice": "6300",
       "engineSize": "2987 CC",
       "power": "170 kW",
       "color": "grijs",
@@ -252,9 +299,7 @@
       "id": "1789986",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-0-16v-ls-bi-fuel/o/1789986",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789986/6e24fcc78850308d78d21c795d25bded~v184020308.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Chevrolet Spark",
       "type": "1.0 16V LS Bi-Fuel",
       "price": "650",
@@ -428,18 +473,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-bose/o/1792708",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792708/843b103c983cf6880c9451d975c2d509~v184900229.jpg",
       "labels": [
-        "exportprijs€ 5.600"
+        "verkocht"
       ],
       "title": "Renault Mégane",
       "type": "1.2 TCe Bose",
-      "price": "5750",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "121201",
       "make": "Renault",
       "model": "Mégane 1.2 TCe Bose",
       "gearbox": "handgeschakeld",
-      "exportPrice": "5600",
       "engineSize": "1197 CC",
       "color": "wit",
       "bodyType": "hatchback",
@@ -684,9 +727,7 @@
       "id": "1786401",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/subaru-legacy-touring-wagon-2-0i/o/1786401",
       "image": "https://www.schadeautos.nl/cache/picture/15/1786401/c12d9e6103347d1d671837e8532a010f~v182920444.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Subaru Legacy",
       "type": "Touring Wagon 2.0i",
       "price": "900",
@@ -723,51 +764,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "lupo-14-cabrio-dak-14-cabrio-dak",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757206/4ff482088acd63d6edb8dab05954e10b~v174334680.jpg"
-    },
-    {
-      "id": "1750636",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-40-2-0-d2-kinetic-automaat/o/1750636",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750636/e615d9c11e28ee788981ff5d6d210cb3~v172467736.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo V‑40",
-      "type": "2.0 D2 Kinetic Automaat",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "275215",
-      "make": "Volvo",
-      "model": "V-40 2.0 D2 Kinetic Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1969 CC",
-      "color": "blauw",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp links\nachterscherm\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-40-20-d2-kinetic-automaat-20-d2-kinetic-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1750636/41388373719c3b6cca398b0ebe2a81ea~v172467736.jpg"
-    },
-    {
-      "id": "1766649",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-6-cdti-business/o/1766649",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1766649/3cb75dc7f8549dc536c995c36dc8d370~v176958119.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Astra",
-      "type": "1.6 CDTI Business+",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "193112",
-      "make": "Opel",
-      "model": "Astra 1.6 CDTI Business+",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "power": "110 pk",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "astra-16-cdti-business-16-cdti-business",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1766649/5202ad1924fa1e1e5ab4a76936e549f3~v176958119.jpg"
     },
     {
       "id": "1672051",
@@ -835,31 +831,6 @@
       "damage": "koplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "traverse-36-v6-automaat-awd-36-v6-automaat-awd",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1781155/a90be0ccf984f564660c090d41f3b56a~v181355374.jpg"
-    },
-    {
-      "id": "1777027",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1777027/203b222b819b6d59340b0e4fd783044a~v180328670.jpg",
-      "labels": [
-        "exportprijs€ 19.950"
-      ],
-      "title": "BMW 5‑serie",
-      "type": "530i High Executive Edition Automaat",
-      "price": "20400",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "89899",
-      "make": "BMW",
-      "model": "5-serie 530i High Executive Edition Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "19950",
-      "engineSize": "1998 CC",
-      "power": "252 pk",
-      "color": "paars",
-      "bodyType": "sedan",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "5-serie-530i-high-executive-edition-automaat-530i-high-executive-edition-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1777027/33c775f73260893a28347f0d629d684a~v180328670.jpg"
     },
     {
       "id": "1695009",
@@ -1026,10 +997,11 @@
       "id": "1787268",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-tdci/o/1787268",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787268/27e8a7009fe4aaa2c5d7643868ce0e6d~v183109269.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Fiesta",
       "type": "1.5 TDCi",
-      "price": "1850",
       "year": "2013",
       "fuelType": "diesel",
       "mileage": "203697",
@@ -1432,28 +1404,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
       "slug": "clio-09-tce-limited-09-tce-limited-1787273",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787273/00a3197dd854c73ee03d755938f69010~v183111783.jpg"
-    },
-    {
-      "id": "1787269",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-535i-executive/o/1787269",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1787269/31f7be522e415bcfadf8ed6f1e234ea5~v183110176.jpg",
-      "labels": [],
-      "title": "BMW 5‑serie",
-      "type": "535i Executive",
-      "price": "8750",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "211090",
-      "make": "BMW",
-      "model": "5-serie 535i Executive",
-      "gearbox": "automaat",
-      "engineSize": "2979 CC",
-      "power": "306 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\neinddemper",
-      "slug": "5-serie-535i-executive-535i-executive",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787269/da7d9a860bc04dfbb5dfa64ef01a6f96~v183110176.jpg"
     },
     {
       "id": "1787267",
