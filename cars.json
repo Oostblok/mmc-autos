@@ -1,6 +1,108 @@
 {
-  "updated": "2026-07-31T05:38:03.732Z",
+  "updated": "2026-08-01T05:30:06.987Z",
   "cars": [
+    {
+      "id": "1794204",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-st-fr-1-8-tsi-xcellence-automaat/o/1794204",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1794204/b567aecb6d94aa4fd5671860aaa4155a~v185493973.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.450"
+      ],
+      "title": "Seat Leon",
+      "type": "ST FR 1.8 tsi Xcellence Automaat",
+      "price": "7250",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "164646",
+      "make": "Seat",
+      "model": "Leon ST FR 1.8 tsi Xcellence Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "6450",
+      "engineSize": "1798 CC",
+      "power": "179 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "leon-st-fr-18-tsi-xcellence-automaat-st-fr-18-tsi-xcellence-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794204/efce806f44b3bdf14c27d628026daf30~v185493973.jpg"
+    },
+    {
+      "id": "1794194",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-gti-performance-automaat/o/1794194",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1794194/2421678b3371883f8a403922484428ed~v185492384.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 13.850"
+      ],
+      "title": "Volkswagen Golf",
+      "type": "2.0 TSI GTI Performance Automaat",
+      "price": "14350",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "163862",
+      "make": "Volkswagen",
+      "model": "Golf 2.0 TSI GTI Performance Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "13850",
+      "engineSize": "1984 CC",
+      "power": "245 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\ndakschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nglas Panorama dak",
+      "slug": "golf-20-tsi-gti-performance-automaat-20-tsi-gti-performance-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794194/b5be7480c102702b5b2cead6443e7bb4~v185492384.jpg"
+    },
+    {
+      "id": "1794184",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-eco-night-day/o/1794184",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1794184/cb7f02eab75a29f8bf3d86b2e96c1bda~v185490995.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Renault Clio",
+      "type": "0.9 TCe ECO Night&Day",
+      "price": "3350",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "93826",
+      "make": "Renault",
+      "model": "Clio 0.9 TCe ECO Night&Day",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "898 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
+      "slug": "clio-09-tce-eco-nightandday-09-tce-eco-nightandday",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794184/4b315a48900be32b22944ecf0c8a6d83~v185490995.jpg"
+    },
+    {
+      "id": "1793994",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-t-gdi-gt-line/o/1793994",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1793994/9ce7842a2c2c00e0aff4b4431a6a9a14~v185490388.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.950"
+      ],
+      "title": "Kia Picanto",
+      "type": "1.0 T-GDI GT-Line",
+      "price": "3650",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "131260",
+      "make": "Kia",
+      "model": "Picanto 1.0 T-GDI GT-Line",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2950",
+      "engineSize": "998 CC",
+      "color": "wit",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nwielophanging rechts\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nstoelairbag rechts stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt",
+      "slug": "picanto-10-t-gdi-gt-line-10-t-gdi-gt-line",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793994/f28a3a2101fbfa089ffdf447591a24d4~v185490388.jpg"
+    },
     {
       "id": "1664022",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1664022",
@@ -293,9 +395,7 @@
       "id": "1787269",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-535i-executive/o/1787269",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787269/31f7be522e415bcfadf8ed6f1e234ea5~v183110176.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "BMW 5‑serie",
       "type": "535i Executive",
       "price": "8500",
@@ -318,7 +418,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
       "image": "https://www.schadeautos.nl/cache/picture/15/1777027/203b222b819b6d59340b0e4fd783044a~v180328670.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 19.500"
       ],
       "title": "BMW 5‑serie",
