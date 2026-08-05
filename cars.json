@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T05:17:27.555Z",
+  "updated": "2026-08-05T05:17:18.924Z",
   "cars": [
     {
       "id": "1794213",
@@ -465,29 +465,6 @@
       "damage": "bumper\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterschade\nbumper\nreservewielbak\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nplastic oren kapot koplamp",
       "slug": "t-roc-15-tsi-sport-automaat-15-tsi-sport-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793204/d95886936e85101d1a2701207a0cbf5c~v185170702.jpg"
-    },
-    {
-      "id": "1793203",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-lancer-sportback-1-6-edition-two/o/1793203",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1793203/27bba8883a5d5d3b4a74a43bb082c6f2~v185170257.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mitsubishi Lancer",
-      "type": "Sportback 1.6 Edition Two",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "187818",
-      "make": "Mitsubishi",
-      "model": "Lancer Sportback 1.6 Edition Two",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1590 CC",
-      "power": "86 kW",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "koplamp links\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "lancer-sportback-16-edition-two-sportback-16-edition-two",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793203/0c7d93175b61badc7992f84f83c681f5~v185170257.jpg"
     },
     {
       "id": "1793202",
