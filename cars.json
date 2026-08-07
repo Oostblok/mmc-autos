@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T05:19:37.360Z",
+  "updated": "2026-08-07T04:27:56.238Z",
   "cars": [
     {
       "id": "1794213",
@@ -876,18 +876,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-karl-1-0-ecoflex-120-jaar-edition/o/1791701",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791701/60e4692538dc15dd4a8668ce63ec176f~v184574321.jpg",
       "labels": [
-        "exportprijs€ 3.750"
+        "verkocht"
       ],
       "title": "Opel Karl",
       "type": "1.0 ecoFLEX 120 Jaar Edition",
-      "price": "4750",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "59795",
       "make": "Opel",
       "model": "Karl 1.0 ecoFLEX 120 Jaar Edition",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3750",
       "engineSize": "999 CC",
       "color": "rood",
       "bodyType": "hatchback",
