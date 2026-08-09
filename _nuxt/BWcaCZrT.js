@@ -1,0 +1,1 @@
+import{_ as s,o,p as r,S as n}from"./DW4w7rHx.js";const t={};function a(e,c){return o(),r("em",null,[n(e.$slots,"default")])}const l=Object.assign(s(t,[["render",a]]),{__name:"ProseEm"});export{l as default};
