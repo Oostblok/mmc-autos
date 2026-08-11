@@ -1,13 +1,11 @@
 {
-  "updated": "2026-08-10T03:57:25.163Z",
+  "updated": "2026-08-11T03:46:16.839Z",
   "cars": [
     {
       "id": "1795668",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-5d-l1h1-edition/o/1795668",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795668/26b294219e30e083362fa64bc1b3588f~v186130353.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Combo",
       "type": "1.5D L1H1 Edition",
       "price": "3250",
@@ -29,9 +27,7 @@
       "id": "1795662",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/citroen-berlingo-1-6-hdi-500-club-economy/o/1795662",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795662/6f0216b87fa87ad47b6984dacd2336c8~v186127116.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Citroën Berlingo",
       "type": "1.6 HDI 500 Club Economy",
       "price": "1450",
@@ -53,7 +49,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0-ecotsi-style-connect/o/1795658",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795658/8f69929c640fba9a1b4ca4f0c3b7a939~v186119876.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.650"
       ],
       "title": "Seat Leon",
@@ -77,9 +72,7 @@
       "id": "1795657",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-3-cdti-automaat-l2h1-ecoflex/o/1795657",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795657/b8477a9108c8bf15a67855940e077878~v186119405.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Combo",
       "type": "1.3 CDTi Automaat L2H1 ecoFLEX",
       "price": "3750",
@@ -102,7 +95,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-3-vvt-i-aspiration/o/1795656",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795656/cd92dd49890c33a802eb5396884c20f7~v186118921.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.650"
       ],
       "title": "Toyota Yaris",
@@ -128,7 +120,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-70-1-6-t4-summum-automaat/o/1795654",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795654/03fdd301275fc7391d80d78867424e83~v186118518.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.950"
       ],
       "title": "Volvo V‑70",
@@ -148,26 +139,6 @@
       "damage": "bumper\nmotorkap\nvoorschade\nparkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "v-70-16-t4-summum-automaat-16-t4-summum-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1795654/1ccb8de10a55ffc85f8a64c195ab2f0c~v186118518.jpg"
-    },
-    {
-      "id": "1794213",
-      "link": "https://www.schadeautos.nl/nl/schade/campers/hymer-fiat-290-m8-7/o/1794213",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1794213/3d6fd6b59fca34c96c1b14c530e5343e~v185757771.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hymer",
-      "type": "Fiat 290 M8 7",
-      "year": "1992",
-      "fuelType": "diesel",
-      "mileage": "317184",
-      "make": "Hymer",
-      "model": "Fiat 290 M8 7",
-      "gearbox": "handgeschakeld",
-      "color": "wit",
-      "damage": "bumper\nkoplamp rechts\nradiateur kapot\nvoorschade\nalle airbags oké\ncamper is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fiat-290-m8-7-fiat-290-m8-7",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794213/880dba58afea32d4dc22ef5524744ef8~v185757771.jpg"
     },
     {
       "id": "1794194",
@@ -615,28 +586,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793202/2b53eb1b895558dd9b617a8885e07985~v185169827.jpg"
     },
     {
-      "id": "1793200",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-5-dci-connect-edition/o/1793200",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1793200/6862fc03ea6a6134c1980ec58b97a98b~v185169384.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Nissan Qashqai",
-      "type": "1.5 dCi Connect Edition",
-      "year": "2014",
-      "fuelType": "diesel",
-      "mileage": "213366",
-      "make": "Nissan",
-      "model": "Qashqai 1.5 dCi Connect Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1461 CC",
-      "color": "wit",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "qashqai-15-dci-connect-edition-15-dci-connect-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793200/446098822741a683951c247d14edf324~v185169384.jpg"
-    },
-    {
       "id": "1793195",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793195/e52d2efb2d80e492143ddab888847a51~v185168947.jpg",
@@ -798,18 +747,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-160-blueefficiency-business-class-avantgarde/o/1792805",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792805/aec558fe29e8d5a6e12fda260e2c625b~v184918651.jpg",
       "labels": [
-        "exportprijs€ 1.650"
+        "verkocht"
       ],
       "title": "Mercedes A‑klasse",
       "type": "160 BlueEFFICIENCY Business Class Avantgarde",
-      "price": "1900",
       "year": "2011",
       "fuelType": "benzine",
       "mileage": "249659",
       "make": "Mercedes",
       "model": "A-klasse 160 BlueEFFICIENCY Business Class Avantgarde",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1650",
       "engineSize": "1498 CC",
       "color": "bruin",
       "bodyType": "hatchback",
@@ -951,29 +898,6 @@
       "damage": "achterscherm\ndeur voor\nlinkerschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "transit-connect-15-tdci-l2-trend-hp-automaat-15-tdci-l2-trend-hp-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791706/2d267f677008cc6d2b3883082f210deb~v184583241.jpg"
-    },
-    {
-      "id": "1791704",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-35-tfsi-s-edition-automaat-sportback/o/1791704",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1791704/7ca6eb2710a2f3e7722294b8b2bbab45~v184577728.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A3",
-      "type": "35 TFSI S edition Automaat Sportback",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "169305",
-      "make": "Audi",
-      "model": "A3 35 TFSI S edition Automaat Sportback",
-      "gearbox": "automaat",
-      "engineSize": "1498 CC",
-      "power": "150 pk",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nknieairbag links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a3-35-tfsi-s-edition-automaat-sportback-35-tfsi-s-edition-automaat-sportback",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791704/a620fb33c9a6b33dfd4bff206a40dcba~v184577728.jpg"
     },
     {
       "id": "1791701",
@@ -1156,28 +1080,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
     },
     {
-      "id": "1781155",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-traverse-3-6-v6-automaat-awd/o/1781155",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781155/59269a960ef447a93361880cc685edbf~v181355374.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Chevrolet Traverse",
-      "type": "3.6 V6 Automaat AWD",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "153678",
-      "make": "Chevrolet",
-      "model": "Traverse 3.6 V6 Automaat AWD",
-      "gearbox": "automaat",
-      "power": "310 pk",
-      "color": "grijs",
-      "bodyType": "suv / terreinwagen",
-      "damage": "koplamp links\nmotorkap\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "traverse-36-v6-automaat-awd-36-v6-automaat-awd",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1781155/a90be0ccf984f564660c090d41f3b56a~v181355374.jpg"
-    },
-    {
       "id": "1695009",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-3-0-tdi-quattro-pro-line-automaat/o/1695009",
       "image": "https://www.schadeautos.nl/cache/picture/15/1695009/39f82d443a61ee8059d0777ae5b1f56c~v155885011.jpg",
@@ -1318,18 +1220,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-tce-sl-stepway/o/1775516",
       "image": "https://www.schadeautos.nl/cache/picture/15/1775516/8d06e324f5147513760a84d08e8f473a~v179889966.jpg",
       "labels": [
-        "exportprijs€ 3.750"
+        "verkocht"
       ],
       "title": "Dacia Sandero",
       "type": "0.9 TCe SL Stepway",
-      "price": "4950",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "77091",
       "make": "Dacia",
       "model": "Sandero 0.9 TCe SL Stepway",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3750",
       "engineSize": "898 CC",
       "color": "grijs",
       "bodyType": "hatchback",
