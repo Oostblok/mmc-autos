@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T03:46:16.839Z",
+  "updated": "2026-08-12T04:10:39.530Z",
   "cars": [
     {
       "id": "1795668",
@@ -810,18 +810,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-turbo-multiair-automaat/o/1792702",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792702/f6cfe7385dcbf6c60ddd2eec0eddd5e2~v184899786.jpg",
       "labels": [
-        "exportprijs€ 3.900"
+        "verkocht"
       ],
       "title": "Alfa Romeo Giulietta",
       "type": "1.4 Turbo MultiAir Automaat",
-      "price": "4500",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "222164",
       "make": "Alfa Romeo",
       "model": "Giulietta 1.4 Turbo MultiAir Automaat",
       "gearbox": "automaat",
-      "exportPrice": "3900",
       "engineSize": "1368 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -898,28 +896,6 @@
       "damage": "achterscherm\ndeur voor\nlinkerschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "transit-connect-15-tdci-l2-trend-hp-automaat-15-tdci-l2-trend-hp-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791706/2d267f677008cc6d2b3883082f210deb~v184583241.jpg"
-    },
-    {
-      "id": "1791701",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-karl-1-0-ecoflex-120-jaar-edition/o/1791701",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1791701/60e4692538dc15dd4a8668ce63ec176f~v184574321.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Karl",
-      "type": "1.0 ecoFLEX 120 Jaar Edition",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "59795",
-      "make": "Opel",
-      "model": "Karl 1.0 ecoFLEX 120 Jaar Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "achterscherm\ndeur achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "karl-10-ecoflex-120-jaar-edition-10-ecoflex-120-jaar-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791701/58b6a436edf7b0b1f2e0a98069ac6ee1~v184574321.jpg"
     },
     {
       "id": "1791697",
