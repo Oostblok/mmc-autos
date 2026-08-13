@@ -1,6 +1,31 @@
 {
-  "updated": "2026-08-12T04:10:39.530Z",
+  "updated": "2026-08-13T04:14:06.050Z",
   "cars": [
+    {
+      "id": "1796502",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-john-cooper-works-1-5-cooper-serious-business/o/1796502",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1796502/4dfe36b0f535717d846de89e78b661ec~v186523225.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.250"
+      ],
+      "title": "Mini Cooper",
+      "type": "John cooper works - 1.5 Cooper Serious Business",
+      "price": "5950",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "189333",
+      "make": "Mini",
+      "model": "Cooper John cooper works - 1.5 Cooper Serious Business",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "5250",
+      "engineSize": "1499 CC",
+      "power": "100 kW",
+      "color": "oranje",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cooper-john-cooper-works-15-cooper-serious-business-john-cooper-works-15-cooper-serious-business",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1796502/5d36ddc0df1dab18a10240b472c72ec8~v186523225.jpg"
+    },
     {
       "id": "1795668",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-5d-l1h1-edition/o/1795668",
@@ -922,28 +947,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791697/fefc298142fd4f5af0bdcbf032a094bd~v184573033.jpg"
     },
     {
-      "id": "1750107",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-tgi-style/o/1750107",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1750107/83d75aeab9e411789301418a177334bd~v172206086.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Seat Ibiza",
-      "type": "1.0 TGI Style",
-      "year": "2018",
-      "fuelType": "benzine - GNC",
-      "mileage": "86207",
-      "make": "Seat",
-      "model": "Ibiza 1.0 TGI Style",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "deur achter\ndeur voor\ndorpel\nlinkerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ibiza-10-tgi-style-10-tgi-style",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1750107/b8a49d760bdd03631ffe754784e343e4~v172206086.jpg"
-    },
-    {
       "id": "1761800",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
@@ -1392,29 +1395,6 @@
       "damage": "bumper\nkoplampen\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "rio-12-cvvt-comfortline-12-cvvt-comfortline",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1789979/3d6cf87d159c0f26e3bd7b4b8e5a3685~v184019927.jpg"
-    },
-    {
-      "id": "1742532",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-giulietta-1-4-t-sprint-automaat/o/1742532",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1742532/dc8c05b77b3f2b97f54fde3c749b98c6~v170222334.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Alfa Romeo Giulietta",
-      "type": "1.4 T Sprint Automaat",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "201155",
-      "make": "Alfa Romeo",
-      "model": "Giulietta 1.4 T Sprint Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1368 CC",
-      "power": "170 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\ndeur voor\nvoorscherm\nwielophanging rechts\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "giulietta-14-t-sprint-automaat-14-t-sprint-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1742532/2ffb95b27c187be007d7ec9abedd1b72~v170222334.jpg"
     },
     {
       "id": "1732775",
