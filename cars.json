@@ -1,23 +1,93 @@
 {
-  "updated": "2026-08-17T03:01:04.056Z",
+  "updated": "2026-08-18T02:57:47.636Z",
   "cars": [
+    {
+      "id": "1797851",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1797851",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797851/4df4453bb89ba9217521c702ce35b34d~v186994839.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.650"
+      ],
+      "title": "Renault Twingo",
+      "type": "1.0 SCe Collection",
+      "price": "2750",
+      "year": "2021",
+      "fuelType": "benzine",
+      "mileage": "37315",
+      "make": "Renault",
+      "model": "Twingo 1.0 SCe Collection",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2650",
+      "engineSize": "999 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\nauto is verrijdbaar\nmotor loopt",
+      "slug": "twingo-10-sce-collection-10-sce-collection",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797851/a68b306cf94f381ea360f1e35449eb00~v186994839.jpg"
+    },
+    {
+      "id": "1797850",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-2-0-16v-rally-edition/o/1797850",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797850/dafa4f8943a924d36a4595578974f6da~v186994347.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Focus",
+      "type": "2.0-16V Rally Edition",
+      "price": "1100",
+      "year": "2006",
+      "fuelType": "benzine",
+      "mileage": "319710",
+      "make": "Ford",
+      "model": "Focus 2.0-16V Rally Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1999 CC",
+      "power": "107 kW",
+      "color": "oranje",
+      "bodyType": "stationwagon",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "focus-20-16v-rally-edition-20-16v-rally-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797850/587f04ddacf9d04a5833d3c8eff925d6~v186994347.jpg"
+    },
+    {
+      "id": "1797848",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Custom",
+      "type": "270 2.0 TDCI L1H1 Economy Edition",
+      "price": "4750",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "117120",
+      "make": "Ford",
+      "model": "Transit Custom 270 2.0 TDCI L1H1 Economy Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1995 CC",
+      "power": "77 kW",
+      "color": "wit",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\nstuurairbag stuk\ngebruikssporen\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-custom-270-20-tdci-l1h1-economy-edition-270-20-tdci-l1h1-economy-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797848/085e0d0e5ad0b543e6e65889a707047c~v186993944.jpg"
+    },
     {
       "id": "1796502",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-john-cooper-works-1-5-cooper-serious-business/o/1796502",
       "image": "https://www.schadeautos.nl/cache/picture/15/1796502/4dfe36b0f535717d846de89e78b661ec~v186523225.jpg",
       "labels": [
-        "exportprijs€ 5.250"
+        "verkocht"
       ],
       "title": "Mini Cooper",
       "type": "John cooper works - 1.5 Cooper Serious Business",
-      "price": "5950",
       "year": "2017",
       "fuelType": "benzine",
       "mileage": "189333",
       "make": "Mini",
       "model": "Cooper John cooper works - 1.5 Cooper Serious Business",
       "gearbox": "handgeschakeld",
-      "exportPrice": "5250",
       "engineSize": "1499 CC",
       "power": "100 kW",
       "color": "oranje",
