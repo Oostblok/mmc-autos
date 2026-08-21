@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-20T02:58:34.356Z",
+  "updated": "2026-08-21T03:05:10.018Z",
   "cars": [
+    {
+      "id": "1798896",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1798896/4683a74343ab85681bacb5a74a87a779~v187221022.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Master",
+      "type": "T35 2.5 dCi L3H1 Meubelbak",
+      "price": "2250",
+      "year": "2008",
+      "fuelType": "diesel",
+      "mileage": "300555",
+      "make": "Renault",
+      "model": "Master T35 2.5 dCi L3H1 Meubelbak",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2464 CC",
+      "color": "wit",
+      "damage": "alle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "master-t35-25-dci-l3h1-meubelbak-t35-25-dci-l3h1-meubelbak",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1798896/213629cac330d8e906cd00d206753035~v187221022.jpg"
+    },
     {
       "id": "1352628",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
@@ -396,7 +418,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1797851",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797851/4df4453bb89ba9217521c702ce35b34d~v186994839.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.650"
       ],
       "title": "Renault Twingo",
@@ -420,9 +441,7 @@
       "id": "1797850",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-2-0-16v-rally-edition/o/1797850",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797850/dafa4f8943a924d36a4595578974f6da~v186994347.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "2.0-16V Rally Edition",
       "price": "1100",
@@ -444,9 +463,7 @@
       "id": "1797848",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "270 2.0 TDCI L1H1 Economy Edition",
       "price": "4750",
