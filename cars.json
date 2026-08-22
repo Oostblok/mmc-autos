@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:05:10.018Z",
+  "updated": "2026-08-22T02:55:49.754Z",
   "cars": [
     {
       "id": "1798896",
@@ -244,7 +244,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-7-crdi-plus-pack/o/1793193",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793193/fb4a04460934a256be30f27a219f2fed~v185168405.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.450"
       ],
       "title": "Kia Sportage",
@@ -269,7 +268,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-220-bluetec-ambition-avantgarde-automaat-amg-pakket/o/1732775",
       "image": "https://www.schadeautos.nl/cache/picture/15/1732775/95726e252fa36225102ec113a21e4732~v167354408.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 10.700"
       ],
       "title": "Mercedes E‑klasse",
@@ -295,7 +293,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.875"
       ],
       "title": "Toyota Verso S",
@@ -320,7 +317,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0-ecotsi-style-connect/o/1795658",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795658/8f69929c640fba9a1b4ca4f0c3b7a939~v186119876.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.450"
       ],
       "title": "Seat Leon",
@@ -368,9 +364,7 @@
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
       "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
       "price": "3950",
@@ -392,7 +386,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
       "image": "https://www.schadeautos.nl/cache/picture/15/1777027/203b222b819b6d59340b0e4fd783044a~v180328670.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 19.250"
       ],
       "title": "BMW 5‑serie",
@@ -1877,29 +1870,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg"
-    },
-    {
-      "id": "1769355",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-3-tce-r-s-line-automaat/o/1769355",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1769355/d6ddc95219a149582d9a5cf70bbbbf69~v177912547.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Clio",
-      "type": "1.3 TCe R.S. Line Automaat",
-      "year": "2020",
-      "fuelType": "benzine",
-      "mileage": "166582",
-      "make": "Renault",
-      "model": "Clio 1.3 TCe R.S. Line Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1332 CC",
-      "power": "131 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorruit\nvoorschade\ndorpel\nairbags voor stuk\nrecht op de wielen",
-      "slug": "clio-13-tce-rs-line-automaat-13-tce-rs-line-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1769355/46621cac8f2f251c8304599beba9d57b~v177912547.jpg"
     },
     {
       "id": "1729069",
