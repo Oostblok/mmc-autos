@@ -1,13 +1,11 @@
 {
-  "updated": "2026-08-23T03:04:58.632Z",
+  "updated": "2026-08-24T03:05:38.035Z",
   "cars": [
     {
       "id": "1798896",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
       "image": "https://www.schadeautos.nl/cache/picture/15/1798896/4683a74343ab85681bacb5a74a87a779~v187221022.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Master",
       "type": "T35 2.5 dCi L3H1 Meubelbak",
       "price": "2250",
@@ -284,7 +282,7 @@
     {
       "id": "1761800",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
-      "image": "https://www.schadeautos.nl/picture/15/o/1761800/064b782229c6c34aa47b2334220ac369~v175644199.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
       "labels": [
         "exportprijs€ 4.875"
       ],
@@ -674,7 +672,7 @@
     {
       "id": "1516158",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-zen/o/1516158",
-      "image": "https://www.schadeautos.nl/picture/15/o/1516158/fb8dc5a3053cf8e26f6d75d8b4a78e92~v100065942.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1516158/e6dec36ac891edeb6c6b7c5b21eafbfb~v100065942.jpg",
       "labels": [
         "exportprijs€ 2.500"
       ],
@@ -720,7 +718,7 @@
     {
       "id": "1772251",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1772251",
-      "image": "https://www.schadeautos.nl/picture/15/o/1772251/da15bb9895d3ac0a5b136bc8dd045221~v178665088.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1772251/53398ea9e83632730aec62cedc9c6d4d~v178665088.jpg",
       "labels": [
         "exportprijs€ 3.700"
       ],
@@ -1106,7 +1104,7 @@
     {
       "id": "1791706",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-1-5-tdci-l2-trend-hp-automaat/o/1791706",
-      "image": "https://www.schadeautos.nl/picture/15/o/1791706/2b14e0ec154234bd52cc1f547c163611~v184583241.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1791706/2bcb65eb662550f9326be11dd92932f9~v184583241.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1128,7 +1126,7 @@
     {
       "id": "1791697",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-ltz/o/1791697",
-      "image": "https://www.schadeautos.nl/picture/15/o/1791697/a1b93db913fb7c780cb19402ea297005~v184573033.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1791697/440a012070c98e513de6622b9da83641~v184573033.jpg",
       "labels": [
         "exportprijs€ 890"
       ],
@@ -1173,7 +1171,7 @@
     {
       "id": "1672051",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-automaat-coupe-220-cdi/o/1672051",
-      "image": "https://www.schadeautos.nl/picture/15/o/1672051/51849e8289dd88206560b011ff6638d6~v157066537.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1672051/1c2308c6d95d59186f5afd988746a394~v157066537.jpg",
       "labels": [
         "exportprijs€ 3.900"
       ],
@@ -1355,7 +1353,7 @@
     {
       "id": "1711911",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-galaxy-2-0-tdci-lease-platinum-7-zitplaatsen/o/1711911",
-      "image": "https://www.schadeautos.nl/picture/15/o/1711911/9b45cf2a31c14e020736e3481190b8d9~v160627131.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1711911/e4aace293dafc71098d583a5baf951b0~v160627131.jpg",
       "labels": [
         "exportprijs€ 2.727"
       ],
@@ -1573,7 +1571,7 @@
     {
       "id": "1772243",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-pro-line-s/o/1772243",
-      "image": "https://www.schadeautos.nl/picture/15/o/1772243/5054fb8f80f4555ef7a773b260b52b94~v178664507.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1772243/c983637548ad839c6aaf29053582fa1b~v178664507.jpg",
       "labels": [
         "exportprijs€ 4.550"
       ],
@@ -1642,7 +1640,7 @@
     {
       "id": "1781333",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-premium-hybrid/o/1781333",
-      "image": "https://www.schadeautos.nl/picture/15/o/1781333/a1601f403b7624695f291a77bd37c321~v181514121.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1781333/39c2bd8659a22d2269e515e8e132535f~v181514121.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1800,7 +1798,7 @@
     {
       "id": "1691064",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ka-1-2-trend-ultimate/o/1691064",
-      "image": "https://www.schadeautos.nl/picture/15/o/1691064/f59a6f8a20a58141ae6523b7e7257fd7~v154571075.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1691064/c5ea1cda4f1ef6b5404247d5e19e875a~v154571075.jpg",
       "labels": [
         "exportprijs€ 2.750"
       ],
@@ -1913,7 +1911,7 @@
     {
       "id": "1700990",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
-      "image": "https://www.schadeautos.nl/picture/15/o/1700990/8582fc0a25c8d3fac52187bda5bd055d~v157619453.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
       "labels": [
         "exportprijs€ 3.700"
       ],
@@ -1938,7 +1936,7 @@
     {
       "id": "1721158",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1721158",
-      "image": "https://www.schadeautos.nl/picture/15/o/1721158/c00cd7578ea1cb72b7e06220f8f933f7~v163392676.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1721158/d7e58e9ab2fbb27a1b42a54fefd584f7~v163392676.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
@@ -2052,7 +2050,7 @@
     {
       "id": "1691082",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-style-smart-hybrid/o/1691082",
-      "image": "https://www.schadeautos.nl/picture/15/o/1691082/868c5bdb59911a0489d825e6e5ab6384~v154574089.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1691082/e9d60b409c76bb1b74510dc48bb90725~v154574089.jpg",
       "labels": [
         "exportprijs€ 6.600"
       ],
