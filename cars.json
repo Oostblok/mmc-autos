@@ -1,6 +1,125 @@
 {
-  "updated": "2026-08-24T03:05:38.035Z",
+  "updated": "2026-08-25T03:00:44.764Z",
   "cars": [
+    {
+      "id": "1800046",
+      "link": "https://www.schadeautos.nl/nl/schade/campers/mc-louis-menfys-3-maxi/o/1800046",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800046/e0d956762241f021d8ff924335b6a12e~v187585544.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mc Louis",
+      "type": "MENFYS 3 MAXI",
+      "year": "2014",
+      "fuelType": "diesel",
+      "mileage": "77302",
+      "make": "Mc Louis",
+      "model": "MENFYS 3 MAXI",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2287 CC",
+      "power": "96 kW",
+      "color": "grijs",
+      "damage": "alle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "menfys-3-maxi-menfys-3-maxi",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800046/bbaf741374229e25301cb3943bc3e7ea~v187585544.jpg"
+    },
+    {
+      "id": "1800037",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-290-2-2-tdci-l2h1-trend-dc/o/1800037",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Custom",
+      "type": "290 2.2 TDCI L2H1 Trend DC",
+      "price": "5950",
+      "year": "2014",
+      "fuelType": "diesel",
+      "mileage": "161587",
+      "make": "Ford",
+      "model": "Transit Custom 290 2.2 TDCI L2H1 Trend DC",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2198 CC",
+      "power": "125 pk",
+      "color": "zwart",
+      "damage": "motorschade\ngebruikssporen\nparkeerschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "transit-custom-290-22-tdci-l2h1-trend-dc-290-22-tdci-l2h1-trend-dc",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800037/7ed1bbce3cb3121f3af48d0b23506af8~v187584398.jpg"
+    },
+    {
+      "id": "1800029",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-s-edition-automaat/o/1800029",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800029/cbb6357318087cba68eb40cdbd37ea64~v187583995.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.750"
+      ],
+      "title": "Audi A6 avant",
+      "type": "2.0 TFSI S edition Automaat",
+      "price": "1950",
+      "year": "2010",
+      "fuelType": "benzine",
+      "mileage": "351784",
+      "make": "Audi",
+      "model": "A6 avant 2.0 TFSI S edition Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "1750",
+      "engineSize": "1984 CC",
+      "power": "170 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "motorschade\ndeur achter\ndeur voor\nachterscherm\nparkeerschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "a6-avant-20-tfsi-s-edition-automaat-20-tfsi-s-edition-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800029/7cf8000591bb3e8065147e3e1d0bd128~v187583995.jpg"
+    },
+    {
+      "id": "1800024",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-2-0-cvvt-executive/o/1800024",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800024/bc44768216cb04137c50273eb045f9ac~v187583416.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Kia Sportage",
+      "type": "2.0 CVVT Executive",
+      "price": "1950",
+      "year": "2006",
+      "fuelType": "benzine",
+      "mileage": "266413",
+      "make": "Kia",
+      "model": "Sportage 2.0 CVVT Executive",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1975 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "achterscherm\ngebruikssporen\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "sportage-20-cvvt-executive-20-cvvt-executive",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800024/e6fda3ec7b4e855b1abd0f4b5e32a631~v187583416.jpg"
+    },
+    {
+      "id": "1800018",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-1-6-e-hdi-tendance-automaat-diesel/o/1800018",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800018/1b3700111d7912a310ad2e0bd2e39b6f~v187582785.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.650"
+      ],
+      "title": "Citroën C4",
+      "type": "PICASSO 1.6 e-HDi Tendance Automaat diesel",
+      "price": "3750",
+      "year": "2015",
+      "fuelType": "diesel",
+      "mileage": "233712",
+      "make": "Citroën",
+      "model": "C4 PICASSO 1.6 e-HDi Tendance Automaat diesel",
+      "gearbox": "automaat",
+      "exportPrice": "3650",
+      "engineSize": "1560 CC",
+      "color": "blauw",
+      "bodyType": "mpv",
+      "damage": "achterscherm\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "c4-picasso-16-e-hdi-tendance-automaat-diesel-picasso-16-e-hdi-tendance-automaat-diesel",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800018/13302d289a7a8c47b644671aa5b9b2e1~v187582785.jpg"
+    },
     {
       "id": "1798896",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
@@ -857,28 +976,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793204/d95886936e85101d1a2701207a0cbf5c~v185170702.jpg"
     },
     {
-      "id": "1793202",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-2-cvvt-executiveline/o/1793202",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1793202/7704c0ba0a1a8445a7d2c7626e6715ca~v185169827.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Kia Rio",
-      "type": "1.2 CVVT ExecutiveLine",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "120785",
-      "make": "Kia",
-      "model": "Rio 1.2 CVVT ExecutiveLine",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1248 CC",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "deur achter\ndeur voor\ndorpel\ndakairbag stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nstoelairbag links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "rio-12-cvvt-executiveline-12-cvvt-executiveline",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793202/2b53eb1b895558dd9b617a8885e07985~v185169827.jpg"
-    },
-    {
       "id": "1793195",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793195/e52d2efb2d80e492143ddab888847a51~v185168947.jpg",
@@ -974,10 +1071,11 @@
       "id": "1789986",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-0-16v-ls-bi-fuel/o/1789986",
       "image": "https://www.schadeautos.nl/cache/picture/15/1789986/6e24fcc78850308d78d21c795d25bded~v184020308.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Chevrolet Spark",
       "type": "1.0 16V LS Bi-Fuel",
-      "price": "650",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "217175",
@@ -1100,28 +1198,6 @@
       "damage": "bumper\nmotorkap\nvoorschade\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "208-12-puretech-blue-lion-12-puretech-blue-lion",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786426/70c4c6c34e1bd605745df096d91808b3~v182922586.jpg"
-    },
-    {
-      "id": "1791706",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-1-5-tdci-l2-trend-hp-automaat/o/1791706",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1791706/2bcb65eb662550f9326be11dd92932f9~v184583241.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Transit Connect",
-      "type": "1.5 TDCI L2 Trend HP Automaat",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "149470",
-      "make": "Ford",
-      "model": "Transit Connect 1.5 TDCI L2 Trend HP Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1499 CC",
-      "power": "88 kW",
-      "color": "zilver",
-      "damage": "achterscherm\ndeur voor\nlinkerschade\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transit-connect-15-tdci-l2-trend-hp-automaat-15-tdci-l2-trend-hp-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1791706/2d267f677008cc6d2b3883082f210deb~v184583241.jpg"
     },
     {
       "id": "1791697",
@@ -1636,28 +1712,6 @@
       "damage": "alle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nHydraulische Koppeling functioneert niet",
       "slug": "cooper-s-16-chili-16-chili",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg"
-    },
-    {
-      "id": "1781333",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-premium-hybrid/o/1781333",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1781333/39c2bd8659a22d2269e515e8e132535f~v181514121.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑20",
-      "type": "1.0 T-GDI Premium Hybrid",
-      "year": "2021",
-      "fuelType": "hybride benzine",
-      "mileage": "25876",
-      "make": "Hyundai",
-      "model": "I-20 1.0 T-GDI Premium Hybrid",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nradiateur kapot\nvoorruit\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-20-10-t-gdi-premium-hybrid-10-t-gdi-premium-hybrid",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1781333/78771f862e31474aa0be8539b96a6e75~v181514121.jpg"
     },
     {
       "id": "1773286",
