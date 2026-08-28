@@ -1,6 +1,51 @@
 {
-  "updated": "2026-08-27T12:27:23.232Z",
+  "updated": "2026-08-28T13:55:12.820Z",
   "cars": [
+    {
+      "id": "1706950",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
+      "labels": [],
+      "title": "Porsche Cayenne",
+      "type": "4.5 S automaat",
+      "price": "2400",
+      "year": "2003",
+      "fuelType": "benzine",
+      "mileage": "292338",
+      "make": "Porsche",
+      "model": "Cayenne 4.5 S automaat",
+      "gearbox": "automaat",
+      "engineSize": "4511 CC",
+      "power": "340 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cayenne-45-s-automaat-45-s-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
+    },
+    {
+      "id": "1765468",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1765468/00e35f893e2f619079fb0943900ccb2c~v176758716.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mazda CX‑9",
+      "type": "3.7 V6 automaat 4x4 7 persoons",
+      "price": "2400",
+      "year": "2007",
+      "fuelType": "benzine",
+      "make": "Mazda",
+      "model": "CX-9 3.7 V6 automaat 4x4 7 persoons",
+      "gearbox": "automaat",
+      "engineSize": "3726 CC",
+      "power": "274 pk",
+      "color": "zwart",
+      "bodyType": "suv / terreinwagen",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg"
+    },
     {
       "id": "1792709",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure/o/1792709",
@@ -392,9 +437,7 @@
       "id": "1800046",
       "link": "https://www.schadeautos.nl/nl/schade/campers/mc-louis-menfys-3-maxi/o/1800046",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800046/e0d956762241f021d8ff924335b6a12e~v187585544.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mc Louis",
       "type": "MENFYS 3 MAXI",
       "year": "2014",
@@ -414,9 +457,7 @@
       "id": "1800037",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-290-2-2-tdci-l2h1-trend-dc/o/1800037",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "290 2.2 TDCI L2H1 Trend DC",
       "price": "5950",
@@ -438,7 +479,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-s-edition-automaat/o/1800029",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800029/cbb6357318087cba68eb40cdbd37ea64~v187583995.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.750"
       ],
       "title": "Audi A6 avant",
@@ -463,9 +503,7 @@
       "id": "1800024",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-2-0-cvvt-executive/o/1800024",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800024/bc44768216cb04137c50273eb045f9ac~v187583416.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Kia Sportage",
       "type": "2.0 CVVT Executive",
       "price": "1950",
@@ -620,18 +658,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-gti-performance-automaat/o/1794194",
       "image": "https://www.schadeautos.nl/cache/picture/15/1794194/2421678b3371883f8a403922484428ed~v185492384.jpg",
       "labels": [
-        "exportprijs€ 13.500"
+        "verkocht"
       ],
       "title": "Volkswagen Golf",
       "type": "2.0 TSI GTI Performance Automaat",
-      "price": "13950",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "163862",
       "make": "Volkswagen",
       "model": "Golf 2.0 TSI GTI Performance Automaat",
       "gearbox": "automaat",
-      "exportPrice": "13500",
       "engineSize": "1984 CC",
       "power": "245 pk",
       "color": "zwart",
@@ -1191,27 +1227,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735146/0a4b748f55e0fa5e7c2132125a99bee0~v168250157.jpg"
     },
     {
-      "id": "1765468",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1765468/00e35f893e2f619079fb0943900ccb2c~v176758716.jpg",
-      "labels": [],
-      "title": "Mazda CX‑9",
-      "type": "3.7 V6 automaat 4x4 7 persoons",
-      "price": "2500",
-      "year": "2007",
-      "fuelType": "benzine",
-      "make": "Mazda",
-      "model": "CX-9 3.7 V6 automaat 4x4 7 persoons",
-      "gearbox": "automaat",
-      "engineSize": "3726 CC",
-      "power": "274 pk",
-      "color": "zwart",
-      "bodyType": "suv / terreinwagen",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cx-9-37-v6-automaat-4x4-7-persoons-37-v6-automaat-4x4-7-persoons",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1765468/1bf17ba85e94915bde0b0ec085c6d066~v176758716.jpg"
-    },
-    {
       "id": "1627062",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-2-2-d-schadevrij/o/1627062",
       "image": "https://www.schadeautos.nl/cache/picture/15/1627062/efbf25806cd3ac8441905ed6dabac9a7~v135053954.jpg",
@@ -1304,10 +1319,11 @@
       "id": "1792733",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/dodge-ram-1500-5-7-hemi-benzine-lpg/o/1792733",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792733/10eef39df1bafc8fedd1689374052ec0~v184902480.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Dodge Ram",
       "type": "1500 5.7 Hemi Benzine - LPG",
-      "price": "9750",
       "year": "2006",
       "fuelType": "benzine",
       "mileage": "199496",
@@ -1435,28 +1451,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\ndeur achter\ndeur voor\ndorpel\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "a7-sportback-30-tfsi-quattro-pro-line-plus-automaat-sportback-30-tfsi-quattro-pro-line-plus-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg"
-    },
-    {
-      "id": "1706950",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
-      "labels": [],
-      "title": "Porsche Cayenne",
-      "type": "4.5 S automaat",
-      "price": "2400",
-      "year": "2003",
-      "fuelType": "benzine",
-      "mileage": "292338",
-      "make": "Porsche",
-      "model": "Cayenne 4.5 S automaat",
-      "gearbox": "automaat",
-      "engineSize": "4511 CC",
-      "power": "340 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cayenne-45-s-automaat-45-s-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
     },
     {
       "id": "1748394",
@@ -2043,18 +2037,16 @@
       "link": "https://www.schadeautos.nl/nl/occasion/motorfietsen/yamaha-xv-750-chopper-xv-750-se/o/1672358",
       "image": "https://www.schadeautos.nl/cache/picture/15/1672358/946de7507bcc1ebe1447092f7b8588a9~v148954050.jpg",
       "labels": [
-        "exportprijs€ 1.900"
+        "verkocht"
       ],
       "title": "Yamaha XV 750",
       "type": "Chopper XV 750 SE",
-      "price": "1900",
       "year": "1987",
       "fuelType": "benzine",
       "mileage": "229",
       "make": "Yamaha",
       "model": "XV 750 Chopper XV 750 SE",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1900",
       "engineSize": "748 CC",
       "power": "37 kW",
       "color": "zwart",
