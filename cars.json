@@ -1,6 +1,78 @@
 {
-  "updated": "2026-08-28T13:55:12.820Z",
+  "updated": "2026-08-29T08:43:38.321Z",
   "cars": [
+    {
+      "id": "1801658",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige/o/1801658",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1801658/80e128a009247462255411a166f94084~v187935441.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mercedes A‑klasse",
+      "type": "180 Prestige",
+      "price": "4950",
+      "year": "2013",
+      "fuelType": "benzine",
+      "mileage": "206765",
+      "make": "Mercedes",
+      "model": "A-klasse 180 Prestige",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1595 CC",
+      "power": "122 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "motorschade\nparkeerschade achter\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "a-klasse-180-prestige-180-prestige",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1801658/18a64a36b37e2d0c966b965c3457a55d~v187935441.jpg"
+    },
+    {
+      "id": "1735150",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-you/o/1735150",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735150/d83d834dbe44424f3b0d15cb03ee0b2e~v187930876.jpg",
+      "labels": [
+        "exportprijs€ 4.450"
+      ],
+      "title": "Citroën C3",
+      "type": "1.2 PureTech You",
+      "price": "5850",
+      "year": "2022",
+      "fuelType": "benzine",
+      "mileage": "72750",
+      "make": "Citroën",
+      "model": "C3 1.2 PureTech You",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4450",
+      "engineSize": "1199 CC",
+      "power": "83 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "c3-12-puretech-you-12-puretech-you",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735150/21bb3f87327fb72ff6669e9872131cdc~v187930876.jpg"
+    },
+    {
+      "id": "1801645",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke-1-5-diesel/o/1801645",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1801645/25314383ac30f0774e5e1be381e83694~v187930657.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Nissan Juke",
+      "type": "1.5 diesel",
+      "price": "2200",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "318181",
+      "make": "Nissan",
+      "model": "Juke 1.5 diesel",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1461 CC",
+      "power": "81 kW",
+      "color": "zilver",
+      "damage": "hagelschade\nrondom schade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "juke-15-diesel-15-diesel",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1801645/92aa43d78e9e51bfe5bc51574ef80012~v187930657.jpg"
+    },
     {
       "id": "1706950",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
