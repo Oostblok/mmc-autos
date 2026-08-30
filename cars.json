@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T08:43:38.321Z",
+  "updated": "2026-08-30T08:00:12.914Z",
   "cars": [
     {
       "id": "1801658",
@@ -121,7 +121,7 @@
     {
       "id": "1792709",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure/o/1792709",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1792709/ab36ea5a60aecea8e21b2bb6070c7724~v184901638.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1792709/74e4c6cbe2f6927ea282cf934978525e~v184901638.jpg",
       "labels": [],
       "title": "Peugeot 2008",
       "type": "1.2 Puretech Allure",
@@ -144,7 +144,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
       "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.350"
       ],
       "title": "Opel Zafira",
@@ -167,9 +166,7 @@
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
       "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mini Cooper S",
       "type": "1.6 Chili",
       "price": "2150",
@@ -191,9 +188,7 @@
       "id": "1797850",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-2-0-16v-rally-edition/o/1797850",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797850/dafa4f8943a924d36a4595578974f6da~v186994347.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "2.0-16V Rally Edition",
       "price": "990",
@@ -216,7 +211,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-3-0-tdi-quattro-pro-line-automaat/o/1695009",
       "image": "https://www.schadeautos.nl/cache/picture/15/1695009/39f82d443a61ee8059d0777ae5b1f56c~v155885011.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.900"
       ],
       "title": "Audi Q7",
@@ -241,7 +235,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1717370/21a88a5e4c68352dd8c652c1abd87663~v162268789.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.750"
       ],
       "title": "Audi A4",
@@ -287,7 +280,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
       "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.500"
       ],
       "title": "Audi A4",
@@ -313,7 +305,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793195/e52d2efb2d80e492143ddab888847a51~v185168947.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.450"
       ],
       "title": "Skoda Yeti",
@@ -337,9 +328,7 @@
       "id": "1786401",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/subaru-legacy-touring-wagon-2-0i/o/1786401",
       "image": "https://www.schadeautos.nl/cache/picture/15/1786401/c12d9e6103347d1d671837e8532a010f~v182920444.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Subaru Legacy",
       "type": "Touring Wagon 2.0i",
       "price": "875",
@@ -361,7 +350,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-70-1-6-t4-summum-automaat/o/1795654",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795654/03fdd301275fc7391d80d78867424e83~v186118518.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.750"
       ],
       "title": "Volvo V‑70",
@@ -435,7 +423,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0-ecotsi-style-connect/o/1795658",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795658/8f69929c640fba9a1b4ca4f0c3b7a939~v186119876.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.950"
       ],
       "title": "Seat Leon",
@@ -484,7 +471,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-edition-automaat/o/1777027",
       "image": "https://www.schadeautos.nl/cache/picture/15/1777027/203b222b819b6d59340b0e4fd783044a~v180328670.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 18.950"
       ],
       "title": "BMW 5‑serie",
@@ -844,7 +830,7 @@
     {
       "id": "1793193",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-7-crdi-plus-pack/o/1793193",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1793193/fb4a04460934a256be30f27a219f2fed~v185168405.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1793193/024bd37d9930f6fc7261d2f133a57e68~v185168405.jpg",
       "labels": [
         "exportprijs€ 3.450"
       ],
@@ -1346,30 +1332,9 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790021/c2d9bb67fe9eab44ea79b757a444d36b~v184023137.jpg"
     },
     {
-      "id": "1789986",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-0-16v-ls-bi-fuel/o/1789986",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1789986/6e24fcc78850308d78d21c795d25bded~v184020308.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Chevrolet Spark",
-      "type": "1.0 16V LS Bi-Fuel",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "217175",
-      "make": "Chevrolet",
-      "model": "Spark 1.0 16V LS Bi-Fuel",
-      "gearbox": "handgeschakeld",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "rondom schade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "spark-10-16v-ls-bi-fuel-10-16v-ls-bi-fuel",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1789986/602cba1d2be9aa0b7e945e3fb7707e02~v184020308.jpg"
-    },
-    {
       "id": "1792806",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-trend-schadevrij/o/1792806",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1792806/4e4ab692d62dce3b705f2e40f086c1ad~v184920204.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1792806/3436eb6128b056ccf6ebe5c57862b1f1~v184920204.jpg",
       "labels": [],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Trend schadevrij",
@@ -1390,7 +1355,7 @@
     {
       "id": "1792733",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/dodge-ram-1500-5-7-hemi-benzine-lpg/o/1792733",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1792733/10eef39df1bafc8fedd1689374052ec0~v184902480.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1792733/8752d6cc7b06beac3c92a054343d0aa0~v184902480.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1838,7 +1803,7 @@
     {
       "id": "1773286",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1773286/072c61f3258eb8e81af19c8c41cc90cd~v179177288.jpg",
       "labels": [],
       "title": "Opel Crossland",
       "type": "X 1.2 Turbo Innovation",
@@ -1974,7 +1939,7 @@
     {
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1702078/843fa3aa7dfa9077b7202fdc39b5bfc4~v158036427.jpg",
       "labels": [],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.4 Online Edition",
@@ -2107,7 +2072,7 @@
     {
       "id": "1672358",
       "link": "https://www.schadeautos.nl/nl/occasion/motorfietsen/yamaha-xv-750-chopper-xv-750-se/o/1672358",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1672358/946de7507bcc1ebe1447092f7b8588a9~v148954050.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1672358/5c98eccf43a4378cd8e2585795c67e7c~v148954050.jpg",
       "labels": [
         "verkocht"
       ],
