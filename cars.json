@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T08:00:12.914Z",
+  "updated": "2026-08-31T08:13:16.164Z",
   "cars": [
     {
       "id": "1801658",
@@ -99,9 +99,7 @@
       "id": "1765468",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-9-3-7-v6-automaat-4x4-7-persoons/o/1765468",
       "image": "https://www.schadeautos.nl/cache/picture/15/1765468/00e35f893e2f619079fb0943900ccb2c~v176758716.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mazda CX‑9",
       "type": "3.7 V6 automaat 4x4 7 persoons",
       "price": "2400",
@@ -121,7 +119,7 @@
     {
       "id": "1792709",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure/o/1792709",
-      "image": "https://www.schadeautos.nl/picture/15/o/1792709/74e4c6cbe2f6927ea282cf934978525e~v184901638.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1792709/ab36ea5a60aecea8e21b2bb6070c7724~v184901638.jpg",
       "labels": [],
       "title": "Peugeot 2008",
       "type": "1.2 Puretech Allure",
@@ -830,7 +828,7 @@
     {
       "id": "1793193",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-7-crdi-plus-pack/o/1793193",
-      "image": "https://www.schadeautos.nl/picture/15/o/1793193/024bd37d9930f6fc7261d2f133a57e68~v185168405.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1793193/fb4a04460934a256be30f27a219f2fed~v185168405.jpg",
       "labels": [
         "exportprijs€ 3.450"
       ],
@@ -1334,7 +1332,7 @@
     {
       "id": "1792806",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-trend-schadevrij/o/1792806",
-      "image": "https://www.schadeautos.nl/picture/15/o/1792806/3436eb6128b056ccf6ebe5c57862b1f1~v184920204.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1792806/4e4ab692d62dce3b705f2e40f086c1ad~v184920204.jpg",
       "labels": [],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Trend schadevrij",
@@ -1355,7 +1353,7 @@
     {
       "id": "1792733",
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/dodge-ram-1500-5-7-hemi-benzine-lpg/o/1792733",
-      "image": "https://www.schadeautos.nl/picture/15/o/1792733/8752d6cc7b06beac3c92a054343d0aa0~v184902480.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1792733/10eef39df1bafc8fedd1689374052ec0~v184902480.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1803,7 +1801,7 @@
     {
       "id": "1773286",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
-      "image": "https://www.schadeautos.nl/picture/15/o/1773286/072c61f3258eb8e81af19c8c41cc90cd~v179177288.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
       "labels": [],
       "title": "Opel Crossland",
       "type": "X 1.2 Turbo Innovation",
@@ -1939,7 +1937,7 @@
     {
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
-      "image": "https://www.schadeautos.nl/picture/15/o/1702078/843fa3aa7dfa9077b7202fdc39b5bfc4~v158036427.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
       "labels": [],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.4 Online Edition",
@@ -2072,7 +2070,7 @@
     {
       "id": "1672358",
       "link": "https://www.schadeautos.nl/nl/occasion/motorfietsen/yamaha-xv-750-chopper-xv-750-se/o/1672358",
-      "image": "https://www.schadeautos.nl/picture/15/o/1672358/5c98eccf43a4378cd8e2585795c67e7c~v148954050.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1672358/946de7507bcc1ebe1447092f7b8588a9~v148954050.jpg",
       "labels": [
         "verkocht"
       ],
