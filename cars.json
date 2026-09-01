@@ -1,13 +1,11 @@
 {
-  "updated": "2026-08-31T08:13:16.164Z",
+  "updated": "2026-09-01T07:23:55.363Z",
   "cars": [
     {
       "id": "1801658",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige/o/1801658",
       "image": "https://www.schadeautos.nl/cache/picture/15/1801658/80e128a009247462255411a166f94084~v187935441.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes A‑klasse",
       "type": "180 Prestige",
       "price": "4950",
@@ -54,9 +52,7 @@
       "id": "1801645",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke-1-5-diesel/o/1801645",
       "image": "https://www.schadeautos.nl/cache/picture/15/1801645/25314383ac30f0774e5e1be381e83694~v187930657.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Nissan Juke",
       "type": "1.5 diesel",
       "price": "2200",
@@ -251,27 +247,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
       "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg"
-    },
-    {
-      "id": "1772243",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-1-2-tfsi-pro-line-s/o/1772243",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1772243/c983637548ad839c6aaf29053582fa1b~v178664507.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A1",
-      "type": "Sportback 1.2 TFSI Pro Line S",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "98929",
-      "make": "Audi",
-      "model": "A1 Sportback 1.2 TFSI Pro Line S",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "color": "grijs",
-      "damage": "bumper\nmotorkap\nvoorschade\nachterklep\nachterlichten links\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a1-sportback-12-tfsi-pro-line-s-sportback-12-tfsi-pro-line-s",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1772243/bcbfdf9ef913ca990d9318df2e7511d0~v178664507.jpg"
     },
     {
       "id": "1700990",
@@ -918,28 +893,6 @@
       "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
       "slug": "clio-10-tce-zen-10-tce-zen",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg"
-    },
-    {
-      "id": "1797851",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1797851",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1797851/4df4453bb89ba9217521c702ce35b34d~v186994839.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Twingo",
-      "type": "1.0 SCe Collection",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "37315",
-      "make": "Renault",
-      "model": "Twingo 1.0 SCe Collection",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nairbags voor stuk\nauto is verrijdbaar\nmotor loopt",
-      "slug": "twingo-10-sce-collection-10-sce-collection",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797851/a68b306cf94f381ea360f1e35449eb00~v186994839.jpg"
     },
     {
       "id": "1797848",
