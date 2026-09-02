@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T07:23:55.363Z",
+  "updated": "2026-09-02T06:54:22.983Z",
   "cars": [
     {
       "id": "1801658",
@@ -552,28 +552,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800024/e6fda3ec7b4e855b1abd0f4b5e32a631~v187583416.jpg"
     },
     {
-      "id": "1800018",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-1-6-e-hdi-tendance-automaat-diesel/o/1800018",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1800018/1b3700111d7912a310ad2e0bd2e39b6f~v187582785.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Citroën C4",
-      "type": "PICASSO 1.6 e-HDi Tendance Automaat diesel",
-      "year": "2015",
-      "fuelType": "diesel",
-      "mileage": "233712",
-      "make": "Citroën",
-      "model": "C4 PICASSO 1.6 e-HDi Tendance Automaat diesel",
-      "gearbox": "automaat",
-      "engineSize": "1560 CC",
-      "color": "blauw",
-      "bodyType": "mpv",
-      "damage": "achterscherm\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "c4-picasso-16-e-hdi-tendance-automaat-diesel-picasso-16-e-hdi-tendance-automaat-diesel",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800018/13302d289a7a8c47b644671aa5b9b2e1~v187582785.jpg"
-    },
-    {
       "id": "1798896",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
       "image": "https://www.schadeautos.nl/cache/picture/15/1798896/4683a74343ab85681bacb5a74a87a779~v187221022.jpg",
@@ -683,29 +661,6 @@
       "damage": "bumper\nkoplamp links\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
       "slug": "clio-09-tce-eco-nightandday-09-tce-eco-nightandday",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794184/4b315a48900be32b22944ecf0c8a6d83~v185490995.jpg"
-    },
-    {
-      "id": "1794194",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-gti-performance-automaat/o/1794194",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1794194/2421678b3371883f8a403922484428ed~v185492384.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "2.0 TSI GTI Performance Automaat",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "163862",
-      "make": "Volkswagen",
-      "model": "Golf 2.0 TSI GTI Performance Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1984 CC",
-      "power": "245 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\ndakschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nglas Panorama dak",
-      "slug": "golf-20-tsi-gti-performance-automaat-20-tsi-gti-performance-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794194/b5be7480c102702b5b2cead6443e7bb4~v185492384.jpg"
     },
     {
       "id": "1716876",
