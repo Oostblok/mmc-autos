@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T06:57:43.421Z",
+  "updated": "2026-09-04T07:01:55.703Z",
   "cars": [
     {
       "id": "1801658",
@@ -52,10 +52,11 @@
       "id": "1801645",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke-1-5-diesel/o/1801645",
       "image": "https://www.schadeautos.nl/cache/picture/15/1801645/25314383ac30f0774e5e1be381e83694~v187930657.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Nissan Juke",
       "type": "1.5 diesel",
-      "price": "2200",
       "year": "2011",
       "fuelType": "diesel",
       "mileage": "318181",
