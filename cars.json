@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-09T07:09:29.062Z",
+  "updated": "2026-09-10T07:07:22.678Z",
   "cars": [
+    {
+      "id": "1804789",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5-tsi-greentech-style-business/o/1804789",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1804789/d1faff9e32067f082a0278f163a30abe~v188941912.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Skoda Octavia",
+      "type": "1.5 TSI Greentech Style Business",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "246518",
+      "make": "Skoda",
+      "model": "Octavia 1.5 TSI Greentech Style Business",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1498 CC",
+      "power": "110 kW",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nmotorkap\nradiateur kapot\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "octavia-15-tsi-greentech-style-business-15-tsi-greentech-style-business",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1804789/af45ccf9496715b49ea14bed2bf16cdf~v188941912.jpg"
+    },
+    {
+      "id": "1691082",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-style-smart-hybrid/o/1691082",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1691082/e9d60b409c76bb1b74510dc48bb90725~v154574089.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.900"
+      ],
+      "title": "Suzuki Swift",
+      "type": "1.2 Style Smart Hybrid",
+      "price": "5900",
+      "year": "2023",
+      "fuelType": "benzine",
+      "mileage": "46971",
+      "make": "Suzuki",
+      "model": "Swift 1.2 Style Smart Hybrid",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "5900",
+      "engineSize": "1197 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorscherm\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen\nMotorsteun afgebroken\nstuurbekrachtiging werkt niet",
+      "slug": "swift-12-style-smart-hybrid-12-style-smart-hybrid",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1691082/17914e160da6ffcb314e9abb8c2fd43d~v154574089.jpg"
+    },
     {
       "id": "1804795",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-e-tech-full-hybrid-1-6-145-evolution/o/1804795",
@@ -88,7 +136,7 @@
       "type": "1.0 EcoBoost Hybrid ST Line Business",
       "price": "4950",
       "year": "2020",
-      "fuelType": "benzine",
+      "fuelType": "hybride benzine",
       "mileage": "129070",
       "make": "Ford",
       "model": "Focus 1.0 EcoBoost Hybrid ST Line Business",
@@ -700,10 +748,11 @@
       "id": "1757206",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-lupo-1-4-cabrio-dak/o/1757206",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757206/3e6826d1543b049e71b25302c38b9760~v174334680.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volkswagen Lupo",
       "type": "1.4 cabrio dak",
-      "price": "495",
       "year": "2001",
       "fuelType": "benzine",
       "mileage": "203892",
@@ -2076,30 +2125,6 @@
       "damage": "bumper\nkoplamp links\nradiateur kapot\nvoorschade\nbumper\nstuurairbag stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
       "slug": "berlingo-16-vti-120-multispace-16-vti-120-multispace",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706896/f1ec43eb8fa5a6d5e566e734e7a6445c~v159498155.jpg"
-    },
-    {
-      "id": "1691082",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-style-smart-hybrid/o/1691082",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1691082/e9d60b409c76bb1b74510dc48bb90725~v154574089.jpg",
-      "labels": [
-        "exportprijs€ 6.600"
-      ],
-      "title": "Suzuki Swift",
-      "type": "1.2 Style Smart Hybrid",
-      "price": "6600",
-      "year": "2023",
-      "fuelType": "benzine",
-      "mileage": "46971",
-      "make": "Suzuki",
-      "model": "Swift 1.2 Style Smart Hybrid",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "6600",
-      "engineSize": "1197 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorscherm\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen\nMotorsteun afgebroken\nstuurbekrachtiging werkt niet",
-      "slug": "swift-12-style-smart-hybrid-12-style-smart-hybrid",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1691082/17914e160da6ffcb314e9abb8c2fd43d~v154574089.jpg"
     }
   ]
 }
