@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T07:05:51.953Z",
+  "updated": "2026-09-12T06:58:59.122Z",
   "cars": [
     {
       "id": "1800046",
@@ -122,7 +122,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-e-tech-full-hybrid-1-6-145-evolution/o/1804795",
       "image": "https://www.schadeautos.nl/cache/picture/15/1804795/4e656b6622719179c5f900b55977c984~v188897339.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 8.500"
       ],
       "title": "Renault Clio",
@@ -147,7 +146,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x/o/1804794",
       "image": "https://www.schadeautos.nl/cache/picture/15/1804794/d43deefe54bc8fe158fe777a8624addc~v188896100.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.995"
       ],
       "title": "Toyota Aygo",
@@ -194,7 +192,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
       "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.400"
       ],
       "title": "Ford Focus",
@@ -489,7 +486,7 @@
     },
     {
       "id": "1793195",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
+      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793195/e52d2efb2d80e492143ddab888847a51~v185168947.jpg",
       "labels": [
         "exportprijs€ 2.450"
@@ -507,7 +504,7 @@
       "engineSize": "1197 CC",
       "color": "blauw",
       "bodyType": "stationwagon",
-      "damage": "gebruikssporen\nhagelschade\nrondom schade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "damage": "gebruikssporen",
       "slug": "yeti-12-tsi-comfort-12-tsi-comfort",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793195/ea5d7645dad8427b81df5af05e6e571f~v185168947.jpg"
     },
