@@ -61,10 +61,7 @@ const scrape = async () => {
 			const hasCars = await page
 				.waitForSelector('.car', { timeout: 10000 })
 				.then(() => true)
-				.catch((e) => {
-					console.error('\x1b[31m%s\x1b[0m', e?.cause?.name || e?.name || e.toString())
-					return false
-				})
+				.catch(() => false)
 
 			if (!hasCars) {
 				hasNextPage = false
@@ -130,7 +127,7 @@ const scrape = async () => {
 			Array.from({ length: P_LIMIT }, () => browser!.newPage())
 		)
 
-		await Promise.all(pages.map(setupPage))
+		// await Promise.all(pages.map(setupPage))
 
 		for (let i = 0; i < cars.length; i++) {
 			const page = pages[i % P_LIMIT]!
