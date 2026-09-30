@@ -1,9 +1,29 @@
+import type { Page, Browser } from 'puppeteer'
+
+interface Car {
+	id: string
+	link: string
+	image?: string | null
+	labels: string[]
+	title?: string
+	type?: string
+	price?: string
+	year?: string
+	fuelType?: string
+	mileage?: string
+	images?: string[]
+	model?: string
+	slug?: string
+	description?: string
+	[key: string]: unknown
+}
+
 import puppeteer from 'puppeteer'
 import fs from 'node:fs'
 import path from 'node:path'
 import slugify from 'slugify'
 
-const setupPage = async (page) => {
+const setupPage = async (page: Page) => {
 	await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36')
 	await page.setExtraHTTPHeaders({ 'accept-language': 'nl-NL,nl;q=0.9,en;q=0.8' })
 	await page.setRequestInterception(true)
@@ -14,8 +34,8 @@ const setupPage = async (page) => {
 }
 
 const scrape = async () => {
-	let browser
-	const cars = []
+	let browser: Browser | undefined
+	const cars: Car[] = []
 	let pageIndex = 0
 	let hasNextPage = true
 
@@ -31,16 +51,20 @@ const scrape = async () => {
 		})
 
 		const page = await browser.newPage()
-		await setupPage(page)
+		// await setupPage(page) // Temp. disabled, does not work nicely with certain javascript modules it seems
 
 		while (hasNextPage) {
 			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`
 
 			await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 })
+
 			const hasCars = await page
 				.waitForSelector('.car', { timeout: 10000 })
 				.then(() => true)
-				.catch(() => false)
+				.catch((e) => {
+					console.error('\x1b[31m%s\x1b[0m', e?.cause?.name || e?.name || e.toString())
+					return false
+				})
 
 			if (!hasCars) {
 				hasNextPage = false
@@ -49,6 +73,8 @@ const scrape = async () => {
 
 			const data = await page.evaluate(() => {
 				const $cars = Array.from(document.querySelectorAll('.car'))
+
+				console.log(`Cars found: ${$cars.length}`)
 
 				return $cars
 					.map($car => {
@@ -64,13 +90,13 @@ const scrape = async () => {
 						const fuelType = $car.querySelector('.details > [title="brandstof"]')?.textContent?.trim()
 						const mileage = $car.querySelector('.details > [title="tellerstand"]')?.textContent?.trim()
 
-						const labels = []
+						const labels: string[] = []
 						$car.querySelectorAll('.label > *').forEach($label => {
 							labels.push($label.textContent?.trim())
 						})
 
 						return {
-							id: link.split('/').pop(),
+							id: link.split('/').pop()!,
 							link: new URL(link, location.origin).href,
 							image: image?.startsWith('/') ? `https://www.schadeautos.nl${image}` : image,
 							labels: labels.filter(Boolean),
@@ -82,7 +108,7 @@ const scrape = async () => {
 							mileage
 						}
 					})
-					.filter(car => !!car?.link)
+					.filter((car): car is NonNullable<typeof car> => !!car?.link)
 			})
 
 			cars.push(...data)
@@ -101,14 +127,14 @@ const scrape = async () => {
 		const P_LIMIT = 3
 
 		const pages = await Promise.all(
-			Array.from({ length: P_LIMIT }, () => browser.newPage())
+			Array.from({ length: P_LIMIT }, () => browser!.newPage())
 		)
 
 		await Promise.all(pages.map(setupPage))
 
 		for (let i = 0; i < cars.length; i++) {
-			const page = pages[i % P_LIMIT]
-			const car = cars[i]
+			const page = pages[i % P_LIMIT]!
+			const car = cars[i]!
 
 			await page.goto(car.link, { waitUntil: 'domcontentloaded', timeout: 30000 })
 			await page.waitForSelector('.specifications', { timeout: 10000 }).catch(() => null)
@@ -122,24 +148,24 @@ const scrape = async () => {
 					const match = onclick?.match(/showPicture\([^)]*?'([^']*?picture[^']*?)'/)
 
 					if (match) {
-						images.push(new URL(match[1], location.origin).href)
+						images.push(new URL(match[1] as string, location.origin).href)
 					}
 				}
 
-				const data = {}
+				const data: Record<string, string> = {}
 				const rows = document.querySelectorAll('.specifications table tr')
 
 				for (const row of rows) {
 					const cells = row.querySelectorAll('td')
 					if (cells.length < 2) continue
 
-					const key = cells[0].innerText
+					const key = cells[0]!.innerText
 						.trim()
 						.toLowerCase()
 						.replace(':', '')
 						.replace(/\s+/g, ' ')
 
-					data[key] = cells[1].innerText.trim()
+					data[key] = cells[1]!.innerText.trim()
 				}
 
 				return {
