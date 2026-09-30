@@ -1,0 +1,1 @@
+var e=e=>{if(!e)return e;let t=Number(e);return Number.isNaN(t)?e:new Intl.NumberFormat(`nl-NL`).format(t)},t=e=>{if(!e)return e;let t=Number(e);return Number.isNaN(t)?e:new Intl.NumberFormat(`nl-NL`,{style:`currency`,currency:`EUR`,maximumFractionDigits:0}).format(t)};export{t as n,e as t};
