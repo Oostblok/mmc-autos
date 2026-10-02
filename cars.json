@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:25:53.032Z",
+  "updated": "2026-10-02T08:01:29.514Z",
   "cars": [
     {
       "id": "1792709",
@@ -287,29 +287,6 @@
       "damage": "bumper\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nonderste hoekstuk chrome plastic linksonder",
       "slug": "500c-09-twinair-turbo-lounge-09-twinair-turbo-lounge",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809998/504c81ee3370c4faa7eb9b03228c5ad8~v190348692.jpg"
-    },
-    {
-      "id": "1809992",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-2-0d-portfolio-r-sport-automaat/o/1809992",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1809992/2973ad878dd0b380025f8990f4ffe847~v190348198.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Jaguar XF",
-      "type": "2.0d Portfolio R-Sport Automaat",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "232591",
-      "make": "Jaguar",
-      "model": "XF 2.0d Portfolio R-Sport Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1999 CC",
-      "power": "120 kW",
-      "color": "grijs",
-      "bodyType": "sedan",
-      "damage": "achterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "xf-20d-portfolio-r-sport-automaat-20d-portfolio-r-sport-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809992/37c1d1f026a2abd24b2b202800c4841d~v190348198.jpg"
     },
     {
       "id": "1752879",
