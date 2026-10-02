@@ -44,7 +44,7 @@
 			const [minPrice, maxPrice] = filters.price
 			filtered = filtered.filter(car => {
 				const price = Number(car.price)
-				return price >= minPrice && price <= maxPrice
+				return isNaN(price) || (price >= minPrice && price <= maxPrice)
 			})
 		}
 
@@ -52,7 +52,7 @@
 			const [minEngineSize, maxEngineSize] = filters.engineSize
 			filtered = filtered.filter(car => {
 				const engineSize = Number(car.engineSize?.replace(/\D/g, ""))
-				return engineSize >= minEngineSize && engineSize <= maxEngineSize
+				return isNaN(engineSize) || (engineSize >= minEngineSize && engineSize <= maxEngineSize)
 			})
 		}
 
@@ -60,7 +60,7 @@
 			const [minMileage, maxMileage] = filters.mileage
 			filtered = filtered.filter(car => {
 				const mileage = Number(car.mileage)
-				return mileage >= minMileage && mileage <= maxMileage
+				return isNaN(mileage) || (mileage >= minMileage && mileage <= maxMileage)
 			})
 		}
 
