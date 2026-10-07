@@ -1,13 +1,128 @@
 {
-  "updated": "2026-10-05T08:30:25.366Z",
+  "updated": "2026-10-07T08:15:45.115Z",
   "cars": [
+    {
+      "id": "1788042",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Peugeot 208",
+      "type": "1.2i",
+      "price": "5750",
+      "year": "2020",
+      "fuelType": "benzine",
+      "mileage": "49177",
+      "make": "Peugeot",
+      "model": "208 1.2i",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "power": "74 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nvoorschade\nachterklep\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "208-12i-12i",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
+    },
+    {
+      "id": "1812885",
+      "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Adria",
+      "type": "Adria Camper 660 coral 2004",
+      "price": "18500",
+      "year": "2004",
+      "fuelType": "diesel",
+      "mileage": "128609",
+      "make": "Adria",
+      "model": "Adria Camper 660 coral 2004",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2800 CC",
+      "color": "wit",
+      "damage": "bumper\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "adria-camper-660-coral-2004-adria-camper-660-coral-2004",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
+    },
+    {
+      "id": "1812884",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-asx-1-6-intense-cleartec/o/1812884",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812884/376ca5a8cc754ced21161f1365dc83a7~v191230028.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Mitsubishi ASX",
+      "type": "1.6 Intense ClearTec",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "176521",
+      "make": "Mitsubishi",
+      "model": "ASX 1.6 Intense ClearTec",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1590 CC",
+      "power": "86 kW",
+      "color": "wit",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "asx-16-intense-cleartec-16-intense-cleartec",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812884/3a02e0ff221088142aed4018ea47e255~v191230028.jpg"
+    },
+    {
+      "id": "1812883",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-clk-cabrio-240-elegance-automaat/o/1812883",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812883/0681332bfe1074bd3df5ce4abfbaac78~v191229554.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mercedes CLK",
+      "type": "Cabrio 240 Elegance Automaat",
+      "price": "3800",
+      "year": "2003",
+      "fuelType": "benzine",
+      "mileage": "233272",
+      "make": "Mercedes",
+      "model": "CLK Cabrio 240 Elegance Automaat",
+      "gearbox": "automaat",
+      "engineSize": "2597 CC",
+      "power": "125 kW",
+      "color": "grijs",
+      "bodyType": "cabriolet",
+      "damage": "bumper\ndeur voor\nvoorscherm\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "clk-cabrio-240-elegance-automaat-cabrio-240-elegance-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812883/a9a789aaee8e82eaeba8fea53ea7e1c6~v191229554.jpg"
+    },
+    {
+      "id": "1812881",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.250"
+      ],
+      "title": "Renault Mégane",
+      "type": "Estate 1.5 dCi Collection Schadevrij",
+      "price": "3350",
+      "year": "2013",
+      "fuelType": "diesel",
+      "mileage": "250106",
+      "make": "Renault",
+      "model": "Mégane Estate 1.5 dCi Collection Schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3250",
+      "engineSize": "1461 CC",
+      "color": "wit",
+      "bodyType": "stationwagon",
+      "damage": "hagelschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-estate-15-dci-collection-schadevrij-estate-15-dci-collection-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812881/c5238e76590be86e55129c20aaccae2a~v191228116.jpg"
+    },
     {
       "id": "1767683",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-automaat-1-2-tce-dynamique/o/1767683",
       "image": "https://www.schadeautos.nl/cache/picture/15/1767683/ba96663c00563ffbe9863f9e545329a3~v177391755.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Captur",
       "type": "Automaat 1.2 TCe Dynamique",
       "price": "3900",
@@ -29,7 +144,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
       "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.650"
       ],
       "title": "Renault Grand‑scenic",
@@ -53,11 +167,10 @@
       "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768845/7210ea50b159cdf256e2fc324569c855~v177647596.jpg",
       "labels": [
-        "nieuw"
+        "verkocht"
       ],
       "title": "Ford Transit Connect",
       "type": "Automaat 1.5 EcoBlue L2 Trend",
-      "price": "6950",
       "year": "2020",
       "fuelType": "diesel",
       "mileage": "176823",
@@ -97,18 +210,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-blue-lease-premium/o/1784134",
       "image": "https://www.schadeautos.nl/cache/picture/15/1784134/9c16e3d55d163863929b75ae410174b7~v182295523.jpg",
       "labels": [
-        "exportprijs€ 3.500"
+        "verkocht"
       ],
       "title": "Peugeot 308",
       "type": "1.2 PureTech Blue Lease Premium",
-      "price": "4500",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "103234",
       "make": "Peugeot",
       "model": "308 1.2 PureTech Blue Lease Premium",
       "gearbox": "handgeschakeld",
-      "exportPrice": "3500",
       "engineSize": "1199 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -188,51 +299,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1792806/bee772ca5e4c160519f2ed44e1ecf6a1~v184920204.jpg"
     },
     {
-      "id": "1678586",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-5-titanium/o/1678586",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1678586/f9ee7b110aea2fcaa0c58120fc59515f~v150684576.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Focus",
-      "type": "1.5 Titanium",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "102174",
-      "make": "Ford",
-      "model": "Focus 1.5 Titanium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1498 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nachterklep\nachterlichten links\nachterruit\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-15-titanium-15-titanium",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1678586/5875287632e9e33543f32dbe8b180831~v150684576.jpg"
-    },
-    {
-      "id": "1810846",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-320-2-0-tdci-l2h1-trend/o/1810846",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1810846/95c86525c3b953bca7b2781ac591cb68~v190689780.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Transit Custom",
-      "type": "320 2.0 TDCI L2H1 Trend",
-      "year": "2018",
-      "fuelType": "diesel",
-      "mileage": "234286",
-      "make": "Ford",
-      "model": "Transit Custom 320 2.0 TDCI L2H1 Trend",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1995 CC",
-      "power": "96 kW",
-      "color": "wit",
-      "bodyType": "bestelauto",
-      "damage": "bumper\nachterklep\nachterschade\nbumper\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transit-custom-320-20-tdci-l2h1-trend-320-20-tdci-l2h1-trend",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1810846/be452c4156c5e19427413864831c76a1~v190689780.jpg"
-    },
-    {
       "id": "1810845",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-edition/o/1810845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1810845/b05971e8be76c1beb0f565392196eb3d~v190688897.jpg",
@@ -279,29 +345,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorschade\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1810810/b1d477a35b19eb246cbfd66a438272df~v190686284.jpg"
-    },
-    {
-      "id": "1810803",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-x-trail-1-6-dig-t-tekna/o/1810803",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1810803/04c8d7d4a5a9a1edf1367de411d863c6~v190685694.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Nissan X‑Trail",
-      "type": "1.6 DIG-T Tekna",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "124456",
-      "make": "Nissan",
-      "model": "X-Trail 1.6 DIG-T Tekna",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1618 CC",
-      "power": "163 pk",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\ndeur voor\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "x-trail-16-dig-t-tekna-16-dig-t-tekna",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1810803/a46519a6f4dafa14ab0ee65892858b3b~v190685694.jpg"
     },
     {
       "id": "1789990",
@@ -398,10 +441,11 @@
       "id": "1757969",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
       "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volkswagen Caddy",
       "type": "1.6 TDI Maxi BMT",
-      "price": "3900",
       "year": "2014",
       "fuelType": "diesel",
       "mileage": "235310",
@@ -1533,28 +1577,6 @@
       "damage": "bumper\nachterklep\nbumper\nparkeerschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nMotorkap airbag is afgegaan",
       "slug": "c-klasse-automaat-coupe-220-cdi-automaat-coupe-220-cdi",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1672051/f20130bfa51b5922000950a0cd6636cc~v157066537.jpg"
-    },
-    {
-      "id": "1788042",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
-      "labels": [],
-      "title": "Peugeot 208",
-      "type": "1.2i",
-      "price": "5950",
-      "year": "2020",
-      "fuelType": "benzine",
-      "mileage": "49177",
-      "make": "Peugeot",
-      "model": "208 1.2i",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "74 kW",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nvoorschade\nachterklep\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "208-12i-12i",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
     },
     {
       "id": "1737576",
