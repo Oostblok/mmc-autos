@@ -1,13 +1,11 @@
 {
-  "updated": "2026-10-08T08:30:44.898Z",
+  "updated": "2026-10-09T08:33:47.431Z",
   "cars": [
     {
       "id": "1788042",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
       "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot 208",
       "type": "1.2i",
       "price": "5750",
@@ -29,9 +27,7 @@
       "id": "1812885",
       "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Adria",
       "type": "Adria Camper 660 coral 2004",
       "price": "18500",
@@ -73,9 +69,7 @@
       "id": "1812883",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-clk-cabrio-240-elegance-automaat/o/1812883",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812883/0681332bfe1074bd3df5ce4abfbaac78~v191229554.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes CLK",
       "type": "Cabrio 240 Elegance Automaat",
       "price": "3800",
@@ -98,7 +92,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.250"
       ],
       "title": "Renault Mégane",
@@ -396,18 +389,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-fastback-1-4-t-gdi-n-line/o/1798545",
       "image": "https://www.schadeautos.nl/cache/picture/15/1798545/6b9ca169cabd157ae8f996aaef274b33~v187138323.jpg",
       "labels": [
-        "exportprijs€ 5.650"
+        "verkocht"
       ],
       "title": "Hyundai I‑30",
       "type": "Fastback 1.4 T-GDI N Line",
-      "price": "7350",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "152513",
       "make": "Hyundai",
       "model": "I-30 Fastback 1.4 T-GDI N Line",
       "gearbox": "handgeschakeld",
-      "exportPrice": "5650",
       "engineSize": "1353 CC",
       "power": "103 kW",
       "color": "grijs",
@@ -1034,10 +1025,11 @@
       "id": "1798896",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
       "image": "https://www.schadeautos.nl/cache/picture/15/1798896/4683a74343ab85681bacb5a74a87a779~v187221022.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Renault Master",
       "type": "T35 2.5 dCi L3H1 Meubelbak",
-      "price": "2250",
       "year": "2008",
       "fuelType": "diesel",
       "mileage": "300555",
@@ -1259,18 +1251,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-t-gdi-gt-line/o/1793994",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793994/9ce7842a2c2c00e0aff4b4431a6a9a14~v185490388.jpg",
       "labels": [
-        "exportprijs€ 2.950"
+        "verkocht"
       ],
       "title": "Kia Picanto",
       "type": "1.0 T-GDI GT-Line",
-      "price": "3650",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "131260",
       "make": "Kia",
       "model": "Picanto 1.0 T-GDI GT-Line",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2950",
       "engineSize": "998 CC",
       "color": "wit",
       "bodyType": "mpv",
