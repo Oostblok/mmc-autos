@@ -1,6 +1,108 @@
 {
-  "updated": "2026-10-10T08:11:24.233Z",
+  "updated": "2026-10-11T08:23:02.545Z",
   "cars": [
+    {
+      "id": "1814610",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glk-klasse-220-cdi-prestige/o/1814610",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814610/a0a4c318441395e42a1a57106a7c2cc7~v191630026.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.750"
+      ],
+      "title": "Mercedes Glk‑klasse",
+      "type": "220 CDI Prestige",
+      "price": "5550",
+      "year": "2013",
+      "fuelType": "diesel",
+      "mileage": "289643",
+      "make": "Mercedes",
+      "model": "Glk-klasse 220 CDI Prestige",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4750",
+      "engineSize": "2143 CC",
+      "power": "125 kW",
+      "color": "zwart",
+      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "glk-klasse-220-cdi-prestige-220-cdi-prestige",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814610/cf7080fcdc8912081ac70003dc526af3~v191630026.jpg"
+    },
+    {
+      "id": "1814609",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-1-0-ecotsi-style/o/1814609",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814609/7234528a70cc627f20b713c2ec38ff36~v191629427.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.650"
+      ],
+      "title": "Seat Ateca",
+      "type": "1.0 EcoTSI Style",
+      "price": "5350",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "195533",
+      "make": "Seat",
+      "model": "Ateca 1.0 EcoTSI Style",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4650",
+      "engineSize": "999 CC",
+      "power": "85 kW",
+      "color": "oranje",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ateca-10-ecotsi-style-10-ecotsi-style",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814609/35711ec29b7da14da3c30f48d5d5f123~v191629427.jpg"
+    },
+    {
+      "id": "1814608",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-6-ecoboost-lease-titanium-schadevrij/o/1814608",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814608/7ee1722a9b1f85f53c8a0bf9c3be67a7~v191628887.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.950"
+      ],
+      "title": "Ford Focus",
+      "type": "1.6 EcoBoost Lease Titanium schadevrij",
+      "price": "2250",
+      "year": "2012",
+      "fuelType": "benzine",
+      "mileage": "347770",
+      "make": "Ford",
+      "model": "Focus 1.6 EcoBoost Lease Titanium schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1950",
+      "engineSize": "1596 CC",
+      "power": "110 kW",
+      "color": "blauw",
+      "bodyType": "stationwagon",
+      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "focus-16-ecoboost-lease-titanium-schadevrij-16-ecoboost-lease-titanium-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814608/dcc292b733f4efd9c6682e1c421def8b~v191628887.jpg"
+    },
+    {
+      "id": "1814346",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-0t-essence/o/1814346",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814346/b5c948b788c6f8b8e28f610d0b596032~v191627351.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.950"
+      ],
+      "title": "Hyundai Kona",
+      "type": "1.0T Essence",
+      "price": "4950",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "248752",
+      "make": "Hyundai",
+      "model": "Kona 1.0T Essence",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3950",
+      "engineSize": "998 CC",
+      "power": "88 kW",
+      "color": "blauw",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "kona-10t-essence-10t-essence",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814346/4c3084649a2c526c97b1042cffd2167f~v191627351.jpg"
+    },
     {
       "id": "1814342",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
@@ -68,28 +170,6 @@
       "damage": "bumper\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "adria-camper-660-coral-2004-adria-camper-660-coral-2004",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
-    },
-    {
-      "id": "1812884",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-asx-1-6-intense-cleartec/o/1812884",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1812884/376ca5a8cc754ced21161f1365dc83a7~v191230028.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mitsubishi ASX",
-      "type": "1.6 Intense ClearTec",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "176521",
-      "make": "Mitsubishi",
-      "model": "ASX 1.6 Intense ClearTec",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1590 CC",
-      "power": "86 kW",
-      "color": "wit",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "asx-16-intense-cleartec-16-intense-cleartec",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812884/3a02e0ff221088142aed4018ea47e255~v191230028.jpg"
     },
     {
       "id": "1812883",
@@ -180,28 +260,6 @@
       "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1755080/341e65e6933e458d6b966c3eb902dce2~v173672804.jpg"
-    },
-    {
-      "id": "1768845",
-      "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend/o/1768845",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1768845/7210ea50b159cdf256e2fc324569c855~v177647596.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Transit Connect",
-      "type": "Automaat 1.5 EcoBlue L2 Trend",
-      "year": "2020",
-      "fuelType": "diesel",
-      "mileage": "176823",
-      "make": "Ford",
-      "model": "Transit Connect Automaat 1.5 EcoBlue L2 Trend",
-      "gearbox": "automaat",
-      "engineSize": "1499 CC",
-      "color": "zilver",
-      "bodyType": "bestelauto",
-      "damage": "gebruikssporen\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transit-connect-automaat-15-ecoblue-l2-trend-automaat-15-ecoblue-l2-trend",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1768845/15a5c944a83d421ff8bfb67440af40d3~v177647596.jpg"
     },
     {
       "id": "1792709",
@@ -433,28 +491,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1798545/5be3db2e183ac90606db3dc0303a29b7~v187138323.jpg"
     },
     {
-      "id": "1757969",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-caddy-1-6-tdi-maxi-bmt/o/1757969",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1757969/142547895a58259113d87e249a14f0c4~v174467294.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Caddy",
-      "type": "1.6 TDI Maxi BMT",
-      "year": "2014",
-      "fuelType": "diesel",
-      "mileage": "235310",
-      "make": "Volkswagen",
-      "model": "Caddy 1.6 TDI Maxi BMT",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "color": "geel",
-      "bodyType": "bestelauto",
-      "damage": "achterklep\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "caddy-16-tdi-maxi-bmt-16-tdi-maxi-bmt",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1757969/8eec727fb7fb90ed96e8ff017c9437e5~v174467294.jpg"
-    },
-    {
       "id": "1809185",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-drive/o/1809185",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809185/6fc514ec47d3c108f59a239381172d28~v190180853.jpg",
@@ -477,6 +513,29 @@
       "damage": "achterscherm\nachterklep\nachterlichten links\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "fabia-combi-10-tsi-drive-combi-10-tsi-drive",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809185/861145a0f36107b8fb02af8ea3ce9c36~v190180853.jpg"
+    },
+    {
+      "id": "1809166",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/toyota-proace-electric-worker-standard-range-limited/o/1809166",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1809166/83742a021bfc8eb1d8692ef271dc9a39~v190180016.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Toyota Proace",
+      "type": "Electric Worker Standard Range Limited",
+      "price": "7950",
+      "year": "2021",
+      "fuelType": "elektrisch",
+      "mileage": "181080",
+      "make": "Toyota",
+      "model": "Proace Electric Worker Standard Range Limited",
+      "gearbox": "automaat",
+      "power": "100 kW",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\nlaadkabel ontbreekt\nchassis oké\nrecht op de wielen",
+      "slug": "proace-electric-worker-standard-range-limited-electric-worker-standard-range-limited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
     },
     {
       "id": "1809158",
@@ -650,7 +709,7 @@
     {
       "id": "1804794",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x/o/1804794",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1804794/d43deefe54bc8fe158fe777a8624addc~v188896100.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1804794/40b1bd3e69eb020eb039f98200201fad~v188896100.jpg",
       "labels": [
         "exportprijs€ 3.995"
       ],
@@ -674,7 +733,7 @@
     {
       "id": "1804792",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1804792/ec2cdc8b25788b836bfbbd417bfe20bd~v188894979.jpg",
       "labels": [
         "exportprijs€ 4.400"
       ],
@@ -1275,7 +1334,7 @@
     {
       "id": "1793994",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-t-gdi-gt-line/o/1793994",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1793994/9ce7842a2c2c00e0aff4b4431a6a9a14~v185490388.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1793994/54cffe3b0daaf80b5cdc37b5dc4ef92f~v185490388.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1297,7 +1356,7 @@
     {
       "id": "1664022",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1664022",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1664022/22c711d6557f0f68e6638775e4270474~v146456493.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1664022/549fff954611874448250d5c628f01ba~v146456493.jpg",
       "labels": [
         "exportprijs€ 2.900"
       ],
