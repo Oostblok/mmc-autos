@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-11T08:23:02.545Z",
+  "updated": "2026-10-12T08:44:29.247Z",
   "cars": [
+    {
+      "id": "1812885",
+      "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Adria",
+      "type": "Adria Camper 660 coral 2004",
+      "price": "17700",
+      "year": "2004",
+      "fuelType": "diesel",
+      "mileage": "128609",
+      "make": "Adria",
+      "model": "Adria Camper 660 coral 2004",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2800 CC",
+      "color": "wit",
+      "damage": "bumper\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "adria-camper-660-coral-2004-adria-camper-660-coral-2004",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
+    },
     {
       "id": "1814610",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glk-klasse-220-cdi-prestige/o/1814610",
@@ -152,26 +174,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
     },
     {
-      "id": "1812885",
-      "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
-      "labels": [],
-      "title": "Adria",
-      "type": "Adria Camper 660 coral 2004",
-      "price": "18500",
-      "year": "2004",
-      "fuelType": "diesel",
-      "mileage": "128609",
-      "make": "Adria",
-      "model": "Adria Camper 660 coral 2004",
-      "gearbox": "handgeschakeld",
-      "engineSize": "2800 CC",
-      "color": "wit",
-      "damage": "bumper\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "adria-camper-660-coral-2004-adria-camper-660-coral-2004",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
-    },
-    {
       "id": "1812883",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-clk-cabrio-240-elegance-automaat/o/1812883",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812883/0681332bfe1074bd3df5ce4abfbaac78~v191229554.jpg",
@@ -281,28 +283,6 @@
       "damage": "koplamp rechts\nmotorkap\nvoorschade\nachterklep\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-allure-12-puretech-allure",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1792709/a619402c59a8b651ba021c6256818723~v184901638.jpg"
-    },
-    {
-      "id": "1784134",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-blue-lease-premium/o/1784134",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1784134/9c16e3d55d163863929b75ae410174b7~v182295523.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 308",
-      "type": "1.2 PureTech Blue Lease Premium",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "103234",
-      "make": "Peugeot",
-      "model": "308 1.2 PureTech Blue Lease Premium",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nachterklep\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "308-12-puretech-blue-lease-premium-12-puretech-blue-lease-premium",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1784134/fa9a570420b94c2c8b200bdd8ebe750b~v182295523.jpg"
     },
     {
       "id": "1737708",
@@ -709,7 +689,7 @@
     {
       "id": "1804794",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x/o/1804794",
-      "image": "https://www.schadeautos.nl/picture/15/o/1804794/40b1bd3e69eb020eb039f98200201fad~v188896100.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1804794/d43deefe54bc8fe158fe777a8624addc~v188896100.jpg",
       "labels": [
         "exportprijs€ 3.995"
       ],
@@ -733,7 +713,7 @@
     {
       "id": "1804792",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
-      "image": "https://www.schadeautos.nl/picture/15/o/1804792/ec2cdc8b25788b836bfbbd417bfe20bd~v188894979.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
       "labels": [
         "exportprijs€ 4.400"
       ],
@@ -1334,7 +1314,7 @@
     {
       "id": "1793994",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-t-gdi-gt-line/o/1793994",
-      "image": "https://www.schadeautos.nl/picture/15/o/1793994/54cffe3b0daaf80b5cdc37b5dc4ef92f~v185490388.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1793994/9ce7842a2c2c00e0aff4b4431a6a9a14~v185490388.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1356,7 +1336,7 @@
     {
       "id": "1664022",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1664022",
-      "image": "https://www.schadeautos.nl/picture/15/o/1664022/549fff954611874448250d5c628f01ba~v146456493.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1664022/22c711d6557f0f68e6638775e4270474~v146456493.jpg",
       "labels": [
         "exportprijs€ 2.900"
       ],
