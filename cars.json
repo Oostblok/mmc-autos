@@ -1,6 +1,265 @@
 {
-  "updated": "2026-10-13T09:03:26.123Z",
+  "updated": "2026-10-15T07:04:19.220Z",
   "cars": [
+    {
+      "id": "1785575",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.050"
+      ],
+      "title": "Opel Adam",
+      "type": "1.0 Turbo Unlimited",
+      "price": "1650",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "143076",
+      "make": "Opel",
+      "model": "Adam 1.0 Turbo Unlimited",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1050",
+      "engineSize": "999 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nairbags voor stuk\nchassis oké\nrecht op de wielen",
+      "slug": "adam-10-turbo-unlimited-10-turbo-unlimited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785575/d3c36ca5b68e4376fa8a5137d310719e~v182758589.jpg"
+    },
+    {
+      "id": "1706950",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Porsche Cayenne",
+      "type": "4.5 S automaat",
+      "price": "2200",
+      "year": "2003",
+      "fuelType": "benzine",
+      "mileage": "292338",
+      "make": "Porsche",
+      "model": "Cayenne 4.5 S automaat",
+      "gearbox": "automaat",
+      "engineSize": "4511 CC",
+      "power": "340 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cayenne-45-s-automaat-45-s-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
+    },
+    {
+      "id": "1719043",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Clio",
+      "type": "1.0 TCe Zen",
+      "price": "3750",
+      "year": "2021",
+      "fuelType": "benzine",
+      "mileage": "67009",
+      "make": "Renault",
+      "model": "Clio 1.0 TCe Zen",
+      "gearbox": "handgeschakeld",
+      "engineSize": "999 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
+      "slug": "clio-10-tce-zen-10-tce-zen",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg"
+    },
+    {
+      "id": "1787273",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.550"
+      ],
+      "title": "Renault Clio",
+      "type": "0.9 TCe Limited",
+      "price": "4950",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "66437",
+      "make": "Renault",
+      "model": "Clio 0.9 TCe Limited",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4550",
+      "engineSize": "898 CC",
+      "power": "90 pk",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
+      "slug": "clio-09-tce-limited-09-tce-limited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787273/00a3197dd854c73ee03d755938f69010~v183111783.jpg"
+    },
+    {
+      "id": "1372469",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1372469/56d23ba6d3e1360a1858cf82d27c641d~v49751784.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Jaguar Xkr",
+      "type": "4.0 V8  COUPE",
+      "price": "4950",
+      "year": "2000",
+      "fuelType": "benzine",
+      "mileage": "281339",
+      "make": "Jaguar",
+      "model": "Xkr 4.0 V8 COUPE",
+      "gearbox": "automaat",
+      "power": "267 kW",
+      "color": "zwart",
+      "damage": "voorschade\nbumper\nalle airbags oké\nchassis oké",
+      "slug": "xkr-40-v8-coupe-40-v8-coupe",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1372469/28b3cfca4a25ff6baf63eeaf57cf9205~v49751784.jpg"
+    },
+    {
+      "id": "1815378",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-buurtbus-automaat/o/1815378",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815378/08d895680349307065c8f16d5482047c~v191898919.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Crafter",
+      "type": "Buurtbus, Automaat",
+      "price": "6500",
+      "year": "2019",
+      "fuelType": "diesel",
+      "mileage": "497144",
+      "make": "Volkswagen",
+      "model": "Crafter Buurtbus, Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1968 CC",
+      "color": "zwart",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorscherm\nwielophanging rechts\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "crafter-buurtbus-automaat-buurtbus-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815378/f89ab97857e8ddf462795ae0527b0889~v191898919.jpg"
+    },
+    {
+      "id": "1815370",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-business-mode/o/1815370",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815370/9fad82be2d875fcfc40eb0f3781c057e~v191895098.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Honda Jazz",
+      "type": "1.4 Hybrid Business Mode",
+      "price": "5500",
+      "year": "2011",
+      "fuelType": "hybride benzine",
+      "mileage": "157158",
+      "make": "Honda",
+      "model": "Jazz 1.4 Hybrid Business Mode",
+      "gearbox": "automaat",
+      "engineSize": "1339 CC",
+      "color": "groen",
+      "bodyType": "hatchback",
+      "damage": "bumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "jazz-14-hybrid-business-mode-14-hybrid-business-mode",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815370/21db8af78786eed0e2d7f3c7bf0c6ef3~v191895098.jpg"
+    },
+    {
+      "id": "1815271",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda-1-2-edizione-cool/o/1815271",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815271/9ba084890fae0342c9dbf87f056910a2~v191892123.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Fiat Panda",
+      "type": "1.2 Edizione Cool",
+      "price": "2500",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "38466",
+      "make": "Fiat",
+      "model": "Panda 1.2 Edizione Cool",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1242 CC",
+      "power": "50 kW",
+      "color": "paars",
+      "bodyType": "mpv",
+      "damage": "achterscherm\ndeur achter\ndorpel\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "panda-12-edizione-cool-12-edizione-cool",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815271/5fa1ae2c2db8438b17c7c71be2078d3f~v191892123.jpg"
+    },
+    {
+      "id": "1815259",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-xdrive20d-high-executive-automaat/o/1815259",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815259/9fcca07d727048b5b62e0031c5c5c57a~v191889519.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "BMW X3",
+      "type": "XDRIVE20D High Executive automaat",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "278901",
+      "make": "BMW",
+      "model": "X3 XDRIVE20D High Executive automaat",
+      "gearbox": "automaat",
+      "engineSize": "1995 CC",
+      "power": "135 kW",
+      "color": "grijs",
+      "bodyType": "suv / terreinwagen",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "x3-xdrive20d-high-executive-automaat-xdrive20d-high-executive-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815259/109bd80bae33b6e232ce6089b146bb1e~v191889519.jpg"
+    },
+    {
+      "id": "1815252",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-active/o/1815252",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815252/23ba4cb6099160152d8148185ef696fa~v191888236.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Toyota Yaris",
+      "type": "1.5 Hybrid Active",
+      "year": "2018",
+      "fuelType": "hybride benzine",
+      "mileage": "118211",
+      "make": "Toyota",
+      "model": "Yaris 1.5 Hybrid Active",
+      "gearbox": "automaat",
+      "engineSize": "1497 CC",
+      "color": "rood",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "yaris-15-hybrid-active-15-hybrid-active",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815252/601f562e56335c06965c2e9272db5db3~v191888236.jpg"
+    },
+    {
+      "id": "1815241",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Mégane",
+      "type": "1.2 TCe Série Signature Exclusiv Automaat",
+      "price": "6300",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "109042",
+      "make": "Renault",
+      "model": "Mégane 1.2 TCe Série Signature Exclusiv Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1197 CC",
+      "power": "131 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-12-tce-serie-signature-exclusiv-automaat-12-tce-serie-signature-exclusiv-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815241/69f98f4a85567b737555c586df66c41d~v191887453.jpg"
+    },
     {
       "id": "1812885",
       "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
@@ -28,19 +287,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glk-klasse-220-cdi-prestige/o/1814610",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814610/a0a4c318441395e42a1a57106a7c2cc7~v191630026.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 4.750"
+        "verkocht"
       ],
       "title": "Mercedes Glk‑klasse",
       "type": "220 CDI Prestige",
-      "price": "5550",
       "year": "2013",
       "fuelType": "diesel",
       "mileage": "289643",
       "make": "Mercedes",
       "model": "Glk-klasse 220 CDI Prestige",
       "gearbox": "handgeschakeld",
-      "exportPrice": "4750",
       "engineSize": "2143 CC",
       "power": "125 kW",
       "color": "zwart",
@@ -75,7 +331,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-6-ecoboost-lease-titanium-schadevrij/o/1814608",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814608/7ee1722a9b1f85f53c8a0bf9c3be67a7~v191628887.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.950"
       ],
       "title": "Ford Focus",
@@ -101,7 +356,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-0t-essence/o/1814346",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814346/b5c948b788c6f8b8e28f610d0b596032~v191627351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.950"
       ],
       "title": "Hyundai Kona",
@@ -445,28 +699,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1748394/076f0d64953cd1c5cf9af8d28087087d~v171863002.jpg"
     },
     {
-      "id": "1798545",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-fastback-1-4-t-gdi-n-line/o/1798545",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1798545/6b9ca169cabd157ae8f996aaef274b33~v187138323.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑30",
-      "type": "Fastback 1.4 T-GDI N Line",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "152513",
-      "make": "Hyundai",
-      "model": "I-30 Fastback 1.4 T-GDI N Line",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1353 CC",
-      "power": "103 kW",
-      "color": "grijs",
-      "damage": "motorkap\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "i-30-fastback-14-t-gdi-n-line-fastback-14-t-gdi-n-line",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1798545/5be3db2e183ac90606db3dc0303a29b7~v187138323.jpg"
-    },
-    {
       "id": "1809185",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-drive/o/1809185",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809185/6fc514ec47d3c108f59a239381172d28~v190180853.jpg",
@@ -494,9 +726,7 @@
       "id": "1809166",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/toyota-proace-electric-worker-standard-range-limited/o/1809166",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809166/83742a021bfc8eb1d8692ef271dc9a39~v190180016.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Toyota Proace",
       "type": "Electric Worker Standard Range Limited",
       "price": "7950",
@@ -795,28 +1025,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735150/21bb3f87327fb72ff6669e9872131cdc~v187930876.jpg"
     },
     {
-      "id": "1706950",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
-      "labels": [],
-      "title": "Porsche Cayenne",
-      "type": "4.5 S automaat",
-      "price": "2400",
-      "year": "2003",
-      "fuelType": "benzine",
-      "mileage": "292338",
-      "make": "Porsche",
-      "model": "Cayenne 4.5 S automaat",
-      "gearbox": "automaat",
-      "engineSize": "4511 CC",
-      "power": "340 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cayenne-45-s-automaat-45-s-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
-    },
-    {
       "id": "1728559",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
       "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
@@ -846,7 +1054,7 @@
       "labels": [],
       "title": "Mini Cooper S",
       "type": "1.6 Chili",
-      "price": "2150",
+      "price": "2900",
       "year": "2006",
       "fuelType": "benzine",
       "mileage": "182044",
@@ -1079,27 +1287,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800029/7cf8000591bb3e8065147e3e1d0bd128~v187583995.jpg"
     },
     {
-      "id": "1798896",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/renault-master-t35-2-5-dci-l3h1-meubelbak/o/1798896",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1798896/4683a74343ab85681bacb5a74a87a779~v187221022.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Master",
-      "type": "T35 2.5 dCi L3H1 Meubelbak",
-      "year": "2008",
-      "fuelType": "diesel",
-      "mileage": "300555",
-      "make": "Renault",
-      "model": "Master T35 2.5 dCi L3H1 Meubelbak",
-      "gearbox": "handgeschakeld",
-      "engineSize": "2464 CC",
-      "color": "wit",
-      "damage": "alle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "master-t35-25-dci-l3h1-meubelbak-t35-25-dci-l3h1-meubelbak",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1798896/213629cac330d8e906cd00d206753035~v187221022.jpg"
-    },
-    {
       "id": "1352628",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
       "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
@@ -1214,27 +1401,6 @@
       "damage": "voorruit\ndakschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\ndashboard",
       "slug": "sportage-17-crdi-plus-pack-17-crdi-plus-pack",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793193/ae6f10fda49ae5d78548f27164a30fd5~v185168405.jpg"
-    },
-    {
-      "id": "1719043",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
-      "labels": [],
-      "title": "Renault Clio",
-      "type": "1.0 TCe Zen",
-      "price": "3950",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "67009",
-      "make": "Renault",
-      "model": "Clio 1.0 TCe Zen",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorruit\nvoorscherm\nvoorscherm\nwielophanging rechts\nairbags voor stuk",
-      "slug": "clio-10-tce-zen-10-tce-zen",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg"
     },
     {
       "id": "1797851",
@@ -1393,31 +1559,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1516158/8a2550d09b096a3f49f750961adc4caa~v100065942.jpg"
     },
     {
-      "id": "1787273",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
-      "labels": [
-        "exportprijs€ 5.150"
-      ],
-      "title": "Renault Clio",
-      "type": "0.9 TCe Limited",
-      "price": "5550",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "66437",
-      "make": "Renault",
-      "model": "Clio 0.9 TCe Limited",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "5150",
-      "engineSize": "898 CC",
-      "power": "90 pk",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787273/00a3197dd854c73ee03d755938f69010~v183111783.jpg"
-    },
-    {
       "id": "1772251",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1772251",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772251/53398ea9e83632730aec62cedc9c6d4d~v178665088.jpg",
@@ -1446,18 +1587,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1762721",
       "image": "https://www.schadeautos.nl/cache/picture/15/1762721/cf773847c76d57e2fa70d469a44c12e0~v175831980.jpg",
       "labels": [
-        "exportprijs€ 2.500"
+        "verkocht"
       ],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
-      "price": "2600",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "136430",
       "make": "Renault",
       "model": "Clio 0.9 TCe Limited",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2500",
       "engineSize": "898 CC",
       "color": "rood",
       "bodyType": "hatchback",
@@ -1579,30 +1718,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg"
     },
     {
-      "id": "1785575",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
-      "labels": [
-        "exportprijs€ 1.350"
-      ],
-      "title": "Opel Adam",
-      "type": "1.0 Turbo Unlimited",
-      "price": "1950",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "143076",
-      "make": "Opel",
-      "model": "Adam 1.0 Turbo Unlimited",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "1350",
-      "engineSize": "999 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nairbags voor stuk\nchassis oké\nrecht op de wielen",
-      "slug": "adam-10-turbo-unlimited-10-turbo-unlimited",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785575/d3c36ca5b68e4376fa8a5137d310719e~v182758589.jpg"
-    },
-    {
       "id": "1772258",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-style-ultimate/o/1772258",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772258/3a31d26b15fdedd98d5efb8b18cee3aa~v178670823.jpg",
@@ -1711,26 +1826,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "yaris-10-vvti-10-vvti",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786399/c06bb7fa4ee4704439dc64011d815fc7~v182918827.jpg"
-    },
-    {
-      "id": "1372469",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1372469/56d23ba6d3e1360a1858cf82d27c641d~v49751784.jpg",
-      "labels": [],
-      "title": "Jaguar Xkr",
-      "type": "4.0 V8  COUPE",
-      "price": "5250",
-      "year": "2000",
-      "fuelType": "benzine",
-      "mileage": "281339",
-      "make": "Jaguar",
-      "model": "Xkr 4.0 V8 COUPE",
-      "gearbox": "automaat",
-      "power": "267 kW",
-      "color": "zwart",
-      "damage": "voorschade\nbumper\nalle airbags oké\nchassis oké",
-      "slug": "xkr-40-v8-coupe-40-v8-coupe",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1372469/28b3cfca4a25ff6baf63eeaf57cf9205~v49751784.jpg"
     },
     {
       "id": "1773286",
