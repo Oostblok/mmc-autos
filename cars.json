@@ -1,6 +1,80 @@
 {
-  "updated": "2026-10-16T06:47:50.689Z",
+  "updated": "2026-10-17T06:40:18.111Z",
   "cars": [
+    {
+      "id": "1816798",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-6-high-executive-automaat/o/1816798",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1816798/49d626b01c99670c392c6dda060d6423~v192166854.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 7.200"
+      ],
+      "title": "Suzuki Vitara",
+      "type": "1.6 High Executive automaat",
+      "price": "8000",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "163798",
+      "make": "Suzuki",
+      "model": "Vitara 1.6 High Executive automaat",
+      "gearbox": "automaat",
+      "exportPrice": "7200",
+      "engineSize": "1586 CC",
+      "power": "88 kW",
+      "color": "grijs",
+      "damage": "bumper\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "vitara-16-high-executive-automaat-16-high-executive-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1816798/3f21b04ef8c78c69a06f43bae98a6032~v192166854.jpg"
+    },
+    {
+      "id": "1816797",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-twinair-pop/o/1816797",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1816797/528baf955f10414e770210c7e82b32f0~v192166505.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.750"
+      ],
+      "title": "Fiat 500",
+      "type": "1.0 TwinAir Pop",
+      "price": "3950",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "47067",
+      "make": "Fiat",
+      "model": "500 1.0 TwinAir Pop",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3750",
+      "engineSize": "964 CC",
+      "power": "44 kW",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nvoorruit\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "500-10-twinair-pop-10-twinair-pop",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1816797/7914c429fc4ff0ba3f66cbe5a412cf9b~v192166505.jpg"
+    },
+    {
+      "id": "1816794",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-1-4-tsi-act-comfortline/o/1816794",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1816794/292c59e903d945746fd44e502f0463a9~v192166176.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Volkswagen Passat",
+      "type": "1.4 TSI ACT Comfortline",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "228957",
+      "make": "Volkswagen",
+      "model": "Passat 1.4 TSI ACT Comfortline",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1395 CC",
+      "power": "110 kW",
+      "color": "grijs",
+      "bodyType": "sedan",
+      "damage": "bumper\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "passat-14-tsi-act-comfortline-14-tsi-act-comfortline",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1816794/574bd19b5c4f1f15f888b1a909f2b0b8~v192166176.jpg"
+    },
     {
       "id": "1785575",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
@@ -125,9 +199,7 @@
       "id": "1815378",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-buurtbus-automaat/o/1815378",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815378/08d895680349307065c8f16d5482047c~v191898919.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Crafter",
       "type": "Buurtbus, Automaat",
       "price": "6500",
@@ -148,9 +220,7 @@
       "id": "1815370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-business-mode/o/1815370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815370/9fad82be2d875fcfc40eb0f3781c057e~v191895098.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Honda Jazz",
       "type": "1.4 Hybrid Business Mode",
       "price": "5500",
@@ -171,9 +241,7 @@
       "id": "1815271",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda-1-2-edizione-cool/o/1815271",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815271/9ba084890fae0342c9dbf87f056910a2~v191892123.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Fiat Panda",
       "type": "1.2 Edizione Cool",
       "price": "2500",
@@ -240,9 +308,7 @@
       "id": "1815241",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Mégane",
       "type": "1.2 TCe Série Signature Exclusiv Automaat",
       "price": "6300",
@@ -786,7 +852,7 @@
       "power": "67 kW",
       "color": "zwart",
       "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\ndeur achter\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "sandero-stepway-10-tce-90-comfort-stepway-10-tce-90-comfort",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809137/32fb0a7e0c0fc05aef5bcb21f3ba953b~v190177239.jpg"
     },
