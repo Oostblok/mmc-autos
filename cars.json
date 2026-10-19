@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:01:52.890Z",
+  "updated": "2026-10-19T07:24:53.758Z",
   "cars": [
     {
       "id": "1816798",
@@ -275,28 +275,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815259/109bd80bae33b6e232ce6089b146bb1e~v191889519.jpg"
     },
     {
-      "id": "1815252",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-active/o/1815252",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1815252/23ba4cb6099160152d8148185ef696fa~v191888236.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Yaris",
-      "type": "1.5 Hybrid Active",
-      "year": "2018",
-      "fuelType": "hybride benzine",
-      "mileage": "118211",
-      "make": "Toyota",
-      "model": "Yaris 1.5 Hybrid Active",
-      "gearbox": "automaat",
-      "engineSize": "1497 CC",
-      "color": "rood",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "yaris-15-hybrid-active-15-hybrid-active",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815252/601f562e56335c06965c2e9272db5db3~v191888236.jpg"
-    },
-    {
       "id": "1815241",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
@@ -337,28 +315,6 @@
       "damage": "bumper\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "adria-camper-660-coral-2004-adria-camper-660-coral-2004",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
-    },
-    {
-      "id": "1814610",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glk-klasse-220-cdi-prestige/o/1814610",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1814610/a0a4c318441395e42a1a57106a7c2cc7~v191630026.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes Glk‑klasse",
-      "type": "220 CDI Prestige",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "289643",
-      "make": "Mercedes",
-      "model": "Glk-klasse 220 CDI Prestige",
-      "gearbox": "handgeschakeld",
-      "engineSize": "2143 CC",
-      "power": "125 kW",
-      "color": "zwart",
-      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "glk-klasse-220-cdi-prestige-220-cdi-prestige",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814610/cf7080fcdc8912081ac70003dc526af3~v191630026.jpg"
     },
     {
       "id": "1814608",
@@ -438,7 +394,7 @@
     {
       "id": "1788042",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
-      "image": "https://www.schadeautos.nl/picture/15/o/1788042/ae7ff0764929fb8474b2e9b44f88f075~v183426461.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
       "labels": [],
       "title": "Peugeot 208",
       "type": "1.2i",
@@ -506,7 +462,7 @@
     {
       "id": "1767683",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-automaat-1-2-tce-dynamique/o/1767683",
-      "image": "https://www.schadeautos.nl/picture/15/o/1767683/06f1ced88d4fa0566ddf9fc8b36a793d~v177391755.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1767683/ba96663c00563ffbe9863f9e545329a3~v177391755.jpg",
       "labels": [],
       "title": "Renault Captur",
       "type": "Automaat 1.2 TCe Dynamique",
@@ -596,7 +552,7 @@
     {
       "id": "1767681",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-cee-d-1-6-gdi-comfortline/o/1767681",
-      "image": "https://www.schadeautos.nl/picture/15/o/1767681/ff122e0b19af0db44233a143658ef4f9~v177391317.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1767681/a280ece5ca743583a81388b05c559661~v177391317.jpg",
       "labels": [
         "exportprijs€ 3.450"
       ],
@@ -878,7 +834,7 @@
     {
       "id": "1807439",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-435-2-2-hdi-l3h2-schadevrij/o/1807439",
-      "image": "https://www.schadeautos.nl/picture/15/o/1807439/35afc2c3ed6976130d4e5c731f236f00~v189658327.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1807439/555d611e5b56a7b4cf51b418f128f8a7~v189658327.jpg",
       "labels": [],
       "title": "Peugeot Boxer",
       "type": "435 2.2 HDI L3H2 schadevrij",
@@ -900,7 +856,7 @@
     {
       "id": "1807354",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ix35-1-6i-gdi-i-magine/o/1807354",
-      "image": "https://www.schadeautos.nl/picture/15/o/1807354/8097ae8810ca5e3d95b8acde65414e2f~v189653061.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1807354/66d904d0d4295c084ea02743465efa25~v189653061.jpg",
       "labels": [
         "exportprijs€ 2.950"
       ],
@@ -1038,7 +994,7 @@
     {
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
-      "image": "https://www.schadeautos.nl/picture/15/o/1696861/80deb545a93821bac3b3e80bc2a2e5c3~v156394201.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
       "labels": [],
       "title": "Mini Cooper S",
       "type": "1.6 Chili",
@@ -1106,7 +1062,7 @@
     {
       "id": "1717370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
-      "image": "https://www.schadeautos.nl/picture/15/o/1717370/8e76a442b0cd89531650fa9ad7678847~v162268789.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1717370/21a88a5e4c68352dd8c652c1abd87663~v162268789.jpg",
       "labels": [
         "exportprijs€ 1.750"
       ],
@@ -1324,7 +1280,7 @@
     {
       "id": "1787269",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-535i-executive/o/1787269",
-      "image": "https://www.schadeautos.nl/picture/15/o/1787269/326bcd6a9ceebea8b8c430d06dbfe1e0~v183110176.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1787269/31f7be522e415bcfadf8ed6f1e234ea5~v183110176.jpg",
       "labels": [],
       "title": "BMW 5‑serie",
       "type": "535i Executive",
@@ -1438,7 +1394,7 @@
     {
       "id": "1795657",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-3-cdti-automaat-l2h1-ecoflex/o/1795657",
-      "image": "https://www.schadeautos.nl/picture/15/o/1795657/d5d66cadb5a28f4774671e74e463a573~v186119405.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1795657/b8477a9108c8bf15a67855940e077878~v186119405.jpg",
       "labels": [],
       "title": "Opel Combo",
       "type": "1.3 CDTi Automaat L2H1 ecoFLEX",
@@ -1595,7 +1551,7 @@
     {
       "id": "1735146",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
-      "image": "https://www.schadeautos.nl/picture/15/o/1735146/d71f4013ed074bd6fe42cf1f854e43cd~v168250157.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
       "labels": [
         "exportprijs€ 5.100"
       ],
@@ -1619,7 +1575,7 @@
     {
       "id": "1627062",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-2-2-d-schadevrij/o/1627062",
-      "image": "https://www.schadeautos.nl/picture/15/o/1627062/d1570f4982cb29063def1dc2c4fe0095~v135053954.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1627062/efbf25806cd3ac8441905ed6dabac9a7~v135053954.jpg",
       "labels": [
         "exportprijs€ 4.876"
       ],
@@ -1731,7 +1687,7 @@
     {
       "id": "1768439",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-ambition/o/1768439",
-      "image": "https://www.schadeautos.nl/picture/15/o/1768439/ea0d61b83fd1428bec66b23c8145404b~v177560200.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768439/08c6fa2503bf05b0f50c1577a261b75c~v177560200.jpg",
       "labels": [],
       "title": "Mercedes A‑klasse",
       "type": "180 Ambition",
@@ -1817,7 +1773,7 @@
     {
       "id": "1656899",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-0-puretech-collection/o/1656899",
-      "image": "https://www.schadeautos.nl/picture/15/o/1656899/39c917ba5bfca02dc505bdc3985ae70e~v144106342.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1656899/343dd1491ac18edfa0ec37691d41396b~v144106342.jpg",
       "labels": [],
       "title": "Citroën C3",
       "type": "1.0 PureTech Collection",
@@ -1838,7 +1794,7 @@
     {
       "id": "1675931",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-1-2-puretech-selection/o/1675931",
-      "image": "https://www.schadeautos.nl/picture/15/o/1675931/5fff6cfafc00bc9aa6b131a335fc13b3~v150088323.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1675931/22851b0f81a76c8406442a2eac38a3c2~v150088323.jpg",
       "labels": [
         "exportprijs€ 3.450"
       ],
@@ -1996,7 +1952,7 @@
     {
       "id": "1735149",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
-      "image": "https://www.schadeautos.nl/picture/15/o/1735149/a7676b803640073618d926251592b205~v168257361.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
       "labels": [
         "exportprijs€ 4.150"
       ],
