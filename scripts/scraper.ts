@@ -33,6 +33,27 @@ const setupPage = async (page: Page) => {
 	})
 }
 
+const gotoWithRetry = async (
+	page: Page,
+	url: string,
+	timeout = 60000
+) => {
+	for (let attempt = 0; attempt < 4; attempt++) {
+		try {
+			return await page.goto(url, {
+				waitUntil: 'domcontentloaded',
+				timeout
+			})
+		} catch (error) {
+			if (attempt === 3) throw error
+
+			await new Promise(resolve =>
+				setTimeout(resolve, 1000 * 2 ** attempt)
+			)
+		}
+	}
+}
+
 const scrape = async () => {
 	let browser: Browser | undefined
 	const cars: Car[] = []
@@ -56,7 +77,7 @@ const scrape = async () => {
 		while (hasNextPage) {
 			const url = `https://www.schadeautos.nl/nl/voorraad/schade/alle-voertuigsoorten/m-van-den-eijnden-bv-mmc+someren/15/1/0/0/0/1/${pageIndex}`
 
-			await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 })
+			await gotoWithRetry(page, url, 60000)
 
 			const hasCars = await page
 				.waitForSelector('.car', { timeout: 10000 })
@@ -133,7 +154,7 @@ const scrape = async () => {
 			const page = pages[i % P_LIMIT]!
 			const car = cars[i]!
 
-			await page.goto(car.link, { waitUntil: 'domcontentloaded', timeout: 30000 })
+			await gotoWithRetry(page, car.link, 30000)
 			await page.waitForSelector('.specifications', { timeout: 10000 }).catch(() => null)
 
 			const details = await page.evaluate((car) => {
@@ -184,6 +205,7 @@ const scrape = async () => {
 			}, car)
 
 			Object.assign(car, details)
+			console.info('\x1b[36m%s\x1b[0m', `Enriched ${car}`)
 		}
 
 		const slugMap = new Map()
