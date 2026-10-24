@@ -1,23 +1,47 @@
 {
-  "updated": "2026-10-23T07:04:42.986Z",
+  "updated": "2026-10-24T06:57:14.598Z",
   "cars": [
+    {
+      "id": "1818399",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition-schadevrij/o/1818399",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 12.200"
+      ],
+      "title": "Audi A4 Avant",
+      "type": "2.0 TDI Sport S line edition Schadevrij",
+      "price": "13600",
+      "year": "2017",
+      "fuelType": "diesel",
+      "mileage": "194468",
+      "make": "Audi",
+      "model": "A4 Avant 2.0 TDI Sport S line edition Schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "12200",
+      "engineSize": "1968 CC",
+      "power": "190 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a4-avant-20-tdi-sport-s-line-edition-schadevrij-20-tdi-sport-s-line-edition-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1818399/e9c427c60248074f47311ca48ada0eb5~v192678802.jpg"
+    },
     {
       "id": "1816798",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-6-high-executive-automaat/o/1816798",
       "image": "https://www.schadeautos.nl/cache/picture/15/1816798/49d626b01c99670c392c6dda060d6423~v192166854.jpg",
       "labels": [
-        "exportprijs€ 7.100"
+        "verkocht"
       ],
       "title": "Suzuki Vitara",
       "type": "1.6 High Executive automaat",
-      "price": "7900",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "163798",
       "make": "Suzuki",
       "model": "Vitara 1.6 High Executive automaat",
       "gearbox": "automaat",
-      "exportPrice": "7100",
       "engineSize": "1586 CC",
       "power": "88 kW",
       "color": "grijs",
@@ -127,19 +151,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1717370/21a88a5e4c68352dd8c652c1abd87663~v162268789.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 1.500"
+        "verkocht"
       ],
       "title": "Audi A4",
       "type": "1.8 TFSI Pro Line limousine",
-      "price": "1900",
       "year": "2012",
       "fuelType": "benzine",
       "mileage": "248188",
       "make": "Audi",
       "model": "A4 1.8 TFSI Pro Line limousine",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1500",
       "engineSize": "1798 CC",
       "color": "zwart",
       "bodyType": "sedan",
@@ -240,32 +261,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1664022/1c313bb257c78378bb601f8479353ca9~v146456493.jpg"
     },
     {
-      "id": "1818399",
-      "link": "https://www.schadeautos.nl/nl/occasion/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition/o/1818399",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
-      "labels": [
-        "nieuw",
-        "exportprijs€ 12.200"
-      ],
-      "title": "Audi A4 Avant",
-      "type": "2.0 TDI Sport S line edition",
-      "price": "13600",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "194468",
-      "make": "Audi",
-      "model": "A4 Avant 2.0 TDI Sport S line edition",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "12200",
-      "engineSize": "1968 CC",
-      "power": "190 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a4-avant-20-tdi-sport-s-line-edition-20-tdi-sport-s-line-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1818399/e9c427c60248074f47311ca48ada0eb5~v192678802.jpg"
-    },
-    {
       "id": "1797848",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
@@ -364,7 +359,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-gt-line/o/1817607",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817607/7304a696a5457eddc6181e32c755bbd2~v192499181.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.990"
       ],
       "title": "Renault Mégane",
@@ -388,9 +382,7 @@
       "id": "1817597",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-3-4-4-v8-hse/o/1817597",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817597/bc27e0f1b11c6cb77992a5e3c7628262~v192498232.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Land Rover Discovery 3",
       "type": "4.4 V8 HSE",
       "price": "4950",
@@ -413,7 +405,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-sportswagon-1-4-t-gdi-gt-plusline/o/1817586",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817586/d80c2b32f879580fdc44a7408dc74d22~v192497047.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 7.200"
       ],
       "title": "Kia Ceed",
@@ -438,9 +429,7 @@
       "id": "1817584",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d5-twin-engine-r-design-automaat-hybrid/o/1817584",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817584/46c96f930711e108b0bb284e604b54e3~v192496401.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volvo V‑60",
       "type": "2.4 D5 Twin Engine R-Design Automaat Hybrid",
       "price": "4850",
@@ -1076,18 +1065,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-1-0-tce-90-comfort/o/1809137",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809137/2f2ad735f38d9c9134819679e7f9d9b5~v190177239.jpg",
       "labels": [
-        "exportprijs€ 4.350"
+        "verkocht"
       ],
       "title": "Dacia Sandero",
       "type": "Stepway 1.0 TCe 90 Comfort",
-      "price": "5750",
       "year": "2021",
       "fuelType": "benzine",
       "mileage": "63778",
       "make": "Dacia",
       "model": "Sandero Stepway 1.0 TCe 90 Comfort",
       "gearbox": "handgeschakeld",
-      "exportPrice": "4350",
       "engineSize": "999 CC",
       "power": "67 kW",
       "color": "zwart",
