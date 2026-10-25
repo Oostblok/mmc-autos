@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:57:14.598Z",
+  "updated": "2026-10-25T07:21:11.368Z",
   "cars": [
     {
       "id": "1818399",
@@ -264,9 +264,7 @@
       "id": "1797848",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "270 2.0 TDCI L1H1 Economy Edition",
       "price": "4450",
@@ -286,10 +284,8 @@
     {
       "id": "1797850",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-2-0-16v-rally-edition/o/1797850",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1797850/dafa4f8943a924d36a4595578974f6da~v186994347.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "image": "https://www.schadeautos.nl/picture/15/o/1797850/90c0e000af416decd8896cc633de620d~v186994347.jpg",
+      "labels": [],
       "title": "Ford Focus",
       "type": "2.0-16V Rally Edition",
       "price": "890",
@@ -334,9 +330,7 @@
       "id": "1807439",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-435-2-2-hdi-l3h2-schadevrij/o/1807439",
       "image": "https://www.schadeautos.nl/cache/picture/15/1807439/555d611e5b56a7b4cf51b418f128f8a7~v189658327.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot Boxer",
       "type": "435 2.2 HDI L3H2 schadevrij",
       "price": "6950",
@@ -518,7 +512,7 @@
     {
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1719043/f85727a1364a52a2f505e926148ae516~v162784423.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
@@ -970,7 +964,7 @@
     {
       "id": "1748394",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1748394/5be86a164f073cf80077705b7502e065~v171863002.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1748394/d88d0a7ad0face79d43641911c70a9ba~v171863002.jpg",
       "labels": [
         "exportprijs€ 1.750"
       ],
@@ -1063,7 +1057,7 @@
     {
       "id": "1809137",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-1-0-tce-90-comfort/o/1809137",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1809137/2f2ad735f38d9c9134819679e7f9d9b5~v190177239.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1809137/69a24162b0889a32ce719d43bf5dcd04~v190177239.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1535,7 +1529,7 @@
     {
       "id": "1797851",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1797851",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1797851/4df4453bb89ba9217521c702ce35b34d~v190076418.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1797851/ce568fe2e467355811e5112ef05d2e21~v190076418.jpg",
       "labels": [
         "exportprijs€ 2.550"
       ],
@@ -2029,7 +2023,7 @@
     {
       "id": "1706896",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-berlingo-1-6-vti-120-multispace/o/1706896",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1706896/85e7e75180cdc9847c17feaecbc53441~v159498155.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1706896/237e1419f9bd3ac13670f508e2e6b597~v159498155.jpg",
       "labels": [],
       "title": "Citroën Berlingo",
       "type": "1.6 VTi 120 Multispace",
