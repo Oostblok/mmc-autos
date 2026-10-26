@@ -1,12 +1,11 @@
 {
-  "updated": "2026-10-25T07:21:11.368Z",
+  "updated": "2026-10-26T07:29:36.194Z",
   "cars": [
     {
       "id": "1818399",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition-schadevrij/o/1818399",
       "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 12.200"
       ],
       "title": "Audi A4 Avant",
@@ -54,7 +53,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-edition/o/1810845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1810845/b05971e8be76c1beb0f565392196eb3d~v190688897.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.200"
       ],
       "title": "Opel Astra",
@@ -79,9 +77,7 @@
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
       "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.4 Online Edition",
       "price": "2500",
@@ -103,7 +99,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-ltz/o/1791697",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791697/440a012070c98e513de6622b9da83641~v184573033.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 790"
       ],
       "title": "Chevrolet Spark",
@@ -127,9 +122,7 @@
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
       "image": "https://www.schadeautos.nl/cache/picture/15/1737576/cfebeabb71f6764bec1c4bc2fc6e3105~v168896389.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi A7",
       "type": "Sportback 3.0 TFSI quattro Pro Line plus Automaat",
       "price": "5850",
@@ -192,9 +185,7 @@
       "id": "1792806",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-trend-schadevrij/o/1792806",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792806/4e4ab692d62dce3b705f2e40f086c1ad~v184920204.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Focus",
       "type": "1.0 EcoBoost Trend schadevrij",
       "price": "2650",
@@ -216,7 +207,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-grand-c-max-1-0-titanium-7persoons/o/1659179",
       "image": "https://www.schadeautos.nl/cache/picture/15/1659179/33e42072fcfed2c008d4744b85609776~v144727378.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.200"
       ],
       "title": "Ford Grand C‑Max",
@@ -240,7 +230,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1664022",
       "image": "https://www.schadeautos.nl/cache/picture/15/1664022/22c711d6557f0f68e6638775e4270474~v146456493.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.500"
       ],
       "title": "Ford C‑Max",
@@ -284,7 +273,7 @@
     {
       "id": "1797850",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-2-0-16v-rally-edition/o/1797850",
-      "image": "https://www.schadeautos.nl/picture/15/o/1797850/90c0e000af416decd8896cc633de620d~v186994347.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797850/dafa4f8943a924d36a4595578974f6da~v186994347.jpg",
       "labels": [],
       "title": "Ford Focus",
       "type": "2.0-16V Rally Edition",
@@ -441,29 +430,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817584/68588429baf004a01842251739e0e7cf~v192496401.jpg"
     },
     {
-      "id": "1816797",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-twinair-pop/o/1816797",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1816797/528baf955f10414e770210c7e82b32f0~v192166505.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Fiat 500",
-      "type": "1.0 TwinAir Pop",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "47067",
-      "make": "Fiat",
-      "model": "500 1.0 TwinAir Pop",
-      "gearbox": "handgeschakeld",
-      "engineSize": "964 CC",
-      "power": "44 kW",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nvoorruit\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "500-10-twinair-pop-10-twinair-pop",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1816797/7914c429fc4ff0ba3f66cbe5a412cf9b~v192166505.jpg"
-    },
-    {
       "id": "1785575",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
       "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
@@ -512,7 +478,7 @@
     {
       "id": "1719043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1719043",
-      "image": "https://www.schadeautos.nl/picture/15/o/1719043/f85727a1364a52a2f505e926148ae516~v162784423.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1719043/601cfde3b859e2fa2c1cd65f19daba2d~v162784423.jpg",
       "labels": [],
       "title": "Renault Clio",
       "type": "1.0 TCe Zen",
@@ -964,7 +930,7 @@
     {
       "id": "1748394",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-0-cool/o/1748394",
-      "image": "https://www.schadeautos.nl/picture/15/o/1748394/d88d0a7ad0face79d43641911c70a9ba~v171863002.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1748394/5be86a164f073cf80077705b7502e065~v171863002.jpg",
       "labels": [
         "exportprijs€ 1.750"
       ],
@@ -1057,7 +1023,7 @@
     {
       "id": "1809137",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-1-0-tce-90-comfort/o/1809137",
-      "image": "https://www.schadeautos.nl/picture/15/o/1809137/69a24162b0889a32ce719d43bf5dcd04~v190177239.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1809137/2f2ad735f38d9c9134819679e7f9d9b5~v190177239.jpg",
       "labels": [
         "verkocht"
       ],
@@ -1529,7 +1495,7 @@
     {
       "id": "1797851",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-sce-collection/o/1797851",
-      "image": "https://www.schadeautos.nl/picture/15/o/1797851/ce568fe2e467355811e5112ef05d2e21~v190076418.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797851/4df4453bb89ba9217521c702ce35b34d~v190076418.jpg",
       "labels": [
         "exportprijs€ 2.550"
       ],
@@ -2023,7 +1989,7 @@
     {
       "id": "1706896",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-berlingo-1-6-vti-120-multispace/o/1706896",
-      "image": "https://www.schadeautos.nl/picture/15/o/1706896/237e1419f9bd3ac13670f508e2e6b597~v159498155.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1706896/85e7e75180cdc9847c17feaecbc53441~v159498155.jpg",
       "labels": [],
       "title": "Citroën Berlingo",
       "type": "1.6 VTi 120 Multispace",
