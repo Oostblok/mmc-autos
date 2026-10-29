@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-28T07:59:54.942Z",
+  "updated": "2026-10-29T08:08:15.393Z",
   "cars": [
+    {
+      "id": "1814342",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814342/5269704990f2c63840111d45b40cee66~v191537736.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.250"
+      ],
+      "title": "Ford Kuga",
+      "type": "1.5 EcoBoost Trend Ultimate",
+      "price": "7750",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "91843",
+      "make": "Ford",
+      "model": "Kuga 1.5 EcoBoost Trend Ultimate",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "6250",
+      "engineSize": "1498 CC",
+      "power": "88 kW",
+      "color": "zwart",
+      "bodyType": "mpv",
+      "damage": "achterklep\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "kuga-15-ecoboost-trend-ultimate-15-ecoboost-trend-ultimate",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814342/75824c36ca10e73704882acb438d1e74~v191537736.jpg"
+    },
     {
       "id": "1772258",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-style-ultimate/o/1772258",
@@ -433,28 +459,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1818399/e9c427c60248074f47311ca48ada0eb5~v192678802.jpg"
     },
     {
-      "id": "1816798",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-6-high-executive-automaat/o/1816798",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1816798/49d626b01c99670c392c6dda060d6423~v192166854.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Suzuki Vitara",
-      "type": "1.6 High Executive automaat",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "163798",
-      "make": "Suzuki",
-      "model": "Vitara 1.6 High Executive automaat",
-      "gearbox": "automaat",
-      "engineSize": "1586 CC",
-      "power": "88 kW",
-      "color": "grijs",
-      "damage": "bumper\nachterklep\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "vitara-16-high-executive-automaat-16-high-executive-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1816798/3f21b04ef8c78c69a06f43bae98a6032~v192166854.jpg"
-    },
-    {
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
       "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
@@ -519,28 +523,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\ndeur achter\ndeur voor\ndorpel\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "a7-sportback-30-tfsi-quattro-pro-line-plus-automaat-sportback-30-tfsi-quattro-pro-line-plus-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg"
-    },
-    {
-      "id": "1717370",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-1-8-tfsi-pro-line-limousine/o/1717370",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1717370/21a88a5e4c68352dd8c652c1abd87663~v162268789.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A4",
-      "type": "1.8 TFSI Pro Line limousine",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "248188",
-      "make": "Audi",
-      "model": "A4 1.8 TFSI Pro Line limousine",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1798 CC",
-      "color": "zwart",
-      "bodyType": "sedan",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nairbags voor stuk\ndakairbag stuk\ngordelspanner links stuk",
-      "slug": "a4-18-tfsi-pro-line-limousine-18-tfsi-pro-line-limousine",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1717370/77547030bfdf5f6fc9cdad6b3a162bf7~v162268789.jpg"
     },
     {
       "id": "1792806",
@@ -992,31 +974,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814346/4c3084649a2c526c97b1042cffd2167f~v191627351.jpg"
     },
     {
-      "id": "1814342",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1814342/5269704990f2c63840111d45b40cee66~v191537736.jpg",
-      "labels": [
-        "exportprijs€ 6.450"
-      ],
-      "title": "Ford Kuga",
-      "type": "1.5 EcoBoost Trend Ultimate",
-      "price": "7950",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "91843",
-      "make": "Ford",
-      "model": "Kuga 1.5 EcoBoost Trend Ultimate",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "6450",
-      "engineSize": "1498 CC",
-      "power": "88 kW",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "achterklep\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "kuga-15-ecoboost-trend-ultimate-15-ecoboost-trend-ultimate",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814342/75824c36ca10e73704882acb438d1e74~v191537736.jpg"
-    },
-    {
       "id": "1788042",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
       "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
@@ -1311,29 +1268,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\nlaadkabel ontbreekt\nchassis oké\nrecht op de wielen",
       "slug": "proace-electric-worker-standard-range-limited-electric-worker-standard-range-limited",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
-    },
-    {
-      "id": "1809137",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-1-0-tce-90-comfort/o/1809137",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1809137/2f2ad735f38d9c9134819679e7f9d9b5~v190177239.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Dacia Sandero",
-      "type": "Stepway 1.0 TCe 90 Comfort",
-      "year": "2021",
-      "fuelType": "benzine",
-      "mileage": "63778",
-      "make": "Dacia",
-      "model": "Sandero Stepway 1.0 TCe 90 Comfort",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "power": "67 kW",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\ndeur achter\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "sandero-stepway-10-tce-90-comfort-stepway-10-tce-90-comfort",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809137/32fb0a7e0c0fc05aef5bcb21f3ba953b~v190177239.jpg"
     },
     {
       "id": "1787267",
