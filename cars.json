@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:08:15.393Z",
+  "updated": "2026-10-30T08:10:25.851Z",
   "cars": [
     {
       "id": "1814342",
@@ -248,7 +248,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-lease-edition-ambition/o/1819383",
       "image": "https://www.schadeautos.nl/cache/picture/15/1819383/15bf8df22ae90c1c62b0434c196b0fec~v193020167.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.250"
       ],
       "title": "Mercedes A‑klasse",
@@ -341,9 +340,7 @@
       "id": "1819261",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318d-corporate-lease-high-executive-automaat-schadevrij/o/1819261",
       "image": "https://www.schadeautos.nl/cache/picture/15/1819261/78ecdc32c2283e1d9eda9d791efc3c91~v193013478.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "BMW 3‑serie",
       "type": "318d Corporate Lease High Executive Automaat Schadevrij",
       "price": "2600",
@@ -366,7 +363,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1819241",
       "image": "https://www.schadeautos.nl/cache/picture/15/1819241/62a7a88066c4521fcd000d39de0ef346~v193012497.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.500"
       ],
       "title": "Peugeot 2008",
