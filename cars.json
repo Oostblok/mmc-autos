@@ -1,6 +1,31 @@
 {
-  "updated": "2026-10-30T08:10:25.851Z",
+  "updated": "2026-10-31T08:03:45.866Z",
   "cars": [
+    {
+      "id": "1812881",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.850"
+      ],
+      "title": "Renault Mégane",
+      "type": "Estate 1.5 dCi Collection Schadevrij",
+      "price": "2950",
+      "year": "2013",
+      "fuelType": "diesel",
+      "mileage": "250106",
+      "make": "Renault",
+      "model": "Mégane Estate 1.5 dCi Collection Schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2850",
+      "engineSize": "1461 CC",
+      "color": "wit",
+      "bodyType": "stationwagon",
+      "damage": "hagelschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-estate-15-dci-collection-schadevrij-estate-15-dci-collection-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812881/c5238e76590be86e55129c20aaccae2a~v191228116.jpg"
+    },
     {
       "id": "1814342",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
@@ -31,9 +56,7 @@
       "id": "1772258",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-style-ultimate/o/1772258",
       "image": "https://www.schadeautos.nl/cache/picture/15/1772258/3a31d26b15fdedd98d5efb8b18cee3aa~v178670823.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Fiesta",
       "type": "1.0 Style Ultimate",
       "price": "2450",
@@ -78,9 +101,7 @@
       "id": "1741113",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530i-high-executive-automaat/o/1741113",
       "image": "https://www.schadeautos.nl/cache/picture/15/1741113/0231b2a4c9771ee15517e5014dbc3b8b~v169793429.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "BMW 5‑serie",
       "type": "530i High Executive Automaat",
       "price": "9500",
@@ -103,7 +124,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-2-0-tfsi-s-edition-automaat/o/1800029",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800029/cbb6357318087cba68eb40cdbd37ea64~v187583995.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.550"
       ],
       "title": "Audi A6 avant",
@@ -129,7 +149,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-edition/o/1810845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1810845/b05971e8be76c1beb0f565392196eb3d~v190688897.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.950"
       ],
       "title": "Opel Astra",
@@ -155,7 +174,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
       "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.525"
       ],
       "title": "Toyota Verso S",
@@ -179,9 +197,7 @@
       "id": "1812885",
       "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Adria",
       "type": "Adria Camper 660 coral 2004",
       "price": "16400",
@@ -202,7 +218,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-2-2-d-schadevrij/o/1627062",
       "image": "https://www.schadeautos.nl/cache/picture/15/1627062/efbf25806cd3ac8441905ed6dabac9a7~v135053954.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.800"
       ],
       "title": "Jaguar XF",
@@ -1012,30 +1027,6 @@
       "damage": "bumper\ndeur voor\nvoorscherm\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "clk-cabrio-240-elegance-automaat-cabrio-240-elegance-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812883/a9a789aaee8e82eaeba8fea53ea7e1c6~v191229554.jpg"
-    },
-    {
-      "id": "1812881",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
-      "labels": [
-        "exportprijs€ 3.250"
-      ],
-      "title": "Renault Mégane",
-      "type": "Estate 1.5 dCi Collection Schadevrij",
-      "price": "3350",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "250106",
-      "make": "Renault",
-      "model": "Mégane Estate 1.5 dCi Collection Schadevrij",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3250",
-      "engineSize": "1461 CC",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "hagelschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "megane-estate-15-dci-collection-schadevrij-estate-15-dci-collection-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812881/c5238e76590be86e55129c20aaccae2a~v191228116.jpg"
     },
     {
       "id": "1767683",
