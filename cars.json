@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:03:45.866Z",
+  "updated": "2026-11-01T08:50:04.716Z",
   "cars": [
     {
       "id": "1812881",
@@ -31,7 +31,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814342/5269704990f2c63840111d45b40cee66~v191537736.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.250"
       ],
       "title": "Ford Kuga",
@@ -236,29 +235,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1627062/4632d98e23b71ee4f77b87aea1397da6~v135053954.jpg"
     },
     {
-      "id": "1819388",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-1-8-tfsi-sport-pro-line-s-automaat-sportback/o/1819388",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819388/0eba7ce22606b924af33f06dcf4f562d~v193027467.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A1",
-      "type": "1.8 TFSI Sport Pro Line S Automaat SPORTBACK",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "124973",
-      "make": "Audi",
-      "model": "A1 1.8 TFSI Sport Pro Line S Automaat SPORTBACK",
-      "gearbox": "automaat",
-      "engineSize": "1798 CC",
-      "power": "192 pk",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "koplamp rechts\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\nairbags voor stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a1-18-tfsi-sport-pro-line-s-automaat-sportback-18-tfsi-sport-pro-line-s-automaat-sportback",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819388/9b9dbd067f4a7e47a57e03194e60728d~v193027467.jpg"
-    },
-    {
       "id": "1819383",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-lease-edition-ambition/o/1819383",
       "image": "https://www.schadeautos.nl/cache/picture/15/1819383/15bf8df22ae90c1c62b0434c196b0fec~v193020167.jpg",
@@ -399,52 +375,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819241/7224f490b53a8598672acc9746fd4381~v193012497.jpg"
     },
     {
-      "id": "1819224",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-1-6-tdi-bluemotion-executive-edition/o/1819224",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819224/81d2a6234eb699117169da0904826d56~v193010629.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Passat",
-      "type": "1.6 TDI BlueMotion Executive Edition",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "254585",
-      "make": "Volkswagen",
-      "model": "Passat 1.6 TDI BlueMotion Executive Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "power": "77 kW",
-      "color": "bruin",
-      "bodyType": "stationwagon",
-      "damage": "bumper\ndeur achter\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "passat-16-tdi-bluemotion-executive-edition-16-tdi-bluemotion-executive-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819224/2b47b4e07329b76c31ca4089a0f6bc31~v193010629.jpg"
-    },
-    {
-      "id": "1819210",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-2-lp-i-drive-cool/o/1819210",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819210/2d8faf8c6f1ceef5f2ba6e98d96faa60~v193009677.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Hyundai I‑20",
-      "type": "1.2 LP i-Drive Cool",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "133743",
-      "make": "Hyundai",
-      "model": "I-20 1.2 LP i-Drive Cool",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1248 CC",
-      "power": "55 kW",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
-      "slug": "i-20-12-lp-i-drive-cool-12-lp-i-drive-cool",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819210/0798be5e5b8bc4097078ba2714ff3f80~v193009677.jpg"
-    },
-    {
       "id": "1818399",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition-schadevrij/o/1818399",
       "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
@@ -534,28 +464,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\ndeur achter\ndeur voor\ndorpel\nvoorscherm\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "a7-sportback-30-tfsi-quattro-pro-line-plus-automaat-sportback-30-tfsi-quattro-pro-line-plus-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1737576/0ad49609709b5dd53b8a66e1c11dc74d~v168896389.jpg"
-    },
-    {
-      "id": "1792806",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-trend-schadevrij/o/1792806",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1792806/4e4ab692d62dce3b705f2e40f086c1ad~v184920204.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Ford Focus",
-      "type": "1.0 EcoBoost Trend schadevrij",
-      "year": "2012",
-      "fuelType": "benzine",
-      "mileage": "165229",
-      "make": "Ford",
-      "model": "Focus 1.0 EcoBoost Trend schadevrij",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "focus-10-ecoboost-trend-schadevrij-10-ecoboost-trend-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1792806/bee772ca5e4c160519f2ed44e1ecf6a1~v184920204.jpg"
     },
     {
       "id": "1659179",
@@ -1357,7 +1265,7 @@
     {
       "id": "1800037",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-dubbel-cabine-290-2-2-tdci-l2h1-trend-dc/o/1800037",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1800037/6a95b3e7998e33e0ff27c5f5fb90d46d~v187584398.jpg",
       "labels": [],
       "title": "Ford Transit Custom",
       "type": "DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
@@ -1469,7 +1377,7 @@
     {
       "id": "1700990",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1700990/8582fc0a25c8d3fac52187bda5bd055d~v157619453.jpg",
       "labels": [
         "exportprijs€ 3.500"
       ],
