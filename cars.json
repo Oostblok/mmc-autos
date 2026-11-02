@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-01T08:50:04.716Z",
+  "updated": "2026-11-02T08:58:16.926Z",
   "cars": [
     {
       "id": "1812881",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.850"
       ],
       "title": "Renault Mégane",
@@ -258,74 +257,6 @@
       "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "a-klasse-180-lease-edition-ambition-180-lease-edition-ambition",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819383/b156a42d77410784ffbcfc504b1ae55e~v193020167.jpg"
-    },
-    {
-      "id": "1819375",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-automaat-1-0-tsi-business-edition-connected/o/1819375",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819375/fd19eff8288659c1be977bb9282fb0ba~v193019550.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "Automaat 1.0 TSI Business Edition Connected",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "279261",
-      "make": "Volkswagen",
-      "model": "Golf Automaat 1.0 TSI Business Edition Connected",
-      "gearbox": "automaat",
-      "engineSize": "999 CC",
-      "power": "116 pk",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur achter\ndeur voor\nvoorscherm\nwielophanging links\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "golf-automaat-10-tsi-business-edition-connected-automaat-10-tsi-business-edition-connected",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819375/bd026335f2909b013492ce7713acacaa~v193019550.jpg"
-    },
-    {
-      "id": "1819364",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tsi-4motion-r-automaat/o/1819364",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819364/14dab8326dd0270b61203af4d4f0dee5~v193018064.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volkswagen Golf",
-      "type": "2.0 TSI 4Motion R Automaat",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "116884",
-      "make": "Volkswagen",
-      "model": "Golf 2.0 TSI 4Motion R Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1984 CC",
-      "power": "310 pk",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "golf-20-tsi-4motion-r-automaat-20-tsi-4motion-r-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819364/61630bda89f70cdfd9c95adae38c1fc5~v193018064.jpg"
-    },
-    {
-      "id": "1819363",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-estate-0-9-tce-expression/o/1819363",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819363/84734a53000f799731fc5526e0d05514~v193016930.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Clio",
-      "type": "Estate 0.9 TCe Expression",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "196815",
-      "make": "Renault",
-      "model": "Clio Estate 0.9 TCe Expression",
-      "gearbox": "handgeschakeld",
-      "engineSize": "898 CC",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "clio-estate-09-tce-expression-estate-09-tce-expression",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819363/9dab35ffe82cf20e9e735750300e0540~v193016930.jpg"
     },
     {
       "id": "1819261",
@@ -1265,7 +1196,7 @@
     {
       "id": "1800037",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-dubbel-cabine-290-2-2-tdci-l2h1-trend-dc/o/1800037",
-      "image": "https://www.schadeautos.nl/picture/15/o/1800037/6a95b3e7998e33e0ff27c5f5fb90d46d~v187584398.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
       "labels": [],
       "title": "Ford Transit Custom",
       "type": "DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
@@ -1377,7 +1308,7 @@
     {
       "id": "1700990",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-3-2-fsi-pro-line/o/1700990",
-      "image": "https://www.schadeautos.nl/picture/15/o/1700990/8582fc0a25c8d3fac52187bda5bd055d~v157619453.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1700990/077ba478124db3da08f57ff0a6f441de~v157619453.jpg",
       "labels": [
         "exportprijs€ 3.500"
       ],
