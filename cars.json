@@ -1,13 +1,33 @@
 {
-  "updated": "2026-11-09T09:16:09.974Z",
+  "updated": "2026-11-10T09:22:06.254Z",
   "cars": [
+    {
+      "id": "1824136",
+      "link": "https://www.schadeautos.nl/nl/schade/campers/hymer-fiat-2-8-cs-544k/o/1824136",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1824136/c29361caca124bb1bb31fceabc1f7e00~v194223287.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Hymer",
+      "type": "Fiat 2.8 CS 544K",
+      "price": "17200",
+      "year": "2004",
+      "fuelType": "diesel",
+      "mileage": "185125",
+      "make": "Hymer",
+      "model": "Fiat 2.8 CS 544K",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2800 CC",
+      "color": "wit",
+      "damage": "dakschade\nhagelschade\nalle airbags oké\ncamper is verrijdbaar\ncamper kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fiat-28-cs-544k-fiat-28-cs-544k",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1824136/85d327b69878a637f8a6489605df54a1~v194223287.jpg"
+    },
     {
       "id": "1823487",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-16v-titanium-schadevrij/o/1823487",
       "image": "https://www.schadeautos.nl/cache/picture/15/1823487/bd8a1a6cfdeffea41115e8f3e276dff5~v193964069.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Mondeo",
       "type": "2.0-16V Titanium schadevrij",
       "price": "2500",
@@ -30,7 +50,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-titanium/o/1823481",
       "image": "https://www.schadeautos.nl/cache/picture/15/1823481/adb053a0a22c4739899013d19edbfac0~v193963453.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.500"
       ],
       "title": "Ford Kuga",
@@ -54,9 +73,7 @@
       "id": "1797848",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "270 2.0 TDCI L1H1 Economy Edition",
       "price": "3950",
@@ -181,28 +198,6 @@
       "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nroest bij wielkasten achter",
       "slug": "sprinter-311-22-cdi-366-311-22-cdi-366",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822531/7d99b1abd0575aaf84b44eeb83a2af87~v193798365.jpg"
-    },
-    {
-      "id": "1822527",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-corolla-touring-sports-1-8-hybrid-dynamic-automaat/o/1822527",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1822527/0bbc875baf523c09d8dd276b8a2ee7e6~v193797563.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Corolla Touring Sports",
-      "type": "1.8 Hybrid Dynamic automaat",
-      "year": "2021",
-      "fuelType": "hybride benzine",
-      "mileage": "94906",
-      "make": "Toyota",
-      "model": "Corolla Touring Sports 1.8 Hybrid Dynamic automaat",
-      "gearbox": "automaat",
-      "engineSize": "1798 CC",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "corolla-touring-sports-18-hybrid-dynamic-automaat-18-hybrid-dynamic-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822527/18fa6fb1b5dd603388a93c8dee760805~v193797563.jpg"
     },
     {
       "id": "1822434",
@@ -1155,29 +1150,6 @@
       "damage": "koplamp rechts\nmotorkap\nvoorschade\nachterklep\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-allure-12-puretech-allure",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1792709/a619402c59a8b651ba021c6256818723~v184901638.jpg"
-    },
-    {
-      "id": "1737708",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1737708",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1737708/8c2ea514c118c3482047505c81f5a6c5~v168908973.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Corsa",
-      "type": "1.2 Elegance",
-      "year": "2022",
-      "fuelType": "benzine",
-      "mileage": "120943",
-      "make": "Opel",
-      "model": "Corsa 1.2 Elegance",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "102 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "corsa-12-elegance-12-elegance",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1737708/8fbfd5ba9053d531e6611d3b005bf90d~v168908973.jpg"
     },
     {
       "id": "1767681",
