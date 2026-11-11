@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:22:06.254Z",
+  "updated": "2026-11-11T08:56:31.014Z",
   "cars": [
     {
       "id": "1824136",
@@ -250,10 +250,11 @@
       "id": "1822397",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-d3-summum/o/1822397",
       "image": "https://www.schadeautos.nl/cache/picture/15/1822397/1e842265f541ed7347900563732f2c79~v193787400.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Volvo V‑60",
       "type": "2.0 D3 Summum",
-      "price": "2950",
       "year": "2011",
       "fuelType": "diesel",
       "mileage": "233160",
@@ -793,52 +794,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-20-16v-rally-edition-20-16v-rally-edition",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797850/587f04ddacf9d04a5833d3c8eff925d6~v186994347.jpg"
-    },
-    {
-      "id": "1807439",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/peugeot-boxer-435-2-2-hdi-l3h2-schadevrij/o/1807439",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1807439/555d611e5b56a7b4cf51b418f128f8a7~v189658327.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot Boxer",
-      "type": "435 2.2 HDI L3H2 schadevrij",
-      "year": "2012",
-      "fuelType": "diesel",
-      "mileage": "172808",
-      "make": "Peugeot",
-      "model": "Boxer 435 2.2 HDI L3H2 schadevrij",
-      "gearbox": "handgeschakeld",
-      "engineSize": "2198 CC",
-      "power": "110 kW",
-      "color": "blauw",
-      "bodyType": "bestelauto",
-      "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "boxer-435-22-hdi-l3h2-schadevrij-435-22-hdi-l3h2-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1807439/506a1a08f980da868d7308cd43edd412~v189658327.jpg"
-    },
-    {
-      "id": "1817597",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-3-4-4-v8-hse/o/1817597",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1817597/bc27e0f1b11c6cb77992a5e3c7628262~v192498232.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Land Rover Discovery 3",
-      "type": "4.4 V8 HSE",
-      "year": "2005",
-      "fuelType": "benzine",
-      "mileage": "289019",
-      "make": "Land Rover",
-      "model": "Discovery 3 4.4 V8 HSE",
-      "gearbox": "automaat",
-      "engineSize": "4394 CC",
-      "power": "300 pk",
-      "color": "blauw",
-      "bodyType": "suv / terreinwagen",
-      "damage": "deur achter\ndeur voor\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "discovery-3-44-v8-hse-44-v8-hse",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817597/e539c6bbc033bec85d6f0939cc5c0bd8~v192498232.jpg"
     },
     {
       "id": "1817586",
