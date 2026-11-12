@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-11T08:56:31.014Z",
+  "updated": "2026-11-12T09:22:53.020Z",
   "cars": [
+    {
+      "id": "1790021",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v194408422.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.850"
+      ],
+      "title": "Ford Mondeo",
+      "type": "2.0 TDCi Titanium Automaat",
+      "price": "6550",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "295274",
+      "make": "Ford",
+      "model": "Mondeo 2.0 TDCi Titanium Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "4850",
+      "engineSize": "1997 CC",
+      "power": "110 kW",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "mondeo-20-tdci-titanium-automaat-20-tdci-titanium-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790021/c2d9bb67fe9eab44ea79b757a444d36b~v194408422.jpg"
+    },
     {
       "id": "1824136",
       "link": "https://www.schadeautos.nl/nl/schade/campers/hymer-fiat-2-8-cs-544k/o/1824136",
@@ -27,10 +53,11 @@
       "id": "1823487",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-16v-titanium-schadevrij/o/1823487",
       "image": "https://www.schadeautos.nl/cache/picture/15/1823487/bd8a1a6cfdeffea41115e8f3e276dff5~v193964069.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Mondeo",
       "type": "2.0-16V Titanium schadevrij",
-      "price": "2500",
       "year": "2009",
       "fuelType": "benzine",
       "mileage": "235761",
@@ -198,29 +225,6 @@
       "damage": "alle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nroest bij wielkasten achter",
       "slug": "sprinter-311-22-cdi-366-311-22-cdi-366",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822531/7d99b1abd0575aaf84b44eeb83a2af87~v193798365.jpg"
-    },
-    {
-      "id": "1822434",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-508-1-6-puretech-blue-lease-gt-line-avantage-automaat/o/1822434",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1822434/04d087706b949943b7e4583ba2f4173a~v193789196.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 508",
-      "type": "1.6 PureTech Blue Lease GT Line Avantage Automaat",
-      "year": "2020",
-      "fuelType": "benzine",
-      "mileage": "154569",
-      "make": "Peugeot",
-      "model": "508 1.6 PureTech Blue Lease GT Line Avantage Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1598 CC",
-      "power": "133 kW",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "gebruikssporen\nonderschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "508-16-puretech-blue-lease-gt-line-avantage-automaat-16-puretech-blue-lease-gt-line-avantage-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822434/77e4f3537fc8d51b0362604f56d8b22f~v193789196.jpg"
     },
     {
       "id": "1822426",
@@ -498,28 +502,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "astra-sports-tourer-16-edition-sports-tourer-16-edition",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1810845/ea7bb65780a518a326a3e0fc46360ddd~v190688897.jpg"
-    },
-    {
-      "id": "1761800",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-verso-s-automaat-1-3-vvt-i-dynamic/o/1761800",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1761800/06d949a184c40aafbe1a496b502c091d~v175644199.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Verso S",
-      "type": "Automaat 1.3 VVT-i Dynamic",
-      "year": "2011",
-      "fuelType": "benzine",
-      "mileage": "154324",
-      "make": "Toyota",
-      "model": "Verso S Automaat 1.3 VVT-i Dynamic",
-      "gearbox": "automaat",
-      "engineSize": "1329 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "achterklep\nachterruit\nachterschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "verso-s-automaat-13-vvt-i-dynamic-automaat-13-vvt-i-dynamic",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1761800/b10cdeaeade1dd05595b43fbbbbe7e7f~v175644199.jpg"
     },
     {
       "id": "1812885",
@@ -842,28 +824,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817584/68588429baf004a01842251739e0e7cf~v192496401.jpg"
     },
     {
-      "id": "1785575",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-adam-1-0-turbo-unlimited/o/1785575",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1785575/70d187880dbce615bf31eaebf00c486f~v182758589.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Adam",
-      "type": "1.0 Turbo Unlimited",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "143076",
-      "make": "Opel",
-      "model": "Adam 1.0 Turbo Unlimited",
-      "gearbox": "handgeschakeld",
-      "engineSize": "999 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorschade\nvoorscherm\nairbags voor stuk\nchassis oké\nrecht op de wielen",
-      "slug": "adam-10-turbo-unlimited-10-turbo-unlimited",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1785575/d3c36ca5b68e4376fa8a5137d310719e~v182758589.jpg"
-    },
-    {
       "id": "1706950",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
       "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
@@ -1084,6 +1044,29 @@
       "damage": "motorschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "grand-scenic-12-tce-r-cinema-12-tce-r-cinema",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1755080/341e65e6933e458d6b966c3eb902dce2~v173672804.jpg"
+    },
+    {
+      "id": "1768845",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend-lichte-schade-plekje/o/1768845",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1768845/7210ea50b159cdf256e2fc324569c855~v194408495.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Connect",
+      "type": "Automaat 1.5 EcoBlue L2 Trend lichte schade plekje",
+      "price": "6650",
+      "year": "2020",
+      "fuelType": "diesel",
+      "mileage": "176823",
+      "make": "Ford",
+      "model": "Transit Connect Automaat 1.5 EcoBlue L2 Trend lichte schade plekje",
+      "gearbox": "automaat",
+      "engineSize": "1499 CC",
+      "color": "zilver",
+      "bodyType": "bestelauto",
+      "damage": "gebruikssporen\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-connect-automaat-15-ecoblue-l2-trend-lichte-schade-plekje-automaat-15-ecoblue-l2-trend-lichte-schade-plekje",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1768845/15a5c944a83d421ff8bfb67440af40d3~v194408495.jpg"
     },
     {
       "id": "1792709",
@@ -1783,27 +1766,6 @@
       "damage": "bumper\nkoplampen\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "rio-12-cvvt-comfortline-12-cvvt-comfortline",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1789979/3d6cf87d159c0f26e3bd7b4b8e5a3685~v184019927.jpg"
-    },
-    {
-      "id": "1786399",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-0-vvti/o/1786399",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1786399/3875b01851ae0a1aeb4b5e48f39f8fc3~v182918827.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Yaris",
-      "type": "1.0 VVTi",
-      "year": "2007",
-      "fuelType": "benzine",
-      "mileage": "202292",
-      "make": "Toyota",
-      "model": "Yaris 1.0 VVTi",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "blauw",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "yaris-10-vvti-10-vvti",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1786399/c06bb7fa4ee4704439dc64011d815fc7~v182918827.jpg"
     },
     {
       "id": "1773286",
