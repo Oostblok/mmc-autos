@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:22:53.020Z",
+  "updated": "2026-11-13T09:10:52.508Z",
   "cars": [
     {
       "id": "1790021",
@@ -31,9 +31,7 @@
       "id": "1824136",
       "link": "https://www.schadeautos.nl/nl/schade/campers/hymer-fiat-2-8-cs-544k/o/1824136",
       "image": "https://www.schadeautos.nl/cache/picture/15/1824136/c29361caca124bb1bb31fceabc1f7e00~v194223287.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Hymer",
       "type": "Fiat 2.8 CS 544K",
       "price": "17200",
@@ -622,18 +620,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition-schadevrij/o/1818399",
       "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
       "labels": [
-        "exportprijs€ 12.200"
+        "verkocht"
       ],
       "title": "Audi A4 Avant",
       "type": "2.0 TDI Sport S line edition Schadevrij",
-      "price": "13600",
       "year": "2017",
       "fuelType": "diesel",
       "mileage": "194468",
       "make": "Audi",
       "model": "A4 Avant 2.0 TDI Sport S line edition Schadevrij",
       "gearbox": "handgeschakeld",
-      "exportPrice": "12200",
       "engineSize": "1968 CC",
       "power": "190 pk",
       "color": "grijs",
