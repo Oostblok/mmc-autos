@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-14T08:41:52.590Z",
+  "updated": "2026-11-15T08:53:53.325Z",
   "cars": [
+    {
+      "id": "1352628",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.438"
+      ],
+      "title": "Volvo S‑60",
+      "type": "2.0 D2  POLAR+ DYNAMIC",
+      "price": "4144",
+      "year": "2017",
+      "fuelType": "diesel",
+      "mileage": "141673",
+      "make": "Volvo",
+      "model": "S-60 2.0 D2 POLAR+ DYNAMIC",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2438",
+      "power": "88 kW",
+      "color": "grijs",
+      "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
+      "slug": "s-60-20-d2-polar-dynamic-20-d2-polar-dynamic",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg"
+    },
+    {
+      "id": "1826122",
+      "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/volkswagen-crafter-46-2-5-tdi-l2-dc-trekker-met-schotel-7-persoons/o/1826122",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1826122/89353aac7e1e54798b46be6a6c4e722b~v194664691.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volkswagen Crafter",
+      "type": "46 2.5 TDI L2 DC Trekker met schotel 7 persoons",
+      "price": "7250",
+      "year": "2011",
+      "fuelType": "diesel",
+      "mileage": "232318",
+      "make": "Volkswagen",
+      "model": "Crafter 46 2.5 TDI L2 DC Trekker met schotel 7 persoons",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2461 CC",
+      "power": "120 kW",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nvoorruit\ngebruikssporen\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "crafter-46-25-tdi-l2-dc-trekker-met-schotel-7-persoons-46-25-tdi-l2-dc-trekker-met-schotel-7-persoons",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1826122/e05b6873212c20f5b4bb0aa916e16620~v194664691.jpg"
+    },
+    {
+      "id": "1809166",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/toyota-proace-electric-worker-standard-range-limited/o/1809166",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1809166/83742a021bfc8eb1d8692ef271dc9a39~v190180016.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Toyota Proace",
+      "type": "Electric Worker Standard Range Limited",
+      "price": "7750",
+      "year": "2021",
+      "fuelType": "elektrisch",
+      "mileage": "181080",
+      "make": "Toyota",
+      "model": "Proace Electric Worker Standard Range Limited",
+      "gearbox": "automaat",
+      "power": "100 kW",
+      "color": "wit",
+      "bodyType": "bestelauto",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\nlaadkabel ontbreekt\nchassis oké\nrecht op de wielen",
+      "slug": "proace-electric-worker-standard-range-limited-electric-worker-standard-range-limited",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
+    },
     {
       "id": "1826047",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008-1-2-puretech-allure-7-persoons/o/1826047",
@@ -274,7 +345,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
       "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v194408422.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.850"
       ],
       "title": "Ford Mondeo",
@@ -386,7 +456,7 @@
     {
       "id": "1815378",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-buurtbus-automaat/o/1815378",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1815378/08d895680349307065c8f16d5482047c~v191898919.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1815378/8b59188bff2dc135044148356edfacd1~v191898919.jpg",
       "labels": [],
       "title": "Volkswagen Crafter",
       "type": "Buurtbus, Automaat",
@@ -1289,7 +1359,7 @@
     {
       "id": "1755080",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1755080/6f97cf65705824fa71166b8461cfba58~v173672804.jpg",
       "labels": [
         "exportprijs€ 1.650"
       ],
@@ -1313,9 +1383,7 @@
       "id": "1768845",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend-lichte-schade-plekje/o/1768845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768845/7210ea50b159cdf256e2fc324569c855~v194408495.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Connect",
       "type": "Automaat 1.5 EcoBlue L2 Trend lichte schade plekje",
       "price": "6650",
@@ -1471,27 +1539,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809185/861145a0f36107b8fb02af8ea3ce9c36~v190180853.jpg"
     },
     {
-      "id": "1809166",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/toyota-proace-electric-worker-standard-range-limited/o/1809166",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1809166/83742a021bfc8eb1d8692ef271dc9a39~v190180016.jpg",
-      "labels": [],
-      "title": "Toyota Proace",
-      "type": "Electric Worker Standard Range Limited",
-      "price": "7950",
-      "year": "2021",
-      "fuelType": "elektrisch",
-      "mileage": "181080",
-      "make": "Toyota",
-      "model": "Proace Electric Worker Standard Range Limited",
-      "gearbox": "automaat",
-      "power": "100 kW",
-      "color": "wit",
-      "bodyType": "bestelauto",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nvoorscherm\nairbags voor stuk\nlaadkabel ontbreekt\nchassis oké\nrecht op de wielen",
-      "slug": "proace-electric-worker-standard-range-limited-electric-worker-standard-range-limited",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
-    },
-    {
       "id": "1787267",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-cdti-innovation/o/1787267",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787267/44d1689cd56cb349313bb858f05e58b3~v183108813.jpg",
@@ -1568,7 +1615,7 @@
     {
       "id": "1804792",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1804792/ec2cdc8b25788b836bfbbd417bfe20bd~v188894979.jpg",
       "labels": [
         "exportprijs€ 4.400"
       ],
@@ -1754,29 +1801,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1795654/1ccb8de10a55ffc85f8a64c195ab2f0c~v186118518.jpg"
     },
     {
-      "id": "1352628",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
-      "labels": [
-        "exportprijs€ 2.938"
-      ],
-      "title": "Volvo S‑60",
-      "type": "2.0 D2  POLAR+ DYNAMIC",
-      "price": "4750",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "141673",
-      "make": "Volvo",
-      "model": "S-60 2.0 D2 POLAR+ DYNAMIC",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2938",
-      "power": "88 kW",
-      "color": "grijs",
-      "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
-      "slug": "s-60-20-d2-polar-dynamic-20-d2-polar-dynamic",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg"
-    },
-    {
       "id": "1794184",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-eco-night-day/o/1794184",
       "image": "https://www.schadeautos.nl/cache/picture/15/1794184/cb7f02eab75a29f8bf3d86b2e96c1bda~v185490995.jpg",
@@ -1851,10 +1875,11 @@
       "id": "1795657",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-3-cdti-automaat-l2h1-ecoflex/o/1795657",
       "image": "https://www.schadeautos.nl/cache/picture/15/1795657/b8477a9108c8bf15a67855940e077878~v186119405.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Opel Combo",
       "type": "1.3 CDTi Automaat L2H1 ecoFLEX",
-      "price": "3750",
       "year": "2015",
       "fuelType": "diesel",
       "mileage": "169529",
