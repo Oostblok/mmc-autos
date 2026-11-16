@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:53:53.325Z",
+  "updated": "2026-11-16T09:05:01.051Z",
   "cars": [
     {
       "id": "1352628",
@@ -456,7 +456,7 @@
     {
       "id": "1815378",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-buurtbus-automaat/o/1815378",
-      "image": "https://www.schadeautos.nl/picture/15/o/1815378/8b59188bff2dc135044148356edfacd1~v191898919.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815378/08d895680349307065c8f16d5482047c~v191898919.jpg",
       "labels": [],
       "title": "Volkswagen Crafter",
       "type": "Buurtbus, Automaat",
@@ -585,29 +585,6 @@
       "damage": "achterscherm\nwielophanging rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2-serie-active-tourer-218i-executive-active-tourer-218i-executive",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822426/c4ef8f50e26b5c62ae9a354497a7aa20~v193788086.jpg"
-    },
-    {
-      "id": "1822397",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-d3-summum/o/1822397",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1822397/1e842265f541ed7347900563732f2c79~v193787400.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo V‑60",
-      "type": "2.0 D3 Summum",
-      "year": "2011",
-      "fuelType": "diesel",
-      "mileage": "233160",
-      "make": "Volvo",
-      "model": "V-60 2.0 D3 Summum",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1984 CC",
-      "power": "120 kW",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "deur achter\ndeur voor\nachterscherm\ndeur achter\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-60-20-d3-summum-20-d3-summum",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822397/a7cfcdfa2a060d1284a1ad284264d4c1~v193787400.jpg"
     },
     {
       "id": "1822381",
@@ -1359,7 +1336,7 @@
     {
       "id": "1755080",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
-      "image": "https://www.schadeautos.nl/picture/15/o/1755080/6f97cf65705824fa71166b8461cfba58~v173672804.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
       "labels": [
         "exportprijs€ 1.650"
       ],
@@ -1615,7 +1592,7 @@
     {
       "id": "1804792",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
-      "image": "https://www.schadeautos.nl/picture/15/o/1804792/ec2cdc8b25788b836bfbbd417bfe20bd~v188894979.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
       "labels": [
         "exportprijs€ 4.400"
       ],
