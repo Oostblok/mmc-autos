@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T10:17:39.407Z",
+  "updated": "2026-11-18T09:49:16.521Z",
   "cars": [
     {
       "id": "1755080",
@@ -337,7 +337,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
       "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.438"
       ],
       "title": "Volvo S‑60",
@@ -360,9 +359,7 @@
       "id": "1826122",
       "link": "https://www.schadeautos.nl/nl/occasion/bestelwagens/volkswagen-crafter-46-2-5-tdi-l2-dc-trekker-met-schotel-7-persoons-n1/o/1826122",
       "image": "https://www.schadeautos.nl/cache/picture/15/1826122/89353aac7e1e54798b46be6a6c4e722b~v194664691.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volkswagen Crafter",
       "type": "46 2.5 TDI L2 DC Trekker met schotel 7 persoons N1",
       "price": "7250",
@@ -384,9 +381,7 @@
       "id": "1809166",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/toyota-proace-electric-worker-standard-range-limited/o/1809166",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809166/83742a021bfc8eb1d8692ef271dc9a39~v190180016.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Toyota Proace",
       "type": "Electric Worker Standard Range Limited",
       "price": "7750",
@@ -1083,29 +1078,6 @@
       "damage": "deur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion-1819241",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819241/7224f490b53a8598672acc9746fd4381~v193012497.jpg"
-    },
-    {
-      "id": "1818399",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0-tdi-sport-s-line-edition-schadevrij/o/1818399",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1818399/22b042f4b9ee7d98e37cd6cc8bf3a945~v192678802.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Audi A4 Avant",
-      "type": "2.0 TDI Sport S line edition Schadevrij",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "194468",
-      "make": "Audi",
-      "model": "A4 Avant 2.0 TDI Sport S line edition Schadevrij",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1968 CC",
-      "power": "190 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a4-avant-20-tdi-sport-s-line-edition-schadevrij-20-tdi-sport-s-line-edition-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1818399/e9c427c60248074f47311ca48ada0eb5~v192678802.jpg"
     },
     {
       "id": "1702078",
