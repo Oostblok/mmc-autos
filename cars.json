@@ -1,6 +1,157 @@
 {
-  "updated": "2026-11-19T09:57:47.432Z",
+  "updated": "2026-11-20T09:45:42.419Z",
   "cars": [
+    {
+      "id": "1819241",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1819241",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1819241/62a7a88066c4521fcd000d39de0ef346~v193012497.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.400"
+      ],
+      "title": "Peugeot 2008",
+      "type": "1.2 PureTech Blue Lion",
+      "price": "3800",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "180881",
+      "make": "Peugeot",
+      "model": "2008 1.2 PureTech Blue Lion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3400",
+      "engineSize": "1199 CC",
+      "power": "81 kW",
+      "color": "wit",
+      "bodyType": "stationwagon",
+      "damage": "deur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819241/7224f490b53a8598672acc9746fd4381~v193012497.jpg"
+    },
+    {
+      "id": "1794184",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-eco-night-day/o/1794184",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1794184/cb7f02eab75a29f8bf3d86b2e96c1bda~v185490995.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.750"
+      ],
+      "title": "Renault Clio",
+      "type": "0.9 TCe ECO Night&Day",
+      "price": "3150",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "93826",
+      "make": "Renault",
+      "model": "Clio 0.9 TCe ECO Night&Day",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2750",
+      "engineSize": "898 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp links\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
+      "slug": "clio-09-tce-eco-nightandday-09-tce-eco-nightandday",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794184/4b315a48900be32b22944ecf0c8a6d83~v185490995.jpg"
+    },
+    {
+      "id": "1812881",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.850"
+      ],
+      "title": "Renault Mégane",
+      "type": "Estate 1.5 dCi Collection Schadevrij",
+      "price": "2950",
+      "year": "2013",
+      "fuelType": "diesel",
+      "mileage": "250106",
+      "make": "Renault",
+      "model": "Mégane Estate 1.5 dCi Collection Schadevrij",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2850",
+      "engineSize": "1461 CC",
+      "color": "wit",
+      "bodyType": "stationwagon",
+      "damage": "hagelschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-estate-15-dci-collection-schadevrij-estate-15-dci-collection-schadevrij",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812881/c5238e76590be86e55129c20aaccae2a~v191228116.jpg"
+    },
+    {
+      "id": "1817607",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-gt-line/o/1817607",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1817607/7304a696a5457eddc6181e32c755bbd2~v192499181.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.690"
+      ],
+      "title": "Renault Mégane",
+      "type": "Estate 1.2 TCe GT-Line",
+      "price": "4600",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "188180",
+      "make": "Renault",
+      "model": "Mégane Estate 1.2 TCe GT-Line",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3690",
+      "engineSize": "1197 CC",
+      "color": "zwart",
+      "bodyType": "stationwagon",
+      "damage": "achterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-estate-12-tce-gt-line-estate-12-tce-gt-line",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817607/fb4b5628521bae33093a87218e3a67d3~v192499181.jpg"
+    },
+    {
+      "id": "1809185",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-drive/o/1809185",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1809185/6fc514ec47d3c108f59a239381172d28~v190180853.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 2.450"
+      ],
+      "title": "Skoda Fabia",
+      "type": "Combi 1.0 TSI Drive",
+      "price": "2850",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "175715",
+      "make": "Skoda",
+      "model": "Fabia Combi 1.0 TSI Drive",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "2450",
+      "engineSize": "999 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "achterscherm\nachterklep\nachterlichten links\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "fabia-combi-10-tsi-drive-combi-10-tsi-drive",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809185/861145a0f36107b8fb02af8ea3ce9c36~v190180853.jpg"
+    },
+    {
+      "id": "1822426",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-active-tourer-218i-executive/o/1822426",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1822426/7195faada4091d6c8158e74e2de6dc03~v193788086.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.500"
+      ],
+      "title": "BMW 2‑serie",
+      "type": "Active Tourer 218i Executive",
+      "price": "3750",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "176143",
+      "make": "BMW",
+      "model": "2-serie Active Tourer 218i Executive",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3500",
+      "engineSize": "1499 CC",
+      "power": "100 kW",
+      "color": "blauw",
+      "damage": "achterscherm\nwielophanging rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "2-serie-active-tourer-218i-executive-active-tourer-218i-executive",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822426/c4ef8f50e26b5c62ae9a354497a7aa20~v193788086.jpg"
+    },
     {
       "id": "1698872",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-3-0-v6-premium-luxury-automaat/o/1698872",
@@ -268,9 +419,7 @@
       "id": "1817584",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d5-twin-engine-r-design-automaat-hybrid/o/1817584",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817584/46c96f930711e108b0bb284e604b54e3~v192496401.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Volvo V‑60",
       "type": "2.4 D5 Twin Engine R-Design Automaat Hybrid",
       "price": "4850",
@@ -292,19 +441,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-edition/o/1810845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1810845/b05971e8be76c1beb0f565392196eb3d~v190688897.jpg",
       "labels": [
-        "nieuw",
-        "exportprijs€ 2.950"
+        "verkocht"
       ],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.6 Edition",
-      "price": "3700",
       "year": "2015",
       "fuelType": "benzine",
       "mileage": "147527",
       "make": "Opel",
       "model": "Astra SPORTS TOURER 1.6 Edition",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2950",
       "engineSize": "998 CC",
       "power": "85 kW",
       "color": "grijs",
@@ -317,9 +463,7 @@
       "id": "1815370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-business-mode/o/1815370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815370/9fad82be2d875fcfc40eb0f3781c057e~v191895098.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Honda Jazz",
       "type": "1.4 Hybrid Business Mode",
       "price": "5500",
@@ -340,9 +484,7 @@
       "id": "1737576",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-3-0-tfsi-quattro-pro-line-plus-automaat/o/1737576",
       "image": "https://www.schadeautos.nl/cache/picture/15/1737576/cfebeabb71f6764bec1c4bc2fc6e3105~v168896389.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi A7",
       "type": "Sportback 3.0 TFSI quattro Pro Line plus Automaat",
       "price": "5750",
@@ -364,7 +506,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1810810",
       "image": "https://www.schadeautos.nl/cache/picture/15/1810810/8448f9ff8f209d9288f348ae4d17463b~v190686284.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.950"
       ],
       "title": "Peugeot 2008",
@@ -380,16 +521,14 @@
       "engineSize": "1199 CC",
       "color": "rood",
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorschade\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion",
+      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion-1810810",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1810810/b1d477a35b19eb246cbfd66a438272df~v190686284.jpg"
     },
     {
       "id": "1792709",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure/o/1792709",
       "image": "https://www.schadeautos.nl/cache/picture/15/1792709/ab36ea5a60aecea8e21b2bb6070c7724~v184901638.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot 2008",
       "type": "1.2 Puretech Allure",
       "price": "2950",
@@ -768,30 +907,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815378/f89ab97857e8ddf462795ae0527b0889~v191898919.jpg"
     },
     {
-      "id": "1817607",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-gt-line/o/1817607",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1817607/7304a696a5457eddc6181e32c755bbd2~v192499181.jpg",
-      "labels": [
-        "exportprijs€ 3.790"
-      ],
-      "title": "Renault Mégane",
-      "type": "Estate 1.2 TCe GT-Line",
-      "price": "4700",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "188180",
-      "make": "Renault",
-      "model": "Mégane Estate 1.2 TCe GT-Line",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3790",
-      "engineSize": "1197 CC",
-      "color": "zwart",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "megane-estate-12-tce-gt-line-estate-12-tce-gt-line",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817607/fb4b5628521bae33093a87218e3a67d3~v192499181.jpg"
-    },
-    {
       "id": "1822559",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-rapid-1-4-tsi-greentech-elegance-businessline-dsg/o/1822559",
       "image": "https://www.schadeautos.nl/cache/picture/15/1822559/d39961daf693313fb8d84bcc567e191a~v193800722.jpg",
@@ -834,30 +949,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822531/7d99b1abd0575aaf84b44eeb83a2af87~v193798365.jpg"
     },
     {
-      "id": "1822426",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-active-tourer-218i-executive/o/1822426",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1822426/7195faada4091d6c8158e74e2de6dc03~v193788086.jpg",
-      "labels": [
-        "exportprijs€ 3.500"
-      ],
-      "title": "BMW 2‑serie",
-      "type": "Active Tourer 218i Executive",
-      "price": "3750",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "176143",
-      "make": "BMW",
-      "model": "2-serie Active Tourer 218i Executive",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3500",
-      "engineSize": "1499 CC",
-      "power": "100 kW",
-      "color": "blauw",
-      "damage": "achterscherm\nwielophanging rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2-serie-active-tourer-218i-executive-active-tourer-218i-executive",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822426/c4ef8f50e26b5c62ae9a354497a7aa20~v193788086.jpg"
-    },
-    {
       "id": "1822381",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-civic-2-0-e-hev-elegance/o/1822381",
       "image": "https://www.schadeautos.nl/cache/picture/15/1822381/5667cb28fb81753caaad62838b685091~v193783259.jpg",
@@ -898,30 +989,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "c4-cactus-12-puretech-w-12-puretech-w",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1779993/a54736c0e2484e18f2ddcc3693e02b15~v181087149.jpg"
-    },
-    {
-      "id": "1812881",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
-      "labels": [
-        "exportprijs€ 2.850"
-      ],
-      "title": "Renault Mégane",
-      "type": "Estate 1.5 dCi Collection Schadevrij",
-      "price": "2950",
-      "year": "2013",
-      "fuelType": "diesel",
-      "mileage": "250106",
-      "make": "Renault",
-      "model": "Mégane Estate 1.5 dCi Collection Schadevrij",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2850",
-      "engineSize": "1461 CC",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "hagelschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "megane-estate-15-dci-collection-schadevrij-estate-15-dci-collection-schadevrij",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812881/c5238e76590be86e55129c20aaccae2a~v191228116.jpg"
     },
     {
       "id": "1772258",
@@ -1083,31 +1150,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nDorpellijst heeft wat krassen erop zie foto",
       "slug": "3-serie-318d-corporate-lease-high-executive-automaat-schadevrij-318d-corporate-lease-high-executive-automaat-schadevrij",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819261/6e1b46129c97d8ad759eae01ccaf965c~v193013478.jpg"
-    },
-    {
-      "id": "1819241",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1819241",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819241/62a7a88066c4521fcd000d39de0ef346~v193012497.jpg",
-      "labels": [
-        "exportprijs€ 3.500"
-      ],
-      "title": "Peugeot 2008",
-      "type": "1.2 PureTech Blue Lion",
-      "price": "3900",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "180881",
-      "make": "Peugeot",
-      "model": "2008 1.2 PureTech Blue Lion",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3500",
-      "engineSize": "1199 CC",
-      "power": "81 kW",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "deur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "2008-12-puretech-blue-lion-12-puretech-blue-lion-1819241",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819241/7224f490b53a8598672acc9746fd4381~v193012497.jpg"
     },
     {
       "id": "1702078",
@@ -1451,30 +1493,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1748394/076f0d64953cd1c5cf9af8d28087087d~v171863002.jpg"
     },
     {
-      "id": "1809185",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-drive/o/1809185",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1809185/6fc514ec47d3c108f59a239381172d28~v190180853.jpg",
-      "labels": [
-        "exportprijs€ 2.550"
-      ],
-      "title": "Skoda Fabia",
-      "type": "Combi 1.0 TSI Drive",
-      "price": "2950",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "175715",
-      "make": "Skoda",
-      "model": "Fabia Combi 1.0 TSI Drive",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2550",
-      "engineSize": "999 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "achterscherm\nachterklep\nachterlichten links\nachterschade\nbumper\nreservewielbak\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "fabia-combi-10-tsi-drive-combi-10-tsi-drive",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809185/861145a0f36107b8fb02af8ea3ce9c36~v190180853.jpg"
-    },
-    {
       "id": "1787267",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-cdti-innovation/o/1787267",
       "image": "https://www.schadeautos.nl/cache/picture/15/1787267/44d1689cd56cb349313bb858f05e58b3~v183108813.jpg",
@@ -1760,30 +1778,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1795654/1ccb8de10a55ffc85f8a64c195ab2f0c~v186118518.jpg"
     },
     {
-      "id": "1794184",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-eco-night-day/o/1794184",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1794184/cb7f02eab75a29f8bf3d86b2e96c1bda~v185490995.jpg",
-      "labels": [
-        "exportprijs€ 2.750"
-      ],
-      "title": "Renault Clio",
-      "type": "0.9 TCe ECO Night&Day",
-      "price": "3150",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "93826",
-      "make": "Renault",
-      "model": "Clio 0.9 TCe ECO Night&Day",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2750",
-      "engineSize": "898 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp links\nvoorscherm\nachterscherm\ndeur achter\ndeur voor\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt",
-      "slug": "clio-09-tce-eco-nightandday-09-tce-eco-nightandday",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1794184/4b315a48900be32b22944ecf0c8a6d83~v185490995.jpg"
-    },
-    {
       "id": "1721625",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-collection/o/1721625",
       "image": "https://www.schadeautos.nl/cache/picture/15/1721625/7e627ac89cc94ea641e8d3b9a50041fc~v163482439.jpg",
@@ -1829,29 +1823,6 @@
       "damage": "voorruit\ndakschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\ndashboard",
       "slug": "sportage-17-crdi-plus-pack-17-crdi-plus-pack",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793193/ae6f10fda49ae5d78548f27164a30fd5~v185168405.jpg"
-    },
-    {
-      "id": "1795657",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-3-cdti-automaat-l2h1-ecoflex/o/1795657",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1795657/b8477a9108c8bf15a67855940e077878~v186119405.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Opel Combo",
-      "type": "1.3 CDTi Automaat L2H1 ecoFLEX",
-      "year": "2015",
-      "fuelType": "diesel",
-      "mileage": "169529",
-      "make": "Opel",
-      "model": "Combo 1.3 CDTi Automaat L2H1 ecoFLEX",
-      "gearbox": "automaat",
-      "engineSize": "1248 CC",
-      "power": "66 kW",
-      "color": "wit",
-      "bodyType": "bestelauto",
-      "damage": "achterscherm\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "combo-13-cdti-automaat-l2h1-ecoflex-13-cdti-automaat-l2h1-ecoflex",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1795657/0ae44a994302163313f745ace715505e~v186119405.jpg"
     },
     {
       "id": "1516158",
