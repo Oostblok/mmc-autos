@@ -1,6 +1,57 @@
 {
-  "updated": "2026-11-20T09:45:42.419Z",
+  "updated": "2026-11-21T09:18:15.773Z",
   "cars": [
+    {
+      "id": "1735146",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.100"
+      ],
+      "title": "Renault Scenic",
+      "type": "1.3 TCe Initiale Paris Automaat",
+      "price": "6600",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "194684",
+      "make": "Renault",
+      "model": "Scenic 1.3 TCe Initiale Paris Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "5100",
+      "engineSize": "1332 CC",
+      "power": "159 pk",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nbumper\nairbags voor stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "scenic-13-tce-initiale-paris-automaat-13-tce-initiale-paris-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735146/0a4b748f55e0fa5e7c2132125a99bee0~v168250157.jpg"
+    },
+    {
+      "id": "1790021",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v194408422.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.850"
+      ],
+      "title": "Ford Mondeo",
+      "type": "2.0 TDCi Titanium Automaat",
+      "price": "6550",
+      "year": "2016",
+      "fuelType": "diesel",
+      "mileage": "295274",
+      "make": "Ford",
+      "model": "Mondeo 2.0 TDCi Titanium Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "4850",
+      "engineSize": "1997 CC",
+      "power": "110 kW",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "mondeo-20-tdci-titanium-automaat-20-tdci-titanium-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790021/c2d9bb67fe9eab44ea79b757a444d36b~v194408422.jpg"
+    },
     {
       "id": "1819241",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1819241",
@@ -253,7 +304,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
       "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 1.650"
       ],
       "title": "Renault Grand‑scenic",
@@ -277,7 +327,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-sportswagon-1-4-t-gdi-gt-plusline/o/1817586",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817586/d80c2b32f879580fdc44a7408dc74d22~v192497047.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.900"
       ],
       "title": "Kia Ceed",
@@ -303,7 +352,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-titanium/o/1823481",
       "image": "https://www.schadeautos.nl/cache/picture/15/1823481/adb053a0a22c4739899013d19edbfac0~v193963453.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.500"
       ],
       "title": "Ford Kuga",
@@ -328,7 +376,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-trend-ultimate/o/1814342",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814342/5269704990f2c63840111d45b40cee66~v191537736.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.250"
       ],
       "title": "Ford Kuga",
@@ -353,9 +400,7 @@
       "id": "1824136",
       "link": "https://www.schadeautos.nl/nl/schade/campers/hymer-fiat-2-8-cs-544k/o/1824136",
       "image": "https://www.schadeautos.nl/cache/picture/15/1824136/c29361caca124bb1bb31fceabc1f7e00~v194223287.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Hymer",
       "type": "Fiat 2.8 CS 544K",
       "price": "17200",
@@ -375,9 +420,7 @@
       "id": "1812885",
       "link": "https://www.schadeautos.nl/nl/schade/campers/adria-adria-camper-660-coral-2004/o/1812885",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812885/d9e703ea702db5c911f5473907407af0~v191230873.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Adria",
       "type": "Adria Camper 660 coral 2004",
       "price": "16400",
@@ -838,31 +881,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\ndeur voor\nvoorscherm\nachterlichten links\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "slk-200-k-200-k",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1825782/9b96d2cff89a89ba745b32ab338ab9ac~v194562032.jpg"
-    },
-    {
-      "id": "1790021",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v194408422.jpg",
-      "labels": [
-        "exportprijs€ 4.850"
-      ],
-      "title": "Ford Mondeo",
-      "type": "2.0 TDCi Titanium Automaat",
-      "price": "6550",
-      "year": "2016",
-      "fuelType": "diesel",
-      "mileage": "295274",
-      "make": "Ford",
-      "model": "Mondeo 2.0 TDCi Titanium Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "4850",
-      "engineSize": "1997 CC",
-      "power": "110 kW",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "mondeo-20-tdci-titanium-automaat-20-tdci-titanium-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1790021/c2d9bb67fe9eab44ea79b757a444d36b~v194408422.jpg"
     },
     {
       "id": "1797848",
@@ -1868,30 +1886,6 @@
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "clio-09-tce-limited-09-tce-limited-1772251",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1772251/10ccc0a17f5a5a1104cf644453e0f9c4~v178665088.jpg"
-    },
-    {
-      "id": "1735146",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
-      "labels": [
-        "exportprijs€ 5.100"
-      ],
-      "title": "Renault Scenic",
-      "type": "1.3 TCe Initiale Paris Automaat",
-      "price": "6600",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "194684",
-      "make": "Renault",
-      "model": "Scenic 1.3 TCe Initiale Paris Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "5100",
-      "engineSize": "1332 CC",
-      "power": "159 pk",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorschade\nvoorscherm\nachterklep\nbumper\nairbags voor stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "scenic-13-tce-initiale-paris-automaat-13-tce-initiale-paris-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735146/0a4b748f55e0fa5e7c2132125a99bee0~v168250157.jpg"
     },
     {
       "id": "1672051",
