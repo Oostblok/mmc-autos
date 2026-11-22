@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-21T09:18:15.773Z",
+  "updated": "2026-11-22T09:27:01.582Z",
   "cars": [
+    {
+      "id": "1696861",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Mini Cooper S",
+      "type": "1.6 Chili",
+      "price": "2900",
+      "year": "2006",
+      "fuelType": "benzine",
+      "mileage": "182044",
+      "make": "Mini",
+      "model": "Cooper S 1.6 Chili",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1598 CC",
+      "power": "163 pk",
+      "color": "blauw",
+      "bodyType": "hatchback",
+      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cooper-s-16-chili-16-chili",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg"
+    },
+    {
+      "id": "1702078",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Astra",
+      "type": "SPORTS TOURER 1.4 Online Edition",
+      "price": "2250",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "134981",
+      "make": "Opel",
+      "model": "Astra SPORTS TOURER 1.4 Online Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1399 CC",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg"
+    },
+    {
+      "id": "1788042",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Peugeot 208",
+      "type": "1.2i",
+      "price": "5550",
+      "year": "2020",
+      "fuelType": "benzine",
+      "mileage": "49177",
+      "make": "Peugeot",
+      "model": "208 1.2i",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "power": "74 kW",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nvoorschade\nachterklep\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "208-12i-12i",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
+    },
+    {
+      "id": "1728559",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 6.350"
+      ],
+      "title": "Opel Zafira",
+      "type": "TOURER 1.4 Turbo Business Executive Automaat",
+      "price": "7950",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "99225",
+      "make": "Opel",
+      "model": "Zafira TOURER 1.4 Turbo Business Executive Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "6350",
+      "engineSize": "1364 CC",
+      "color": "grijs",
+      "damage": "bumper\nkoplamp links\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "zafira-tourer-14-turbo-business-executive-automaat-tourer-14-turbo-business-executive-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1728559/afdabfa29fa3527686caa9e379d6158e~v165460227.jpg"
+    },
+    {
+      "id": "1814346",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-0t-essence/o/1814346",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1814346/b5c948b788c6f8b8e28f610d0b596032~v191627351.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.950"
+      ],
+      "title": "Hyundai Kona",
+      "type": "1.0T Essence",
+      "price": "4950",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "248752",
+      "make": "Hyundai",
+      "model": "Kona 1.0T Essence",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3950",
+      "engineSize": "998 CC",
+      "power": "88 kW",
+      "color": "blauw",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "kona-10t-essence-10t-essence",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814346/4c3084649a2c526c97b1042cffd2167f~v191627351.jpg"
+    },
     {
       "id": "1735146",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
@@ -208,7 +329,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-3-0-v6-premium-luxury-automaat/o/1698872",
       "image": "https://www.schadeautos.nl/cache/picture/15/1698872/365a996c0bb18f4d4458c3cf6a9dd46b~v156987824.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.250"
       ],
       "title": "Jaguar XF",
@@ -233,9 +353,7 @@
       "id": "1372469",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xkr-4-0-v8-coupe/o/1372469",
       "image": "https://www.schadeautos.nl/cache/picture/15/1372469/56d23ba6d3e1360a1858cf82d27c641d~v49751784.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Jaguar Xkr",
       "type": "4.0 V8  COUPE",
       "price": "4950",
@@ -255,9 +373,7 @@
       "id": "1812883",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-clk-cabrio-240-elegance-automaat/o/1812883",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812883/0681332bfe1074bd3df5ce4abfbaac78~v191229554.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mercedes CLK",
       "type": "Cabrio 240 Elegance Automaat",
       "price": "3500",
@@ -279,9 +395,7 @@
       "id": "1815241",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Renault Mégane",
       "type": "1.2 TCe Série Signature Exclusiv Automaat",
       "price": "5800",
@@ -615,18 +729,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
       "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
       "labels": [
-        "exportprijs€ 2.438"
+        "verkocht"
       ],
       "title": "Volvo S‑60",
       "type": "2.0 D2  POLAR+ DYNAMIC",
-      "price": "4144",
       "year": "2017",
       "fuelType": "diesel",
       "mileage": "141673",
       "make": "Volvo",
       "model": "S-60 2.0 D2 POLAR+ DYNAMIC",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2438",
       "power": "88 kW",
       "color": "grijs",
       "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
@@ -677,58 +789,14 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
     },
     {
-      "id": "1826047",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008-1-2-puretech-allure-7-persoons/o/1826047",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1826047/bf03b95bc0f7d76df6eb94241b23f23a~v194589815.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Peugeot 5008",
-      "type": "1.2 PureTech Allure 7 persoons",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "208733",
-      "make": "Peugeot",
-      "model": "5008 1.2 PureTech Allure 7 persoons",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "96 kW",
-      "color": "wit",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "5008-12-puretech-allure-7-persoons-12-puretech-allure-7-persoons",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1826047/3236411ed07217026c83c67e012b5867~v194589815.jpg"
-    },
-    {
-      "id": "1826046",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-2-tekna-automaat/o/1826046",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1826046/4cb6f1c0e5c927bc097bb8602082ca08~v194589287.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Nissan Qashqai",
-      "type": "1.2 Tekna Automaat",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "97982",
-      "make": "Nissan",
-      "model": "Qashqai 1.2 Tekna Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1197 CC",
-      "color": "wit",
-      "bodyType": "mpv",
-      "damage": "bumper\nmotorkap\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "qashqai-12-tekna-automaat-12-tekna-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1826046/97a26fd1152f28cbcd0df89d956963d7~v194589287.jpg"
-    },
-    {
       "id": "1826043",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x-pure/o/1826043",
       "image": "https://www.schadeautos.nl/cache/picture/15/1826043/30aaa542c982c2f48ead7ef3b36bd524~v194588411.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Toyota Aygo",
       "type": "1.0 VVT-i x-pure",
-      "price": "4750",
       "year": "2015",
       "fuelType": "benzine",
       "mileage": "105874",
@@ -1170,27 +1238,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819261/6e1b46129c97d8ad759eae01ccaf965c~v193013478.jpg"
     },
     {
-      "id": "1702078",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
-      "labels": [],
-      "title": "Opel Astra",
-      "type": "SPORTS TOURER 1.4 Online Edition",
-      "price": "2500",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "134981",
-      "make": "Opel",
-      "model": "Astra SPORTS TOURER 1.4 Online Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1399 CC",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nachterklep\nachterlichten\nachterruit\nachterschade\nbumper\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "astra-sports-tourer-14-online-edition-sports-tourer-14-online-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1702078/54dd7258a33ece61f1962fb25d2c3a5a~v158036427.jpg"
-    },
-    {
       "id": "1791697",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-spark-1-2-16v-ltz/o/1791697",
       "image": "https://www.schadeautos.nl/cache/picture/15/1791697/440a012070c98e513de6622b9da83641~v184573033.jpg",
@@ -1307,20 +1354,18 @@
     {
       "id": "1787273",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1787273/d5f45ec7d04a85b169e86caa2e9e55e0~v183111783.jpg",
       "labels": [
-        "exportprijs€ 4.550"
+        "verkocht"
       ],
       "title": "Renault Clio",
       "type": "0.9 TCe Limited",
-      "price": "4950",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "66437",
       "make": "Renault",
       "model": "Clio 0.9 TCe Limited",
       "gearbox": "handgeschakeld",
-      "exportPrice": "4550",
       "engineSize": "898 CC",
       "power": "90 pk",
       "color": "grijs",
@@ -1350,53 +1395,6 @@
       "damage": "achterscherm\ndeur achter\ndorpel\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "panda-12-edizione-cool-12-edizione-cool",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815271/5fa1ae2c2db8438b17c7c71be2078d3f~v191892123.jpg"
-    },
-    {
-      "id": "1814346",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-0t-essence/o/1814346",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1814346/b5c948b788c6f8b8e28f610d0b596032~v191627351.jpg",
-      "labels": [
-        "exportprijs€ 3.950"
-      ],
-      "title": "Hyundai Kona",
-      "type": "1.0T Essence",
-      "price": "4950",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "248752",
-      "make": "Hyundai",
-      "model": "Kona 1.0T Essence",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3950",
-      "engineSize": "998 CC",
-      "power": "88 kW",
-      "color": "blauw",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "kona-10t-essence-10t-essence",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1814346/4c3084649a2c526c97b1042cffd2167f~v191627351.jpg"
-    },
-    {
-      "id": "1788042",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
-      "labels": [],
-      "title": "Peugeot 208",
-      "type": "1.2i",
-      "price": "5750",
-      "year": "2020",
-      "fuelType": "benzine",
-      "mileage": "49177",
-      "make": "Peugeot",
-      "model": "208 1.2i",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "power": "74 kW",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nvoorschade\nachterklep\nachterschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "208-12i-12i",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1788042/80db64ab94d5a77b59bc1da9aad2523b~v183426461.jpg"
     },
     {
       "id": "1767683",
@@ -1628,74 +1626,6 @@
       "damage": "motorschade\ngebruikssporen\nparkeerschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
       "slug": "transit-custom-dubbel-cabine-290-22-tdci-l2h1-trend-dc-dubbel-cabine-290-22-tdci-l2h1-trend-dc",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800037/7ed1bbce3cb3121f3af48d0b23506af8~v187584398.jpg"
-    },
-    {
-      "id": "1801658",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-prestige/o/1801658",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1801658/80e128a009247462255411a166f94084~v187935441.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Mercedes A‑klasse",
-      "type": "180 Prestige",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "206765",
-      "make": "Mercedes",
-      "model": "A-klasse 180 Prestige",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1595 CC",
-      "power": "122 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "motorschade\nparkeerschade achter\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "a-klasse-180-prestige-180-prestige",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1801658/18a64a36b37e2d0c966b965c3457a55d~v187935441.jpg"
-    },
-    {
-      "id": "1728559",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
-      "labels": [
-        "exportprijs€ 6.350"
-      ],
-      "title": "Opel Zafira",
-      "type": "TOURER 1.4 Turbo Business Executive Automaat",
-      "price": "7950",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "99225",
-      "make": "Opel",
-      "model": "Zafira TOURER 1.4 Turbo Business Executive Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "6350",
-      "engineSize": "1364 CC",
-      "color": "grijs",
-      "damage": "bumper\nkoplamp links\nmotorkap\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "zafira-tourer-14-turbo-business-executive-automaat-tourer-14-turbo-business-executive-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1728559/afdabfa29fa3527686caa9e379d6158e~v165460227.jpg"
-    },
-    {
-      "id": "1696861",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
-      "labels": [],
-      "title": "Mini Cooper S",
-      "type": "1.6 Chili",
-      "price": "2900",
-      "year": "2006",
-      "fuelType": "benzine",
-      "mileage": "182044",
-      "make": "Mini",
-      "model": "Cooper S 1.6 Chili",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1598 CC",
-      "power": "163 pk",
-      "color": "blauw",
-      "bodyType": "hatchback",
-      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cooper-s-16-chili-16-chili",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1696861/b8d3b4ae564f023fd7c8a77242a0c844~v156394201.jpg"
     },
     {
       "id": "1695009",
@@ -2115,7 +2045,7 @@
     {
       "id": "1735149",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
+      "image": "https://www.schadeautos.nl/picture/15/o/1735149/a7676b803640073618d926251592b205~v168257361.jpg",
       "labels": [
         "exportprijs€ 4.150"
       ],
