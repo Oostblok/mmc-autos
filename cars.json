@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T09:27:01.582Z",
+  "updated": "2026-11-23T10:24:00.908Z",
   "cars": [
     {
       "id": "1696861",
@@ -178,7 +178,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-blue-lion/o/1819241",
       "image": "https://www.schadeautos.nl/cache/picture/15/1819241/62a7a88066c4521fcd000d39de0ef346~v193012497.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.400"
       ],
       "title": "Peugeot 2008",
@@ -204,7 +203,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-eco-night-day/o/1794184",
       "image": "https://www.schadeautos.nl/cache/picture/15/1794184/cb7f02eab75a29f8bf3d86b2e96c1bda~v185490995.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.750"
       ],
       "title": "Renault Clio",
@@ -229,7 +227,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-5-dci-collection-schadevrij/o/1812881",
       "image": "https://www.schadeautos.nl/cache/picture/15/1812881/7277dabf6bd38693bb923aea63802f8f~v191228116.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.850"
       ],
       "title": "Renault Mégane",
@@ -254,7 +251,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-2-tce-gt-line/o/1817607",
       "image": "https://www.schadeautos.nl/cache/picture/15/1817607/7304a696a5457eddc6181e32c755bbd2~v192499181.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.690"
       ],
       "title": "Renault Mégane",
@@ -279,7 +275,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-drive/o/1809185",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809185/6fc514ec47d3c108f59a239381172d28~v190180853.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.450"
       ],
       "title": "Skoda Fabia",
@@ -304,7 +299,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-active-tourer-218i-executive/o/1822426",
       "image": "https://www.schadeautos.nl/cache/picture/15/1822426/7195faada4091d6c8158e74e2de6dc03~v193788086.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.500"
       ],
       "title": "BMW 2‑serie",
@@ -1354,7 +1348,7 @@
     {
       "id": "1787273",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
-      "image": "https://www.schadeautos.nl/picture/15/o/1787273/d5f45ec7d04a85b169e86caa2e9e55e0~v183111783.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
       "labels": [
         "verkocht"
       ],
@@ -2045,7 +2039,7 @@
     {
       "id": "1735149",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
-      "image": "https://www.schadeautos.nl/picture/15/o/1735149/a7676b803640073618d926251592b205~v168257361.jpg",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
       "labels": [
         "exportprijs€ 4.150"
       ],
