@@ -1,13 +1,223 @@
 {
-  "updated": "2026-11-23T10:24:00.908Z",
+  "updated": "2026-11-24T12:05:30.753Z",
   "cars": [
+    {
+      "id": "1735149",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 3.850"
+      ],
+      "title": "Ford Tourneo Courier",
+      "type": "1.0 Titanium",
+      "price": "3950",
+      "year": "2015",
+      "fuelType": "benzine",
+      "mileage": "114386",
+      "make": "Ford",
+      "model": "Tourneo Courier 1.0 Titanium",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "3850",
+      "engineSize": "998 CC",
+      "color": "rood",
+      "damage": "bumper\nbumper\nonderschade\nparkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "tourneo-courier-10-titanium-10-titanium",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735149/123de9d1f1c57fc00965da68537e54e3~v168257361.jpg"
+    },
+    {
+      "id": "1807354",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ix35-1-6i-gdi-i-magine/o/1807354",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1807354/66d904d0d4295c084ea02743465efa25~v189653061.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Hyundai Ix35",
+      "type": "1.6i GDI i-Magine",
+      "year": "2013",
+      "fuelType": "benzine",
+      "mileage": "281493",
+      "make": "Hyundai",
+      "model": "Ix35 1.6i GDI i-Magine",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1591 CC",
+      "power": "99 kW",
+      "color": "zwart",
+      "bodyType": "mpv",
+      "damage": "bumper\ndeur achter\ndeur voor\ndorpel\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "ix35-16i-gdi-i-magine-16i-gdi-i-magine",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1807354/71eb2cbc902bf2e152a71978177d1987~v189653061.jpg"
+    },
+    {
+      "id": "1800037",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-dubbel-cabine-290-2-2-tdci-l2h1-trend-dc/o/1800037",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Custom",
+      "type": "DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
+      "price": "5450",
+      "year": "2014",
+      "fuelType": "diesel",
+      "mileage": "161587",
+      "make": "Ford",
+      "model": "Transit Custom DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
+      "gearbox": "handgeschakeld",
+      "engineSize": "2198 CC",
+      "power": "125 pk",
+      "color": "zwart",
+      "damage": "motorschade\ngebruikssporen\nparkeerschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
+      "slug": "transit-custom-dubbel-cabine-290-22-tdci-l2h1-trend-dc-dubbel-cabine-290-22-tdci-l2h1-trend-dc",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800037/7ed1bbce3cb3121f3af48d0b23506af8~v187584398.jpg"
+    },
+    {
+      "id": "1797848",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Ford Transit Custom",
+      "type": "270 2.0 TDCI L1H1 Economy Edition",
+      "price": "3850",
+      "year": "2018",
+      "fuelType": "diesel",
+      "mileage": "117120",
+      "make": "Ford",
+      "model": "Transit Custom 270 2.0 TDCI L1H1 Economy Edition",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1995 CC",
+      "power": "77 kW",
+      "color": "wit",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\nstuurairbag stuk\ngebruikssporen\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
+      "slug": "transit-custom-270-20-tdci-l1h1-economy-edition-270-20-tdci-l1h1-economy-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797848/085e0d0e5ad0b543e6e65889a707047c~v186993944.jpg"
+    },
+    {
+      "id": "1773286",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Crossland",
+      "type": "X 1.2 Turbo Innovation",
+      "price": "3850",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "57707",
+      "make": "Opel",
+      "model": "Crossland X 1.2 Turbo Innovation",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1199 CC",
+      "color": "grijs",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
+      "slug": "crossland-x-12-turbo-innovation-x-12-turbo-innovation",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1773286/8bcec28f12097228efd774c3ae7be6c8~v179177288.jpg"
+    },
+    {
+      "id": "1829136",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-camry-essence-automaat/o/1829136",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1829136/2c81c58c3b2a49c00ee53332c5259d1e~v195463532.jpg",
+      "labels": [
+        "verkocht"
+      ],
+      "title": "Toyota Camry",
+      "type": "Essence Automaat",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "124979",
+      "make": "Toyota",
+      "model": "Camry Essence Automaat",
+      "gearbox": "automaat",
+      "engineSize": "2494 CC",
+      "color": "wit",
+      "bodyType": "sedan",
+      "damage": "achterscherm\ndeur achter\nvoorscherm\ndakairbag stuk\nstoelairbag links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "camry-essence-automaat-essence-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1829136/4561fdc31652212f9ba5e140c3618d28~v195463532.jpg"
+    },
+    {
+      "id": "1829134",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-edition-automaat/o/1829134",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1829134/2bd3e75389f6b7f132f4a46f491bd41a~v195462702.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Corsa",
+      "type": "1.2 Edition Automaat",
+      "price": "5750",
+      "year": "2023",
+      "fuelType": "benzine",
+      "mileage": "44799",
+      "make": "Opel",
+      "model": "Corsa 1.2 Edition Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1199 CC",
+      "power": "75 kW",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "achterscherm\ndeur achter\nachterlichten rechts\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "corsa-12-edition-automaat-12-edition-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1829134/1b2d7f078fa1e2c9835096a761da8f35~v195462702.jpg"
+    },
+    {
+      "id": "1829131",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-wagon-1-7-crdi-business-edition/o/1829131",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1829131/3a15381ef0393dddd50b5aac079deef6~v195462190.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.300"
+      ],
+      "title": "Hyundai I‑40",
+      "type": "Wagon 1.7 CRDi Business Edition",
+      "price": "5200",
+      "year": "2015",
+      "fuelType": "diesel",
+      "mileage": "265413",
+      "make": "Hyundai",
+      "model": "I-40 Wagon 1.7 CRDi Business Edition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "4300",
+      "engineSize": "1685 CC",
+      "power": "85 kW",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\ndeur achter\nbumper\ngebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "i-40-wagon-17-crdi-business-edition-wagon-17-crdi-business-edition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1829131/0849ca3c2dc105ff147b51cd86b914ea~v195462190.jpg"
+    },
+    {
+      "id": "1829129",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3-dig-t-tekna-automaat/o/1829129",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1829129/69f50d60cdaa06e9b054db528c045c07~v195461841.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Nissan Qashqai",
+      "type": "1.3 DIG-T Tekna + , Automaat",
+      "price": "8950",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "137896",
+      "make": "Nissan",
+      "model": "Qashqai 1.3 DIG-T Tekna + , Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1332 CC",
+      "power": "117 kW",
+      "color": "blauw",
+      "bodyType": "mpv",
+      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nvoorscherm\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "qashqai-13-dig-t-tekna-automaat-13-dig-t-tekna-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1829129/0972251595971c207dc4cdd54adeec5d~v195461841.jpg"
+    },
     {
       "id": "1696861",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-1-6-chili/o/1696861",
       "image": "https://www.schadeautos.nl/cache/picture/15/1696861/975634ed6104d92bd8a839f5ab99eed2~v156394201.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Mini Cooper S",
       "type": "1.6 Chili",
       "price": "2900",
@@ -29,9 +239,7 @@
       "id": "1702078",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-4-online-edition/o/1702078",
       "image": "https://www.schadeautos.nl/cache/picture/15/1702078/d1101693153d335d78b4eb6c8bea02d2~v158036427.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Astra",
       "type": "SPORTS TOURER 1.4 Online Edition",
       "price": "2250",
@@ -52,9 +260,7 @@
       "id": "1788042",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2i/o/1788042",
       "image": "https://www.schadeautos.nl/cache/picture/15/1788042/1472038657666481aeb9a37175b5fe6d~v183426461.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Peugeot 208",
       "type": "1.2i",
       "price": "5550",
@@ -77,7 +283,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-zafira-tourer-1-4-turbo-business-executive-automaat/o/1728559",
       "image": "https://www.schadeautos.nl/cache/picture/15/1728559/8295523c50e49b2335e91cec215a0f1f~v165460227.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 6.350"
       ],
       "title": "Opel Zafira",
@@ -101,7 +306,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-0t-essence/o/1814346",
       "image": "https://www.schadeautos.nl/cache/picture/15/1814346/b5c948b788c6f8b8e28f610d0b596032~v191627351.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.950"
       ],
       "title": "Hyundai Kona",
@@ -127,7 +331,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-1-3-tce-initiale-paris-automaat/o/1735146",
       "image": "https://www.schadeautos.nl/cache/picture/15/1735146/7734bd76d9850116e42f660122293983~v168250157.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 5.100"
       ],
       "title": "Renault Scenic",
@@ -152,7 +355,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-mondeo-2-0-tdci-titanium-automaat/o/1790021",
       "image": "https://www.schadeautos.nl/cache/picture/15/1790021/fc2bf97cf74799c151bbef5bddcfd7ad~v194408422.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.850"
       ],
       "title": "Ford Mondeo",
@@ -945,27 +1147,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1825782/9b96d2cff89a89ba745b32ab338ab9ac~v194562032.jpg"
     },
     {
-      "id": "1797848",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
-      "labels": [],
-      "title": "Ford Transit Custom",
-      "type": "270 2.0 TDCI L1H1 Economy Edition",
-      "price": "3950",
-      "year": "2018",
-      "fuelType": "diesel",
-      "mileage": "117120",
-      "make": "Ford",
-      "model": "Transit Custom 270 2.0 TDCI L1H1 Economy Edition",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1995 CC",
-      "power": "77 kW",
-      "color": "wit",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\nstuurairbag stuk\ngebruikssporen\nbestelwagen is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
-      "slug": "transit-custom-270-20-tdci-l1h1-economy-edition-270-20-tdci-l1h1-economy-edition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1797848/085e0d0e5ad0b543e6e65889a707047c~v186993944.jpg"
-    },
-    {
       "id": "1815378",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/volkswagen-crafter-buurtbus-automaat/o/1815378",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815378/08d895680349307065c8f16d5482047c~v191898919.jpg",
@@ -1096,18 +1277,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-shine/o/1809158",
       "image": "https://www.schadeautos.nl/cache/picture/15/1809158/a15db9a18285f4250a9f578ce90e29bb~v190177879.jpg",
       "labels": [
-        "exportprijs€ 1.450"
+        "verkocht"
       ],
       "title": "Citroën C3",
       "type": "1.2 PureTech Shine",
-      "price": "1950",
       "year": "2018",
       "fuelType": "benzine",
       "mileage": "92454",
       "make": "Citroën",
       "model": "C3 1.2 PureTech Shine",
       "gearbox": "handgeschakeld",
-      "exportPrice": "1450",
       "engineSize": "1199 CC",
       "color": "grijs",
       "bodyType": "hatchback",
@@ -1415,10 +1594,11 @@
       "id": "1768845",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-connect-automaat-1-5-ecoblue-l2-trend-lichte-schade-plekje/o/1768845",
       "image": "https://www.schadeautos.nl/cache/picture/15/1768845/7210ea50b159cdf256e2fc324569c855~v194408495.jpg",
-      "labels": [],
+      "labels": [
+        "verkocht"
+      ],
       "title": "Ford Transit Connect",
       "type": "Automaat 1.5 EcoBlue L2 Trend lichte schade plekje",
-      "price": "6650",
       "year": "2020",
       "fuelType": "diesel",
       "mileage": "176823",
@@ -1552,31 +1732,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1793204/d95886936e85101d1a2701207a0cbf5c~v185170702.jpg"
     },
     {
-      "id": "1807354",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ix35-1-6i-gdi-i-magine/o/1807354",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1807354/66d904d0d4295c084ea02743465efa25~v189653061.jpg",
-      "labels": [
-        "exportprijs€ 2.950"
-      ],
-      "title": "Hyundai Ix35",
-      "type": "1.6i GDI i-Magine",
-      "price": "3600",
-      "year": "2013",
-      "fuelType": "benzine",
-      "mileage": "281493",
-      "make": "Hyundai",
-      "model": "Ix35 1.6i GDI i-Magine",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "2950",
-      "engineSize": "1591 CC",
-      "power": "99 kW",
-      "color": "zwart",
-      "bodyType": "mpv",
-      "damage": "bumper\ndeur achter\ndeur voor\ndorpel\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "ix35-16i-gdi-i-magine-16i-gdi-i-magine",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1807354/71eb2cbc902bf2e152a71978177d1987~v189653061.jpg"
-    },
-    {
       "id": "1804792",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-business/o/1804792",
       "image": "https://www.schadeautos.nl/cache/picture/15/1804792/f8851a94a34ea01dbef77974042d78d7~v188894979.jpg",
@@ -1599,27 +1754,6 @@
       "damage": "bumper\nkoplamp links\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "focus-10-ecoboost-hybrid-st-line-business-10-ecoboost-hybrid-st-line-business",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1804792/85fbf6cfceff954dcc9d20b4e76d340f~v188894979.jpg"
-    },
-    {
-      "id": "1800037",
-      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-dubbel-cabine-290-2-2-tdci-l2h1-trend-dc/o/1800037",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
-      "labels": [],
-      "title": "Ford Transit Custom",
-      "type": "DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
-      "price": "5950",
-      "year": "2014",
-      "fuelType": "diesel",
-      "mileage": "161587",
-      "make": "Ford",
-      "model": "Transit Custom DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
-      "gearbox": "handgeschakeld",
-      "engineSize": "2198 CC",
-      "power": "125 pk",
-      "color": "zwart",
-      "damage": "motorschade\ngebruikssporen\nparkeerschade\nalle airbags oké\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "transit-custom-dubbel-cabine-290-22-tdci-l2h1-trend-dc-dubbel-cabine-290-22-tdci-l2h1-trend-dc",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1800037/7ed1bbce3cb3121f3af48d0b23506af8~v187584398.jpg"
     },
     {
       "id": "1695009",
@@ -1675,18 +1809,16 @@
       "link": "https://www.schadeautos.nl/nl/occasion/personenautos/skoda-yeti-1-2-tsi-comfort/o/1793195",
       "image": "https://www.schadeautos.nl/cache/picture/15/1793195/e52d2efb2d80e492143ddab888847a51~v185168947.jpg",
       "labels": [
-        "exportprijs€ 2.450"
+        "verkocht"
       ],
       "title": "Skoda Yeti",
       "type": "1.2 TSI Comfort",
-      "price": "2650",
       "year": "2011",
       "fuelType": "benzine",
       "mileage": "283294",
       "make": "Skoda",
       "model": "Yeti 1.2 TSI Comfort",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2450",
       "engineSize": "1197 CC",
       "color": "blauw",
       "bodyType": "stationwagon",
@@ -1905,27 +2037,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1789979/3d6cf87d159c0f26e3bd7b4b8e5a3685~v184019927.jpg"
     },
     {
-      "id": "1773286",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
-      "labels": [],
-      "title": "Opel Crossland",
-      "type": "X 1.2 Turbo Innovation",
-      "price": "4150",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "57707",
-      "make": "Opel",
-      "model": "Crossland X 1.2 Turbo Innovation",
-      "gearbox": "handgeschakeld",
-      "engineSize": "1199 CC",
-      "color": "grijs",
-      "bodyType": "mpv",
-      "damage": "bumper\nkoplampen\nmotorkap\nvoorschade\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
-      "slug": "crossland-x-12-turbo-innovation-x-12-turbo-innovation",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1773286/8bcec28f12097228efd774c3ae7be6c8~v179177288.jpg"
-    },
-    {
       "id": "1656899",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-0-puretech-collection/o/1656899",
       "image": "https://www.schadeautos.nl/cache/picture/15/1656899/343dd1491ac18edfa0ec37691d41396b~v144106342.jpg",
@@ -2035,29 +2146,6 @@
       "damage": "bumper\nkoplampen\nmotorkap\nradiateur kapot\nvoorruit\nvoorschade\nvoorscherm\ngordelspanner rechts stuk\nalle airbags oké\nauto is verrijdbaar\nchassis oké\nmotor loopt\nrecht op de wielen",
       "slug": "clio-09-tce-limited-09-tce-limited-1721158",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1721158/44d6c02fbaff659e26546c80d0aef173~v163392676.jpg"
-    },
-    {
-      "id": "1735149",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
-      "labels": [
-        "exportprijs€ 4.150"
-      ],
-      "title": "Ford Tourneo Courier",
-      "type": "1.0 Titanium",
-      "price": "4250",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "114386",
-      "make": "Ford",
-      "model": "Tourneo Courier 1.0 Titanium",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "4150",
-      "engineSize": "998 CC",
-      "color": "rood",
-      "damage": "bumper\nbumper\nonderschade\nparkeerschade achter\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nrecht op de wielen",
-      "slug": "tourneo-courier-10-titanium-10-titanium",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1735149/123de9d1f1c57fc00965da68537e54e3~v168257361.jpg"
     },
     {
       "id": "1706896",
