@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:56:32.017Z",
+  "updated": "2026-11-26T10:32:08.565Z",
   "cars": [
     {
       "id": "1829486",
@@ -919,7 +919,7 @@
       "labels": [],
       "title": "Volvo V‑60",
       "type": "2.4 D5 Twin Engine R-Design Automaat Hybrid",
-      "price": "4850",
+      "price": "4750",
       "year": "2016",
       "fuelType": "hybride diesel",
       "mileage": "246118",
@@ -1106,28 +1106,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1809166/b5f1d9f92adc26904a08c3914c6f20c4~v190180016.jpg"
     },
     {
-      "id": "1826043",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvt-i-x-pure/o/1826043",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1826043/30aaa542c982c2f48ead7ef3b36bd524~v194588411.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Toyota Aygo",
-      "type": "1.0 VVT-i x-pure",
-      "year": "2015",
-      "fuelType": "benzine",
-      "mileage": "105874",
-      "make": "Toyota",
-      "model": "Aygo 1.0 VVT-i x-pure",
-      "gearbox": "handgeschakeld",
-      "engineSize": "998 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "voorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nBumperbalk\nkoplampen zijn plastic oortjes afgebroken",
-      "slug": "aygo-10-vvt-i-x-pure-10-vvt-i-x-pure",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1826043/59f6bd2672337a0fd96d3bb84f2a2ba9~v194588411.jpg"
-    },
-    {
       "id": "1826041",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-6-tdi-elegance-business-line-automaat/o/1826041",
       "image": "https://www.schadeautos.nl/cache/picture/15/1826041/640aefbed3e3af8794e763fd9b7a8daf~v194588061.jpg",
@@ -1225,18 +1203,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1825787",
       "image": "https://www.schadeautos.nl/cache/picture/15/1825787/5a1b05771c1f06abc69edc6fad85077a~v194562479.jpg",
       "labels": [
-        "exportprijs€ 2.250"
+        "verkocht"
       ],
       "title": "Ford C‑Max",
       "type": "1.0 trend",
-      "price": "2750",
       "year": "2016",
       "fuelType": "benzine",
       "mileage": "136328",
       "make": "Ford",
       "model": "C-Max 1.0 trend",
       "gearbox": "handgeschakeld",
-      "exportPrice": "2250",
       "engineSize": "999 CC",
       "power": "92 kW",
       "color": "zwart",
@@ -1646,29 +1622,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1719043/cecea72ff82375479033ae07a8a1ea85~v162784423.jpg"
     },
     {
-      "id": "1787273",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-0-9-tce-limited/o/1787273",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1787273/9d0b00488377607f7ea1a672708be63d~v183111783.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Renault Clio",
-      "type": "0.9 TCe Limited",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "66437",
-      "make": "Renault",
-      "model": "Clio 0.9 TCe Limited",
-      "gearbox": "handgeschakeld",
-      "engineSize": "898 CC",
-      "power": "90 pk",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nradiateur kapot\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nmotor loopt\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1787273/00a3197dd854c73ee03d755938f69010~v183111783.jpg"
-    },
-    {
       "id": "1815271",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda-1-2-edizione-cool/o/1815271",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815271/9ba084890fae0342c9dbf87f056910a2~v191892123.jpg",
@@ -2061,7 +2014,7 @@
       "color": "zwart",
       "bodyType": "hatchback",
       "damage": "bumper\nkoplamp links\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "clio-09-tce-limited-09-tce-limited-1772251",
+      "slug": "clio-09-tce-limited-09-tce-limited",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1772251/10ccc0a17f5a5a1104cf644453e0f9c4~v178665088.jpg"
     },
     {
