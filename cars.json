@@ -1,6 +1,221 @@
 {
-  "updated": "2026-11-26T10:32:08.565Z",
+  "updated": "2026-11-27T10:41:56.070Z",
   "cars": [
+    {
+      "id": "1706950",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Porsche Cayenne",
+      "type": "4.5 S automaat",
+      "price": "1950",
+      "year": "2003",
+      "fuelType": "benzine",
+      "mileage": "292338",
+      "make": "Porsche",
+      "model": "Cayenne 4.5 S automaat",
+      "gearbox": "automaat",
+      "engineSize": "4511 CC",
+      "power": "340 pk",
+      "color": "grijs",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "cayenne-45-s-automaat-45-s-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
+    },
+    {
+      "id": "1822559",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-rapid-1-4-tsi-greentech-elegance-businessline-dsg/o/1822559",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1822559/d39961daf693313fb8d84bcc567e191a~v193800722.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Skoda Rapid",
+      "type": "1.4 TSI Greentech Elegance Businessline DSG",
+      "price": "3500",
+      "year": "2014",
+      "fuelType": "benzine",
+      "mileage": "147063",
+      "make": "Skoda",
+      "model": "Rapid 1.4 TSI Greentech Elegance Businessline DSG",
+      "gearbox": "automaat",
+      "engineSize": "1390 CC",
+      "color": "rood",
+      "bodyType": "hatchback",
+      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "rapid-14-tsi-greentech-elegance-businessline-dsg-14-tsi-greentech-elegance-businessline-dsg",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822559/0f2696e1c4f165ee9ceed8f6616fbba1~v193800722.jpg"
+    },
+    {
+      "id": "1815241",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Renault Mégane",
+      "type": "1.2 TCe Série Signature Exclusiv Automaat",
+      "price": "5800",
+      "year": "2017",
+      "fuelType": "benzine",
+      "mileage": "109042",
+      "make": "Renault",
+      "model": "Mégane 1.2 TCe Série Signature Exclusiv Automaat",
+      "gearbox": "automaat",
+      "engineSize": "1197 CC",
+      "power": "131 pk",
+      "color": "zwart",
+      "bodyType": "hatchback",
+      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "megane-12-tce-serie-signature-exclusiv-automaat-12-tce-serie-signature-exclusiv-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815241/69f98f4a85567b737555c586df66c41d~v191887453.jpg"
+    },
+    {
+      "id": "1825798",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-allure-automaat/o/1825798",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1825798/efc20daf3c0f19a9a59c99fa448852c3~v194563283.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 4.450"
+      ],
+      "title": "Peugeot 208",
+      "type": "1.2 PureTech Allure Automaat",
+      "price": "4950",
+      "year": "2018",
+      "fuelType": "benzine",
+      "mileage": "138424",
+      "make": "Peugeot",
+      "model": "208 1.2 PureTech Allure Automaat",
+      "gearbox": "automaat",
+      "exportPrice": "4450",
+      "engineSize": "1199 CC",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "bumper\ndeur voor\ndorpel\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "208-12-puretech-allure-automaat-12-puretech-allure-automaat",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1825798/a8f73e8f728f3a65d27ebb19d3d7a485~v194563283.jpg"
+    },
+    {
+      "id": "1729069",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-astra-1-2-turbo-81kw/o/1729069",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1729069/8529445bd19b24ee2c867cf5b2884fbf~v169793948.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Astra",
+      "type": "ASTRA 1.2 turbo 81kW",
+      "price": "2950",
+      "year": "2019",
+      "fuelType": "benzine",
+      "mileage": "125377",
+      "make": "Opel",
+      "model": "Astra ASTRA 1.2 turbo 81kW",
+      "gearbox": "handgeschakeld",
+      "color": "zilver",
+      "damage": "motorschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nheeft motorschade maar start nog wel",
+      "slug": "astra-astra-12-turbo-81kw-astra-12-turbo-81kw",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1729069/bff013dd82ffb8242f892303cdc638f5~v169793948.jpg"
+    },
+    {
+      "id": "1819383",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-lease-edition-ambition/o/1819383",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1819383/15bf8df22ae90c1c62b0434c196b0fec~v193020167.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 5.150"
+      ],
+      "title": "Mercedes A‑klasse",
+      "type": "180 Lease Edition Ambition",
+      "price": "5850",
+      "year": "2016",
+      "fuelType": "benzine",
+      "mileage": "230112",
+      "make": "Mercedes",
+      "model": "A-klasse 180 Lease Edition Ambition",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "5150",
+      "engineSize": "1595 CC",
+      "power": "122 pk",
+      "color": "grijs",
+      "bodyType": "hatchback",
+      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "a-klasse-180-lease-edition-ambition-180-lease-edition-ambition",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819383/b156a42d77410784ffbcfc504b1ae55e~v193020167.jpg"
+    },
+    {
+      "id": "1817584",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d5-twin-engine-r-design-automaat-hybrid/o/1817584",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1817584/46c96f930711e108b0bb284e604b54e3~v192496401.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Volvo V‑60",
+      "type": "2.4 D5 Twin Engine R-Design Automaat Hybrid",
+      "price": "4750",
+      "year": "2016",
+      "fuelType": "hybride diesel",
+      "mileage": "246118",
+      "make": "Volvo",
+      "model": "V-60 2.4 D5 Twin Engine R-Design Automaat Hybrid",
+      "gearbox": "automaat",
+      "engineSize": "2400 CC",
+      "color": "wit",
+      "bodyType": "stationwagon",
+      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "v-60-24-d5-twin-engine-r-design-automaat-hybrid-24-d5-twin-engine-r-design-automaat-hybrid",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817584/68588429baf004a01842251739e0e7cf~v192496401.jpg"
+    },
+    {
+      "id": "1830177",
+      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-plus-1-2-tsi-trendline-bluemotion/o/1830177",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1830177/09e05eed5234c802f2a352e7b841a5ab~v195693747.jpg",
+      "labels": [
+        "nieuw",
+        "exportprijs€ 1.750"
+      ],
+      "title": "Volkswagen Golf plus",
+      "type": "1.2 TSI Trendline BlueMotion",
+      "price": "1900",
+      "year": "2011",
+      "fuelType": "benzine",
+      "mileage": "192111",
+      "make": "Volkswagen",
+      "model": "Golf plus 1.2 TSI Trendline BlueMotion",
+      "gearbox": "handgeschakeld",
+      "exportPrice": "1750",
+      "engineSize": "1197 CC",
+      "power": "77 kW",
+      "color": "wit",
+      "bodyType": "hatchback",
+      "damage": "gebruikssporen\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "golf-plus-12-tsi-trendline-bluemotion-12-tsi-trendline-bluemotion",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1830177/aa492df4aa7f72d343401b5100d8b446~v195693747.jpg"
+    },
+    {
+      "id": "1830174",
+      "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/opel-combo-1-6d-l2h1-innovation/o/1830174",
+      "image": "https://www.schadeautos.nl/cache/picture/15/1830174/34ed16beb51128bc50a091311efd06d2~v195692933.jpg",
+      "labels": [
+        "nieuw"
+      ],
+      "title": "Opel Combo",
+      "type": "1.6D L2H1 Innovation",
+      "price": "4950",
+      "year": "2019",
+      "fuelType": "diesel",
+      "mileage": "258638",
+      "make": "Opel",
+      "model": "Combo 1.6D L2H1 Innovation",
+      "gearbox": "handgeschakeld",
+      "engineSize": "1560 CC",
+      "power": "73 kW",
+      "color": "wit",
+      "damage": "achterscherm\ndeur voor\ndorpel\nalle airbags oké\nbestelwagen is verrijdbaar\nbestelwagen kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
+      "slug": "combo-16d-l2h1-innovation-16d-l2h1-innovation",
+      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1830174/89a6c065fd67d950095844474f488ea2~v195692933.jpg"
+    },
     {
       "id": "1829486",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-0-gt-m-4wd-automaat/o/1829486",
@@ -150,7 +365,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-1-0-titanium/o/1735149",
       "image": "https://www.schadeautos.nl/cache/picture/15/1735149/5ca7083b940241e245d8ccdd8ca44f64~v168257361.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 3.850"
       ],
       "title": "Ford Tourneo Courier",
@@ -196,9 +410,7 @@
       "id": "1800037",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-dubbel-cabine-290-2-2-tdci-l2h1-trend-dc/o/1800037",
       "image": "https://www.schadeautos.nl/cache/picture/15/1800037/2ff6e99fc2a48a0f45b0769a2a00cc30~v187584398.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "DUBBEL CABINE 290 2.2 TDCI L2H1 Trend DC",
       "price": "5450",
@@ -219,9 +431,7 @@
       "id": "1797848",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-custom-270-2-0-tdci-l1h1-economy-edition/o/1797848",
       "image": "https://www.schadeautos.nl/cache/picture/15/1797848/bf9c1518bca7674960e2069d86b89689~v186993944.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Custom",
       "type": "270 2.0 TDCI L1H1 Economy Edition",
       "price": "3850",
@@ -242,9 +452,7 @@
       "id": "1773286",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-1-2-turbo-innovation/o/1773286",
       "image": "https://www.schadeautos.nl/cache/picture/15/1773286/86d9da243da89535907aaae849949e50~v179177288.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Crossland",
       "type": "X 1.2 Turbo Innovation",
       "price": "3850",
@@ -287,9 +495,7 @@
       "id": "1829134",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-edition-automaat/o/1829134",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829134/2bd3e75389f6b7f132f4a46f491bd41a~v195462702.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Opel Corsa",
       "type": "1.2 Edition Automaat",
       "price": "5750",
@@ -312,7 +518,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-40-wagon-1-7-crdi-business-edition/o/1829131",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829131/3a15381ef0393dddd50b5aac079deef6~v195462190.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 4.300"
       ],
       "title": "Hyundai I‑40",
@@ -337,9 +542,7 @@
       "id": "1829129",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3-dig-t-tekna-automaat/o/1829129",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829129/69f50d60cdaa06e9b054db528c045c07~v195461841.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Nissan Qashqai",
       "type": "1.3 DIG-T Tekna + , Automaat",
       "price": "8950",
@@ -732,28 +935,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812883/a9a789aaee8e82eaeba8fea53ea7e1c6~v191229554.jpg"
     },
     {
-      "id": "1815241",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-2-tce-serie-signature-exclusiv-automaat/o/1815241",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1815241/976e948e1ba1b2c2bcaaaf4dad3ae3df~v191887453.jpg",
-      "labels": [],
-      "title": "Renault Mégane",
-      "type": "1.2 TCe Série Signature Exclusiv Automaat",
-      "price": "5800",
-      "year": "2017",
-      "fuelType": "benzine",
-      "mileage": "109042",
-      "make": "Renault",
-      "model": "Mégane 1.2 TCe Série Signature Exclusiv Automaat",
-      "gearbox": "automaat",
-      "engineSize": "1197 CC",
-      "power": "131 pk",
-      "color": "zwart",
-      "bodyType": "hatchback",
-      "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorschade\nvoorscherm\nairbags voor stuk\ngordelspanner links stuk\ngordelspanner rechts stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "megane-12-tce-serie-signature-exclusiv-automaat-12-tce-serie-signature-exclusiv-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815241/69f98f4a85567b737555c586df66c41d~v191887453.jpg"
-    },
-    {
       "id": "1755080",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-grand-scenic-1-2-tce-r-cinema/o/1755080",
       "image": "https://www.schadeautos.nl/cache/picture/15/1755080/c23ea8807a60c8eb79c0a58f620bf826~v173672804.jpg",
@@ -891,49 +1072,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1812885/305e2d225dd601d873f35c081ad2e6ba~v191230873.jpg"
     },
     {
-      "id": "1706950",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-4-5-s-automaat/o/1706950",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1706950/21a4f79e1aea6d5edd4ba1905148c1c6~v159501820.jpg",
-      "labels": [],
-      "title": "Porsche Cayenne",
-      "type": "4.5 S automaat",
-      "price": "2200",
-      "year": "2003",
-      "fuelType": "benzine",
-      "mileage": "292338",
-      "make": "Porsche",
-      "model": "Cayenne 4.5 S automaat",
-      "gearbox": "automaat",
-      "engineSize": "4511 CC",
-      "power": "340 pk",
-      "color": "grijs",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nvoorscherm\nalle airbags oké\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "cayenne-45-s-automaat-45-s-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1706950/207703d02d50721b455d5568bcace6db~v159501820.jpg"
-    },
-    {
-      "id": "1817584",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-4-d5-twin-engine-r-design-automaat-hybrid/o/1817584",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1817584/46c96f930711e108b0bb284e604b54e3~v192496401.jpg",
-      "labels": [],
-      "title": "Volvo V‑60",
-      "type": "2.4 D5 Twin Engine R-Design Automaat Hybrid",
-      "price": "4750",
-      "year": "2016",
-      "fuelType": "hybride diesel",
-      "mileage": "246118",
-      "make": "Volvo",
-      "model": "V-60 2.4 D5 Twin Engine R-Design Automaat Hybrid",
-      "gearbox": "automaat",
-      "engineSize": "2400 CC",
-      "color": "wit",
-      "bodyType": "stationwagon",
-      "damage": "bumper\nkoplamp links\nmotorkap\nvoorruit\nbumper\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "v-60-24-d5-twin-engine-r-design-automaat-hybrid-24-d5-twin-engine-r-design-automaat-hybrid",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1817584/68588429baf004a01842251739e0e7cf~v192496401.jpg"
-    },
-    {
       "id": "1815370",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-4-hybrid-business-mode/o/1815370",
       "image": "https://www.schadeautos.nl/cache/picture/15/1815370/9fad82be2d875fcfc40eb0f3781c057e~v191895098.jpg",
@@ -1040,27 +1178,6 @@
       "damage": "alle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "3-serie-318i-high-executive-schadevrij-318i-high-executive-schadevrij",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1826044/dc535246796fab70a24b70283ff9ff29~v194588740.jpg"
-    },
-    {
-      "id": "1352628",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-60-2-0-d2-polar-dynamic/o/1352628",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1352628/c9cfa9a45f4bfe0cafd61cf53016ccb9~v42433457.jpg",
-      "labels": [
-        "verkocht"
-      ],
-      "title": "Volvo S‑60",
-      "type": "2.0 D2  POLAR+ DYNAMIC",
-      "year": "2017",
-      "fuelType": "diesel",
-      "mileage": "141673",
-      "make": "Volvo",
-      "model": "S-60 2.0 D2 POLAR+ DYNAMIC",
-      "gearbox": "handgeschakeld",
-      "power": "88 kW",
-      "color": "grijs",
-      "damage": "linkerschade\nrechterschade\nalle airbags stuk\nauto is verrijdbaar\ncoolers oké",
-      "slug": "s-60-20-d2-polar-dynamic-20-d2-polar-dynamic",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1352628/03f734a403fc5ea65e55ae9977f5128a~v42433457.jpg"
     },
     {
       "id": "1826122",
@@ -1175,30 +1292,6 @@
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1825823/9a07798aedc0db1d5a0ece9eaaf1ef90~v194564256.jpg"
     },
     {
-      "id": "1825798",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-allure-automaat/o/1825798",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1825798/efc20daf3c0f19a9a59c99fa448852c3~v194563283.jpg",
-      "labels": [
-        "exportprijs€ 4.450"
-      ],
-      "title": "Peugeot 208",
-      "type": "1.2 PureTech Allure Automaat",
-      "price": "4950",
-      "year": "2018",
-      "fuelType": "benzine",
-      "mileage": "138424",
-      "make": "Peugeot",
-      "model": "208 1.2 PureTech Allure Automaat",
-      "gearbox": "automaat",
-      "exportPrice": "4450",
-      "engineSize": "1199 CC",
-      "color": "wit",
-      "bodyType": "hatchback",
-      "damage": "bumper\ndeur voor\ndorpel\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "208-12-puretech-allure-automaat-12-puretech-allure-automaat",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1825798/a8f73e8f728f3a65d27ebb19d3d7a485~v194563283.jpg"
-    },
-    {
       "id": "1825787",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-c-max-1-0-trend/o/1825787",
       "image": "https://www.schadeautos.nl/cache/picture/15/1825787/5a1b05771c1f06abc69edc6fad85077a~v194562479.jpg",
@@ -1263,27 +1356,6 @@
       "damage": "bumper\nkoplamp rechts\nmotorkap\nvoorruit\nvoorscherm\nwielophanging rechts\nalle airbags oké\nbestelwagen is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "crafter-buurtbus-automaat-buurtbus-automaat",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1815378/f89ab97857e8ddf462795ae0527b0889~v191898919.jpg"
-    },
-    {
-      "id": "1822559",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-rapid-1-4-tsi-greentech-elegance-businessline-dsg/o/1822559",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1822559/d39961daf693313fb8d84bcc567e191a~v193800722.jpg",
-      "labels": [],
-      "title": "Skoda Rapid",
-      "type": "1.4 TSI Greentech Elegance Businessline DSG",
-      "price": "3500",
-      "year": "2014",
-      "fuelType": "benzine",
-      "mileage": "147063",
-      "make": "Skoda",
-      "model": "Rapid 1.4 TSI Greentech Elegance Businessline DSG",
-      "gearbox": "automaat",
-      "engineSize": "1390 CC",
-      "color": "rood",
-      "bodyType": "hatchback",
-      "damage": "bumper\nmotorkap\nvoorschade\nalle airbags oké\nauto is verrijdbaar\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "rapid-14-tsi-greentech-elegance-businessline-dsg-14-tsi-greentech-elegance-businessline-dsg",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1822559/0f2696e1c4f165ee9ceed8f6616fbba1~v193800722.jpg"
     },
     {
       "id": "1822531",
@@ -1459,31 +1531,6 @@
       "color": "blauw",
       "slug": "xf-22-d-schadevrij-22-d-schadevrij",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1627062/4632d98e23b71ee4f77b87aea1397da6~v135053954.jpg"
-    },
-    {
-      "id": "1819383",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-lease-edition-ambition/o/1819383",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1819383/15bf8df22ae90c1c62b0434c196b0fec~v193020167.jpg",
-      "labels": [
-        "exportprijs€ 5.250"
-      ],
-      "title": "Mercedes A‑klasse",
-      "type": "180 Lease Edition Ambition",
-      "price": "5950",
-      "year": "2016",
-      "fuelType": "benzine",
-      "mileage": "230112",
-      "make": "Mercedes",
-      "model": "A-klasse 180 Lease Edition Ambition",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "5250",
-      "engineSize": "1595 CC",
-      "power": "122 pk",
-      "color": "grijs",
-      "bodyType": "hatchback",
-      "damage": "bumper\nachterscherm\ndeur achter\ndeur voor\nvoorscherm\nalle airbags oké\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
-      "slug": "a-klasse-180-lease-edition-ambition-180-lease-edition-ambition",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1819383/b156a42d77410784ffbcfc504b1ae55e~v193020167.jpg"
     },
     {
       "id": "1819261",
@@ -2177,28 +2224,6 @@
       "damage": "bumper\nkoplamp links\nkoplamp rechts\nmotorkap\ndeur voor\nairbags voor stuk\ngordelspanner links stuk\nauto is verrijdbaar\nauto kan rijdend mee\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen",
       "slug": "ka-12-trend-ultimate-12-trend-ultimate",
       "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1691064/b9f16a99b976fa85b70a3d48012310f1~v154571075.jpg"
-    },
-    {
-      "id": "1729069",
-      "link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-astra-1-2-turbo-81kw/o/1729069",
-      "image": "https://www.schadeautos.nl/cache/picture/15/1729069/8529445bd19b24ee2c867cf5b2884fbf~v169793948.jpg",
-      "labels": [
-        "exportprijs€ 3.450"
-      ],
-      "title": "Opel Astra",
-      "type": "ASTRA 1.2 turbo 81kW",
-      "price": "3450",
-      "year": "2019",
-      "fuelType": "benzine",
-      "mileage": "125377",
-      "make": "Opel",
-      "model": "Astra ASTRA 1.2 turbo 81kW",
-      "gearbox": "handgeschakeld",
-      "exportPrice": "3450",
-      "color": "zilver",
-      "damage": "motorschade\nbumper\nalle airbags oké\nauto is verrijdbaar\nchassis oké\ncoolers oké\nmotor loopt\nrecht op de wielen\nheeft motorschade maar start nog wel",
-      "slug": "astra-astra-12-turbo-81kw-astra-12-turbo-81kw",
-      "lazyImage": "https://www.schadeautos.nl/cache/picture/15/1729069/bff013dd82ffb8242f892303cdc638f5~v169793948.jpg"
     },
     {
       "id": "1721158",
