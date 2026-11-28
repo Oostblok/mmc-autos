@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:41:56.070Z",
+  "updated": "2026-11-28T09:53:02.283Z",
   "cars": [
     {
       "id": "1706950",
@@ -244,7 +244,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-allure/o/1829477",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829477/a17f871b574c2c38433c03157df42d3a~v195535442.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.500"
       ],
       "title": "Peugeot 308",
@@ -269,9 +268,7 @@
       "id": "1829468",
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-1-4-tfsi-cod-sport-advance-sport-automaat/o/1829468",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829468/e6cbc8bfbd61cb2a96eed599013a0a04~v195534880.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Audi Q3",
       "type": "1.4 TFSI CoD Sport Advance Sport Automaat",
       "price": "5850",
@@ -292,9 +289,7 @@
       "id": "1829462",
       "link": "https://www.schadeautos.nl/nl/schade/bestelwagens/ford-transit-courier-van-courier-1-0-ecoboost-limited-automaat/o/1829462",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829462/700a472523b39aabf7967462a35de192~v195534441.jpg",
-      "labels": [
-        "nieuw"
-      ],
+      "labels": [],
       "title": "Ford Transit Courier Van",
       "type": "COURIER 1.0 EcoBoost Limited automaat",
       "price": "6750",
@@ -339,7 +334,6 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-picasso-2-0-hdi-exclusive-automaat-7-persoons/o/1829450",
       "image": "https://www.schadeautos.nl/cache/picture/15/1829450/d4ebf735a6f8373d20352b5e400e99d4~v195533017.jpg",
       "labels": [
-        "nieuw",
         "exportprijs€ 2.250"
       ],
       "title": "Citroën C4‑picasso",
@@ -1271,18 +1265,16 @@
       "link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-1-2-puretech-crossway-automaat/o/1825823",
       "image": "https://www.schadeautos.nl/cache/picture/15/1825823/8b0e15a718189e9aeff8e62e27739021~v194564256.jpg",
       "labels": [
-        "exportprijs€ 5.350"
+        "verkocht"
       ],
       "title": "Peugeot 3008",
       "type": "1.2 PureTech Crossway automaat",
-      "price": "5550",
       "year": "2019",
       "fuelType": "benzine",
       "mileage": "90048",
       "make": "Peugeot",
       "model": "3008 1.2 PureTech Crossway automaat",
       "gearbox": "automaat",
-      "exportPrice": "5350",
       "engineSize": "1199 CC",
       "power": "96 kW",
       "color": "zwart",
